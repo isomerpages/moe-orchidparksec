@@ -171,3 +171,18 @@ description: ""
 </tr>
 </tbody>
 </table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="text-align: center;" colspan="4"><strong>Executive Administrative Staff</strong></td>
+</tr>
+<tr>
+<td style="width: 20%;"><img src="/images/eas1.png"></td>
+<td style="width: 30%;"><div><strong>Mr Tan Alvin</strong></div>
+<div>Administration Manager</div></td>
+<td style="width: 20%;"><img src="/images/eas2.png"></td>
+<td style="width: 30%;"><div><strong>Mr Osman</strong></div>
+<div>Operations Manager</div></td>
+</tr>
+</tbody>
+</table>
