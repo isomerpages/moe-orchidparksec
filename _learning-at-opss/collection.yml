@@ -1,4 +1,5 @@
 collections:
   learning-at-opss:
     output: true
-    order: []
+    order:
+      - Sec 1 Level Camp.md
