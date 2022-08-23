@@ -133,3 +133,41 @@ description: ""
 </tr>
 </tbody>
 </table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="text-align: center;" colspan="4"><strong>Teacher Leaders</strong></td>
+</tr>
+<tr>
+<td style="width: 20%;"><img src="/images/tl1.png"></td>
+<td style="width: 30%;"><div><strong>Mr Tan Yong Koon</strong></div>
+<div>LT Craft &amp; Technology</div></td>
+<td style="width: 20%;"><img src="/images/tl2.png"></td>
+<td style="width: 30%;"><div><strong>Mdm Maslin</strong></div>
+<div>ST Malay Language</div></td>
+</tr>
+<tr>
+<td style="width: 20%;"><img src="/images/tl3.png"></td>
+<td style="width: 30%;"><div><strong>Mr Mok Wei Woon</strong></div>
+<div>ST Chinese Language</div></td>
+<td style="width: 20%;"><img src="/images/tl4.png"></td>
+<td style="width: 30%;"><div><strong>Mr Naufal</strong></div>
+<div>ST Chemistry</div></td>
+</tr>
+<tr>
+<td style="width: 20%;"><img src="/images/tl5.png"></td>
+<td style="width: 30%;"><div><strong>Ms P. Sarasvathi</strong></div>
+<div>ST Biology</div></td>
+<td style="width: 20%;"><img src="/images/tl6.png"></td>
+<td style="width: 30%;"><div><strong>Mdm Teo Sharon</strong></div>
+<div>ST Art</div></td>
+</tr>
+<tr>
+<td style="width: 20%;"><img src="/images/tl7.png"></td>
+<td style="width: 30%;"><div><strong>Ms Yeo Mon Ping</strong></div>
+<div>ST English Language</div></td>
+<td style="width: 20%;">&nbsp;</td>
+<td style="width: 30%;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
