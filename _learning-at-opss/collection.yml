@@ -2,5 +2,6 @@ collections:
   learning-at-opss:
     output: true
     order:
+      - Calendar for 2022.md
       - OBS 2022.md
       - Sec 1 Level Camp.md
