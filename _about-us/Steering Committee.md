@@ -6,7 +6,7 @@ description: ""
 <table style="width: 400px; margin-left: auto; margin-right: auto;">
 <tbody>
 <tr>
-<th colspan = "2">School Leaders</th>
+<th style="text-align: center;" colspan="2">School Leaders</th>
 </tr>
 <tr>
 <td style="width: 60px;"><img src="/images/sc1.jpg"></td>
