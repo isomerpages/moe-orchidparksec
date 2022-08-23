@@ -86,3 +86,40 @@ description: ""
 </tr>
 </tbody>
 </table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="text-align: center;" colspan="4"><strong>Subject and Level Heads</strong></td>
+</tr>
+<tr>
+<td style="width: 20%;">&nbsp;</td>
+<td style="width: 30%;">&nbsp;</td>
+<td style="width: 20%;">&nbsp;</td>
+<td style="width: 30%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 20%;">&nbsp;</td>
+<td style="width: 30%;">&nbsp;</td>
+<td style="width: 20%;">&nbsp;</td>
+<td style="width: 30%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 20%;">&nbsp;</td>
+<td style="width: 30%;">&nbsp;</td>
+<td style="width: 20%;">&nbsp;</td>
+<td style="width: 30%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 20%;">&nbsp;</td>
+<td style="width: 30%;">&nbsp;</td>
+<td style="width: 20%;">&nbsp;</td>
+<td style="width: 30%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 20%;">&nbsp;</td>
+<td style="width: 30%;">&nbsp;</td>
+<td style="width: 20%;">&nbsp;</td>
+<td style="width: 30%;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
