@@ -38,27 +38,35 @@ description: ""
 </tr>
 <tr>
 <td style="width: 20%;"><img src="/images/sc4.png"></td>
-<td style="width: 30%;">&nbsp;</td>
+<td style="width: 30%;"><div><strong>Mrs Buganeish Squires</strong></div>
+<div>HOD English Language</div></td>
 <td style="width: 20%;"><img src="/images/sc5.png"></td>
-<td style="width: 30%;">&nbsp;</td>
+<td style="width: 30%;"><div><strong>Mr Daniel Chua</strong></div>
+<div>HOD Student Development</div></td>
 </tr>
 <tr>
 <td style="width: 20%;"><img src="/images/sc6.png"></td>
-<td style="width: 30%;">&nbsp;</td>
+<td style="width: 30%;"><div><strong>Mdm Fahreezan</strong></div>
+<div>HOD Mother Tongue Languages</div></td>
 <td style="width: 20%;"><img src="/images/sc7.png"></td>
-<td style="width: 30%;">&nbsp;</td>
+<td style="width: 30%;"><div><strong>Ms Haryati</strong></div>
+<div>HOD Craft &amp; Technology</div></td>
 </tr>
 <tr>
 <td style="width: 20%;"><img src="/images/sc8.png"></td>
-<td style="width: 30%;">&nbsp;</td>
+<td style="width: 30%;"><div><strong>Mr Khairil</strong></div>
+<div>HOD Science</div></td>
 <td style="width: 20%;"><img src="/images/sc9.png"></td>
-<td style="width: 30%;">&nbsp;</td>
+<td style="width: 30%;"><div><strong>Mr Mohd Salim</strong></div>
+<div>HOD Mathematics</div></td>
 </tr>
 <tr>
 <td style="width: 20%;"><img src="/images/sc10.png"></td>
-<td style="width: 30%;">&nbsp;</td>
+<td style="width: 30%;"><div><strong>Mrs Ng Weng Han</strong></div>
+<div>HOD Humanities</div></td>
 <td style="width: 20%;"><img src="/images/sc11.png"></td>
-<td style="width: 30%;">&nbsp;</td>
+<td style="width: 30%;"><div><strong>Ms Soo Chiew Ming</strong></div>
+<div>HOD Student Management</div></td>
 </tr>
 <tr>
 <td style="width: 20%;"><img src="/images/sc12.png"></td>
