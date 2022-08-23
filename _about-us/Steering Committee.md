@@ -31,3 +31,46 @@ description: ""
 </tr>
 </tbody>
 </table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="text-align: center;" colspan="4"><strong>Heads of Department</strong></td>
+</tr>
+<tr>
+<td style="width: 20%;"><img src="/images/sc4.png"></td>
+<td style="width: 30%;">&nbsp;</td>
+<td style="width: 20%;"><img src="/images/sc5.png"></td>
+<td style="width: 30%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 20%;"><img src="/images/sc6.png"></td>
+<td style="width: 30%;">&nbsp;</td>
+<td style="width: 20%;"><img src="/images/sc7.png"></td>
+<td style="width: 30%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 20%;"><img src="/images/sc8.png"></td>
+<td style="width: 30%;">&nbsp;</td>
+<td style="width: 20%;"><img src="/images/sc9.png"></td>
+<td style="width: 30%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 20%;"><img src="/images/sc10.png"></td>
+<td style="width: 30%;">&nbsp;</td>
+<td style="width: 20%;"><img src="/images/sc11.png"></td>
+<td style="width: 30%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 20%;"><img src="/images/sc12.png"></td>
+<td style="width: 30%;">&nbsp;</td>
+<td style="width: 20%;"><img src="/images/sc13.png"></td>
+<td style="width: 30%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 20%;"><img src="/images/sc14.png"></td>
+<td style="width: 30%;">&nbsp;</td>
+<td style="width: 20%;"><img src="/images/sc15.png"></td>
+<td style="width: 30%;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
