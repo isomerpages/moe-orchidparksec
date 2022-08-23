@@ -93,7 +93,8 @@ description: ""
 </tr>
 <tr>
 <td style="width: 20%;"><img src="/images/s1.png"></td>
-<td style="width: 30%;">&nbsp;</td>
+<td style="width: 30%;"><div><strong>Mr Benedict Tan</strong></div>
+<div>LH Education Technology</div></td>
 <td style="width: 20%;"><img src="/images/s2.png"></td>
 <td style="width: 30%;">&nbsp;</td>
 </tr>
