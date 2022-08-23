@@ -92,33 +92,33 @@ description: ""
 <td style="text-align: center;" colspan="4"><strong>Subject and Level Heads</strong></td>
 </tr>
 <tr>
-<td style="width: 20%;">&nbsp;</td>
+<td style="width: 20%;"><img src="/images/s1.png"></td>
 <td style="width: 30%;">&nbsp;</td>
-<td style="width: 20%;">&nbsp;</td>
-<td style="width: 30%;">&nbsp;</td>
-</tr>
-<tr>
-<td style="width: 20%;">&nbsp;</td>
-<td style="width: 30%;">&nbsp;</td>
-<td style="width: 20%;">&nbsp;</td>
+<td style="width: 20%;"><img src="/images/s2.png"></td>
 <td style="width: 30%;">&nbsp;</td>
 </tr>
 <tr>
-<td style="width: 20%;">&nbsp;</td>
+<td style="width: 20%;"><img src="/images/s3.png"></td>
 <td style="width: 30%;">&nbsp;</td>
-<td style="width: 20%;">&nbsp;</td>
-<td style="width: 30%;">&nbsp;</td>
-</tr>
-<tr>
-<td style="width: 20%;">&nbsp;</td>
-<td style="width: 30%;">&nbsp;</td>
-<td style="width: 20%;">&nbsp;</td>
+<td style="width: 20%;"><img src="/images/s4.png"></td>
 <td style="width: 30%;">&nbsp;</td>
 </tr>
 <tr>
-<td style="width: 20%;">&nbsp;</td>
+<td style="width: 20%;"><img src="/images/s6.png"></td>
 <td style="width: 30%;">&nbsp;</td>
-<td style="width: 20%;">&nbsp;</td>
+<td style="width: 20%;"><img src="/images/s7.png"></td>
+<td style="width: 30%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 20%;"><img src="/images/s8.png"></td>
+<td style="width: 30%;">&nbsp;</td>
+<td style="width: 20%;"><img src="/images/s9.png"></td>
+<td style="width: 30%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 20%;"><img src="/images/s10.png"></td>
+<td style="width: 30%;">&nbsp;</td>
+<td style="width: 20%;"><img src="/images/s11.png"></td>
 <td style="width: 30%;">&nbsp;</td>
 </tr>
 </tbody>
