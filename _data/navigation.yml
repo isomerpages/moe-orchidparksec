@@ -1,6 +1,23 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About Us
+    url: /about-us/thoughts-from-our-principal
+    sublinks:
+      - title: Thoughts from Our Principal
+        url: /about-us/thoughts-from-our-principal
+      - title: School History
+        url: /about-us/school-history
+      - title: Vision, Mission, Motto, Creed
+        url: /about-us/vision-mission-motto-creed
+      - title: Strategic Thrusts
+        url: /about-us/strategic-thrusts
+      - title: School Crest & School Song
+        url: /about-us/school-crest-n-school-song
+      - title: Steering Committee
+        url: /about-us/steering-committee
+      - title: Staff Contact List
+        url: /about-us/staff-contact-list
+      - title: Contact Us
+        url: /about-us/contact-us
+      - title: Privacy Policy
+        url: /about-us/privacy-policy
