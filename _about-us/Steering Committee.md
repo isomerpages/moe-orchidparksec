@@ -70,15 +70,19 @@ description: ""
 </tr>
 <tr>
 <td style="width: 20%;"><img src="/images/sc12.png"></td>
-<td style="width: 30%;">&nbsp;</td>
+<td style="width: 30%;"><div><strong>Mr Tan Paul</strong></div>
+<div>HOD PE &amp; CCA</div></td>
 <td style="width: 20%;"><img src="/images/sc13.png"></td>
-<td style="width: 30%;">&nbsp;</td>
+<td style="width: 30%;"><div><strong>Mr Tan Yaw Jin</strong></div>
+<div>HOD Education Technology</div></td>
 </tr>
 <tr>
 <td style="width: 20%;"><img src="/images/sc14.png"></td>
-<td style="width: 30%;">&nbsp;</td>
+<td style="width: 30%;"><div><strong>Mr Chia Cheng Siong</strong></div>
+<div>Year Head (Lower Secondary)</div></td>
 <td style="width: 20%;"><img src="/images/sc15.png"></td>
-<td style="width: 30%;">&nbsp;</td>
+<td style="width: 30%;"><div><strong>Mrs Fu Wei Hui</strong></div>
+<div>Year Head (Upper Secondary)</div></td>
 </tr>
 </tbody>
 </table>
