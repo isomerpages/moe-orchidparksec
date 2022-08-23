@@ -2,31 +2,24 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Orchid Park Secondary School
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+  - address:
+      - "10"
+      - Yishun Street 81
+      - Singapore 768454
+    operating_hours: []
+    maps_link: https://goo.gl/maps/oT9wKymGYgvUcfkJ7
+    title: Address
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6759 8547
+      - email: opss@moe.edu.sg
+      - other: "Bus Services: Trans Island 811, 811T [from Yishun Bus Interchange]"
+    title: Telephone
+  - content:
+      - phone: +65 6758 8770
+      - email: ""
+      - other: "MRT: Khatib N14 [about 10 mins walk]"
+    title: Fax
 ---
