@@ -96,31 +96,40 @@ description: ""
 <td style="width: 30%;"><div><strong>Mr Benedict Tan</strong></div>
 <div>LH Education Technology</div></td>
 <td style="width: 20%;"><img src="/images/s2.png"></td>
-<td style="width: 30%;">&nbsp;</td>
+<td style="width: 30%;"><div><strong>Ms Chin Kean Kean</strong></div>
+<div>SH Community<br />Youth Leadership</div></td>
 </tr>
 <tr>
 <td style="width: 20%;"><img src="/images/s3.png"></td>
-<td style="width: 30%;">&nbsp;</td>
+<td style="width: 30%;"><div><strong>Mrs Eleanor Bhutia</strong></div>
+<div>LH English Language</div></td>
 <td style="width: 20%;"><img src="/images/s4.png"></td>
-<td style="width: 30%;">&nbsp;</td>
+<td style="width: 30%;"><div><strong>Mr Frederick Chan</strong></div>
+<div>SH Physics</div></td>
 </tr>
 <tr>
 <td style="width: 20%;"><img src="/images/s6.png"></td>
-<td style="width: 30%;">&nbsp;</td>
+<td style="width: 30%;"><div><strong>Mrs Selvan</strong></div>
+<div>SH Student Well-being</div></td>
 <td style="width: 20%;"><img src="/images/s7.png"></td>
-<td style="width: 30%;">&nbsp;</td>
+<td style="width: 30%;"><div><strong>Mr Tan Tong Leng</strong></div>
+<div>LH PE &amp; CCA</div></td>
 </tr>
 <tr>
 <td style="width: 20%;"><img src="/images/s8.png"></td>
-<td style="width: 30%;">&nbsp;</td>
+<td style="width: 30%;"><div><strong>Mr Teo Ee Jun</strong></div>
+<div>SH History</div></td>
 <td style="width: 20%;"><img src="/images/s9.png"></td>
-<td style="width: 30%;">&nbsp;</td>
+<td style="width: 30%;"><div><strong>Mr Wang Kenny</strong></div>
+<div>LH Student Management</div></td>
 </tr>
 <tr>
 <td style="width: 20%;"><img src="/images/s10.png"></td>
-<td style="width: 30%;">&nbsp;</td>
+<td style="width: 30%;"><div><strong>Ms Michelle Kwok</strong></div>
+<div>Assistant Year Head (Sec 2)</div></td>
 <td style="width: 20%;"><img src="/images/s11.png"></td>
-<td style="width: 30%;">&nbsp;</td>
+<td style="width: 30%;"><div><strong>Mr Suhairi</strong></div>
+<div>Assistant Year Head<br />(Sec 4 and 5)</div></td>
 </tr>
 </tbody>
 </table>
