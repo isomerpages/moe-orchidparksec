@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Strategic Thrusts.md
       - School Crest & School Song.md
       - Steering Committee.md
       - Staff Contact List.md
