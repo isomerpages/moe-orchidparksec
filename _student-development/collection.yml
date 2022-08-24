@@ -2,5 +2,6 @@ collections:
   student-development:
     output: true
     order:
+      - Information on Sexuality Education.md
       - Useful Links for Parents.md
       - Student Development.md
