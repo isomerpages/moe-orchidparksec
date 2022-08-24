@@ -65,3 +65,4 @@ third_nav_title: OPSS Distinctive Programmes
 <li>Problem-solving skills</li>
 <li>Decision-making skills</li>
 </ul>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRQXdCOP05Q_oLaEA6AjmMZhoXFWuDfEyunhzB8m6cLVrKGtYX3wQYDDJCJLuCVN7SsQrDIvJL2V0X4/embed?start=false&loop=false&delayms=10000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
