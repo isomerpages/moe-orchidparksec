@@ -156,3 +156,85 @@ description: ""
 </tbody>
 </table>
 <p><strong>SECONDARY 4<br /></strong><strong>Sense and Sexuality (2nd Edition)</strong></p>
+<table>
+<tbody>
+<tr>
+<th style="text-align: center;">UNIT</th>
+<th style="text-align: center;">LESSONS / DURATION</th>
+<th style="text-align: center;">LESSON OBJECTIVES<br />At the end of the lesson, students will be able to:</th>
+<th style="text-align: center;">TIME PERIOD<br />(e.g. Term 1 Week 2)</th>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td style="text-align: center;">Lesson 1<br />Levelling the Ground<br />60 mins</td>
+<td>
+<ul>
+<li>Understand that the value of a person is not tied to one&rsquo;s gender and not conforming to gender stereotypes does not negate one&rsquo;s gender identity.</li>
+<li>Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.</li>
+<li>Know that imposing gender stereotypes on oneself and others can limit one&rsquo;s experiences, cause harm to the self-esteem of oneself and others and should be avoided.</li>
+</ul>
+</td>
+<td style="text-align: center;">Term 3</td>
+</tr>
+<tr>
+<td>Respectful Relationships &amp; Safety</td>
+<td style="text-align: center;">Lesson 2<br />When Love Hurts<br />60 mins</td>
+<td>
+<ul>
+<li>Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.</li>
+<li>Recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims.</li>
+<li>Understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being.</li>
+<li>Understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship.</li>
+</ul>
+</td>
+<td style="text-align: center;">Term 3</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td style="text-align: center;">Lesson 3<br />For Better Or For Worse<br />30 mins</td>
+<td>
+<ul>
+<li>Know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions.</li>
+<li>Know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort.</li>
+<li>Understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage.</li>
+</ul>
+</td>
+<td style="text-align: center;">Term 3</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td style="text-align: center;">Lesson 4<br />There's Always More to a Story<br />60 mins</td>
+<td>
+<ul>
+<li>Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</li>
+</ul>
+</td>
+<td style="text-align: center;">Term 3</td>
+</tr>
+</tbody>
+</table>
+<p><strong>SECONDARY 5<br /></strong><strong>Sense and Sexuality (2nd Edition)</strong></p>
+<div>
+<table>
+<tbody>
+<tr>
+<th style="text-align: center;">UNIT</th>
+<th style="text-align: center;">LESSONS / DURATION</th>
+<th style="text-align: center;">LESSON OBJECTIVES<br />At the end of the lesson, students will be able to:</th>
+<th style="text-align: center;">TIME PERIOD<br />(e.g. Term 1 Week 2)</th>
+</tr>
+<tr>
+<td style="text-align: center;">Respectful Relationships and Safety</td>
+<td style="text-align: center;">Lesson 1<br />Levelling the Grounds<br />60 mins</td>
+<td>
+<ul>
+<li>Understand that the value of a person is not tied to one&rsquo;s gender and not conforming to gender stereotypes does not negate one&rsquo;s gender identity.</li>
+<li>Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.</li>
+<li>Know that imposing gender stereotypes on oneself and others can limit one&rsquo;s experiences, cause harm to the self-esteem of oneself and others and should be avoided.</li>
+</ul>
+</td>
+<td style="text-align: center;">Term 3</td>
+</tr>
+</tbody>
+</table>
+<p><u><strong>eTeens Programme<br /></strong></u>8.&nbsp;eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments &ndash; a mass talk segment and a classroom-based programme.</p>
