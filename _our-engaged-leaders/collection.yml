@@ -2,6 +2,7 @@ collections:
   our-engaged-leaders:
     output: true
     order:
+      - Good Stories.md
       - Subjects Under the Humanities Department.md
       - Class Timetable.md
       - Environmental Education.md
