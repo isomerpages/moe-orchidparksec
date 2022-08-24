@@ -21,3 +21,20 @@ links:
         url: /about-us/contact-us
       - title: Privacy Policy
         url: /about-us/privacy-policy
+  - title: Learning@OPSS
+    url: /learning-at-opss/ccas
+    sublinks:
+      - title: CCAs
+        url: /learning-at-opss/ccas
+      - title: Departments
+        url: /learning-at-opss/departments/aesthetics
+      - title: OPSS Distinctive Programmes
+        url: /learning-at-opss/opss-distinctive-special-programmes
+      - title: FSBB at OPSS
+        url: /learning-at-opss/fsbb-at-opss
+      - title: Calendar for 2022
+        url: /learning-at-opss/calendar-for-2022
+      - title: OBS 2022
+        url: /learning-at-opss/obs-2022
+      - title: Sec 1 Level Camp
+        url: /learning-at-opss/sec-1-level-camp
