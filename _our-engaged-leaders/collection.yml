@@ -2,6 +2,7 @@ collections:
   our-engaged-leaders:
     output: true
     order:
+      - Education & Career Guidance (ECG) @ OPSS.md
       - Good Stories.md
       - Subjects Under the Humanities Department.md
       - Class Timetable.md
