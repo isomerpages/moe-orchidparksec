@@ -21,7 +21,7 @@ third_nav_title: OPSS Distinctive Programmes
 <tr>
 <td style="text-align: center;">2</td>
 <td style="text-align: center;">Theatre Experience</td>
-<td style="text-align: center;">Sec. 2NTKidsRead students</td>
+<td style="text-align: center;">Sec. 2NT<br />KidsRead students</td>
 </tr>
 <tr>
 <td style="text-align: center;">3</td>
