@@ -17,3 +17,4 @@ third_nav_title: Departments
 <li><strong>Geography&nbsp;</strong>builds an understanding of the interconnectedness and interdependence of people, economies and environments.</li>
 <li><strong>Social&nbsp;</strong><strong>Studies&nbsp;</strong>aims to develop citizens who are informed and concerned about social issues, and who will participate actively and constructively in the society.</li>
 </ul>
+<img style="width: 45%;" src="/images/hu2.jpg" />
