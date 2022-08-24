@@ -2,5 +2,6 @@ collections:
   our-engaged-leaders:
     output: true
     order:
+      - Subjects Under the Humanities Department.md
       - Class Timetable.md
       - Environmental Education.md
