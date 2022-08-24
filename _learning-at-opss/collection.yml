@@ -2,6 +2,7 @@ collections:
   learning-at-opss:
     output: true
     order:
+      - Departments/.keep
       - OPSS Distinctive Programmes/OPSS Distinctive & Special Programmes.md
       - OPSS Distinctive Programmes/LLP–CYL CORE Leaders Programme.md
       - OPSS Distinctive Programmes/.keep
