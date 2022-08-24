@@ -2,6 +2,7 @@ collections:
   our-engaged-leaders:
     output: true
     order:
+      - Student Leadership/OP Student Council.md
       - Student Leadership/.keep
       - Education & Career Guidance (ECG) @ OPSS.md
       - Good Stories.md
