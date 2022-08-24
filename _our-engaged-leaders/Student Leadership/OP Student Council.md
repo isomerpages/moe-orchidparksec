@@ -31,3 +31,11 @@ third_nav_title: Student Leadership
 <img style="width: 55%;" src="/images/opss4.jpg" align = "right" />
 <p>Organising school events such as the Teacher&rsquo;s Day Concert, Appreciation day, The Gratitude Project, and Graduation Night.</p>
 <img src="/images/opss5.png">
+<h4><strong><u>We Serve</u></strong></h4>
+<img style="width: 50%;" src="/images/opss6.jpg" align = "left" />
+<p>A leader must also know how to serve. We do our part in serving the community through various community engagement projects with our external partners, such as Morning Star student care, and HCA Hospice.</p>
+<img src="/images/opss7.png">
+<h4><strong><u>We have Fun!</u></strong></h4>
+<img src="/images/opss8.png">
+<p>At the end of the day, we must also take time to have fun, and appreciate one another&rsquo;s efforts in making our time in the student council a meaningful and memorable one.</p>
+<img src="/images/opss9.png">
