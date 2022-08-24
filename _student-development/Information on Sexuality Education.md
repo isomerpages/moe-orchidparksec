@@ -238,3 +238,41 @@ description: ""
 </tbody>
 </table>
 <p><u><strong>eTeens Programme<br /></strong></u>8.&nbsp;eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments &ndash; a mass talk segment and a classroom-based programme.</p>
+	<p>9.&nbsp;Students are taught skills such as decision-making, assertiveness and negotiation to say &ldquo;no&rdquo; to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.</p>
+<p><strong>At ORCHID PARK Secondary School, the eTeens programme will be implemented as follows in 2022:</strong></p>
+<table>
+<tbody>
+<tr>
+<th style="text-align: center;">Topics/Lessons</th>
+<th style="text-align: center;">Programme Learning Objectives</th>
+<th style="text-align: center;">Time Period<br />(e.g. Term 3 Week 9)</th>
+</tr>
+<tr>
+<td style="text-align: center;">Mass Talk by HPB appointed vendor&nbsp;</td>
+<td>
+<ul>
+<li>Awareness of the different STIs and HIV/AIDS</li>
+<li>Modes of transmission</li>
+<li>Modes of protection, specifically on how the condom is used</li>
+<li>Consequences and impact of STIs/HIV</li>
+</ul>
+</td>
+<td style="text-align: center;">Term 3</td>
+</tr>
+<tr>
+<td style="text-align: center;">Classroom-based Lesson</td>
+<td>
+<ul>
+<li>Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</li>
+</ul>
+</td>
+<td style="text-align: center;">Term 3</td>
+</tr>
+</tbody>
+</table>
+<p><strong>INFORMATION FOR PARENTS</strong></p>
+<p>10.&nbsp;Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.</p>
+<p>11.&nbsp;Parents who wish to opt their children out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need to complete an opt-out form. This form will be distributed to parents in Term 2. A hardcopy of the form, duly completed and signed, is to be submitted to the school.</p>
+<p>12.&nbsp;Parents who wish to opt their children out of the&nbsp;<strong>eTeens programme</strong>&nbsp;need to complete an opt-out form. This form will be distributed to parents in Term 2. A hardcopy of the form, duly completed and signed, is to be submitted to the school.</p>
+<p>13.&nbsp;Parents can contact the school at 67598547 Attn: Mrs Fu Wei Hui (SEd Coordinator) for discussion or to seek clarification about the school&rsquo;s sexuality education programme.</p>
+<p>Updated on 14th Jan '22'</p>
