@@ -53,3 +53,5 @@ third_nav_title: OPSS Distinctive Programmes
 <h4>Theatre Experience &ndash; 2N(T) &amp; KidsREADers</h4>
 <p>Students of Secondary 2N(T), and those from the KidsREAD programme made a trip to the Esplanade to attend a play &ndash; &ldquo;The Curious Incident of the Dog in the Night Time&rdquo;.</p>
 <p>The aim was to inculcate in them theatre etiquette, expose them to a live theatre performance, and to promote cultural awareness and empathy towards individuals who may be deemed different from the main social group in our society.</p>
+<img style="width: 65%;" src="/images/prog.jpg">
+<img style="width: 65%;" src="/images/prog1.jpg">
