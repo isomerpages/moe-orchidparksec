@@ -1,4 +1,5 @@
 collections:
   our-engaged-leaders:
     output: true
-    order: []
+    order:
+      - Environmental Education.md
