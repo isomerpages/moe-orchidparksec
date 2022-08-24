@@ -76,3 +76,14 @@ third_nav_title: OPSS Distinctive Programmes
 <p>The NFTE programme is a collaboration between our school and an external organisation, Halogen. It is conducted in-house for the Secondary 3N(T) students to enable them to engage in inquiry-based and applied learning. They had to pose critical questions to themselves as potential entrepreneurs, find ways to answer them and create an end-product for it. By the end of the programme, they will present it in the form of a business sales pitch to a panel of business professionals.</p>
 <p>This programme helps develop numerous skills and positive personality traits in our students, such as innovation, problem-solving skills, oracy, and many more.</p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSLivU_TRs81sRIdCvrdF3ebjtxLe6KOtK_kkBKX1oryIIzyH9NsiRvNLdBXsIdQ8tFfO8A5kknVgVS/embed?start=false&loop=false&delayms=10000" frameborder="0" width="480" height="299" allowfullscreen="true" ></iframe>
+<h4>Learning Journeys</h4>
+<p>In line with our Education Minister&rsquo;s call to schools to promote joy for learning and strengthen our Singapore spirit in our citizens, the NT Committee organised a number of learning journeys for our students of various levels and streams to widen their exposure, broaden their knowledge, and heighten their sensitivity in the jobs the personnel in various industries do.</p>
+<h4>Learning Journey @ Sports Hub &ndash; 1N(T)</h4>
+<p>Students of the Secondary 1N(T) went on a full guided-tour that took them across the 35 hectares of Sports Hub. They got to explore the indoor air-conditioned Climb Wall, had exclusive entry into the National Stadium and other facilities. The tour also included a visit&nbsp;in&nbsp;the Singapore Sports Museum, giving the students the chance to learn about our Sporting heroes.</p>
+<p>The learning journey helped our students understand how the Sports Hub plays a critical role in promoting a healthy living culture in Singapore.</p>
+<img src="/images/prog3.png">
+<h4>Learning Journey and Job-Shadowing @ Pan Pacific Hotel &ndash; 4N(A) &amp; 4N(T)</h4>
+<p>About 120 Secondary 4 students visited the Pan Pacific Hotel Singapore.</p>
+<p>The aim of the trip was to expose the students to and familiarise them with the hospitality industry and the jobs that are available in the industry in Singapore.</p>
+<p>Some 15 students also got an opportunity to be attached to and learn from the seasoned staff there for a week to have a deeper understanding of the job scopes of some work areas in the hotel, and try their hands on them.</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTJzNhKI14GeJxqIVPxilTqep8Qgr82YHtAZCxYO77XXKc5KyGqVE72065c6NgiTPK4UpnwKiJhzYCK/embed?start=false&loop=false&delayms=10000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
