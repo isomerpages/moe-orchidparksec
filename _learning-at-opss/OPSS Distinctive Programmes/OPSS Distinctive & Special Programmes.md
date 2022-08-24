@@ -55,3 +55,13 @@ third_nav_title: OPSS Distinctive Programmes
 <p>The aim was to inculcate in them theatre etiquette, expose them to a live theatre performance, and to promote cultural awareness and empathy towards individuals who may be deemed different from the main social group in our society.</p>
 <img style="width: 65%;" src="/images/prog.jpg">
 <img style="width: 65%;" src="/images/prog1.jpg">
+<h4>KidsREAD @ Huamin Primary School &ndash; 2N(A) &amp; 2N(T)</h4>
+<p>OPSS collaborates with Huamin Primary School and the National Library Board to conduct the KidsREAD Programme.</p>
+<p>It is a reading programme that promotes the love for reading and cultivates good reading habits among some of the Secondary 2 N(A) and N(T) students from our school and the Primary 1 and 2 students at Huamin Primary School who are involved in the programme.</p>
+<p>The Programme allows our students to develop in many areas, which include:</p>
+<ul>
+<li>Communications skills</li>
+<li>Leadership skills</li>
+<li>Problem-solving skills</li>
+<li>Decision-making skills</li>
+</ul>
