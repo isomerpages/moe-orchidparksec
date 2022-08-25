@@ -2,4 +2,5 @@ collections:
   our-supportive-partners:
     output: true
     order:
+      - OPSS Parent Support Group.md
       - Resources.md
