@@ -48,3 +48,9 @@ description: ""
 </tbody>
 </table>
 <h4>Photos</h4>
+<img src="/images/fb1.jpg"><br>
+<img src="/images/fb2.jpg"><br>
+<img src="/images/fb3.jpg"><br>
+<img src="/images/fb4.jpg"><br>
+<img src="/images/fb5.jpg">
+<p>Updated on 23rd Aug '22'</p>
