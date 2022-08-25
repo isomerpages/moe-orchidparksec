@@ -59,3 +59,5 @@ description: ""
 </tbody>
 </table>
 <h4>Photo</h4>
+<img src="/images/ge.jpg">
+<p>Updated on 23rd Aug '22'</p>
