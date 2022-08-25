@@ -67,12 +67,12 @@ description: ""
 </tbody>
 </table>
 <h4>Photos</h4>
-<img style="width: 70%;" src="/images/bball1.jpg" align = "left" /><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<img style="width: 70%;" src="/images/bball1.jpg" align = "left" /><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p>Boys&rsquo; Basketball friendly matches with Malaysian schools in November 2019</p>
-<img style="width: 70%;" src="/images/bball2.jpg" align = "left" /><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<img style="width: 70%;" src="/images/bball2.jpg" align = "left" /><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p>Boys&rsquo; CCA Bonding Session to celebrate the end of Term 1, 2020</p>
-<img style="width: 70%;" src="/images/bball3.jpg" align = "left" /><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<img style="width: 70%;" src="/images/bball3.jpg" align = "left" /><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p>The &lsquo;B&rsquo; Division girls fought valiantly against their counterpart in a North Zone B Division Basketball Competition 2020 match</p>
-<img style="width: 70%;" src="/images/bball4.jpg" align = "left" /><br><br><br><br><br><br><br><br><br><br><br>
+<img style="width: 70%;" src="/images/bball4.jpg" align = "left" /><br><br><br><br><br><br><br><br><br><br>
 <p>&ldquo;We are new! So come! Join Us! And let&rsquo;s build up this CCA together!&rdquo;</p>
 <p>Updated on 23rd Aug '22'</p>
