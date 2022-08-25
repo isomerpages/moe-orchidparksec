@@ -2,9 +2,9 @@ collections:
   physical-sports-and-games:
     output: true
     order:
+      - Basketball (Boys & Girls).md
       - Floorball (Boys & Girls).md
       - Football.md
       - Hockey (Boys).md
       - Netball (Girls).md
       - Wushu (Mixed).md
-      - Basketball (Boys & Girls).md
