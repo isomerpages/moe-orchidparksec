@@ -185,3 +185,10 @@ description: ""
 <img style="width: 40%;" src="/images/gs29.png" align = "left" />
 <p><strong>Gabriel Phan (S3S1, 2016)</strong>&nbsp;picked up a mobile phone on a van he was&nbsp;in,&nbsp;and passed it to the driver of the vehicle. &nbsp;The mobile phone was later returned to the owner who was very grateful to Gabriel. &nbsp;Catch our good Samaritan, brimming with joy, and clutching a box of mooncakes from the owner, as an appreciation gesture!</p><br><br><br>
 <p><span style="text-decoration: underline;"><strong>31 August - A Kind Gesture</strong></span></p>
+<img style="width: 40%;" src="/images/gs30.png" align = "right" />
+<p><strong>Izzat bin Razali (S4A3 2016)&nbsp;</strong>was on his way home in the MRT after his preliminary examinations when he extended helping hands to a mother with 3 toddler children. His kind gestures touched and warmed the heart of the helpless mother and a train-user who sent the following email to the school.</p>
+<p><strong><em>&ldquo;On 31st August 2016, at around 2.55 pm, an Orchid Park student named Izzat bin Razali helped a parent to wipe her child's vomit. She was handling 3 toddlers and did not have any tissues with her. He offered help to the women as she was struggling with her kids. I feel that this is a very brave act as there were many people in the train at that time. I hope to see more students like him!&rdquo;</em></strong></p>
+<p><span style="text-decoration: underline;"><strong>30 August 2016 - Part of the Solution</strong></span></p>
+<img style="width: 40%;" src="/images/gs31.png" align = "left" />
+<p><strong>Danish Khairulfikri B Jais</strong>&nbsp;and&nbsp;<strong>Mohamed Naim Nurhelmi B M T (S2C1 2016)</strong>, went beyond themselves and offered to clean up a cubicle in the boys&rsquo; toilet. </p>
+<p>They did not only report the state of the toilet to the OM, but became part of the solution! Good job, young gentlemen!&nbsp;</p>
