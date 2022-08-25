@@ -149,3 +149,10 @@ description: ""
 <p>Keep it up, Orchid Park students! Your one kind act goes a long way to touch the hearts of others! Shuqri, Khairunisa and Nayli's kind gestures have warmed the hearts of the little kid and his mother.&nbsp;</p>
 <p>The boy&rsquo;s mother wrote this in her email to the school:&nbsp;</p>
 <p><strong>&ldquo;<em>I want to commend a group of students that helped my son when he had a bad fall from his skateboard on 21st August. They helped my son into the school First Aid room, cleaned and bandaged him and two of them even walked him back to our place&hellip; On my behalf, please help me to thank the kind-hearted students and teachers who have helped my son</em>.&rdquo;&nbsp;</strong></p>
+<p><span style="text-decoration: underline;"><strong>August 2017 - Just doing what she could</strong></span></p>
+<p>In early August,&nbsp;Ang Wen Yun (4A2)&nbsp;was studying alone late into the night at the Community Club near Northpoint.</p>
+<p>&ldquo;What are you doing here? Somebody, help me.&rdquo;</p>
+<img style="width: 40%;" src="/images/gs23.png" align = "right" />
+<p>These hushed and muffled pleas broke the quiet and the silence in the study room she was in.&nbsp; Wen Yun got to her feet, and walked out of the room, both curious and uncertain as to where the sounds were coming from.&nbsp; A short distance away, she was staggered to find a young lady, possibly in her 20s, holding on firmly to a man and looking infuriated.&nbsp; The incensed lady told Wen Yun that she had been harassed by the man while she was in the washroom.&nbsp; Wen Yun decided to leave her books behind and accompanied the lady all the way to the reception counter where the man was handed over to the personnel at the Community Club.&nbsp; She wanted to ensure that the lady was safe.&nbsp; That night, Wen Yun waited with her till the police came.&nbsp;</p>
+<p>Here&rsquo;s a photo of Wen Yun receiving an award for &lsquo;Just doing what she could&rsquo; on National Day this year.&nbsp;</p>
+<p>Well done, Wen Yun! OPSS is proud of you!</p>
