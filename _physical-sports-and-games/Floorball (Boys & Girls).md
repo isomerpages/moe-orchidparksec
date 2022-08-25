@@ -57,3 +57,9 @@ description: ""
 </tbody>
 </table>
 <h4>Photos</h4>
+<img style="width: 75%;" src="/images/floor1.jpg" />
+<p style="text-align: center;">Boys&rsquo; Team (B Division, 2019)</p>
+<img style="width: 75%;" src="/images/floor2.jpg" />
+<p style="text-align: center;">Girls&rsquo; Team (B Division, 2019)</p>
+<img src="/images/floor3.png">
+<p>Updated on 23rd Aug '22'</p>
