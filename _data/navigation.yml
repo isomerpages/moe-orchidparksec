@@ -38,3 +38,33 @@ links:
         url: /learning-at-opss/obs-2022
       - title: Sec 1 Level Camp
         url: /learning-at-opss/sec-1-level-camp
+  - title: Our Engaged Leaders
+    url: /our-engaged-learners/student-leadership
+    sublinks:
+      - title: Student Leadership
+        url: /our-engaged-learners/student-leadership
+      - title: Education & Career Guidance
+        url: /our-engaged-learners/education-n-career-guidance-ecg-at-opss
+      - title: Good Stories
+        url: /our-engaged-learners/good-stories
+      - title: Subjects under Humanities
+        url: /our-engaged-learners/subjects-under-the-humanities-department
+      - title: Class Timetable
+        url: /our-engaged-learners/class-timetable
+      - title: Environmental Education
+        url: /our-engaged-learners/environmental-education
+  - title: Our Supportive Partners
+    url: /our-supportive-partners/parents
+    sublinks:
+      - title: Parents
+        url: /our-supportive-partners/parents
+      - title: School Advisory Committee
+        url: /our-supportive-partners/school-advisory-committee
+      - title: Alumni
+        url: /our-supportive-partners/alumni
+      - title: Positive Parenting Programme
+        url: /our-supportive-partners/positive-parenting-programme-triple-p
+      - title: OPSS Parent Support Group
+        url: /our-supportive-partners/opss-parent-support-group
+      - title: Resources
+        url: /our-supportive-partners/resources
