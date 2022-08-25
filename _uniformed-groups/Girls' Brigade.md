@@ -48,3 +48,4 @@ description: ""
 </table>
 <h4>Photos</h4>
 <p>Some photos from past events</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRxvpkgk8r64x31nOunF5aMOK6o65PBcpyf9e0QcfdIzHSe63oEnFFmys6AxyxXJT2-bKjkbiqQ9wFw/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
