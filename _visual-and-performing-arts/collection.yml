@@ -2,8 +2,8 @@ collections:
   visual-and-performing-arts:
     output: true
     order:
+      - Modern Dance.md
       - English Drama.md
       - Guitar Ensemble.md
       - Concert Band.md
       - Visual Art.md
-      - Modern Dance.md
