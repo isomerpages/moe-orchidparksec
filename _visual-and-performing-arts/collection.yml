@@ -2,5 +2,6 @@ collections:
   visual-and-performing-arts:
     output: true
     order:
+      - Concert Band.md
       - Visual Art.md
       - Modern Dance.md
