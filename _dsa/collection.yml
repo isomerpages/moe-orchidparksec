@@ -2,6 +2,7 @@ collections:
   dsa:
     output: true
     order:
+      - DSA @ Orchid Park Secondary.md
       - Application Process.md
       - Key Dates for 2022.md
       - DSA Community Youth Leaders (CYL).md
