@@ -12,22 +12,22 @@ description: ""
 <th style="text-align: center;">Physical Sports and Games</th>
 </tr>
 <tr>
-<td style="text-align: center;">1.&nbsp;<a href="/files/learning-at-opss/ccas/physical-sports-and-games/basketball-boys-n-girls" target="_blank" rel="noopener">Basketball</a>&nbsp;(Girls and Boys)</td>
+<td style="text-align: center;">1.&nbsp;<a href="/learning-at-opss/ccas/physical-sports-and-games/basketball-boys-n-girls" target="_blank" rel="noopener">Basketball</a>&nbsp;(Girls and Boys)</td>
 </tr>
 <tr>
-<td style="text-align: center;">2.&nbsp;<a href="/files/learning-at-opss/ccas/physical-sports-and-games/floorball-boys-n-girls" target="_blank" rel="noopener">Floorball</a>&nbsp;(Girls and Boys)</td>
+<td style="text-align: center;">2.&nbsp;<a href="/learning-at-opss/ccas/physical-sports-and-games/floorball-boys-n-girls" target="_blank" rel="noopener">Floorball</a>&nbsp;(Girls and Boys)</td>
 </tr>
 <tr>
-<td style="text-align: center;">3.&nbsp;<a href="/files/learning-at-opss/ccas/physical-sports-and-games/football" target="_blank" rel="noopener">Football</a>&nbsp;(Boys Only)</td>
+<td style="text-align: center;">3.&nbsp;<a href="/learning-at-opss/ccas/physical-sports-and-games/football" target="_blank" rel="noopener">Football</a>&nbsp;(Boys Only)</td>
 </tr>
 <tr>
-<td style="text-align: center;">4.&nbsp;<a href="/files/learning-at-opss/ccas/physical-sports-and-games/hockey-boys" target="_blank" rel="noopener">Hockey</a>&nbsp;(Boys Only)&nbsp;</td>
+<td style="text-align: center;">4.&nbsp;<a href="/learning-at-opss/ccas/physical-sports-and-games/hockey-boys" target="_blank" rel="noopener">Hockey</a>&nbsp;(Boys Only)&nbsp;</td>
 </tr>
 <tr>
-<td style="text-align: center;">5.&nbsp;<a href="/files/learning-at-opss/ccas/physical-sports-and-games/netball-girls" target="_blank" rel="noopener">Netball</a>&nbsp;(Girls Only)</td>
+<td style="text-align: center;">5.&nbsp;<a href="/learning-at-opss/ccas/physical-sports-and-games/netball-girls" target="_blank" rel="noopener">Netball</a>&nbsp;(Girls Only)</td>
 </tr>
 <tr>
-<td style="text-align: center;">6.&nbsp;<a href="/files/learning-at-opss/ccas/physical-sports-and-games/wushu-mixed" target="_blank" rel="noopener">Wushu</a>&nbsp;(Girls and Boys)</td>
+<td style="text-align: center;">6.&nbsp;<a href="/learning-at-opss/ccas/physical-sports-and-games/wushu-mixed" target="_blank" rel="noopener">Wushu</a>&nbsp;(Girls and Boys)</td>
 </tr>
 </tbody>
 </table>
