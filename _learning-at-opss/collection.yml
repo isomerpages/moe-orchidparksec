@@ -2,6 +2,7 @@ collections:
   learning-at-opss:
     output: true
     order:
+      - CCAs/.keep
       - Departments/Aesthetics.md
       - Departments/Student Management.md
       - Departments/Humanities.md
