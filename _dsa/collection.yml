@@ -2,6 +2,7 @@ collections:
   dsa:
     output: true
     order:
+      - Application Process.md
       - Key Dates for 2022.md
       - DSA Community Youth Leaders (CYL).md
       - DSA Leadership.md
