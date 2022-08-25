@@ -170,3 +170,13 @@ description: ""
 <p>The outflow of love and care from their hearts led the 2 young ladies to walk the extra mile with the elderly uncle. When they were at the lift lobby, they noted that the 'overflowing' cart was too massive width-wise for the lift. Our 2 kindness ambassadors unloaded the plastic bags off uncle's cart, and altogether they made 2 trips lugging the old and scruffy-looking bags to the flat where uncle lived.</p>
 <p>And of course, the detour caused our young ladies to be late for their gathering; in fact, they were about 30 minutes late! But what was more important for them that evening, was to ensure that uncle made it home safe and well.</p>
 <p>It warms our heart to know that our students continue to do good and make a positive difference&nbsp;to&nbsp;the lives of those within and outside the school&nbsp;walls,&nbsp;while being a part of this community. We are proud of you!</p>
+<p><span style="text-decoration: underline;"><strong>End of 2016 - Brave Brian</strong></span></p>
+<img style="width: 45%;" src="/images/gs27.jpg" align = "left" />
+<p>This happened towards the end of last year. Brian was on his way home after school on a double-decker bus. From the upper deck where he was, he heard some commotion and shouting at the lower deck, and noted that the bus had not been moving for a while. Curious, he made his way to the lower&nbsp;deck,&nbsp;and was greeted by an unpleasant scene. An &lsquo;aunty&rsquo; in her 60s was arguing with a beefy-looking young adult. The other passengers basically just looked on amid breaking out in low murmurs.</p>
+<p>Brian&rsquo;s smaller stature did not stop him from making a courageous first move to stop both parties from arguing further. He advised them each to give in so that all the passengers could get home sooner. The frustrated bus driver had since stopped the vehicle. Watching Brian, the other passengers followed his lead, and very soon, they were echoing our school mate's advice for the argument to stop.</p>
+<p>Brian has indeed learnt very well the values taught to him by his parents, the school and his CCA, and he has chosen to translate them into actions.</p>
+<p>Miss Elaine Sng, Brian&rsquo;s NPCC OC has this to say of Brian,</p>
+<p><em><strong>&ldquo;A modest young gentleman, Brian dislikes the limelight and is never out to claim credit and content for the good and hard work he does behind the scenes.&rdquo;</strong></em></p>
+<p>Good job, Brian!<br />We are encouraged by your brave act.</p>
+<p><span style="text-decoration: underline;"><strong>19 September 2016 - Our Kindness Ambassador</strong></span></p>
+<img style="width: 45%;" src="/images/gs28.png" align = "right" />
