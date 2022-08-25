@@ -2,5 +2,6 @@ collections:
   physical-sports-and-games:
     output: true
     order:
+      - Netball (Girls).md
       - Wushu (Mixed).md
       - Basketball (Boys & Girls).md
