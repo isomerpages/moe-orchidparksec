@@ -2,6 +2,7 @@ collections:
   dsa:
     output: true
     order:
+      - DSA Community Youth Leaders (CYL).md
       - DSA Leadership.md
       - DSA Performing Arts.md
       - DSA Physical Sports and Games.md
