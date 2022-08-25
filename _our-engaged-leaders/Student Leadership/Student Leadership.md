@@ -93,3 +93,106 @@ third_nav_title: Student Leadership
 </tbody>
 </table>
 <p>The student leadership learning and development in OPSS is broken down into a 4-stage LEAD cycle, (Learning, Envisioning, Acting, and Developing) where students demonstrate the behaviour indicators and social and emotional skills of a leader through opportunities given to them:</p>
+<table>
+<tbody>
+<tr>
+<th style="text-align: center;" rowspan="2">iLEAD</th>
+<th style="text-align: center;" colspan="2">Key Domains Of Social &amp; Emotional Skills</th>
+</tr>
+<tr>
+<th style="text-align: center;">Self Management Self Awareness</th>
+<th style="text-align: center;">Social Awareness Relationship Management Responsible Decision Making</th>
+</tr>
+<tr>
+<td style="text-align: center;">
+<h4><strong>iLEARN</strong></h4>
+<br />
+<ul>
+<li style="text-align: left;">Self-discovery &amp; Working with others</li>
+<li style="text-align: left;">Team &amp; Project Management</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>A role model with a &lsquo;can do&rsquo; attitude</li>
+</ul>
+</td>
+<td>
+<div><strong>Social Awareness, Relationship Management</strong></div>
+<div>
+<ul>
+<li>Listens and values diverse views (No idea is a bad idea)Encouraging and shows appreciation through understanding, care and concern towards team members</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<h4 style="text-align: center;"><strong>iENVISION</strong></h4>
+<br />
+<div>
+<ul>
+<li>Goal setting for Self &amp; Team</li>
+<li>Planning &amp; Organisation</li>
+</ul>
+</div>
+</td>
+<td>
+<ul>
+<li>Sets clear, attainable goals for self and team</li>
+</ul>
+</td>
+<td><strong>Social Awareness, Relationship Management</strong><br />
+<ul>
+<li>Motivates and influences team members to achieve set goals</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<h4 style="text-align: center;"><strong>iACT</strong></h4>
+<br />
+<div>
+<ul>
+<li>Application of Knowledge &amp; Skills</li>
+<li>Lead by Example</li>
+</ul>
+</div>
+</td>
+<td>
+<ul>
+<li>Has initiative and volunteers&nbsp;</li>
+</ul>
+</td>
+<td><strong>Relationship Management, Responsible Decision Making</strong><br />
+<ul>
+<li>Builds on the strengths of the members of the team</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<h4 style="text-align: center;"><strong>iDEVELOP</strong></h4>
+<br />
+<div>
+<ul>
+<li>Self-Reflection &amp; Review of Team Performance</li>
+<li>Challenge the process: Improve &amp; Innovate</li>
+</ul>
+</div>
+</td>
+<td>
+<ul>
+<li>Improvises or experiments with new ways of doing things</li>
+</ul>
+</td>
+<td><strong>Relationship Management, Responsible Decision Making</strong><br />
+<ul>
+<li>Looks at a problem from many different angles</li>
+<li>Celebrates success (No matter how small)</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Our Key Programmes</h4>
