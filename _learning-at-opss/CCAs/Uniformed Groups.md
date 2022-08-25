@@ -50,3 +50,4 @@ third_nav_title: CCAs
 </tbody>
 </table>
 <h4>Photos</h4>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vScSEqH3Dzq1mbK47iPSpj7IFxBoVXBMrqiBql3yWOE8qjR8rovxkl3hoZZ0Nh0V04BROLmNe9dRPXY/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
