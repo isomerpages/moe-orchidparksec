@@ -6,7 +6,6 @@ description: ""
 <h4>About the CCA</h4>
 <p>Girls who are passionate about Netball and working together as a team, who put in the hours to train to become better players and teammates who display commitment, camaraderie and compassion with the goal to become respected leaders and ambassadors for the school and sports values.</p>
 <h4>Training Details</h4>
-<div>
 <table>
 <tbody>
 <tr>
@@ -23,7 +22,6 @@ description: ""
 </tbody>
 </table>
 <h4>Teachers</h4>
-<div>
 <table>
 <tbody>
 <tr>
@@ -44,5 +42,4 @@ description: ""
 </tbody>
 </table>
 <h4>Photos</h4>
-</div>
-</div>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSiuDzDtcMf2Q27dEEaGBsG-F0HIHuCtBUgMJM_Jf0Xndk4x-IrS5-6ArkPCFe7Hrqyb6XHTNUr64Ve/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
