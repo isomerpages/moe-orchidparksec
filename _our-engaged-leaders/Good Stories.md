@@ -180,3 +180,8 @@ description: ""
 <p>Good job, Brian!<br />We are encouraged by your brave act.</p>
 <p><span style="text-decoration: underline;"><strong>19 September 2016 - Our Kindness Ambassador</strong></span></p>
 <img style="width: 45%;" src="/images/gs28.png" align = "right" />
+<p><strong>Muhammad Shalihin (S3S1, 2016)</strong>&nbsp;was on his way home in the evening when he saw a Chinese elderly gentleman struggling on his wheelchair at the basketball court in front of Block 846. Without hesitation, Shalihin went up to him and offered to wheel him all the way to Khatib MRT Station before taking his bus home. This is the second time our young Kindness Ambassador has rendered assistance to the elderly gentleman.&nbsp;Shalihin&rsquo;s&nbsp;warmth and kindness touched the heart of a fellow OPSS schoolmate who shared this story with the school.</p>
+<p><span style="text-decoration: underline;"><strong>5 September 2016 - A Good Samaritan</strong></span></p>
+<img style="width: 40%;" src="/images/gs29.png" align = "left" />
+<p><strong>Gabriel Phan (S3S1, 2016)</strong>&nbsp;picked up a mobile phone on a van he was&nbsp;in,&nbsp;and passed it to the driver of the vehicle. &nbsp;The mobile phone was later returned to the owner who was very grateful to Gabriel. &nbsp;Catch our good Samaritan, brimming with joy, and clutching a box of mooncakes from the owner, as an appreciation gesture!</p><br><br><br>
+<p><span style="text-decoration: underline;"><strong>31 August - A Kind Gesture</strong></span></p>
