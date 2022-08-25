@@ -2,6 +2,7 @@ collections:
   news-at-events:
     output: true
     order:
+      - Announcements/Leave of Absence Application.md
       - Announcements/FAS Application Guide.md
       - Announcements/Information for Parents Gateway.md
       - Announcements/Road Safety Guidelines.md
