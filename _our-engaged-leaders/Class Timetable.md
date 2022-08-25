@@ -7,10 +7,10 @@ description: ""
 <table>
 <tbody>
 <tr>
-<th style="text-align: center;"><a href="https://orchidparksec.moe.edu.sg/our-engaged-learners/goog_1771892760">Sec 1</a></th>
-<th style="text-align: center;"><a href="https://orchidparksec.moe.edu.sg/our-engaged-learners/goog_1771892760">Sec 2</a></th>
-<th style="text-align: center;"><a href="https://orchidparksec.moe.edu.sg/our-engaged-learners/goog_1771892760">Sec 3</a></th>
-<th style="text-align: center;"><a href="https://orchidparksec.moe.edu.sg/our-engaged-learners/goog_1771892760">Sec 4 &amp; 5</a></th>
+<th style="text-align: center;">Sec 1</th>
+<th style="text-align: center;">Sec 2</th>
+<th style="text-align: center;">Sec 3</th>
+<th style="text-align: center;">Sec 4 &amp; 5</th>
 </tr>
 <tr>
 <td style="text-align: center;"><a href="https://orchidparksec.moe.edu.sg/qql/slot/u163/2022/Timetable/L1.pdf" target="_blank" rel="noopener">Laelia - 1</a></td>
