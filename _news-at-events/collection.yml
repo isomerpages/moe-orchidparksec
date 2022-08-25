@@ -2,4 +2,5 @@ collections:
   news-at-events:
     output: true
     order:
+      - Announcements/.keep
       - Events.md
