@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Events.md
       - faq.md
       - Sec 1 Level Camp.md
       - OBS 2022.md
