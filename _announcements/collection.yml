@@ -1,5 +1,5 @@
 collections:
-  news-at-events:
+  announcements:
     output: true
     order:
       - Announcements/Sec 3 Parents Engagement (slides) 26 May 2022.md
