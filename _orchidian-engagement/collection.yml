@@ -2,12 +2,7 @@ collections:
   orchidian-engagement:
     output: true
     order:
-      - CCAs/.keep
-      - CCAs/CCAs.md
-      - CCAs/Physical Sports and Games.md
-      - CCAs/Visual and Performing Arts.md
-      - CCAs/Uniformed Groups.md
-      - CCAs/Clubs & Societies.md
+      - Departments/.keep
       - Departments/Aesthetics.md
       - Departments/Student Management.md
       - Departments/Humanities.md
@@ -15,8 +10,13 @@ collections:
       - Departments/Physical Education.md
       - Departments/Science.md
       - Departments/Student Development.md
-      - Departments/.keep
+      - CCAs/.keep
+      - CCAs/CCAs.md
+      - CCAs/Physical Sports and Games.md
+      - CCAs/Visual and Performing Arts.md
+      - CCAs/Uniformed Groups.md
+      - CCAs/Clubs & Societies.md
+      - FSBB at OPSS.md
+      - OPSS Distinctive Programmes/.keep
       - OPSS Distinctive Programmes/OPSS Distinctive & Special Programmes.md
       - OPSS Distinctive Programmes/LLP–CYL CORE Leaders Programme.md
-      - OPSS Distinctive Programmes/.keep
-      - FSBB at OPSS.md
