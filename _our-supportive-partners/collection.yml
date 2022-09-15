@@ -2,6 +2,5 @@ collections:
   our-supportive-partners:
     output: true
     order:
-      - Parents.md
       - Positive Parenting Programme (Triple P).md
       - Resources.md
