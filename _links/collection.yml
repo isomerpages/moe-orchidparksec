@@ -2,6 +2,7 @@ collections:
   links:
     output: true
     order:
+      - Student/Home Based Learning.md
       - Student/Timetable.md
       - Student/.keep
       - Prospective Student/.keep
