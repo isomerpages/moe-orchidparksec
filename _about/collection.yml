@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - TEST/Example Title.md
       - TEST/.keep
       - Principal's Message.md
       - The Orchidian Story.md
