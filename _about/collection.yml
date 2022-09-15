@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - School Advisory Committee og.md
-      - Our Partners/Alumni.md
-      - Our Partners/OPSS Parent Support Group.md
-      - Our Partners/Framework.md
       - Our Partners/.keep
+      - Our Partners/Framework.md
+      - Our Partners/OPSS Parent Support Group.md
+      - Our Partners/Alumni.md
       - Principal's Message.md
       - The Orchidian Story.md
       - The Orchidian Identity.md
