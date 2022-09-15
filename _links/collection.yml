@@ -2,4 +2,5 @@ collections:
   links:
     output: true
     order:
+      - Prospective Student/.keep
       - Student/.keep
