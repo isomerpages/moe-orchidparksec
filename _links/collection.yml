@@ -2,9 +2,9 @@ collections:
   links:
     output: true
     order:
-      - Prospective Student/Transfers.md
-      - Prospective Student/Appeals.md
-      - Prospective Student/Direct School Admissions.md
-      - Prospective Student/Sec 1 Registration.md
       - Prospective Student/.keep
+      - Prospective Student/Sec 1 Registration.md
+      - Prospective Student/Direct School Admissions.md
+      - Prospective Student/Appeals.md
+      - Prospective Student/Transfers.md
       - Student/.keep
