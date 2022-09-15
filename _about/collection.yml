@@ -2,7 +2,7 @@ collections:
   about:
     output: true
     order:
-      - Thoughts from Our Principal.md
+      - Principal's Message.md
       - School History.md
       - Vision, Mission, Motto, Creed.md
       - Strategic Thrusts.md
