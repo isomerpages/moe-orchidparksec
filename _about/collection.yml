@@ -2,10 +2,10 @@ collections:
   about:
     output: true
     order:
-      - School Advisory Committee.md
       - Principal's Message.md
       - The Orchidian Story.md
       - The Orchidian Identity.md
+      - School Advisory Committee.md
       - Steering Committee.md
       - Our People.md
       - Our Partners.md
