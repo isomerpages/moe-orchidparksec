@@ -13,15 +13,11 @@ links:
         url: /permalink
       - title: Steering Committee
         url: /about-us/steering-committee
-      - title: Strategic Thrusts
-        url: /about-us/strategic-thrusts
-      - title: School Crest & School Song
-        url: /about-us/school-crest-n-school-song
-      - title: Staff Contact List
+      - title: Our People
         url: /about-us/staff-contact-list
-      - title: Privacy Policy
-        url: /about-us/privacy-policy
-  - title: Learning@OPSS
+      - title: Our Partners
+        url: /permalink
+  - title: Orchidian Engagement
     url: /learning-at-opss/ccas
     sublinks:
       - title: CCAs
@@ -38,7 +34,7 @@ links:
         url: /learning-at-opss/obs-2022
       - title: Sec 1 Level Camp
         url: /learning-at-opss/sec-1-level-camp
-  - title: Our Engaged Leaders
+  - title: Orchidian Empowerment
     url: /our-engaged-learners/student-leadership
     sublinks:
       - title: Student Leadership
@@ -53,22 +49,14 @@ links:
         url: /our-engaged-learners/class-timetable
       - title: Environmental Education
         url: /our-engaged-learners/environmental-education
-  - title: Our Supportive Partners
-    url: /our-supportive-partners/parents
+  - title: Announcements
+    url: /news-at-events/announcements/sec-3-parents-engagement-slides-26-may-2022
     sublinks:
-      - title: Parents
-        url: /our-supportive-partners/parents
-      - title: School Advisory Committee
-        url: /our-supportive-partners/school-advisory-committee
-      - title: Alumni
-        url: /our-supportive-partners/alumni
-      - title: Positive Parenting Programme
-        url: /our-supportive-partners/positive-parenting-programme-triple-p
-      - title: OPSS Parent Support Group
-        url: /our-supportive-partners/opss-parent-support-group
-      - title: Resources
-        url: /our-supportive-partners/resources
-  - title: DSA
+      - title: Announcements
+        url: /news-at-events/announcements/sec-3-parents-engagement-slides-26-may-2022
+      - title: Events
+        url: /news-at-events/events
+  - title: Links
     url: /dsa/dsa-at-orchid-park-secondary
     sublinks:
       - title: DSA @ Orchid Park Secondary
@@ -87,10 +75,3 @@ links:
         url: /dsa/dsa-physical-sports-and-games
       - title: DSA Visual Arts
         url: /dsa/dsa-visual-arts
-  - title: News @ Events
-    url: /news-at-events/announcements/sec-3-parents-engagement-slides-26-may-2022
-    sublinks:
-      - title: Announcements
-        url: /news-at-events/announcements/sec-3-parents-engagement-slides-26-may-2022
-      - title: Events
-        url: /news-at-events/events
