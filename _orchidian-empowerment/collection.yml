@@ -2,9 +2,9 @@ collections:
   orchidian-empowerment:
     output: true
     order:
-      - STAR.md
-      - Experiential Learning/.keep
-      - Special Programs/.keep
       - Student Leadership.md
+      - Special Programs/.keep
+      - Experiential Learning/.keep
+      - STAR.md
       - LLP–CYL CORE Leaders Programme.md
       - OPSS Distinctive & Special Programmes.md
