@@ -2,14 +2,9 @@ collections:
   links:
     output: true
     order:
-      - Student/Insurance.md
-      - Student/Uniform.md
-      - Student/Book List.md
-      - Student/Home Based Learning.md
-      - Student/Timetable.md
       - Student/.keep
-      - Prospective Student/.keep
-      - Prospective Student/Sec 1 Registration.md
-      - Prospective Student/Direct School Admissions.md
-      - Prospective Student/Appeals.md
-      - Prospective Student/Transfers.md
+      - Student/Timetable.md
+      - Student/Home Based Learning.md
+      - Student/Book List.md
+      - Student/Uniform.md
+      - Student/Insurance.md
