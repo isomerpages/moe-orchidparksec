@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Parents.md
-      - Alumni.md
       - Positive Parenting Programme (Triple P).md
       - Resources.md
