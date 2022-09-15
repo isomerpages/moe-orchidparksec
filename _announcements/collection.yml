@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Announcements.md
       - Announcements/Sec 3 Parents Engagement (slides) 26 May 2022.md
       - Announcements/2022 GCE N(T), N(A), O–Level Registration Information for
         School Candidates.md
