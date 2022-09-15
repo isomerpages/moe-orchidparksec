@@ -2,6 +2,7 @@ collections:
   links:
     output: true
     order:
+      - Student/Uniform.md
       - Student/Book List.md
       - Student/Home Based Learning.md
       - Student/Timetable.md
