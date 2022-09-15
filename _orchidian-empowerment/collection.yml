@@ -1,4 +1,5 @@
 collections:
   orchidian-empowerment:
     output: true
-    order: []
+    order:
+      - OPSS Distinctive & Special Programmes.md
