@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Positive Parenting Programme (Triple P).md
       - Parents.md
       - terms-of-use.md
       - privacy.md
