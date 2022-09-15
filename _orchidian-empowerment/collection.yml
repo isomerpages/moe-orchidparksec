@@ -2,4 +2,5 @@ collections:
   orchidian-empowerment:
     output: true
     order:
+      - LLP–CYL CORE Leaders Programme.md
       - OPSS Distinctive & Special Programmes.md
