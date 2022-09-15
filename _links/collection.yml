@@ -2,6 +2,7 @@ collections:
   links:
     output: true
     order:
+      - Student/Timetable.md
       - Student/.keep
       - Prospective Student/.keep
       - Prospective Student/Sec 1 Registration.md
