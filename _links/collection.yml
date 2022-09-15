@@ -2,6 +2,7 @@ collections:
   links:
     output: true
     order:
+      - Prospective Student/Appeals.md
       - Prospective Student/Direct School Admissions.md
       - Prospective Student/Sec 1 Registration.md
       - Prospective Student/.keep
