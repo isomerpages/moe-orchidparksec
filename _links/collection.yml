@@ -2,5 +2,6 @@ collections:
   links:
     output: true
     order:
+      - Prospective Student/Sec 1 Registration.md
       - Prospective Student/.keep
       - Student/.keep
