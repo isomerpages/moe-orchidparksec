@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - privacy.md
       - Events.md
       - faq.md
       - Sec 1 Level Camp.md
