@@ -4,7 +4,6 @@ collections:
     order:
       - Students/.keep
       - Prospective Students/.keep
-      - Prospective Students/DSA Process.md
       - Prospective Students/Sec 1 Registration.md
       - Prospective Students/Appeals.md
       - Prospective Students/Transfer.md
