@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Student Leadership.md
+      - Special Programs/GLOW.md
       - Special Programs/Applied Learning Programme.md
       - Special Programs/Lifelong Learning Programme.md
       - Special Programs/.keep
