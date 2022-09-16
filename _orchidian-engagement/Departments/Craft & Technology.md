@@ -4,80 +4,26 @@ permalink: /dept/c-and-t/
 description: ""
 third_nav_title: Departments
 ---
+<div id="_ptoo_block_start" style="font-size:1px;border:1px solid transparent"></div>
 
+<div id="_ptoo_PTOID" class="pageblock_box " style="display:none">
+    <div id="_ptod_PTOID" class="ive_editable ive_ptod ive_content"></div>
+</div>
 
-<h4>Aesthetics Department</h4>
-<h4>About The Department</h4>
-<p>The Visual Arts and Performing Arts&nbsp;are&nbsp;a major strength of the school. The OPSS Aesthetics department has, over the years, achieved acclaim and acknowledgement for the quality of its Visual Art programme. First and foremost, the department has consistently achieved stellar results for the GCE &ldquo;O&rdquo; Level examinations since the pioneer batch of students took their exams in 2002. For almost every year of examinations, our Art students have performed &ldquo;Above Expectation&rdquo; according to the PRISM analysis. The school was conferred the Applied Learning Programme (ALP-Visual Arts) status in 2015 and the Enhanced Art Programme (EAP) status in 2016 by the Ministry of Education. OPSS students can take advantage of the extra opportunities that these programmes offer, like the annual Incubation Lab project (ILEAP) that is organised every November for EAP students.</p>
-<p>In addition, OPSS Art students do well beyond the classroom too. At the biennial Singapore Youth Festival (SYF) Art &amp; Crafts Exhibition, our students consistently win in the &ldquo;Honourable Mention&rdquo; category, the highest level of achievement for the competition. OPSS has built a strong reputation for the quality of their students&rsquo; art pieces and design work and this quality is recognised within the larger Art Education fraternity in Singapore. For instance, various student art pieces have been selected by MOE HQ to be presented by our political leaders to foreign dignitaries. Also, our students are actively involved in using their Art skills to improve the community by using Arts &amp; Crafts to raise funds for the less fortunate.</p>
-<p>Furthermore, OPSS Art teachers are experienced and have annually shared their expertise at various professional platforms nationwide. All these achievements bear compelling testimony to the strength and robustness of the school&rsquo;s Art programme and to the quality and professionalism of its Art teachers.</p>
-<h4>Department Composition</h4>
-<table border="1" cellspacing="0" cellpadding="2">
-<tbody>
-<tr>
-<th style="text-align: center;"><strong>S/N</strong></th>
-<th style="text-align: center;"><strong>Title</strong></th>
-<th style="text-align: center;"><strong>Name of Personnel </strong></th>
-<th style="text-align: center;"><strong>Designation</strong></th>
-<th style="text-align: center;"><strong>Ext.</strong></th>
-<th style="text-align: center;"><strong>Email Address</strong></th>
-</tr>
-<tr>
-<td style="text-align: center;">1</td>
-<td style="text-align: center;">Mdm</td>
-<td style="text-align: center;">Teo Sharon</td>
-<td style="text-align: center;">Snr. Teacher (Art)</td>
-<td style="text-align: center;">306</td>
-<td style="text-align: center;"><a href="mailto:teo_li_keng_sharon@schools.gov.sg" target="">Email</a></td>
-</tr>
-<tr>
-<td style="text-align: center;">2</td>
-<td style="text-align: center;">Ms</td>
-<td style="text-align: center;">Mardiana</td>
-<td style="text-align: center;">Teacher (Art)</td>
-<td style="text-align: center;">306</td>
-<td style="text-align: center;"><a href="mailto:mardiana_alias@schools.gov.sg" target="">Email</a></td>
-</tr>
-<tr>
-<td style="text-align: center;">3</td>
-<td style="text-align: center;">Ms</td>
-<td style="text-align: center;">Tiffany Tay</td>
-<td style="text-align: center;">Teacher (Art)</td>
-<td style="text-align: center;">306</td>
-<td style="text-align: center;"><a href="mailto:tay_hui_xiu_tiffany@schools.gov.sg" target="">Email</a></td>
-</tr>
-<tr>
-<td style="text-align: center;">4</td>
-<td style="text-align: center;">Ms</td>
-<td style="text-align: center;">Ng Rebecca</td>
-<td style="text-align: center;">Teacher (Music)&nbsp;</td>
-<td style="text-align: center;">313</td>
-<td style="text-align: center;"><a href="mailto:ng_chu_ying_rebecca@schools.gov.sg" target="">Email</a></td>
-</tr>
-<tr>
-<td style="text-align: center;">5</td>
-<td style="text-align: center;">Mr</td>
-<td style="text-align: center;">Lai Jin Kun&nbsp;</td>
-<td style="text-align: center;">Teacher (Music)</td>
-<td style="text-align: center;">318</td>
-<td style="text-align: center;"><a href="mailto:Lai_Jinkun@schools.gov.sg" target="">Email</a></td>
-</tr>
-<tr>
-<td style="text-align: center;">6</td>
-<td style="text-align: center;">Ms</td>
-<td style="text-align: center;">Chan Vanessa</td>
-<td style="text-align: center;">Teacher (Music)</td>
-<td style="text-align: center;">318</td>
-<td style="text-align: center;"><a href="mailto:chan_hui_san_vanessa@schools.gov.sg" target="">Email</a></td>
-</tr>
-<tr>
-<td style="text-align: center;">7</td>
-<td style="text-align: center;">Ms</td>
-<td style="text-align: center;">Elizabeth Khong</td>
-<td style="text-align: center;">Teacher (Art)</td>
-<td style="text-align: center;">306</td>
-<td style="text-align: center;"><a href="mailto:elizabeth_khong@schools.gov.sg" target="">Email</a></td>
-</tr>
-</tbody>
-</table>
-<p>Updated on 23rd Aug '22'</p>
+  <div id="_ptoo_70152" class="pageblock_box ">
+    <h2 id="_ptoh_70152" class="ive_editable ive_ptoh">Craft &amp; Tech Department</h2>
+    <div id="_ptod_70152" class="ive_editable ive_ptod ive_content"></div>
+</div>
+  <div id="_ptoo_70153" class="pageblock_box ">
+    <h2 id="_ptoh_70153" class="ive_editable ive_ptoh">Department Mission</h2>
+    <div id="_ptod_70153" class="ive_editable ive_ptod ive_content"><br><p style="text-align: justify; line-height: 22.4px;"><font face="arial, sans-serif" size="4"><strong>To provide a learning experience that encourages self-directed lifelong learning, creativity &amp; innovation, resourcefulness &amp; responsibility.&nbsp;</strong>&nbsp;</font></p><p style="text-align: justify; line-height: 22.4px;"><font face="arial, sans-serif" size="4">With recent emphasis on innovation, the pupils are encouraged and guided to explore opportunities for innovation while applying their design skills. There are frequent checks for appropriateness to the current environment to ensure relevance. Good projects are often entered for competitions such as Tan Kah Kee Young Inventors’ Award as well as the annual D&amp;T Awards. The school has reap rewards with the latest achievement being an innovation with Distinction Award in D&amp;T Awards 2006.</font></p></div>
+</div>
+  <div id="_ptoo_70154" class="pageblock_box ">
+    <h2 id="_ptoh_70154" class="ive_editable ive_ptoh">About the Department</h2>
+    <div id="_ptod_70154" class="ive_editable ive_ptod ive_content"><font face="arial, sans-serif" size="4"><br><strong style="text-align: -webkit-center;">To prepare students for the rapidly changing world by giving them opportunities to think and intervene creatively through the Design process and the effective use of Technology.&nbsp;</strong><span style="text-align: -webkit-center;"></span><span style="text-align: -webkit-center;">&nbsp;</span></font><br></div>
+</div>
+  <div id="_ptoo_70155" class="pageblock_box ">
+    <h2 id="_ptoh_70155" class="ive_editable ive_ptoh">Department Composition</h2>
+    <div id="_ptod_70155" class="ive_editable ive_ptod ive_content"><table border="1" cellspacing="0" cellpadding="2" align="center" class="iveo_table ives_tab_dark" style="width: 100%;"><tbody><tr><th style="width: 31px;"><strong>S/N</strong></th><th style="width: 45px;"><strong>Title</strong></th><th style="width: 180px;"><strong>Name of Personnel &nbsp;</strong></th><th style="width: 209px;"><strong>Designation</strong></th><th style="width: 34px;"><strong>Ext.</strong></th><th style="width: 109px;"><strong>Email Address</strong></th></tr><tr><td><font size="4" face="arial, sans-serif">1</font></td><td><font size="4" face="arial, sans-serif">Ms</font></td><td><font size="4" face="arial, sans-serif"><span style="text-align: left;">Haryati</span></font></td><td><font size="4" face="arial, sans-serif"><span style="text-align: left;">HOD Craft &amp; Technology</span><br></font></td><td><font size="4" face="arial, sans-serif">123<br></font></td><td><a href="mailto:haryati_hassan_a@schools.gov.sg" target=""><font size="4" face="arial, sans-serif">Email</font></a></td></tr><tr><td><font size="4" face="arial, sans-serif">2</font></td><td><font size="4" face="arial, sans-serif">Mr</font></td><td><font size="4" face="arial, sans-serif">Tan Yong Koon</font></td><td align="center" valign="middle"><font size="4" face="arial, sans-serif">Lead Teacher&nbsp;(C&amp;T)</font></td><td><font size="4" face="arial, sans-serif">108</font></td><td align="center" valign="middle"><font size="4" face="arial, sans-serif"><a href="mailto:tan_yong_koon@schools.gov.sg" target="">Email</a></font></td></tr><tr><td><font size="4" face="arial, sans-serif">3</font></td><td><font size="4" face="arial, sans-serif">Mdm</font></td><td><font size="4" face="arial, sans-serif">Aisah Rasol</font></td><td align="center" valign="middle"><font size="4" face="arial, sans-serif">Teacher (FCE)</font></td><td><font face="arial, sans-serif"><font size="4">301/313</font><font size="4"></font></font></td><td align="center" valign="middle"><font size="4" face="arial, sans-serif"><a href="mailto:isah_rasol@schools.gov.sg" target="">Email</a></font></td></tr><tr><td><font size="4" face="arial, sans-serif">4</font></td><td><font size="4" face="arial, sans-serif">Ms</font></td><td><font size="4" face="arial, sans-serif">Lim Jeanne</font></td><td align="center" valign="middle"><font size="4" face="arial, sans-serif">Teacher (FCE)</font></td><td><font size="4" face="arial, sans-serif">301/308</font></td><td align="center" valign="middle"><font size="4" face="arial, sans-serif"><a href="mailto:lim_shuying_jeanne@schools.gov.sg" target="">Email</a></font></td></tr><tr><td><font size="4" face="arial, sans-serif">5</font></td><td><font size="4" face="arial, sans-serif">Mdm</font></td><td><font size="4" face="arial, sans-serif">Tan Ivy</font></td><td align="center" valign="middle"><font size="4" face="arial, sans-serif">Teacher (FCE)</font></td><td><font size="4" face="arial, sans-serif">301</font></td><td align="center" valign="middle"><font size="4" face="arial, sans-serif"><a href="mailto:tan_boon_hua_ivy@schools.gov.sg" target="">Email</a></font></td></tr><tr><td><font size="4" face="arial, sans-serif">6</font></td><td><font size="4" face="arial, sans-serif">Mr</font></td><td><font size="4" face="arial, sans-serif">Lee Alvin</font></td><td align="center" valign="middle"><font size="4" face="arial, sans-serif">Teacher (D&amp;T)</font></td><td><font size="4" face="arial, sans-serif">108</font></td><td align="center" valign="middle"><font size="4" face="arial, sans-serif"><a href="mailto:lee_meng_chee_alvin@schools.gov.sg" target="">Email</a></font></td></tr><tr><td><font size="4" face="arial, sans-serif">7</font></td><td><font size="4" face="arial, sans-serif">Mr</font></td><td><font size="4" face="arial, sans-serif">Tan Kok Hian</font></td><td align="center" valign="middle"><font size="4" face="arial, sans-serif">Teacher (D&amp;T)</font></td><td><font size="4" face="arial, sans-serif">108</font></td><td align="center" valign="middle"><font size="4" face="arial, sans-serif"><a href="mailto:tan_kok_hian@schools.gov.sg" target="">Email</a></font></td></tr><tr><td><font face="arial, sans-serif" size="4">8</font></td><td><font face="arial, sans-serif" size="4">Mr</font></td><td><font face="arial, sans-serif" size="4"><span style="text-align: left;">Ariffin</span><br></font></td><td><font face="arial, sans-serif" size="4">Teacher (D&amp;T)<br></font></td><td><font face="arial, sans-serif" size="4">108</font></td><td><a href="mailto:ariffin_md_ali@schools.gov.sg" target=""><font face="arial, sans-serif" size="4">Email</font></a></td></tr><tr><td><font face="arial, sans-serif" size="4">9</font></td><td><font size="4" face="arial, sans-serif">Mr</font></td><td><font size="4" face="arial, sans-serif">Neo Gary</font></td><td align="center" valign="middle"><font face="arial, sans-serif" size="4">Teacher (D&amp;T)</font></td><td><font face="arial, sans-serif" size="4">108</font></td><td align="center" valign="middle"><font size="4" face="arial, sans-serif"><a href="mailto:neo_meng_yang_gary@schools.gov.sg" target="">Email</a></font></td></tr><tr><td><font size="4" face="arial, sans-serif">10</font></td><td><font size="4" face="arial, sans-serif">Mr</font></td><td><font size="4" face="arial, sans-serif">Muhammad Amin</font></td><td align="center" valign="middle"><font face="arial, sans-serif" size="4">Technical Support Officer (Workshop)</font><font size="4" face="arial, sans-serif"></font></td><td><font size="4" face="arial, sans-serif">-</font></td><td align="center" valign="middle"><font size="4" face="arial, sans-serif"><a href="mailto:muhammad_amin_affandi@schools.gov.sg" target="">Email</a></font></td></tr><tr><td><font size="4" face="arial, sans-serif">11</font></td><td><font size="4" face="arial, sans-serif">&nbsp;Mdm</font></td><td><font size="4" face="arial, sans-serif">Latchmi</font></td><td align="center" valign="middle"><font size="4" face="arial, sans-serif">Operation Support Officer</font></td><td><font size="4" face="arial, sans-serif">301</font></td><td align="center" valign="middle"><font size="4" face="arial, sans-serif"><a href="mailto:latchmi_ali_muthu@schools.gov.sg" target="" style="">Email</a></font></td></tr></tbody></table><span style="font-family: arial, sans-serif; font-size: x-small;">Updated on 24th Aug '22'</span><br></div>
+</div>
+          </div>
