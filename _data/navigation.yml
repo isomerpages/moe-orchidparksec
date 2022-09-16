@@ -2,12 +2,14 @@ logo: /images/logos.png
 links:
   - title: About
     collection: about
+  - title: Orchidian Engagement
+    url: /orchidian-engagement
+    sublinks:
+      - title: Departments
+        url: /orchidian-engagement/departments
   - title: orchidian empowerment
     collection: orchidian-empowerment
   - title: Links
     collection: links
   - title: Announcements
     url: /announcements
-  - title: Orchidian Engagement
-    url: /orchidian-engagement
-    sublinks: []
