@@ -4,5 +4,4 @@ collections:
     order:
       - Students/.keep
       - Prospective Students/.keep
-      - Prospective Students/Appeals.md
       - Prospective Students/Transfer.md
