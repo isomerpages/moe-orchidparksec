@@ -2,6 +2,7 @@ collections:
   orchidian-engagement:
     output: true
     order:
+      - Departments/Education Technology.md
       - Departments/Executive & Administration.md
       - Departments/English Language & Literature.md
       - Departments/Computer Applications & Elements of Business Skills.md
