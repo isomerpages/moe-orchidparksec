@@ -8,7 +8,7 @@ third_nav_title: Departments
 
 ### About the Department
 
-<div align="justify">
+<div align="justify" style="line-height: 1.5">
 	
 The Education Technology department encourages students' autonomous learning through the use of technology. Notably, Orchid Park Secondary School leverages on the Chromebook to facilitate learning and collaboration.
 	
@@ -35,7 +35,6 @@ The Device Management Application (DMA) works together with parents to safeguard
 </div>
 
 ### Department Composition
-	
 
 | Title | Name | Designation | Ext | Email |
 | -------- | -------- | -------- |---------|---------|
