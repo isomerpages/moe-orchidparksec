@@ -2,7 +2,6 @@ collections:
   orchidian-engagement:
     output: true
     order:
-      - Departments/Infocomm Technology.md
       - Departments/.keep
       - Departments/Aesthetics.md
       - Departments/Student Management.md
