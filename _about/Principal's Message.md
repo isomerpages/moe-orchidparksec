@@ -10,6 +10,7 @@ description: ""
 <p>As the school anthem goes, there is indeed no mountain too high to scale and no ocean too wide to sail for all Orchidians, as long they demonstrate the grit and tenacity to persevere and strive ever onward, and embrace the opportunities that the school provides for them to be engaged and empowered to excel. This pursuit of excellence is strongly supported by our Orchidian network, including the School Advisory Committee, Parent Support Group and our community partners.</p>
 <p>To all Orchidians past and present, and to prospective students, I hope you will embrace the school&rsquo;s vision and blossom into innovative and cultured persons of integrity, compassion and confidence.&nbsp;</p>
 
-<p><img src=/images/sc1.jpg style="width:30%" align="left">
+<p><img src=/images/sc1.jpg style="width:30%" align="right">
 	
-<strong>Mr Daniel Chung<br></strong>Principal<br />Orchid Park Secondary School</p></html>
+<strong>Mr Daniel Chung<br></strong>Principal<br />Orchid Park Secondary School</p>
+</html>
