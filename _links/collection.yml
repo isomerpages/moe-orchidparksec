@@ -1,6 +1,0 @@
-collections:
-  links:
-    output: true
-    order:
-      - Students/.keep
-      - Prospective Students/.keep
