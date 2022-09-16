@@ -2,6 +2,7 @@ collections:
   orchidian-empowerment:
     output: true
     order:
+      - Student Leadership.md
       - STAR.md
       - Special Programs/.keep
       - Special Programs/Applied Learning Programme.md
