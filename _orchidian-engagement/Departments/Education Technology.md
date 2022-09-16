@@ -28,7 +28,7 @@ third_nav_title: Departments
 
 <p>The ubiquitous use of PLDs promotes self-directed and active learning by our students. They are able to access MOE-curated content through the Singapore Student Learning Space, above and beyond customised & personalised notes provided by their teachers. Teachers also leverage GC to guide students with their proposals of Student-Initiated Learning, where students embark on learning new skills and knowledge, embodying the joy of learning.</p>
 
-PLDs amplify student voice and allow students to take ownership and review their own understanding. This also facilitates teachers in carrying out assessment for students’ learning and provision of timely feedback. Additionally, the PDLP enables teachers to assess students’ learning through conceptual understanding and prototyping, including the creation of a variety of digital products in different subjects.
+<p>PLDs amplify student voice and allow students to take ownership and review their own understanding. This also facilitates teachers in carrying out assessment for students’ learning and provision of timely feedback. Additionally, the PDLP enables teachers to assess students’ learning through conceptual understanding and prototyping, including the creation of a variety of digital products in different subjects.</p>
 
 <p>The Device Management Application (DMA) works together with parents to safeguard students’ interest, by offering parents options to control their child’s/ward’s use of PLDs. Overall, the DMA helps students to stay on task and use technology responsibly.</p>
 
