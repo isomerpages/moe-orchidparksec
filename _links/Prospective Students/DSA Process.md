@@ -4,9 +4,6 @@ permalink: /links/prospective/process/
 description: ""
 third_nav_title: Prospective Students
 ---
-
-
-
 <p>Thank you for your interest in Orchid Park Secondary School</p>
 <p><strong><u>Important notes before applying:&nbsp;</u></strong></p>
 <table>
@@ -42,3 +39,14 @@ third_nav_title: Prospective Students
 </tbody>
 </table>
 <p><strong><u>Applicants not studying in MOE Schools:<br /></u></strong>For applicants not studying in MOE mainstream primary schools, please refer to the MOE website at:<br /><a href="https://go.gov.sg/nmsdsa-sec-application" target="_blank" rel="noopener">https://go.gov.sg/nmsdsa-sec-application</a><br />for more information.</p>
+
+
+
+|  S/N | Programme |  |
+| -------- | -------- | -------- |
+| 1     | Leadership     | [Apply](dsa/dsa-leadership)     |
+|2|Community Youth Leaders|[Apply](/dsa/dsa-cyl)|
+|3|Sports & Games|[Apply](/dsa/dsa-sports-and-games)|
+|4|Visual Arts|[Apply](/dsa/dsa-visual-arts)|
+|5|Performing Arts|[Apply](/dsa/dsa-performing-arts)|
+
