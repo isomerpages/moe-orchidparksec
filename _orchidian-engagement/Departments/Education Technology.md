@@ -8,16 +8,21 @@ third_nav_title: Departments
 
 ### About the Department
 
+<div align="justify">
+	
 The Education Technology department encourages students' autonomous learning through the use of technology. Notably, Orchid Park Secondary School leverages on the Chromebook to facilitate learning and collaboration.
 	
 Teachers are also exposed to and equipped with various e-pedagogical approach to allow dynamic teaching & learning to take place in and out of class.
 	
 Finally, the Education Technology department actively explores new digital tools to enhance teaching and learning of all Orchidians.
+
+</div>
 	
 ### Programs
 
-**Personalised Digital Learning Programme (PDLP)**
+##### Personalised Digital Learning Programme (PDLP)
 
+<div align="justify">
 
 As every student owns a personalised learning device (PLD), learning experience is enhanced. One of the affordances of PLDs is to enable students to collaborate effectively. OPSS uses Google Classroom (GC) together with the Google Suite of products to facilitate students in learning and collaborating anytime, anywhere.
 
@@ -26,7 +31,9 @@ The ubiquitous use of PLDs promotes self-directed and active learning by our stu
 PLDs amplify student voice and allow students to take ownership and review their own understanding. This also facilitates teachers in carrying out assessment for students’ learning and provision of timely feedback. Additionally, the PDLP enables teachers to assess students’ learning through conceptual understanding and prototyping, including the creation of a variety of digital products in different subjects.
 
 The Device Management Application (DMA) works together with parents to safeguard students’ interest, by offering parents options to control their child’s/ward’s use of PLDs. Overall, the DMA helps students to stay on task and use technology responsibly.
-	
+
+</div>
+
 ### Department Composition
 	
 
