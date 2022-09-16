@@ -3,10 +3,7 @@ links:
   - title: About
     collection: about
   - title: Orchidian Engagement
-    url: /orchidian-engagement
-    sublinks:
-      - title: Departments
-        url: /orchidian-engagement/departments
+    collection: orchidian-engagement
   - title: orchidian empowerment
     collection: orchidian-empowerment
   - title: Links
