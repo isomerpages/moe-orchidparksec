@@ -2,5 +2,6 @@ collections:
   ccas:
     output: true
     order:
+      - Clubs & Societies/.keep
       - Sports & Games/.keep
       - Uniformed Groups/.keep
