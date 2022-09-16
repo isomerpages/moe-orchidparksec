@@ -38,3 +38,5 @@ The Device Management Application (DMA) works together with parents to safeguard
 |Mr|Melvin Lee|ICT Manager|320|[Email](mailto:lee_jun_xiong_melvin@schools.gov.sg)|
 |Mr|Mohd Saufi|Desktop Engineer|320|-|
 |Mr|Muhammad Hazwan|Desktop Engineer|320|-|
+	
+</div>
