@@ -10,11 +10,11 @@ third_nav_title: Departments
 
 <div align="justify" style="line-height: 1.5">
 	
-The Education Technology department encourages students' autonomous learning through the use of technology. Notably, Orchid Park Secondary School leverages on the Chromebook to facilitate learning and collaboration.
+<p>The Education Technology department encourages students' autonomous learning through the use of technology. Notably, Orchid Park Secondary School leverages on the Chromebook to facilitate learning and collaboration.</P>
 	
-Teachers are also exposed to and equipped with various e-pedagogical approach to allow dynamic teaching & learning to take place in and out of class.
+<p>Teachers are also exposed to and equipped with various e-pedagogical approach to allow dynamic teaching & learning to take place in and out of class.</p>
 	
-Finally, the Education Technology department actively explores new digital tools to enhance teaching and learning of all Orchidians.
+<p>Finally, the Education Technology department actively explores new digital tools to enhance teaching and learning of all Orchidians.</p>
 
 </div>
 	
@@ -24,13 +24,13 @@ Finally, the Education Technology department actively explores new digital tools
 
 <div align="justify">
 
-As every student owns a personalised learning device (PLD), learning experience is enhanced. One of the affordances of PLDs is to enable students to collaborate effectively. OPSS uses Google Classroom (GC) together with the Google Suite of products to facilitate students in learning and collaborating anytime, anywhere.
+<p>As every student owns a personalised learning device (PLD), learning experience is enhanced. One of the affordances of PLDs is to enable students to collaborate effectively. OPSS uses Google Classroom (GC) together with the Google Suite of products to facilitate students in learning and collaborating anytime, anywhere.</p>
 
-The ubiquitous use of PLDs promotes self-directed and active learning by our students. They are able to access MOE-curated content through the Singapore Student Learning Space, above and beyond customised & personalised notes provided by their teachers. Teachers also leverage GC to guide students with their proposals of Student-Initiated Learning, where students embark on learning new skills and knowledge, embodying the joy of learning.
+<p>The ubiquitous use of PLDs promotes self-directed and active learning by our students. They are able to access MOE-curated content through the Singapore Student Learning Space, above and beyond customised & personalised notes provided by their teachers. Teachers also leverage GC to guide students with their proposals of Student-Initiated Learning, where students embark on learning new skills and knowledge, embodying the joy of learning.</p>
 
 PLDs amplify student voice and allow students to take ownership and review their own understanding. This also facilitates teachers in carrying out assessment for students’ learning and provision of timely feedback. Additionally, the PDLP enables teachers to assess students’ learning through conceptual understanding and prototyping, including the creation of a variety of digital products in different subjects.
 
-The Device Management Application (DMA) works together with parents to safeguard students’ interest, by offering parents options to control their child’s/ward’s use of PLDs. Overall, the DMA helps students to stay on task and use technology responsibly.
+<p>The Device Management Application (DMA) works together with parents to safeguard students’ interest, by offering parents options to control their child’s/ward’s use of PLDs. Overall, the DMA helps students to stay on task and use technology responsibly.</p>
 
 </div>
 
