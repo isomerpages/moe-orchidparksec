@@ -2,7 +2,6 @@ collections:
   uniformed-groups:
     output: true
     order:
-      - Girls' Brigade.md
       - NCC (Sea).md
       - NCDCC.md
       - NPCC.md
