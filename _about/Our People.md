@@ -3,14 +3,6 @@ title: Our People
 permalink: /about/our-people/
 description: ""
 ---
-| Title | Name | Designation | Ext | Email |
-| -------- | -------- | -------- |-|-|
-| Mr | Daniel Chung | Principal     |-|[Email](mailto:opss@moe.edu.sg)|
-|Mrs|Yvonne Ong|Vice Principal|-|[Email](mailto:opss@moe.edu.sg)|
-
-
-
-
 <table>
 <tbody>
 <tr>
