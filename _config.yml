@@ -1,9 +1,9 @@
 title: Orchid Park Secondary School
-url: ""
+url: https://www.moe.edu.sg
 favicon: /images/download.png
 colors:
   primary-color: "#00753c"
-  secondary-color: "#e9e915"
+  secondary-color: "#000000"
   media-colors:
     - title: media-color-one
       color: "#000000"
