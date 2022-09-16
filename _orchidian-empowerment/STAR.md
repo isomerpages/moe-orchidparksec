@@ -3,6 +3,7 @@ title: STAR
 permalink: /orchidian-empowerment/star/
 description: ""
 ---
+![](/images/WIP/placeholder-image.png)
 # Para1
 <div align="justify">
 	
