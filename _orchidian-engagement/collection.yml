@@ -2,8 +2,7 @@ collections:
   orchidian-engagement:
     output: true
     order:
-      - Departments/Computer Applications & Elements of Business Skills
-        Department.md
+      - Departments/Computer Applications & Elements of Business Skills.md
       - Departments/.keep
       - Departments/Aesthetics.md
       - Departments/Student Management.md
