@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - OPSS Distinctive & Special Programmes.md
       - Resources.md
       - Positive Parenting Programme (Triple P).md
       - Parents.md
