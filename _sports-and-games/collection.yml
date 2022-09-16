@@ -1,5 +1,4 @@
 collections:
   sports-and-games:
     output: true
-    order:
-      - Wushu (Mixed).md
+    order: []
