@@ -2,7 +2,6 @@ collections:
   sports-and-games:
     output: true
     order:
-      - Basketball (Boys & Girls).md
       - Floorball (Boys & Girls).md
       - Football.md
       - Hockey (Boys).md
