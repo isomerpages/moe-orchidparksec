@@ -3,6 +3,7 @@ title: Principal's Message
 permalink: /about/p-msg/
 description: ""
 ---
+<html>
 <p>The educational landscape has undergone many exciting changes in recent years, and will continue to, as it responds to an unprecedented flux of socio-economic and technological forces that shape the current reality we are all experiencing, and create the schooling experiences that continue to enable all our children to learn and thrive.</p>
 <p>Undergirded by a common belief that every child can and wants to learn, schools strive to bring out the best in all of them. I have always believed that one&rsquo;s teenage years are the best and most critical years to lay the foundation for how one truly grows up to become. Whether in terms of values, beliefs or aspirations, these years lay the bedrock and create the dreams and memories that the teenagers will bring forth in their journey through life. These are also the best years for teenagers to leverage the opportunities in school to learn and appreciate the importance of having choices, making informed decisions and managing the consequences of these decisions.</p>
 <p>Orchid Park is a relatively young school, exuding the youth and vibrancy that belie the maturity of our programmes and the experiences of our staff members. Anchored on our forte in the visual and performing arts, as well as a focus on community youth leadership, we develop our students&rsquo; skills and dispositions to be the best versions of themselves, cultivate the gratitude to give back to the community and fulfil their potential beyond the confines of the classroom and academic grades. At the same time, we harness the affordances of technology and virtual learning spaces to equip them with the competencies to be useful and fulfilled citizens of the 21st century. In 2022, the school embarks on the exciting Full Subject-Based Banding (FSBB) journey as a Phase 1 school, enabling greater porosity and flexibility across progression pathways, encouraging positive social mixing within all form classes and customising the curricula to best cater to the needs and interests of each child.</p>
@@ -11,4 +12,4 @@ description: ""
 
 <p><img src=/images/sc1.jpg style="width:30%" align="left">
 	
-<strong>Mr Daniel Chung<br /></strong>Principal<br />Orchid Park Secondary School</p>
+<strong>Mr Daniel Chung<br></strong>Principal<br />Orchid Park Secondary School</p></html>
