@@ -7,8 +7,7 @@ third_nav_title: Departments
 ![](/images/EdTech/168.jpg)
 
 # About the Department
-<div align="justify">
-	
+
 The Education Technology department encourages students' autonomous learning through the use of technology. Notably, Orchid Park Secondary School leverages on the Chromebook to facilitate learning and collaboration.
 	
 Teachers are also exposed to and equipped with various e-pedagogical approach to allow dynamic teaching & learning to take place in and out of class.
@@ -38,5 +37,3 @@ The Device Management Application (DMA) works together with parents to safeguard
 |Mr|Melvin Lee|ICT Manager|320|[Email](mailto:lee_jun_xiong_melvin@schools.gov.sg)|
 |Mr|Mohd Saufi|Desktop Engineer|320|-|
 |Mr|Muhammad Hazwan|Desktop Engineer|320|-|
-	
-</div>
