@@ -1,5 +1,5 @@
 collections:
-  dsa:
+  dsa-sub-folder:
     output: true
     order:
       - DSA @ Orchid Park Secondary.md
