@@ -6,7 +6,7 @@ third_nav_title: Departments
 ---
 ![](/images/EdTech/168.jpg)
 
-# About the Department
+### About the Department
 
 The Education Technology department encourages students' autonomous learning through the use of technology. Notably, Orchid Park Secondary School leverages on the Chromebook to facilitate learning and collaboration.
 	
@@ -14,7 +14,7 @@ Teachers are also exposed to and equipped with various e-pedagogical approach to
 	
 Finally, the Education Technology department actively explores new digital tools to enhance teaching and learning of all Orchidians.
 	
-# Programs
+### Programs
 
 **Personalised Digital Learning Programme (PDLP)**
 
@@ -27,7 +27,7 @@ PLDs amplify student voice and allow students to take ownership and review their
 
 The Device Management Application (DMA) works together with parents to safeguard students’ interest, by offering parents options to control their child’s/ward’s use of PLDs. Overall, the DMA helps students to stay on task and use technology responsibly.
 	
-# Department Composition
+### Department Composition
 	
 
 | Title | Name | Designation | Ext | Email |
