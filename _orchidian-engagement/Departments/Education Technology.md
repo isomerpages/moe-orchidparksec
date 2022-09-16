@@ -8,7 +8,7 @@ third_nav_title: Departments
 
 ### About the Department
 
-<div align="justify" style="line-height: 1.5">
+<div align="justify">
 	
 <p>The Education Technology department encourages students' autonomous learning through the use of technology. Notably, Orchid Park Secondary School leverages on the Chromebook to facilitate learning and collaboration.</P>
 	
