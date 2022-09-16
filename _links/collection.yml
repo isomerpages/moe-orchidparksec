@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Students/.keep
-      - Students/Uniform.md
       - Students/Insurance.md
       - Prospective Students/.keep
       - Prospective Students/DSA Process.md
