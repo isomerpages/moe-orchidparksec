@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - Student Leadership.md
-      - Special Programs/Competitions.md
-      - Special Programs/GLOW.md
+      - Special Programs/.keep
       - Special Programs/Applied Learning Programme.md
       - Special Programs/Lifelong Learning Programme.md
-      - Special Programs/.keep
+      - Special Programs/GLOW.md
+      - Special Programs/Competitions.md
       - Experiential Learning/.keep
       - STAR.md
       - OPSS Distinctive & Special Programmes.md
