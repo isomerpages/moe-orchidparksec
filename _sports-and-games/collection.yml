@@ -2,7 +2,6 @@ collections:
   sports-and-games:
     output: true
     order:
-      - Football.md
       - Hockey (Boys).md
       - Netball (Girls).md
       - Wushu (Mixed).md
