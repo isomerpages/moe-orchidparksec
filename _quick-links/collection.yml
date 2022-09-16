@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - Students/Book List.md
       - Students/Home Based Learning.md
       - Students/Timetable.md
       - Students/.keep
