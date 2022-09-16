@@ -3,8 +3,6 @@ title: CCAs
 permalink: /learning-at-opss/ccas/
 description: ""
 ---
-Click [here](/cca/bb) to learn more about our CCAs.
-
 <h4>Department Mission</h4>
 <p>To provide authentic learning platforms for students to learn and develop 21CC skills, core values, NE and SE Competencies.</p>
 <h4>About the Department</h4>
