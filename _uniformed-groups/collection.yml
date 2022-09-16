@@ -2,5 +2,4 @@ collections:
   uniformed-groups:
     output: true
     order:
-      - NPCC.md
       - Boys' Brigade.md
