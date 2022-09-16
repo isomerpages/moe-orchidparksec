@@ -44,9 +44,8 @@ third_nav_title: Prospective Students
 
 |  S/N | Programme |  |
 | -------- | -------- | -------- |
-| 1     | Leadership     | [Apply](dsa/dsa-leadership)     |
+| 1     | Leadership     | [Apply](/dsa/dsa-leadership)     |
 |2|Community Youth Leaders|[Apply](/dsa/dsa-cyl)|
 |3|Sports & Games|[Apply](/dsa/dsa-sports-and-games)|
 |4|Visual Arts|[Apply](/dsa/dsa-visual-arts)|
 |5|Performing Arts|[Apply](/dsa/dsa-performing-arts)|
-
