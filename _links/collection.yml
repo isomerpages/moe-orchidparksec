@@ -1,5 +1,5 @@
 collections:
-  quick-links:
+  links:
     output: true
     order:
       - Students/Insurance.md
