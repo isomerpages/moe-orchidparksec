@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Students/.keep
-      - Students/Timetable.md
       - Students/Home Based Learning.md
       - Students/Book List.md
       - Students/Uniform.md
