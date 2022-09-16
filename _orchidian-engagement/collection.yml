@@ -2,18 +2,18 @@ collections:
   orchidian-engagement:
     output: true
     order:
-      - Departments/Mother Tongue Languages.md
-      - Departments/Education Technology.md
-      - Departments/Executive & Administration.md
-      - Departments/English Language & Literature.md
-      - Departments/Computer Applications & Elements of Business Skills.md
       - Departments/.keep
+      - Departments/Computer Applications & Elements of Business Skills.md
       - Departments/Craft & Technology.md
-      - Departments/Student Management.md
+      - Departments/Education Technology.md
+      - Departments/English Language & Literature.md
+      - Departments/Executive & Administration.md
       - Departments/Humanities.md
       - Departments/Mathematics & Principles of Accounts.md
+      - Departments/Mother Tongue Languages.md
       - Departments/Physical Education.md
       - Departments/Science.md
       - Departments/Student Development.md
+      - Departments/Student Management.md
       - CCAs.md
       - FSBB.md
