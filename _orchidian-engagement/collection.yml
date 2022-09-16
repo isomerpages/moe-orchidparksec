@@ -2,7 +2,6 @@ collections:
   orchidian-engagement:
     output: true
     order:
-      - CCAs.md
       - Departments/.keep
       - Departments/Aesthetics.md
       - Departments/Student Management.md
@@ -11,4 +10,5 @@ collections:
       - Departments/Physical Education.md
       - Departments/Science.md
       - Departments/Student Development.md
+      - CCAs.md
       - FSBB.md
