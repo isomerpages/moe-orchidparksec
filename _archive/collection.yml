@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Uniformed Groups.md
       - Visual and Performing Arts.md
       - Physical Sports and Games.md
       - OPSS Distinctive & Special Programmes.md
