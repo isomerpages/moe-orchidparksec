@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/WIP/Sep-17-2022 17-19-50.gif
+      background: /images/WIP/sample-home.gif
       key_highlights:
         - title: Home-Based Learning 2022
           description: Clink link to find out more...
