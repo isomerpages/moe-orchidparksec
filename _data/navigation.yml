@@ -6,7 +6,9 @@ links:
     collection: orchidian-engagement
   - title: Orchidian Empowerment
     collection: orchidian-empowerment
-  - title: Announcements
-    url: /announcements
   - title: Links
     collection: links
+  - title: Announcements
+    url: /announcements
+  - title: Sample
+    url: /sample
