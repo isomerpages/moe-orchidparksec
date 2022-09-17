@@ -20,16 +20,17 @@ description: ""
 	</tbody></table>
 	<p>For 2 pictures. Program details are written here.</p>
 	<h4>Program 3</h4>
-	<table><tbody><tr>
-		<td><img src="/images/WIP/021.jpg"></td><td><img src="/images/WIP/021.jpg"></td>
+<table><tbody><tr>
+	<td><img src="/images/WIP/021.jpg"></td><td><img src="/images/WIP/021.jpg"></td>
 		</tr><tr>
 			<td><img src="/images/WIP/021.jpg"></td><td><img src="/images/WIP/021.jpg"></td>
 		</tr>
 		
-	</tbody></table>
-	<p>For 4 pictures. Program details are written here.</p>
-	<h4>Alternate Image</h4>
-	<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTh5MhYciaQz6J4YfuWYEGM3yLC0qBKm1NJOvTMhiu0eyye-naNNxs1dqCxcFvCnx9zHZlFgnYDw26K/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</tbody></table>
+<p>For 4 pictures. Program details are written here.</p>
+<h4>Alternate Image</h4>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTh5MhYciaQz6J4YfuWYEGM3yLC0qBKm1NJOvTMhiu0eyye-naNNxs1dqCxcFvCnx9zHZlFgnYDw26K/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<p>Using google slides as an image carousel.</p>
 </div>
 
 #### Department Composition
