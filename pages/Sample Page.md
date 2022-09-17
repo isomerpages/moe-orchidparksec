@@ -14,20 +14,22 @@ description: ""
 <img src="/images/WIP/021.jpg">
 <p>For 1 picture. Program details are written here</p>
 	<h4>Program 2</h4>
-	<table><tr>
+	<table><tbody><tr>
 		<td><img src="/images/WIP/021.jpg"></td><td><img src="/images/WIP/021.jpg"></td>
 		</tr>
-	</table>
+	</tbody></table>
 	<p>For 2 pictures. Program details are written here.</p>
 	<h4>Program 3</h4>
-	<table><tr>
+	<table><tbody><tr>
 		<td><img src="/images/WIP/021.jpg"></td><td><img src="/images/WIP/021.jpg"></td>
-		<tr>
+		</tr><tr>
 			<td><img src="/images/WIP/021.jpg"></td><td><img src="/images/WIP/021.jpg"></td>
 		</tr>
-		</tr>
-	</table>
+		
+	</tbody></table>
 	<p>For 4 pictures. Program details are written here.</p>
+	<h4>Alternate Image</h4>
+	<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTh5MhYciaQz6J4YfuWYEGM3yLC0qBKm1NJOvTMhiu0eyye-naNNxs1dqCxcFvCnx9zHZlFgnYDw26K/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 
 #### Department Composition
@@ -35,4 +37,3 @@ description: ""
 | Title| Name|Designation| Ext|Email|
 | -------- | -------- | -------- |-|-|
 | Mr     | Ben     | Assistant Manager |999|-
-
