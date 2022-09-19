@@ -1,5 +1,5 @@
 collections:
-  student-development:
+  old-student-development:
     output: true
     order:
       - Student Development.md
