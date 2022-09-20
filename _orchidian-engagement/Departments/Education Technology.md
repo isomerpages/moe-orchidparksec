@@ -18,7 +18,7 @@ third_nav_title: Departments
 
 </div>
 	
-### Programs
+### Programmes
 
 ##### Personalised Digital Learning Programme (PDLP)
 
