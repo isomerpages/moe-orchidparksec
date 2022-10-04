@@ -18,8 +18,9 @@ third_nav_title: Our Good Stories
 	
 <p>Well said Marsya!</p>
 	
-<img src="/images/gs1.jpeg" style="width:40%" align="left"><br><br><br><br><br><br><br><br><br>
-	
-<p align="left">Written by: Charlene Siau (Vanda 6, 2021)</p>
-	
+<img src="/images/gs1.jpeg" style="width:40%" align="left">
+</div>
+
+<div align="left">
+<p>Written by: Charlene Siau (Vanda 6, 2021)</p>
 </div>
