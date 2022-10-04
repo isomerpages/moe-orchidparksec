@@ -16,4 +16,8 @@ third_nav_title: Our Good Stories
 	
 <img src="/images/gs10.jpg">
 	
+<p> was almost touched to tears when the letter was handed to him.  Wow!  You made someone’s day by just desiring to go the extra mile to look out for others.  Well done, young man!</p>
+	
+<img src="/images/gs11.jpg">
+	
 </div>
