@@ -17,10 +17,7 @@ third_nav_title: Our Good Stories
 <p>Marsya is undoubtedly a role model for us all. She has reminded us that we should not take things for granted and that no one is ever too young or too old to help someone else. She believes that no matter how small, our actions would always be seen and remembered by others.</p>
 	
 <p>Well said Marsya!</p>
+<p>Written by: Charlene Siau (Vanda 6, 2021)</p>
 	
 <img src="/images/gs1.jpeg" style="width:40%" align="left">
-</div>
-
-<div align="left">
-<p>Written by: Charlene Siau (Vanda 6, 2021)</p>
 </div>
