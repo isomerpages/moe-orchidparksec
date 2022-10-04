@@ -21,4 +21,6 @@ ARASH MUHAMMAD BIN ABDUL RAHMAN (S3C1, 2019)</h3>
 	
 <img src="/images/gs13.jpg">
 	
+<p>Well done, boys! You have indeed learnt our ORCHID values well, and have lived them out too!</p>
+	
 </div>
