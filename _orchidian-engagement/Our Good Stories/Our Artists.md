@@ -27,6 +27,8 @@ Additionally, we are also pleased to showcase the other 3 pieces of artwork by&n
 <img src="/images/gs5.jpg">
 	
 <p><strong>Wong Shin Woon (Vanda-7)</strong></p>
-<img src="/images/gs6.jpg">Our Art teachers have this to say, ‘We have very committed and passionate students who are very willing to try and explore various art genres. They have indeed done us proud with their unwavering dedication and have always proved that they are able to surpass expectations!<p></p>
+<img src="/images/gs6.jpg">
+	
+<p>Our Art teachers have this to say, ‘We have very committed and passionate students who are very willing to try and explore various art genres. They have indeed done us proud with their unwavering dedication and have always proved that they are able to surpass expectations!</p>
 	
 </div>
