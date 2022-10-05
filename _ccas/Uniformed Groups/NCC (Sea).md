@@ -4,8 +4,7 @@ permalink: /cca/ncc/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
-
+<div align="justify">
 <h4>OPSS National Cadet Corps (Sea)</h4>
 <img style="width: 33%;" src="/images/nccsea.jpg" />
 <h4><strong>Vision</strong></h4>
@@ -54,5 +53,14 @@ third_nav_title: Uniformed Groups
 </tr>
 </tbody>
 </table>
-
-<p>Updated on 23rd Aug '22'</p>
+<h4>Photos</h4>
+<table>
+<tr>
+<td style="width:50%"><img src="/images/CCA/NCC/NCC%20Sea%20NCC%20Day%20Parade%202022.jpg"></td><td style="width:50%"><img src="/images/CCA/NCC/NCC%20Sea%20IFC%20Lesson%202022.jpg"></td>
+</tr>
+<tr>
+<td style="width:50%"><img src="/images/CCA/NCC/NCC%20Sea%20Dragon%20Boat%202022.jpg"></td><td style="width:50%"><img src="/images/CCA/NCC/NCC%20Sea%20Navy@Vivo%202019(1).jpg"></td>
+</tr>
+</table>
+	
+</div>
