@@ -4,7 +4,7 @@ permalink: /cca/football/
 description: ""
 third_nav_title: Sports & Games
 ---
-
+<div align="justify">
 
 <h4>About the CCA</h4>
 <p>Students will be exposed to trainings, competitions, friendly matches and refereeing practices to develop their level of competencies and football knowledge. Students will also have the opportunity to hone their leadership capabilities through various leadership appointments and organising the Values-In-Action (VIA) project. Students will also get a rare opportunity to be trained by external coaches from Tampines Rovers FC and SportSG (subject to availability), where their football skills are further developed under the guidance of established coaches.&nbsp;</p>
@@ -51,9 +51,13 @@ third_nav_title: Sports & Games
 </tbody>
 </table>
 <h4>Photos</h4>
-<img src="/images/fb1.jpg"><br>
-<img src="/images/fb2.jpg"><br>
-<img src="/images/fb3.jpg"><br>
-<img src="/images/fb4.jpg"><br>
-<img src="/images/fb5.jpg">
-<p>Updated on 23rd Aug '22'</p>
+<table>
+<tr>
+<td colspan="2"><img src="/images/CCA/Football/Football_C%20Div_Runner%20Up_2022.jpg"></td>
+</tr>
+<tr>
+<td style="width:50%"><img src="/images/CCA/Football/Football_B%20Div_Match_2022.jpg"></td><td style="width:50%"><img src="/images/CCA/Football/Football_C%20Div_Match_2022.jpg"></td>
+</tr>
+</table>
+	
+</div>
