@@ -4,7 +4,7 @@ permalink: /cca/netball/
 description: ""
 third_nav_title: Sports & Games
 ---
-
+<div align="justify">
 
 <h4>About the CCA</h4>
 <p>Girls who are passionate about Netball and working together as a team, who put in the hours to train to become better players and teammates who display commitment, camaraderie and compassion with the goal to become respected leaders and ambassadors for the school and sports values.</p>
@@ -45,4 +45,13 @@ third_nav_title: Sports & Games
 </tbody>
 </table>
 <h4>Photos</h4>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSiuDzDtcMf2Q27dEEaGBsG-F0HIHuCtBUgMJM_Jf0Xndk4x-IrS5-6ArkPCFe7Hrqyb6XHTNUr64Ve/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<table>
+<tr>
+<td colspan="2"><img src="/images/CCA/Netball/Netball_B%20Div%20Competition_2022.jpeg"></td>
+</tr>
+<tr>
+<td style="width:50%"><img src="/images/CCA/Netball/Netball_%20Training%20ISH_2022.jpeg"></td><td style="width:50%"><img src="/images/CCA/Netball/Netball_VIA_2019.jpg"></td>
+</tr>
+</table>
+	
+</div>
