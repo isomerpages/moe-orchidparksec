@@ -4,8 +4,7 @@ permalink: /cca/npcc/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
-
+<div align="justify">
 <h4>National Police Cadet Corps (NPCC)</h4>
 <p><strong><em>"Pride &amp; Passion"</em></strong></p>
 <img style="width: 33%;" src="/images/npcc.jpg" /><br>
@@ -54,4 +53,13 @@ third_nav_title: Uniformed Groups
 </tbody>
 </table>
 <h4>Photos</h4>
-	<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTINJpkIZy_r8S2ErmXqlGz-j3GKOWWQlILq_YIVzCbbksXE7nSPAXscgfnlwxLQrVbgQIPTZ4ictv-/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+	<table>
+		<tr>
+			<td colspan="2"><img src="/images/CCA/NPCC/NPCC%20Nee%20Soon%20NDO%202022.jpg"></td>
+		</tr>
+		<tr>
+			<td style="width:50%"><img src="/images/CCA/NPCC/NPCC%20Air%20Pistol%202022.jpg"></td><td style="widht:50%"><img src="/images/CCA/NPCC/NPCC%20unit%202022.jpg"></td>
+		</tr>
+	</table>
+	
+</div>
