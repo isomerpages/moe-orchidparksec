@@ -63,7 +63,7 @@ third_nav_title: Sports & Games
 </tr>
 </tbody>
 </table>
-<h4>Photos</h3>
+<h4>Photos</h4>
 <table>
 <tr>
 <td><img src="/images/CCA/Wushu/Wushu%20Comp%201.jpg"></td>
