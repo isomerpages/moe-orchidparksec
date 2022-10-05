@@ -4,9 +4,9 @@ permalink: /cca/basketball/
 description: ""
 third_nav_title: Sports & Games
 ---
+<div align="justify">
 
-
-<p><strong><em>"With great dedication, determination and discipline, comes great sportsmanship.<br /></em></strong><strong><em>A young man of integrity and honour"</em></strong></p>
+<p><strong><em>"With great dedication, determination and discipline, comes great sportsmanship. A young man of integrity and honour"</em></strong></p>
 <h4>About the CCA</h4>
 <p>A group of students, passionate about Basketball and willing to put in their best efforts into training and competitions and developing into the best versions of themselves as people of passion, commitment and integrity.</p>
 <h4>Training Details</h4>
@@ -70,12 +70,13 @@ third_nav_title: Sports & Games
 </tbody>
 </table>
 <h4>Photos</h4>
-<img style="width: 70%;" src="/images/bball1.jpg" align = "left" /><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<p>Boys&rsquo; Basketball friendly matches with Malaysian schools in November 2019</p>
-<img style="width: 70%;" src="/images/bball2.jpg" align = "left" /><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<p>Boys&rsquo; CCA Bonding Session to celebrate the end of Term 1, 2020</p>
-<img style="width: 70%;" src="/images/bball3.jpg" align = "left" /><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<p>The &lsquo;B&rsquo; Division girls fought valiantly against their counterpart in a North Zone B Division Basketball Competition 2020 match</p>
-<img style="width: 70%;" src="/images/bball4.jpg" align = "left" /><br><br><br><br><br><br><br><br><br><br>
-<p>&ldquo;We are new! So come! Join Us! And let&rsquo;s build up this CCA together!&rdquo;</p>
-<p>Updated on 23rd Aug '22'</p>
+<table>
+<tr>
+<td style="width:50%"><img src="/images/CCA/Basketball/Basketball%20(Girls)_NSG%20B%20Division_2022.jpg"></td><td><img src="/images/CCA/Basketball/Basketball%20Boys,%20NSG%20Game,%202022.jpeg"></td>
+</tr>
+<tr>
+<td colspan="2"><img src="/images/CCA/Basketball/Basketball%20(Girls)_NSG%20C%20Division_2022.jpg"></td>
+</tr>
+</table>
+	
+</div>
