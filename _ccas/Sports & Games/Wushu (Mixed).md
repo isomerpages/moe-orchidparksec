@@ -4,7 +4,7 @@ permalink: /cca/wushu/
 description: ""
 third_nav_title: Sports & Games
 ---
-
+<div align="justify">
 
 <p><strong><em>"坚韧不拔"</em></strong></p>
 <img style="width: 33%;" src="/images/wushu.png" />
@@ -63,4 +63,13 @@ third_nav_title: Sports & Games
 </tr>
 </tbody>
 </table>
-<p>Updated on 23rd Aug '22'</p>
+<h4>Photos</h3>
+<table>
+<tr>
+<td><img src="/images/CCA/Wushu/Wushu%20Comp%201.jpg"></td>
+</tr>
+<tr>
+<td><img src="/images/CCA/Wushu/Wushu%20Comp%202.jpg"></td>
+</tr>
+</table>
+</div>
