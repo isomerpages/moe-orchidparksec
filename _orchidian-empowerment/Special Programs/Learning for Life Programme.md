@@ -1,5 +1,5 @@
 ---
-title: Learning  Life Programme
+title: Learning for Life Programme
 permalink: /orchidian-empowerment/special-programs/llp/
 description: ""
 third_nav_title: Special Programs
