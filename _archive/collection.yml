@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Hockey (Boys).md
       - Good Stories.md
       - Useful Links for Parents.md
       - Clubs & Societies.md
