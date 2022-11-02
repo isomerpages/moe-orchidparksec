@@ -4,9 +4,6 @@ permalink: /cca/bb/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
-
-
 <h4>62nd Singapore Company &ndash; &ldquo;Brotherhood&rdquo;</h4>
 <img style="width: 33%;" src="/images/bb1.png" />
 <h4 style="text-align: center;"><strong>62nd Singapore Coy</strong></h4>
@@ -53,4 +50,6 @@ third_nav_title: Uniformed Groups
 </tbody>
 </table>
 <h4>Photos</h4>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vScSEqH3Dzq1mbK47iPSpj7IFxBoVXBMrqiBql3yWOE8qjR8rovxkl3hoZZ0Nh0V04BROLmNe9dRPXY/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<table><tr><img src="/images/CCA/BB/bb(4).jpeg"></tr>
+<tr><img src="/images/CCA/BB/bb(1).jpeg"></tr>
+</table>
