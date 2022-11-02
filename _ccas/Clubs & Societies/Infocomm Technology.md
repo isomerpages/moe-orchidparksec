@@ -39,5 +39,5 @@ third_nav_title: Clubs & Societies
 </tbody>
 </table>
 	<h4>Photos</h4>
-	<table><tr><td style="width: 50%"><img src="/images/CCA/Infocomm/infocomm(1).jpeg"></td><td><img src="/images/CCA/Infocomm/infocomm(2).jpeg"></td></tr><tr><td><img src="/images/CCA/Infocomm/infocomm4.jpeg"></td><td><img src="/images/CCA/Infocomm/infocomm3.jpeg"></td></tr></table>
+	<table><tr><td style="width: 50%"><img src="/images/CCA/Infocomm/infocomm(1).jpeg"></td><td><img src="/images/CCA/Infocomm/infocomm(2).jpeg"></td></tr><tr><td><img src="/images/CCA/Infocomm/infocomm4.jpeg"></td><td style="vertical-align: middle"><img src="/images/CCA/Infocomm/infocomm3.jpeg"></td></tr></table>
 </div>
