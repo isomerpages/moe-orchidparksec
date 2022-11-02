@@ -46,7 +46,7 @@ third_nav_title: Departments
 <th style="text-align: center;"><strong>S/N</strong></th>
 <th style="text-align: center;"><strong>Title</strong></th>
 <th style="text-align: center;"><strong>Name of Personnel </strong></th>
-<th style="text-align: center;"><strong>Designation/</strong></th>
+<th style="text-align: center;"><strong>Designation</strong></th>
 <th style="text-align: center;"><strong>Ext.</strong></th>
 </tr>
 <tr>
