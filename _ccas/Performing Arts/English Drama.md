@@ -4,7 +4,7 @@ permalink: /cca/drama/
 description: ""
 third_nav_title: Performing Arts
 ---
-
+<div align="justify">
 
 <p><strong><em>"All The World&rsquo;s A Stage. It's SHOW TIME !"</em></strong></p>
 <h4>About the CCA</h4>
@@ -52,4 +52,7 @@ third_nav_title: Performing Arts
 </tr>
 </tbody>
 </table>
-<p>Updated on 23rd Aug '22'</p>
+	<h4>Photos</h4>
+	<table><tr><td><img src="/images/CCA/Drama/drama3.jpeg"></td>
+		<tr><td><img src="/images/CCA/Drama/drama2.jpeg"></td></tr>
+</div>
