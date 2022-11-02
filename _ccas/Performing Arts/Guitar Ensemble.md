@@ -61,5 +61,5 @@ third_nav_title: Performing Arts
 </tbody>
 </table>
 <h4>Photo</h4>
-	<table><tr><td><img src="/images/CCA/Guitar/guitar4.jpeg"></td><td><img src="/images/CCA/Guitar/guitar1.jpeg"></td></tr><tr><td colspan="2"><img src="/images/CCA/Guitar/guitar3.jpeg"></td></tr></table>
+	<table><tr><td><img src="/images/CCA/Guitar/guitar4.jpeg"></td><td style="vertical-align: middle"><img src="/images/CCA/Guitar/guitar1.jpeg"></td></tr><tr><td colspan="2"><img src="/images/CCA/Guitar/guitar3.jpeg"></td></tr></table>
 </div>
