@@ -4,8 +4,7 @@ permalink: /cca/guitar/
 description: ""
 third_nav_title: Performing Arts
 ---
-
-
+<div align="justify">
 <h4>About the CCA</h4>
 <p>OPSS Guitar Ensemble was established in 2008 and has matured under the guidance of our team of dedicated instructors and teachers. The Ensemble has grown in number and there are currently more than seventy members.</p>
 <p>The Ensemble plays music ranging from classical to traditional folk music. In order to do that, students are taught how to read music as well as guitar skills to create beautiful music together. The Ensemble aims to develop leadership, teamwork, self-discipline and creativity in the students through music.</p>
@@ -62,5 +61,5 @@ third_nav_title: Performing Arts
 </tbody>
 </table>
 <h4>Photo</h4>
-<img src="/images/ge.jpg">
-<p>Updated on 23rd Aug '22'</p>
+	<table><tr><td><img src="/images/CCA/Guitar/guitar4.jpeg"></td><td><img src="/images/CCA/Guitar/guitar1.jpeg"></td></tr><tr><td colspan="2"><img src="/images/CCA/Guitar/guitar3.jpeg"></td></tr></table>
+</div>
