@@ -54,5 +54,5 @@ third_nav_title: Performing Arts
 </table>
 	<h4>Photos</h4>
 	<table><tr><td><img src="/images/CCA/Drama/drama3.jpeg"></td>
-		<tr><td><img src="/images/CCA/Drama/drama2.jpeg"></td></tr>
+		<tr><td><img src="/images/CCA/Drama/drama2.jpeg"></td></tr></table>
 </div>
