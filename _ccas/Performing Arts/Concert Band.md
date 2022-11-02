@@ -4,7 +4,7 @@ permalink: /cca/band/
 description: ""
 third_nav_title: Performing Arts
 ---
-
+<div align="justify">
 
 <p style="text-align: center;">Previously Known as "Wind Orchestra"<br /><strong><em>"</em></strong><strong><em>Developing our students into confident, responsible and disciplined musicians and be recognized as one of the premier Secondary School Concert Band in Singapore</em></strong><strong><em>"</em></strong></p>
 <h4>About the CCA</h4>
@@ -60,6 +60,6 @@ third_nav_title: Performing Arts
 </tbody>
 </table>
 <h4>Photos</h4>
-<img src="/images/cband1.jpg"><br>
-<img src="/images/cband2.jpg">
-<p>Updates on 23rd Aug '22'</p>
+	<table><tr><td><img src="/images/CCA/Band/band2).jpeg"></td><td><img src="/images/CCA/Band/band6.jpeg"></td></tr><tr><td colspan="2"><img src="/images/CCA/Band/band4).jpeg"></td></tr></table>
+	
+</div>
