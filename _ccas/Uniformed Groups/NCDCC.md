@@ -4,8 +4,7 @@ permalink: /cca/ncdcc/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
-
+<div align="justify">
 <h4>National Civil Defence Cadet Corps (NCDCC)</h4>
 <img style="width: 20%;" src="/images/ncdcc.jpg" />
 <h4><strong>Vision</strong></h4>
@@ -51,5 +50,6 @@ third_nav_title: Uniformed Groups
 </tbody>
 </table>
 <h4>Photo</h4>
-<img src="/images/ncdcc1.jpeg">
-<p>Updated on 23rd Aug '22'</p>
+<table><tr><td width="50%" style="vertical-align: middle"><img src="/images/CCA/NCDCC/ncdcc%20(1).jpg"></td><td><img src="/images/CCA/NCDCC/ncdcc3.png"></td></tr><tr><td colspan="2"><img src="/images/CCA/NCDCC/ncdcc%20(2).jpg"></td></tr></table>
+	
+</div>
