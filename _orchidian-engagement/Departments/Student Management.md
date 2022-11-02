@@ -1,6 +1,6 @@
 ---
 title: Student Management
-permalink: /learning-at-opss/departments/student-management
+permalink: /learning-at-opss/departments/student-management/
 description: ""
 third_nav_title: Departments
 ---
@@ -46,7 +46,7 @@ third_nav_title: Departments
 <th style="text-align: center;"><strong>S/N</strong></th>
 <th style="text-align: center;"><strong>Title</strong></th>
 <th style="text-align: center;"><strong>Name of Personnel </strong></th>
-<th style="text-align: center;"><strong>Designation/</strong>Subject Taught</th>
+<th style="text-align: center;"><strong>Designation/</strong></th>
 <th style="text-align: center;"><strong>Ext.</strong></th>
 </tr>
 <tr>
@@ -59,7 +59,7 @@ third_nav_title: Departments
 <tr>
 <td style="text-align: center;">2</td>
 <td style="text-align: center;">Mr</td>
-<td style="text-align: center;">Wang Kenny</td>
+<td style="text-align: center;">Kenny Wang</td>
 <td style="text-align: center;">SH / Student Management<br />Level DM for Sec 4</td>
 <td style="text-align: center;">323</td>
 </tr>
@@ -73,7 +73,7 @@ third_nav_title: Departments
 <tr>
 <td style="text-align: center;">4</td>
 <td style="text-align: center;">Ms</td>
-<td style="text-align: center;">Chan Vanessa</td>
+<td style="text-align: center;">Vanessa Chan</td>
 <td style="text-align: center;">Level DM for Sec 1</td>
 <td style="text-align: center;">309</td>
 </tr>
