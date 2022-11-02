@@ -4,8 +4,7 @@ permalink: /cca/dance/
 description: ""
 third_nav_title: Performing Arts
 ---
-
-
+<div align="justify">
 <h4>About the CCA</h4>
 <p>OPdance is a versatile and vibrant dance group consisting of 70 over members who are given the opportunity to explore their creativity through this form of art. OPdance aims to expose our members to a variety of dance genres, with focus on dance genres such as Urban and Hip Hop. The members of the club are taught the basics of hip hop and the way to express our feelings on stage.&nbsp;</p>
 <p>Through our Wednesday's and Friday's dance sessions, members of the club can get the opportunity to learn exciting choreographies and go through physical training to strengthen both the body and mind. In the long run, members of the club can be expected to develop a sense of self-awareness and self-confidence. In addition, through dance training, members are also able to build up their teamwork as well as their discipline.</p>
@@ -62,4 +61,8 @@ third_nav_title: Performing Arts
 </tr>
 </tbody>
 </table>
-<p>Update on 23rd Aug '22'</p>
+<h4>Photos</h4>
+<table><tr><td><img src="/images/CCA/Dance/dance(2).jpeg"></td><td><img src="/images/CCA/Dance/dance3).jpeg"></td></tr>
+<tr><td><img src="/images/CCA/Dance/dance%209.jpeg"></td><td><img src="/images/CCA/Dance/dance6.jpeg"></td></tr>
+</table>
+</div>
