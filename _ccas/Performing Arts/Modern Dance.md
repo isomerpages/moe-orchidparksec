@@ -63,6 +63,6 @@ third_nav_title: Performing Arts
 </table>
 <h4>Photos</h4>
 <table><tr><td><img src="/images/CCA/Dance/dance(2).jpeg"></td><td><img src="/images/CCA/Dance/dance3).jpeg"></td></tr>
-<tr><td><img src="/images/CCA/Dance/dance%209.jpeg"></td><td><img src="/images/CCA/Dance/dance6.jpeg"></td></tr>
+<tr><td style="vertical-align: middle"><img src="/images/CCA/Dance/dance%209.jpeg"></td><td><img src="/images/CCA/Dance/dance6.jpeg"></td></tr>
 </table>
 </div>
