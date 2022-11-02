@@ -4,7 +4,7 @@ permalink: /cca/art/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-
+<div style="text-align: justify">
 
 <p><em>"Every Child is an Artist " --Pablo Picasso</em></p>
 <h4>About the CCA</h4>
@@ -62,4 +62,9 @@ third_nav_title: Clubs & Societies
 </tr>
 </tbody>
 </table>
-<p>Updates on 23rd Aug '22'</p>
+<h4>Photos</h4>
+<table><tr><td><img src="/images/CCA/Art/art(2).jpeg"></td><td><img src="/images/CCA/Art/art.jpeg"></td></tr>
+<tr><td><img src="/images/CCA/Art/art(1).jpeg"></td><td><img src="/images/CCA/Art/art(3).jpeg"></td></tr>
+</table>
+	
+</div>
