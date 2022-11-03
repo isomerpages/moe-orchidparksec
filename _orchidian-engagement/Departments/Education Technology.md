@@ -18,7 +18,7 @@ third_nav_title: Departments
 
 </div>
 	
-### Programmes
+#### Programmes
 
 ##### Personalised Digital Learning Programme (PDLP)
 
@@ -34,7 +34,7 @@ third_nav_title: Departments
 
 </div>
 
-### Department Composition
+#### Department Composition
 
 | Title | Name | Designation | Ext | Email |
 | -------- | -------- | -------- |---------|---------|
