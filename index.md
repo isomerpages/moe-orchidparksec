@@ -17,5 +17,5 @@ sections:
         - title: 23rd Prize Presentation Ceremony 2022
           description: Clink link to find out more...
           url: /images/E-Poster%20For%20School%20Website.jpeg
-      background: /images/Homepage/open house v3.png
+      background: /images/Homepage/open house v4.png
 ---
