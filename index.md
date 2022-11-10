@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/Open House 2022.png
       key_highlights:
         - title: Home-Based Learning 2022
           description: Clink link to find out more...
