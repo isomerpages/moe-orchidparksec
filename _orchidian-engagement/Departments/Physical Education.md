@@ -32,9 +32,20 @@ third_nav_title: Departments
 	
 <p>The components are :</p>
 	
+	
 *    RA gym programme that includes cardio training and the correct usage of free and fix weights
 *    NAPFA test
 	
 <h4>Sports Carnival</h4>
-<img src="images/Departments/PE/pe2.jpg">
-<img src="images/Departments/PE/pe3.jpg">
+	<table><tr><td><img src="images/Departments/PE/pe2.jpg"></td>
+		<td><img src="images/Departments/PE/pe3.jpg"></td></tr></table>
+	
+<p>This is a platform for students to demonstrate their skills and values honed during PE lessons, in a competitive format. These team competitions are held at an intra-school level where they participate with their classmates. Rules and competition formats are modified to ensure age-appropriateness of the activities. Students from various levels compete in different ball games (Sec 1 – Handball, Sec 2 – Basketball, Sec 3 – Floorball, Sec 4/5 – Volleyball) which they have learnt from their PE lessons respectively. For students who are not ready to compete in team sports, they have the option to participate in Tug of War, Mass Skipping and Darts-throwing. This student-led event also saw many of our students applying the knowledge of the games by serving as referees, where they build their confidence under intense pressure from their peer spectators.</p>
+	
+<h4>Outdoor Education</h4>
+	<img src="/images/Departments/PE/pe4.jpg">
+
+<p>Outdoor education is part of the National Outdoor Adventure Education Masterplan which MOE has put in place to strengthen the holistic development of all students. Secondary 1 students went for a level camp conducted at MOE Changi Coast Outdoor Adventure Learning Centre this year. The objective of the programme seeks to develop ruggedness, resilience, and build cohesion amongst the students as they work together in small teams to overcome various challenges. The students were grouped differently from their usual classes, and this enabled them to build friendships with others from the cohort and actively help one another achieve team goals through activities such as tent-pitching and outdoor cooking.</p>
+	
+
+	
