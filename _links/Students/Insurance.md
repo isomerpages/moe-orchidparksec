@@ -4,16 +4,10 @@ permalink: /links/Student/insurance/
 description: ""
 third_nav_title: Students
 ---
-
-
-![](/images/WIP/placeholder-image.png)
-
-# Group Personal Insurance
-
 <div align="justify">
 
-Please access the guide for insurance claim here.
+<p>Please access the guide for insurance claim <a href="/files/Insurance/Student%20GPA%20User%20Guide%20Parent.pdf">here</a>.</p>
 	
-Click here for more information on the policy.
+<p>Click <a href="/files/Insurance/Product%20Fact%20Sheet%20(Year%202022)%20(Sep%202022).pdf">here</a> for more information on the policy.</p>
 	
 </div>
