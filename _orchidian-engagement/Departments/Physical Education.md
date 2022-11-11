@@ -21,7 +21,7 @@ third_nav_title: Departments
 
 <p>2) Outdoor Education</p>
 <p>- Physical activities that cultivate an attitude of care and appreciation for the environment, and thoughtful consideration of the risks and safety of self and others.</p>
-<p>The module includes:</p>
+<p>- The module includes:</p>
 
 *    Risk assessment through the introduction of dragon boating and kayaking
 *    Knots-tying, orienteering, outdoor cooking and tent-pitching
