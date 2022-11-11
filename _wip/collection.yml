@@ -2,4 +2,4 @@ collections:
   wip:
     output: true
     order:
-      - Framework.md
+      - about ourpartners framework.md
