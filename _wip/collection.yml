@@ -2,6 +2,7 @@ collections:
   wip:
     output: true
     order:
+      - GLOW.md
       - empowerment specialprogram appliedlearningprogramme.md
       - empowerment studenttalent&allrounders.md
       - about ourpartners framework.md
