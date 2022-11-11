@@ -18,4 +18,9 @@ As part of our curriculum, students are given opportunities to inquire, develop 
 - National Schools Literature Festival<br>
 - YMCA Plain English Speaking Awards (PESA)<br>
 - Cluster Competitions</p>
+	
+<h4>kidsREAD</h4>
+<img src="/images/Departments/EL/el2.jpg">
+<p>Our Secondary Two students are given the opportunity to participate in kidsREAD. This is a nationwide reading programme aimed at cultivating the love of reading among lower primary students. Each session spans an hour where children in a primary school are engaged in a fun and interactive programme by our student volunteers. Our students are trained by the National Library and mentored by a group of teachers as part of this programme.</p>
 
+</div>
