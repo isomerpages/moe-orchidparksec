@@ -9,7 +9,7 @@ third_nav_title: Departments
 <img src="/images/Departments/EdTech/edtech1.jpg">
 <h4>About the Department</h4>
 <p>The Educational Technology department encourages Orchidians' autonomous learning through the use of technology. We leverage the Chromebook to facilitate learning and collaboration both within and beyond the classroom. Teachers are also exposed to and equipped with various e-pedagogical approaches so that teaching &  learning is dynamic, especially with Home-Based Learning and Alternative Assessments being a regular feature of life in Orchid Park. The Educational Technology department also actively explores new digital tools to enhance the holistic Orchidian Experience for each child.</p>
-<h4>Programme 1 - Personalised Digital Learning Programme</h4>
+<h4>Personalised Digital Learning Programme</h4>
 <img src="/images/Departments/EdTech/edtech2.png">
 <p>Under the Personalised Digital Learning Programme (PDLP), every student owns a Personalised Learning Device (PLD) which enhances his learning experience. OPSS uses Google Classroom and the Google Suite of products to facilitate students in learning and collaborating anytime, anywhere.<br>
 The use of PLD promotes self-directed, active and engaged learning by our students. They are able to access MOE-curated content through the Singapore Student Learning Space, above and beyond customised and personalised notes provided by their teachers. <br>
