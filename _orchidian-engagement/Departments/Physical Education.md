@@ -4,13 +4,14 @@ permalink: /learning-at-opss/departments/physical-education/
 description: ""
 third_nav_title: Departments
 ---
+<div align="justify">
 <h4>Physical Education Department</h4>
-<table><tr><td><img src="/images/Departments/PE/pe1.jpg"></td></tr>
-<tr><td colspan="2"><h4>About the Department:</h4>
-<p><div>The department aims to expose Orchidians to a variety of physical activities and equip them with relevant skills and knowledge to pursue an active and healthy lifestyle. The PE curriculum in Orchid Park Secondary School aims to develop motor skills and core values for students to learn from, participate in and enjoy a wide variety of physical activities and sports. With a broad range of physical competencies, every student is able to continue to participate and pursue physical activities and sports of their interest and ability. Be it for recreation, personal well-being, personal challenges or national honour, it is believed that continuous participation in physical activities and sports is a means to a better and more balanced adulthood.</p></div>
+	<img src="/images/Departments/PE/pe1.jpg">
+<h4>About the Department:</h4>
+<p>The department aims to expose Orchidians to a variety of physical activities and equip them with relevant skills and knowledge to pursue an active and healthy lifestyle. The PE curriculum in Orchid Park Secondary School aims to develop motor skills and core values for students to learn from, participate in and enjoy a wide variety of physical activities and sports. With a broad range of physical competencies, every student is able to continue to participate and pursue physical activities and sports of their interest and ability. Be it for recreation, personal well-being, personal challenges or national honour, it is believed that continuous participation in physical activities and sports is a means to a better and more balanced adulthood.</p>
 <p>The curriculum is divided into the following categories:</p>
-<p> 1)<span class="tab"></span>Games and Sports<br>
-* 	A range of gameplay experiences from territorial-invasion, net barrier and striking-fielding and other games encourages students’ safe and maximal participation, with modification to game rules to match and enhance their physical skills and cognitive understanding.</div>
+	<p>1)Games and Sports</p>
+	<p>- A range of gameplay experiences from territorial-invasion, net barrier and striking-fielding and other games encourages students’ safe and maximal participation, with modification to game rules to match and enhance their physical skills and cognitive understanding.</p>
 
 
 <img src="xxx"></td></tr></table>
