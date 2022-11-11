@@ -1,0 +1,4 @@
+collections:
+  wip:
+    output: true
+    order: []
