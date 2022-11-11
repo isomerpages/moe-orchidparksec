@@ -2,4 +2,5 @@ collections:
   wip:
     output: true
     order:
+      - Student Talent & All Rounders.md
       - about ourpartners framework.md
