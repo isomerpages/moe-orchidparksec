@@ -2,6 +2,7 @@ collections:
   wip:
     output: true
     order:
+      - Competitions.md
       - empowerment specialprogrammes glow.md
       - empowerment specialprogram appliedlearningprogramme.md
       - empowerment studenttalent&allrounders.md
