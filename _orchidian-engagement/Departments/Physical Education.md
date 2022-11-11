@@ -35,3 +35,6 @@ third_nav_title: Departments
 *    RA gym programme that includes cardio training and the correct usage of free and fix weights
 *    NAPFA test
 	
+<h4>Sports Carnival</h4>
+<img src="images/Departments/PE/pe2.jpg">
+<img src="images/Departments/PE/pe3.jpg">
