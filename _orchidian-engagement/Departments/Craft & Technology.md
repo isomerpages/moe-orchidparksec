@@ -14,29 +14,30 @@ third_nav_title: Departments
 <h4>Art Programmes</h4>
 <table><tbody><tr><td style="vertical-align: middle"><img src="/images/Departments/CNT/cnt2.png"></td><td><img src="/images/Departments/CNT/cnt3.png"></td>
 </tr></tbody></table>
-<p>1. Lower Secondary Art Programmes (Common Curriculum)</p>
-<p>2. Upper Secondary Art Programmes at the Express (O-level), Normal Academic (N-level) and Normal Technical (NT-level) levels.</p>    
-<p>3. Enhance Art Programme (for upper secondary Art students)</p>
-<p>4. DSA Art Activities</p>
-<p>5. Visual Art Competitions</p>
+<p>1. Lower Secondary Art Programmes (Common Curriculum)
+<br>2. Upper Secondary Art Programmes at the Express (O-level), Normal Academic (N-level) and Normal Technical (NT-level) levels. 
+<br>3. Enhance Art Programme (for upper secondary Art students)
+<br>4. DSA Art Activities
+<br>5. Visual Art Competitions</p>
 
 <h4>Design &amp; Technology</h4>
 <table><tbody><tr><td><img src="/images/Departments/CNT/cnt4.png"></td><td style="vertical-align: middle"><img src="/images/Departments/CNT/cnt5.png"></td></tr></tbody></table>
-<p>1. Lower Secondary D&amp;T Programmes (Common Curriculum)</p>
-<p>2. Upper Secondary D&amp;T Programmes at the Express (O-level), Normal Academic (N-level) and Normal Technical (NT-level) levels.</p>
-<p>3. Technology-based competitions,activities and learning journeys.</p>
+<p>1. Lower Secondary D&amp;T Programmes (Common Curriculum)
+<br>2. Upper Secondary D&amp;T Programmes at the Express (O-level), Normal Academic (N-level) and Normal Technical (NT-level) levels.
+<br>3. Technology-based competitions,activities and learning journeys.</p>
 
 <h4>Music</h4>
 <table><tbody><tr><td style="vertical-align: middle"><img src="/images/Departments/CNT/cnt6.png"></td><td><img src="/images/Departments/CNT/cnt7.png"></td></tr></tbody></table>
-<p>1. Lower Secondary General Music Programme (Common Curriculum)</p> 
-<p>2. Upper Secondary Normal Technical Music Programme</p><p>3. Advanced Music Programme (interest-based)</p>
+<p>1. Lower Secondary General Music Programme (Common Curriculum)
+<br>2. Upper Secondary Normal Technical Music Programme
+<br>3. Advanced Music Programme (interest-based)</p>
 	
 <h4>Nutrition &amp; Food Science</h4>
 <table><tbody><tr><td><img src="/images/Departments/CNT/cnt8.png"></td><td style="vertical-align: middle"><img src="/images/Departments/CNT/cnt9.png"></td></tr></tbody></table>
-<p>1. Lower Secondary FCE Programmes (Common Curriculum)</p>
-<p>2. Upper Secondary FCE Programmes at the Express (O-level), Normal Academic (N-level) and Normal Technical (NT-level) levels.</p>
-<p>3. Food science workshops</p>
-<p>4. Culinary competitions</p>
+<p>1. Lower Secondary FCE Programmes (Common Curriculum)
+<br>2. Upper Secondary FCE Programmes at the Express (O-level), Normal Academic (N-level) and Normal Technical (NT-level) levels.
+<br>3. Food science workshops
+<br>4. Culinary competitions</p>
 
 <h4>Department Composition</h4>
 
