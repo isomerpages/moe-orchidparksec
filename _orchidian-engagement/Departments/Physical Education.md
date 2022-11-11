@@ -30,7 +30,7 @@ third_nav_title: Departments
 <p>3) Physical Health and Fitness</p>
 <p>- Physical activities with understanding of the health benefits derived and how living active and healthy lives is connected with the world around them and the health of others.</p>
 	
-<p>The components are :</p>
+<p>- The components are :</p>
 	
 	
 *    RA gym programme that includes cardio training and the correct usage of free and fix weights
