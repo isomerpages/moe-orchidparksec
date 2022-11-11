@@ -14,10 +14,10 @@ third_nav_title: Departments
 <p>- A range of gameplay experiences from territorial-invasion, net barrier and striking-fielding and other games encourages students’ safe and maximal participation, with modification to game rules to match and enhance their physical skills and cognitive understanding.</p>
 <p>- The following Games and Sports are taught:</p>
 	
--    Net Barrier: Badminton and Volleyball
--    Territorial-Invasion: Basketball, Floorball, Handball, Netball and Soccer
--    Striking-Fielding: Softball
--    Track and Field events: Sprints, Baton Passing, Javelin and Shotput
+a)Net Barrier: Badminton and Volleyball
+b)Territorial-Invasion: Basketball, Floorball, Handball, Netball and Soccer
+c)Striking-Fielding: Softball
+d)Track and Field events: Sprints, Baton Passing, Javelin and Shotput
 
 <p>2) Outdoor Education</p>
 <p>- Physical activities that cultivate an attitude of care and appreciation for the environment, and thoughtful consideration of the risks and safety of self and others.</p>
