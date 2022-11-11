@@ -1,10 +1,13 @@
 ---
 title: Physical Education
-permalink: /learning-at-opss/departments/physical-education
+permalink: /learning-at-opss/departments/physical-education/
 description: ""
 third_nav_title: Departments
 ---
 <h4>Physical Education Department</h4>
+
+<table><tr><td><img src="![PE Dept](/images/Departments/PE/pe1.jpg)"></td></tr>
+
 <h4>Department Mission</h4>
 <p>To expose students to a variety of Physical Activities and equip them with relevant skills and knowledge to advance the pursuit of an active and healthy lifestyle&nbsp;</p>
 <h4>About the Department</h4>
