@@ -23,9 +23,11 @@ d) Track and Field events: Sprints, Baton Passing, Javelin and Shotput
 <p>- Physical activities that cultivate an attitude of care and appreciation for the environment, and thoughtful consideration of the risks and safety of self and others.</p>
 <p>- The module includes:</p>
 
+<p>
 a) Risk assessment through the introduction of dragon boating and kayaking<br>
 b) Knots-tying, orienteering, outdoor cooking and tent-pitching<br>
-c) Simple first aid, bandaging and introduction to usage of CPR and AED
+c) Simple first aid, bandaging and introduction to usage of CPR and AED<br>
+</p>
 	
 <p>3) Physical Health and Fitness</p>
 <p>- Physical activities with understanding of the health benefits derived and how living active and healthy lives is connected with the world around them and the health of others.</p>
