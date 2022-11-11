@@ -2,5 +2,6 @@ collections:
   wip:
     output: true
     order:
+      - Applied Learning Programme.md
       - empowerment studenttalent&allrounders.md
       - about ourpartners framework.md
