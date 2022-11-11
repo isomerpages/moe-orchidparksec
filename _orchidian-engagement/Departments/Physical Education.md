@@ -14,7 +14,6 @@ third_nav_title: Departments
 	<p>- A range of gameplay experiences from territorial-invasion, net barrier and striking-fielding and other games encourages students’ safe and maximal participation, with modification to game rules to match and enhance their physical skills and cognitive understanding.</p>
 
 
-<img src="xxx"></td></tr></table>
 	
 <h4>Department Mission</h4>
 <p>To expose students to a variety of Physical Activities and equip them with relevant skills and knowledge to advance the pursuit of an active and healthy lifestyle&nbsp;</p>
