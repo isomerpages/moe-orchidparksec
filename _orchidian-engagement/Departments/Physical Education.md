@@ -13,11 +13,13 @@ third_nav_title: Departments
 <p>1) Games and Sports</p>
 <p>- A range of gameplay experiences from territorial-invasion, net barrier and striking-fielding and other games encourages students’ safe and maximal participation, with modification to game rules to match and enhance their physical skills and cognitive understanding.</p>
 <p>- The following Games and Sports are taught:</p>
-	
+
+<p>
 a) Net Barrier: Badminton and Volleyball<br>
 b) Territorial-Invasion: Basketball, Floorball, Handball, Netball and Soccer<br>
 c) Striking-Fielding: Softball<br>
-d) Track and Field events: Sprints, Baton Passing, Javelin and Shotput
+d) Track and Field events: Sprints, Baton Passing, Javelin and Shotput<br>
+</p>
 
 <p>2) Outdoor Education</p>
 <p>- Physical activities that cultivate an attitude of care and appreciation for the environment, and thoughtful consideration of the risks and safety of self and others.</p>
@@ -34,9 +36,10 @@ c) Simple first aid, bandaging and introduction to usage of CPR and AED<br>
 	
 <p>- The components are :</p>
 	
-	
+<p>	
 a) RA gym programme that includes cardio training and the correct usage of free and fix weights<br>
-b) NAPFA test
+b) NAPFA test<br>
+</p>
 	
 <h4>Sports Carnival</h4>
 <table><tr><td><img src="images/Departments/PE/pe2.jpg"></td>
