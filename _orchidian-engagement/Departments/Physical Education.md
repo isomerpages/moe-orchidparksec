@@ -12,7 +12,7 @@ third_nav_title: Departments
 <p>The curriculum is divided into the following categories:</p>
 <p>1)Games and Sports</p>
 <p>- A range of gameplay experiences from territorial-invasion, net barrier and striking-fielding and other games encourages students’ safe and maximal participation, with modification to game rules to match and enhance their physical skills and cognitive understanding.</p>
-<p>The following Games and Sports are taught:</p>
+<p>- The following Games and Sports are taught:</p>
 	
 *    Net Barrier: Badminton and Volleyball
 *    Territorial-Invasion: Basketball, Floorball, Handball, Netball and Soccer
