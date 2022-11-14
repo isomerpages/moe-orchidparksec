@@ -44,7 +44,7 @@ third_nav_title: Uniformed Groups
 </tr>
 <tr>
 <td>Mr Lee Meng Chee, Alvin</td>
-<td>1</td>
+<td></td>
 <td>lee_meng_chee_alvin@schools.gov.sg</td>
 </tr>
 </tbody>
