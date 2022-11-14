@@ -3,7 +3,6 @@ title: Student Leadership
 permalink: /our-engaged-learners/student-leadership/
 description: ""
 ---
-
 <h4>Student Leadership in OPSS</h4>
 <p><strong>Vision</strong>: Every Student An Empowered Leader.<br /><strong>Mission</strong>: To nurture and develop every student to become an engaged leader<br /><strong>Motto</strong>: Leading and Serving with Compassion&nbsp;</p>
 <h4>Our Beliefs</h4>
@@ -196,7 +195,7 @@ description: ""
 </tbody>
 </table>
 <h4>Our Key Programmes</h4>
-<p><strong><u>CORE LEADERS PROGRAMME<br /></u></strong><a href="/learning-at-opss/opss-distinctive-special-programmes/llp-cyl-core-leaders-programme" target="_blank" rel="noopener">[click here for more info on our CORE Leaders Prog]</a></p>
+<p><strong><u>CORE LEADERS PROGRAMME<br /></u></strong><a href="/orchidian-empowerment/special-programs/llp/" target="_blank" rel="noopener">[click here for more info on our CORE Leaders Prog]</a></p>
 <img style="width: 50%;" src="/images/sl1.jpg" align = "right" />
 <p>CORE (Community OutReach Education) leaders are the key drivers of the school&rsquo;s vision to equip our students with the necessary competencies to become community leaders of influence, who are actively engaged and effecting positive changes in the community.</p>
 <p>In this 4-year, multi-tiered programme, students are equipped with the necessary project management and leadership skills through workshops, learning journeys and experiential learning projects in collaboration with our community partners.</p>
