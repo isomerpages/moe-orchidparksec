@@ -234,7 +234,6 @@ description: ""
 </tbody>
 </table>
 </div>
-</div>
 <div>
 <h4><strong>Class Mentors - Secondary One</strong></h4>
 <div>
