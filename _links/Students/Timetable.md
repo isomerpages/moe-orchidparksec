@@ -8,7 +8,7 @@ Check back this space for 2023 timetable.
 
 Testing
 
-[L-1](/files/L1.pdf)
+<a href="/files/L1.pdf">Laelia 1</a>
 
 <center>Timetable 202X
 
