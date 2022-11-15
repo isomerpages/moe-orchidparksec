@@ -1,0 +1,5 @@
+collections:
+  old-student-development:
+    output: true
+    order:
+      - Student Development.md

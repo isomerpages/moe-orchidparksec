@@ -1,0 +1,82 @@
+---
+title: Basketball (Boys & Girls)
+permalink: /cca/basketball/
+description: ""
+third_nav_title: Sports & Games
+---
+<div align="justify">
+
+<p><strong><em>"With great dedication, determination and discipline, comes great sportsmanship. A young man of integrity and honour"</em></strong></p>
+<h4>About the CCA</h4>
+<p>A group of students, passionate about Basketball and willing to put in their best efforts into training and competitions and developing into the best versions of themselves as people of passion, commitment and integrity.</p>
+<h4>Training Details</h4>
+<table>
+<tbody>
+<tr>
+<th style="text-align: center;">&nbsp;Date</th>
+<th style="text-align: center;">Wednesday (Boys)</th>
+<th style="text-align: center;">Monday (Girls)</th>
+</tr>
+<tr>
+<td style="text-align: center;">Time</td>
+<td style="text-align: center;">3.15 pm - 5.30 pm</td>
+<td style="text-align: center;">3 pm - 5.30 pm&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">Venue</td>
+<td style="text-align: center;">ISH Level 1 (Odd Week)<br />Outdoor Court (Even Week)</td>
+<td style="text-align: center;">ISH Level 2</td>
+</tr>
+<tr>
+<th style="text-align: center;">Date</th>
+<th style="text-align: center;">Friday (Boys)</th>
+<th style="text-align: center;">&nbsp;Wednesday (Girls)</th>
+</tr>
+<tr>
+<td style="text-align: center;">Time</td>
+<td style="text-align: center;">2.15 pm - 4.30 pm&nbsp;</td>
+<td style="text-align: center;">3 pm - 5.30 pm</td>
+</tr>
+<tr>
+<td style="text-align: center;">Venue</td>
+<td style="text-align: center;">ISH Level 1</td>
+<td style="text-align: center;">ISH Level 1 (Even Week)<br />Outdoor Court (Odd Week)</td>
+</tr>
+</tbody>
+</table>
+<h4>Teachers</h4>
+<table>
+<tbody>
+<tr>
+<td>Mr Ahmad Ashraf</td>
+<td>IC for Boys</td>
+<td>ahmad_ashraf_jasman@schools.gov.sg</td>
+</tr>
+<tr>
+<td>Mr Wong Yiu Hang</td>
+<td>IC for Girls</td>
+<td>wong_yiu_hang@schools.gov.sg</td>
+</tr>
+<tr>
+<td>Mrs Linnet Chia</td>
+<td>&nbsp;</td>
+<td>foong_yuen_ling_linnet@schools.gov.sg</td>
+</tr>
+<tr>
+<td>Mdm Chua&nbsp;Abby</td>
+<td>&nbsp;</td>
+<td>chua_pek_geok@moe.edu.sg</td>
+</tr>
+</tbody>
+</table>
+<h4>Photos</h4>
+<table>
+<tr>
+<td style="width:50%"><img src="/images/CCA/Basketball/Basketball%20(Girls)_NSG%20B%20Division_2022.jpg"></td><td><img src="/images/CCA/Basketball/Basketball%20Boys,%20NSG%20Game,%202022.jpeg"></td>
+</tr>
+<tr>
+<td colspan="2"><img src="/images/CCA/Basketball/Basketball%20(Girls)_NSG%20C%20Division_2022.jpg"></td>
+</tr>
+</table>
+	
+</div>

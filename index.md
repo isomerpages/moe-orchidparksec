@@ -1,32 +1,21 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Orchid Park Secondary School
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/download.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      key_highlights:
+        - title: Home-Based Learning 2022
+          description: Clink link to find out more...
+          url: https://sites.google.com/moe.edu.sg/ophbl/home
+        - title: Singapore Kindness Movement
+          description: Clink link to find out more...
+          url: https://drive.google.com/file/d/1g0TStqfX38kPZGvnLuR0FnrRuWog-kie/view
+        - title: 23rd Prize Presentation Ceremony 2022
+          description: Clink link to find out more...
+          url: /images/E-Poster%20For%20School%20Website.jpeg
+      background: /images/Homepage/open house v4.png
 ---
-
