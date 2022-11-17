@@ -11,7 +11,7 @@ description: ""
 
 <h4>Our Mission</h4>
 
-<p><strong>To nurture and empower Orchidians to be their best so as to lead and serve</p>
+<p><strong>To nurture and empower Orchidians to be their best so as to lead and serve</strong></p>
 
 <h4>Our Values</h4>
 
