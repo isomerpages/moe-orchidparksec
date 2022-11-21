@@ -23,4 +23,4 @@ third_nav_title: Our Good Stories
 </p>
 
 <p>Written by: Trisha Ann Boo (Vanda-5, 2022)</p>
-<div>
+</div>
