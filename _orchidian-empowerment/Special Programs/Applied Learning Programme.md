@@ -6,6 +6,11 @@ third_nav_title: Special Programs
 ---
 <div align="justify">
 	
+<table><tbody><tr><td colspan="2"><img src="/images/ALP/alp1.png"></td></tr>
+<tr><td colspan="2"><img src="/images/ALP/ALP3.png"></td></tr>
+<tr><td><img src="/images/ALP/ALP2.png"></td><td><img src="/images/ALP/ALP4.png"></td></tr>
+</tbody></table>
+	
 <p>ARTopIA, the Applied Learning Programme (ALP) in OPSS, is an aesthetics programme that exposes students to various genres of Art, Music, Dance and Drama. The programme hones the students’ skills and deepen their understanding in the areas of the Arts. This programme also engages the students to build their passion in the Arts by empowering them to showcase their skills and talents through workshops, performances, exhibitions, competitions. Notable ARTopIA events includes art workshops and mass dance lessons.</p>
 
 <p>Other programmes designed to encourage students to further pursue their passion for the Arts include the Music unit’s Advanced Music Programme (AMP) which aims to expose and educate students about the local arts and music scene through watching live concerts. This programme is open to students of all levels and streams through interviews conducted by the Music teachers.</p>
