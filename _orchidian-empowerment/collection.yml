@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Student Leadership.md
-      - Special Programs/empowerment specialprogram appliedlearningprogramme.md
+      - Special Programs/Applied Learning Programme.md
       - Special Programs/.keep
       - Special Programs/Learning for Life Programme.md
       - Experiential Learning/.keep
