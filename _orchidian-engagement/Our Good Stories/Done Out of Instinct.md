@@ -25,4 +25,4 @@ third_nav_title: Our Good Stories
 </p>
 
 <p>Written by: Tan Szu Jui Celeste  (Vanda-5, 2022)</p>
-<div>
+</div>
