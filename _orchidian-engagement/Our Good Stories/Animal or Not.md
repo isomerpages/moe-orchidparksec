@@ -5,6 +5,9 @@ description: ""
 third_nav_title: Our Good Stories
 ---
 <div align="justify">	
+
+<h4>Animal or Not</h4>
+
 <p>Many of us are too involved with our own lives that we tend to neglect what is happening around us and those that may need help are often ignored. In this story, the ‘person’ in need of help was actually a pigeon and a group of our very own Secondary One students came to save it.
 <br><br>
 On the afternoon of 29th June, a group of students, Jorlin Cai (L5), Chen Junxi (L5), Vivian Tan (L2), Ace Fong (L1) were behind Block F when they stumbled upon an injured and blind-in-one-eye pigeon. When they saw the poor bird, they felt compelled to help it. They called out to a teacher, who was passing through, to get help for the injured bird. They consulted the teacher about the bird, the teacher advised them to call the Animal Concerns Research and Education Society (ACRES).
