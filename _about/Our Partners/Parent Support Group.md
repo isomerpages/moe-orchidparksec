@@ -4,7 +4,7 @@ permalink: /our-partners/psg/
 description: ""
 third_nav_title: Our Partners
 ---
-<div>
+<div align="justify">
 
 <p><b>About Parent Support Group</b></p>
 
