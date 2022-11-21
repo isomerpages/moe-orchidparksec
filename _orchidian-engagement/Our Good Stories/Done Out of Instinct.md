@@ -4,9 +4,9 @@ permalink: /orchidian-engagement/Our-Good-Stories/permalink/
 description: ""
 third_nav_title: Our Good Stories
 ---
+<div align="justify">	
 <h4>Tan Cheng Kiat (Secondary 3, Vanda-4, 2022)</h4>
 
-<div align="justify">	
 <p>The majority of us are often unaware of the struggles that the people around us face that we end up neglecting what is right in front of us. Oftentimes, it is because we do not want to be too involved in situations that are not "our problem". However, this was not the case for one of our Secondary 3 students.</p>
 <p>As this Secondary 3 student was making his way to school, he realised that he was going to be late. As he was hurriedly making his way to the bus stop, he witnessed a very perturbing and disconcerting scene a distance away.
 </p>
