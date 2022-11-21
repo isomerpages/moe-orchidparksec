@@ -20,6 +20,6 @@ third_nav_title: Our Good Stories
 </p>
 
 <p>Written By:
-Xavier Lucas (Orchis 4, 2022);
-Atif Mikhail (Orchis 4, 2022)
-</p>
+Xavier Lucas (Orchis 4, 2022);<br>
+Atif Mikhail (Orchis 4, 2022)</p>
+</div>
