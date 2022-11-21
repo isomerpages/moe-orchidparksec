@@ -4,9 +4,9 @@ permalink: /orchidian-engagement/Our-Good-Stories/permalink/
 description: ""
 third_nav_title: Our Good Stories
 ---
+<div align="justify">	
 <h4>Lin Yi Xian (Secondary 2, Orchis-6, 2022)</h4>
 
-<div align="justify">	
 <p>If any of us would stumble upon a person in need, not all of us would lend a helping hand. We prefer to avoid inconveniencing ourselves as it wastes our time and effort. This was not the case for one of our Secondary 2 students, Lin Yi Xian from Orchis 6. Our kind and humble Samaritan willingly decided to go above and beyond to help out a fellow student.
 </p>
 <p>Our young Samaritan was on her way home on a bus. When she reached the upper deck of the bus, she found herself in a rather difficult situation!
