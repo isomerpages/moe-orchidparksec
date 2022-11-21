@@ -15,6 +15,5 @@ third_nav_title: Our Good Stories
 <p>In an interview with Dorothy, she mentioned that it was just her instinct that got her to perform the good deed and that being able to help someone in need makes her happy. She was also very humble, saying that she found no need to share the story with anyone as her only intent was to help the lady. This story is truly inspirational and sweet; our protagonist shows values such as compassion, humility and patience. We can all learn from this amazing act of kindness.
 </p>
 
-<p>Written By: Janelle Wee (Orchis 4 2022)
-
-</p>
+<p>Written By: Janelle Wee (Orchis 4 2022)</p>
+</div>
