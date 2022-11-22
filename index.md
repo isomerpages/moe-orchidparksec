@@ -8,14 +8,14 @@ notification: ""
 sections:
   - hero:
       key_highlights:
+        - title: 2022 Open House
+          description: ""
+          url: /images/Open%20House/OpenHouse22Banner_18Nov.jpg
         - title: Home-Based Learning 2022
           description: ""
           url: https://sites.google.com/moe.edu.sg/ophbl/home
         - title: Singapore Kindness Movement
           description: ""
           url: https://drive.google.com/file/d/1g0TStqfX38kPZGvnLuR0FnrRuWog-kie/view
-        - title: 23rd Prize Presentation Ceremony 2022
-          description: ""
-          url: /images/E-Poster%20For%20School%20Website.jpeg
-      background: /images/Homepage/open house v4.png
+      background: /images/Open House/open house.png
 ---
