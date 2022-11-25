@@ -33,25 +33,7 @@ third_nav_title: Uniformed Groups
 </table>
 <h4>Teachers</h4>
 <div>
-<table>
-<tbody>
-<tr>
-<td>Mr Gary Sim</td>
-<td>OC Unit</td>
-<td>sim_teck_kher_gary@schools.gov.sg&nbsp;</td>
-</tr>
-<tr>
-<td>Ms Tiffany</td>
-<td>2IC</td>
-<td>tiffany_loh_wen_ling@schools.gov.sg</td>
-</tr>
-<tr>
-<td>Ms Leong Enwei</td>
-<td>&nbsp;</td>
-<td>leong_enwei@schools.gov.sg</td>
-</tr>
-</tbody>
-</table>
+
 <h4>Photos</h4>
 	<table>
 		<tr>
