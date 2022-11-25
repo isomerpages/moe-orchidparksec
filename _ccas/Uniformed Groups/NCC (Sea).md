@@ -47,7 +47,7 @@ third_nav_title: Uniformed Groups
 <td>naufal_abdul_hadi@schools.gov.sg</td>
 </tr>
 <tr>
-<td>Mr David Chua</td>
+<td>2LT (NCC) David</td>
 <td>Teacher Officer</td>
 <td>chua_kok_chuan@moe.edu.sg</td>
 </tr>
