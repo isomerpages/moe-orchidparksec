@@ -32,34 +32,15 @@ third_nav_title: Uniformed Groups
 </tbody>
 </table>
 <h4>Teachers</h4>
-<div>
-<table>
-<tbody>
-<tr>
-<td>Mr Gary Sim</td>
-<td>OC Unit</td>
-<td>sim_teck_kher_gary@schools.gov.sg&nbsp;</td>
-</tr>
-<tr>
-<td>Ms Tiffany</td>
-<td>2IC</td>
-<td>tiffany_loh_wen_ling@schools.gov.sg</td>
-</tr>
-<tr>
-<td>Ms Leong Enwei</td>
-<td>&nbsp;</td>
-<td>leong_enwei@schools.gov.sg</td>
-</tr>
-</tbody>
-</table>
+<table style="border:none;border-collapse:collapse;table-layout:fixed;width:100%"><colgroup><col><col><col></colgroup><tbody><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:12pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mr Gary Sim</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">OC Unit</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><a href="mailto: sim_teck_kher_gary@schools.gov.sg" style="text-decoration:none;"><span style="font-size:11pt;font-family:Arial;color:#1155cc;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Email</span></a></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Ms Tiffany</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">2IC</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><a href="mailto: tiffany_loh_wen_ling@schools.gov.sg" style="text-decoration:none;"><span style="font-size:11pt;font-family:Arial;color:#1155cc;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Email</span></a></p></td></tr></tbody></table>
 <h4>Photos</h4>
-	<table>
-		<tr>
-			<td colspan="2"><img src="/images/CCA/NPCC/NPCC%20Nee%20Soon%20NDO%202022.jpg"></td>
-		</tr>
-		<tr>
-			<td style="width:50%"><img src="/images/CCA/NPCC/NPCC%20Air%20Pistol%202022.jpg"></td><td style="widht:50%"><img src="/images/CCA/NPCC/NPCC%20unit%202022.jpg"></td>
-		</tr>
-	</table>
+<table>
+<tr>
+<td colspan="2"><img src="/images/CCA/NPCC/NPCC%20Nee%20Soon%20NDO%202022.jpg"></td>
+</tr>
+<tr>
+<td style="width:50%"><img src="/images/CCA/NPCC/NPCC%20Air%20Pistol%202022.jpg"></td><td style="widht:50%"><img src="/images/CCA/NPCC/NPCC%20unit%202022.jpg"></td>
+</tr>
+</table>
 	
 </div>
