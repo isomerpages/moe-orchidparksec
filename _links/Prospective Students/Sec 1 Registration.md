@@ -4,4 +4,8 @@ permalink: /links/Prospective-Students/sec1-reg/
 description: ""
 third_nav_title: Prospective Students
 ---
-Coming soon.
+<div align="justify">
+	
+Please click <a href="https://sites.google.com/moe.edu.sg/orchid-park-secondary-school/home">here</a> for more information.
+	
+</div>
