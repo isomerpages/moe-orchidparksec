@@ -11,11 +11,11 @@ sections:
         - title: Secondary 1 Registration
           description: ""
           url: /links/Prospective-Students/sec1-reg/
+        - title: 2022 N Level Results
+          description: ""
+          url: /files/For%20Students/2022%20N%20Level%20Results.pdf
         - title: 2022 Open House
           description: ""
           url: /images/Open%20House/OpenHouse22Banner_18Nov.jpg
-        - title: Home-Based Learning 2022
-          description: ""
-          url: https://sites.google.com/moe.edu.sg/ophbl/home
       background: /images/Open House/open house.png
 ---
