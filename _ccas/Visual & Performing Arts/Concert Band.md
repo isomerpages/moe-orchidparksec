@@ -2,8 +2,9 @@
 title: Concert Band
 permalink: /cca/band/
 description: ""
-third_nav_title: Performing Arts
+third_nav_title: Visual & Performing Arts
 ---
+
 <div align="justify">
 
 <p style="text-align: center;">Previously Known as "Wind Orchestra"<br /><strong><em>"</em></strong><strong><em>Developing our students into confident, responsible and disciplined musicians and be recognized as one of the premier Secondary School Concert Band in Singapore</em></strong><strong><em>"</em></strong></p>

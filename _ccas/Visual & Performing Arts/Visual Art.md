@@ -2,8 +2,9 @@
 title: Visual Art
 permalink: /cca/art/
 description: ""
-third_nav_title: Clubs & Societies
+third_nav_title: Visual & Performing Arts
 ---
+
 <div style="text-align: justify">
 
 <p><em>"Every Child is an Artist " --Pablo Picasso</em></p>

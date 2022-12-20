@@ -2,8 +2,9 @@
 title: English Drama
 permalink: /cca/drama/
 description: ""
-third_nav_title: Performing Arts
+third_nav_title: Visual & Performing Arts
 ---
+
 <div align="justify">
 
 <p><strong><em>"All The World&rsquo;s A Stage. It's SHOW TIME !"</em></strong></p>

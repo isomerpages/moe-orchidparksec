@@ -2,8 +2,9 @@
 title: Modern Dance
 permalink: /cca/dance/
 description: ""
-third_nav_title: Performing Arts
+third_nav_title: Visual & Performing Arts
 ---
+
 <div align="justify">
 <h4>About the CCA</h4>
 <p>OPdance is a versatile and vibrant dance group consisting of 70 over members who are given the opportunity to explore their creativity through this form of art. OPdance aims to expose our members to a variety of dance genres, with focus on dance genres such as Urban and Hip Hop. The members of the club are taught the basics of hip hop and the way to express our feelings on stage.&nbsp;</p>
