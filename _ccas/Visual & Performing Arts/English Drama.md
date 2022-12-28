@@ -4,7 +4,6 @@ permalink: /cca/drama/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
-
 <div align="justify">
 
 <p><strong><em>"All The World&rsquo;s A Stage. It's SHOW TIME !"</em></strong></p>
@@ -45,15 +44,9 @@ third_nav_title: Visual & Performing Arts
 </tbody>
 </table>
 <h4>Teachers</h4>
-<table>
-<tbody>
-<tr>
-<td>Ms Shahidah</td>
-<td>nurul_aqilah_aris@schools.gov.sg</td>
-</tr>
-</tbody>
-</table>
-	<h4>Photos</h4>
-	<table><tr><td><img src="/images/CCA/Drama/drama3.jpeg"></td>
-		<tr><td><img src="/images/CCA/Drama/drama2.jpeg"></td></tr></table>
+<table style="border:none;border-collapse:collapse;table-layout:fixed;width:100%"><colgroup><col><col><col></colgroup><tbody><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Ms Shahidah</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">IC</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><a href="mailto: nurul_aqilah_aris@schools.gov.sg" style="text-decoration:none;"><span style="font-size:11pt;font-family:Arial;color:#1155cc;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Email</span></a></p></td></tr></tbody></table>
+	
+<h4>Photos</h4>
+<table><tr><td><img src="/images/CCA/Drama/drama3.jpeg"></td>
+<tr><td><img src="/images/CCA/Drama/drama2.jpeg"></td></tr></table>
 </div>
