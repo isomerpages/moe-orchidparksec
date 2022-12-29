@@ -129,9 +129,9 @@ description: ""
 <td style="width: 20%;"><img src="/images/s6.png"></td>
 <td style="width: 30%;"><div><strong>Mrs Selvan</strong></div>
 <div>SH Student Well-being</div></td>
-<td style="width: 20%;"><img src="/images/s7.png"></td>
-<td style="width: 30%;"><div><strong>Mr Tan Tong Leng</strong></div>
-<div>LH PE &amp; CCA</div></td>
+<td style="width: 20%;"><img src="/images/SC/No%20Image.png"></td>
+<td style="width: 30%;"><div><strong>Mr Lim Han Chuan</strong></div>
+<div>SH Chinese Language</div></td>
 </tr>
 <tr>
 <td style="width: 20%;"><img src="/images/s8.png"></td>
