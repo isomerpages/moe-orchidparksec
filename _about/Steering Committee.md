@@ -23,7 +23,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td style="width: 60px;"><img src="/images/SC/Mdm%20Ching%20L%20H.jpg"></td>
+<td style="width: 60px;"><img src="/images/SC/MDM%20CHING%20LEE%20HOE.jpg"></td>
 <td style="width: 120px;">
 <div><strong>Mdm Ching Lee Hoe</strong></div>
 <div>Vice Principal</div>
