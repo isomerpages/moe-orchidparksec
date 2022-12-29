@@ -77,7 +77,7 @@ description: ""
 <div>Year Head - Lower Sec (Sec 1)</div></td>
 </tr>
 <tr>
-<td style="width: 20%;"><img src="/images/SC/No%20Image.png"></td>
+<td style="width: 20%;"><img src="/images/SC/Wong%20Yiu%20Hang.jpg"></td>
 <td style="width: 30%;"><div><strong>Mr Wong Yiu Hang</strong></div>
 <div>Year Head - Lower Sec (Sec 1)</div></td>
 <td style="width: 20%;"><img src="/images/sc14.png"></td>
