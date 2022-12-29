@@ -72,7 +72,7 @@ description: ""
 <td style="width: 20%;"><img src="/images/sc12.png"></td>
 <td style="width: 30%;"><div><strong>Mr Tan Paul</strong></div>
 <div>HOD PE &amp; CCA</div></td>
-<td style="width: 20%;"><img src="/images/SC/No%20Image.png"></td>
+<td style="width: 20%;"><img src="/images/SC/Ahmad%20Ashraf%20Bin%20Jasman.jpg"></td>
 <td style="width: 30%;"><div><strong>Mr Ahmad Ashraf Bin Jasman</strong></div>
 <div>Year Head - Lower Sec (Sec 1)</div></td>
 </tr>
