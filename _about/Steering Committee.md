@@ -90,7 +90,7 @@ description: ""
 <div>Asst Year Head - Lower Sec (Sec 3)</div></td>
 <td style="width: 20%;"><img src="/images/sc15.png"></td>
 <td style="width: 30%;"><div><strong>Mrs Fu Wei Hui</strong></div>
-<div>Asst Year Head - Upper Sec (Sec 4/5)</div></td>
+<div>Year Head - Upper Sec (Sec 4/5)</div></td>
 </tr>
 </tbody>
 </table>
