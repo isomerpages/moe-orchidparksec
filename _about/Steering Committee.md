@@ -138,14 +138,6 @@ description: ""
 <td style="width: 30%;"><div><strong>Mr Teo Ee Jun</strong></div>
 <div>SH History</div></td>
 </tr>
-<tr>
-<td style="width: 20%;"><img src="/images/s10.png"></td>
-<td style="width: 30%;"><div><strong>Ms Michelle Kwok</strong></div>
-<div>Assistant Year Head (Sec 2)</div></td>
-<td style="width: 20%;"><img src="/images/s11.png"></td>
-<td style="width: 30%;"><div><strong>Mr Suhairi</strong></div>
-<div>Assistant Year Head<br />(Sec 4 and 5)</div></td>
-</tr>
 </tbody>
 </table>
 <table style="border-collapse: collapse; width: 100%;" border="1">
