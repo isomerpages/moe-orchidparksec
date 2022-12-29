@@ -1,6 +1,6 @@
 ---
 title: Steering Committee
-permalink: /about-us/steering-committee
+permalink: /about-us/steering-committee/
 description: ""
 ---
 <table style="width: 400px; margin-left: auto; margin-right: auto;">
@@ -23,9 +23,9 @@ description: ""
 </td>
 </tr>
 <tr>
-<td style="width: 60px;"><img src="/images/sc3.png"></td>
+<td style="width: 60px;"><img src="/images/SC/Mdm%20Ching%20LH.jpg"></td>
 <td style="width: 120px;">
-<div><strong>Mr Glenn Wong</strong></div>
+<div><strong>Mdm Ching Lee Hoe</strong></div>
 <div>Vice Principal</div>
 </td>
 </tr>
