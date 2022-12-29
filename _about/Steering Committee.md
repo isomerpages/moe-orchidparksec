@@ -113,9 +113,9 @@ description: ""
 <td style="width: 20%;"><img src="/images/s9.png"></td>
 <td style="width: 30%;"><div><strong>Mr Wang Xiang Jun Kenny</strong></div>
 <div>LH Student Management</div></td>
-<td style="width: 20%;"><img src="/images/s2.png"></td>
-<td style="width: 30%;"><div><strong>Ms Chin Kean Kean</strong></div>
-<div>SH Community<br />Youth Leadership</div></td>
+<td style="width: 20%;"><img src="/images/SC/No%20Image.png"></td>
+<td style="width: 30%;"><div><strong>Mr Chan Ho Lun</strong></div>
+<div>SH Mathematics</div></td>
 </tr>
 <tr>
 <td style="width: 20%;"><img src="/images/s3.png"></td>
