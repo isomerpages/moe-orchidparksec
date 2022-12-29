@@ -137,9 +137,6 @@ description: ""
 <td style="width: 20%;"><img src="/images/s8.png"></td>
 <td style="width: 30%;"><div><strong>Mr Teo Ee Jun</strong></div>
 <div>SH History</div></td>
-<td style="width: 20%;"><img src="/images/s9.png"></td>
-<td style="width: 30%;"><div><strong>Mr Wang Kenny</strong></div>
-<div>LH Student Management</div></td>
 </tr>
 <tr>
 <td style="width: 20%;"><img src="/images/s10.png"></td>
