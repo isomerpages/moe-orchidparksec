@@ -118,9 +118,9 @@ description: ""
 <div>SH Mathematics</div></td>
 </tr>
 <tr>
-<td style="width: 20%;"><img src="/images/s3.png"></td>
-<td style="width: 30%;"><div><strong>Mrs Eleanor Bhutia</strong></div>
-<div>LH English Language</div></td>
+<td style="width: 20%;"><img src="/images/SC/Chin%20Kean%20Kean.png"></td>
+<td style="width: 30%;"><div><strong>Ms Chin Kean Kean</strong></div>
+<div>SH Community Youth Leadership</div></td>
 <td style="width: 20%;"><img src="/images/s4.png"></td>
 <td style="width: 30%;"><div><strong>Mr Frederick Chan</strong></div>
 <div>SH Physics</div></td>
