@@ -99,6 +99,16 @@ description: ""
 <tr>
 <td style="text-align: center;" colspan="4"><strong>Subject and Level Heads</strong></td>
 </tr>
+	
+<tr>
+<td style="width: 20%;"><img src="/images/s1.png"></td>
+<td style="width: 30%;"><div><strong>Mr Benedict Tan</strong></div>
+<div>LH Education Technology</div></td>
+<td style="width: 20%;"><img src="/images/s7.png"></td>
+<td style="width: 30%;"><div><strong>Mr Tan Tong Leng</strong></div>
+<div>LH PE &amp; CCA</div></td>
+</tr>
+	
 <tr>
 <td style="width: 20%;"><img src="/images/s1.png"></td>
 <td style="width: 30%;"><div><strong>Mr Benedict Tan</strong></div>
