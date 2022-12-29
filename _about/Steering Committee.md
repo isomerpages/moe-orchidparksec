@@ -110,9 +110,9 @@ description: ""
 </tr>
 	
 <tr>
-<td style="width: 20%;"><img src="/images/s1.png"></td>
-<td style="width: 30%;"><div><strong>Mr Benedict Tan</strong></div>
-<div>LH Education Technology</div></td>
+<td style="width: 20%;"><img src="/images/s9.png"></td>
+<td style="width: 30%;"><div><strong>Mr Wang Xiang Jun Kenny</strong></div>
+<div>LH Student Management</div></td>
 <td style="width: 20%;"><img src="/images/s2.png"></td>
 <td style="width: 30%;"><div><strong>Ms Chin Kean Kean</strong></div>
 <div>SH Community<br />Youth Leadership</div></td>
