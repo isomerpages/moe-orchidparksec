@@ -84,14 +84,13 @@ description: ""
 <td style="width: 30%;"><div><strong>Mr Chia Cheng Siong</strong></div>
 <div>Year Head - Lower Sec (Sec 2)</div></td>
 </tr>
-	
 <tr>
-<td style="width: 20%;"><img src="/images/sc14.png"></td>
-<td style="width: 30%;"><div><strong>Mr Chia Cheng Siong</strong></div>
-<div>Year Head (Lower Secondary)</div></td>
+<td style="width: 20%;"><img src="/images/SC/Kwok%20Michelle.jpg"></td>
+<td style="width: 30%;"><div><strong>Ms Kwok Shi You Michelle</strong></div>
+<div>Asst Year Head - Lower Sec (Sec 3)</div></td>
 <td style="width: 20%;"><img src="/images/sc15.png"></td>
 <td style="width: 30%;"><div><strong>Mrs Fu Wei Hui</strong></div>
-<div>Year Head (Upper Secondary)</div></td>
+<div>Asst Year Head - Upper Sec (Sec 4/5)</div></td>
 </tr>
 </tbody>
 </table>
