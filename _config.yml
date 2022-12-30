@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d3myllt1xtyqxo.amplifyapp.com
 prod: https://master.d3myllt1xtyqxo.amplifyapp.com
-shareicon: /images/download.png
+shareicon: /images/Icons/OPSS_Logo_Colour.jpg
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
