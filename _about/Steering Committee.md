@@ -37,7 +37,7 @@ description: ""
 <td style="text-align: center;" colspan="4"><strong>Heads of Department</strong></td>
 </tr>
 <tr>
-<td style="width: 20%;"><img src="/images/SC/No%20Image.png"></td>
+<td style="width: 20%;"><img src="/images/SC/LEOW%20TENG%20HONG.jpg"></td>
 <td style="width: 30%;"><div><strong>Mr Leow Teng Hong </strong></div>
 <div>School Staff Developer</div></td>
 <td style="width: 20%;"><img src="/images/sc5.png"></td>
