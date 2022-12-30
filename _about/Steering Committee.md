@@ -99,7 +99,6 @@ description: ""
 <tr>
 <td style="text-align: center;" colspan="4"><strong>Subject and Level Heads</strong></td>
 </tr>
-	
 <tr>
 <td style="width: 20%;"><img src="/images/s1.png"></td>
 <td style="width: 30%;"><div><strong>Mr Benedict Tan</strong></div>
@@ -108,12 +107,11 @@ description: ""
 <td style="width: 30%;"><div><strong>Mr Tan Tong Leng</strong></div>
 <div>LH PE &amp; CCA</div></td>
 </tr>
-
 <tr>
 <td style="width: 20%;"><img src="/images/s9.png"></td>
 <td style="width: 30%;"><div><strong>Mr Wang Xiang Jun Kenny</strong></div>
 <div>LH Student Management</div></td>
-<td style="width: 20%;"><img src="/images/SC/No%20Image.png"></td>
+<td style="width: 20%;"><img src="/images/SC/CHAN%20HO%20LUN.jpg"></td>
 <td style="width: 30%;"><div><strong>Mr Chan Ho Lun</strong></div>
 <div>SH Mathematics</div></td>
 </tr>
@@ -129,7 +127,7 @@ description: ""
 <td style="width: 20%;"><img src="/images/s6.png"></td>
 <td style="width: 30%;"><div><strong>Mrs Selvan</strong></div>
 <div>SH Student Well-being</div></td>
-<td style="width: 20%;"><img src="/images/SC/No%20Image.png"></td>
+<td style="width: 20%;"><img src="/images/SC/LIM%20HAN%20CHUAN.jpg"></td>
 <td style="width: 30%;"><div><strong>Mr Lim Han Chuan</strong></div>
 <div>SH Chinese Language</div></td>
 </tr>
