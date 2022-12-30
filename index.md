@@ -2,7 +2,7 @@
 layout: homepage
 title: Orchid Park Secondary School
 description: Brief site description here
-image: /images/download.png
+image: /images/Icons/OPSS_Logo_Colour.jpg
 permalink: /
 notification: ""
 sections:
@@ -19,3 +19,4 @@ sections:
           url: /images/Open%20House/OpenHouse22Banner_18Nov.jpg
       background: /images/Homepage/home20221230.bmp
 ---
+
