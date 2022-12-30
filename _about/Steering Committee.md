@@ -42,7 +42,7 @@ description: ""
 <div>School Staff Developer</div></td>
 <td style="width: 20%;"><img src="/images/sc5.png"></td>
 <td style="width: 30%;"><div><strong>Mr Daniel Chua</strong></div>
-<div>HOD Student Development</div></td>
+<div>HOD CCE</div></td>
 </tr>
 <tr>
 <td style="width: 20%;"><img src="/images/sc6.png"></td>
@@ -108,7 +108,7 @@ description: ""
 <td style="width: 30%;"><div><strong>Mr Tan Tong Leng</strong></div>
 <div>LH PE &amp; CCA</div></td>
 </tr>
-	
+
 <tr>
 <td style="width: 20%;"><img src="/images/s9.png"></td>
 <td style="width: 30%;"><div><strong>Mr Wang Xiang Jun Kenny</strong></div>
