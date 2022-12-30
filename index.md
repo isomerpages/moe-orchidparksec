@@ -17,5 +17,5 @@ sections:
         - title: 2022 Open House
           description: ""
           url: /images/Open%20House/OpenHouse22Banner_18Nov.jpg
-      background: /images/Open House/open house.png
+      background: /images/Homepage/home20221230.bmp
 ---
