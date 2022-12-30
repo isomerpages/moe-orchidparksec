@@ -1,6 +1,6 @@
 title: Orchid Park Secondary School
 url: https://www.orchidparksec.moe.edu.sg
-favicon: /images/download.png
+favicon: /images/Icons/OPSS_Logo_Colour.jpg
 colors:
   primary-color: "#00753c"
   secondary-color: "#000000"
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d3myllt1xtyqxo.amplifyapp.com
 prod: https://master.d3myllt1xtyqxo.amplifyapp.com
-shareicon: /images/download.png
+shareicon: /images/Icons/OPSS_Logo_Colour.jpg
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
