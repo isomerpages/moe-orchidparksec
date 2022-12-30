@@ -6,7 +6,7 @@ third_nav_title: Students
 ---
 <div align="justify">
 
-<iframe src="https://calendar.google.com/calendar/embed?src=88eb6fa3865b3df63bc84521ee93738d0ac34ef3b1b170a427bf704a8864607e%40group.calendar.google.com&ctz=Asia%2FSingapore" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Asia%2FSingapore&src=ODhlYjZmYTM4NjViM2RmNjNiYzg0NTIxZWU5MzczOGQwYWMzNGVmM2IxYjE3MGE0MjdiZjcwNGE4ODY0NjA3ZUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23E4C441" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 	
 	
 </div>
