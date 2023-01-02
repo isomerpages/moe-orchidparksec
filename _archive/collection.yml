@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Transfer.md
       - Appeals.md
       - DSA Process.md
       - Hockey (Boys).md
