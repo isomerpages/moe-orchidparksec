@@ -1,5 +1,5 @@
 collections:
-  our-engaged-leaders:
+  old-our-engaged-leaders:
     output: true
     order:
       - Student Leadership/OP Student Council.md
