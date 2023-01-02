@@ -9,9 +9,6 @@ collections:
       - Students/Book List.md
       - Students/Uniform.md
       - Students/Insurance.md
-  links:
-    output: true
-    order:
       - Prospective Students/.keep
       - Prospective Students/Appeals.md
       - Prospective Students/DSA Process.md
