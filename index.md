@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: 2023 Timetable
+        - title: 2023 Term 1 Timetable
           description: ""
           url: /links/Student/tt/
         - title: Secondary 1 Registration
