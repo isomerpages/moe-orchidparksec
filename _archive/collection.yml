@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Appeals.md
       - DSA Process.md
       - Hockey (Boys).md
       - Good Stories.md
