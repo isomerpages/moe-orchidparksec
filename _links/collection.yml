@@ -2,14 +2,10 @@ collections:
   links:
     output: true
     order:
-      - Students/Student Calendar.md
       - Students/.keep
       - Students/Timetable.md
+      - Students/Student Calendar.md
       - Students/Home Based Learning.md
       - Students/Book List.md
       - Students/Uniform.md
       - Students/Insurance.md
-      - Prospective Students/DSA Process.md
-      - Prospective Students/Sec 1 Registration.md
-      - Prospective Students/Appeals.md
-      - Prospective Students/Transfer.md
