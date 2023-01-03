@@ -1,6 +1,6 @@
 collections:
   old-our-engaged-leaders:
-    output: false
+    output: true
     order:
       - Student Leadership/OP Student Council.md
       - Student Leadership/.keep
