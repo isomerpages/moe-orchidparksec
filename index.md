@@ -4,8 +4,7 @@ title: Orchid Park Secondary School
 description: Brief site description here
 image: /images/Icons/OPSS_Logo_Colour.jpg
 permalink: /
-notification: Students, please report to School Hall in full school uniform on
-  the first day of school (3 Jan 2023, Tue).
+notification: ""
 sections:
   - hero:
       key_highlights:
