@@ -8,6 +8,6 @@ third_nav_title: Assessment
 
 <p>Please click <a href="/files/Assessment/Secondary%201_Information%20for%20Parents%20on%20Common%20Curriculum%20Subjects%20(with%20Coursework)_012023.pdf" target="_blank">here</a> for more information on Secondary One Common Curriculum Subjects (with Coursework)</p>
 	
-<p>Please click <a href="/files/Assessment/Secondary%202_Information%20for%20Parents%20on%20Common%20Curriculum%20Subjects%20(with%20Coursework)_012023.pdf" target="_blank">here</a> for more information on Secondary One Common Curriculum Subjects (with Coursework)</p>
+<p>Please click <a href="/files/Assessment/Secondary%202_Information%20for%20Parents%20on%20Common%20Curriculum%20Subjects%20(with%20Coursework)_012023.pdf" target="_blank">here</a> for more information on Secondary Two Common Curriculum Subjects (with Coursework)</p>
 
 </div>
