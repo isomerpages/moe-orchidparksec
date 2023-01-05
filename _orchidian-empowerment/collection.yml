@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Student Leadership.md
-      - Special Programs/Applied Learning Programme.md
-      - Special Programs/.keep
-      - Special Programs/Learning for Life Programme.md
+      - Special Programmes/Applied Learning Programme.md
+      - Special Programmes/.keep
+      - Special Programmes/Learning for Life Programme.md
       - Experiential Learning/.keep
       - Experiential Learning/Sec 1 Camp.md
       - Experiential Learning/Outward Bound School.md

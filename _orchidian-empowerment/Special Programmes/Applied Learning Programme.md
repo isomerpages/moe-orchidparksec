@@ -2,8 +2,9 @@
 title: Applied Learning Programme
 permalink: /orchidian-empowerment/Special-Programs/alp/
 description: ""
-third_nav_title: Special Programs
+third_nav_title: Special Programmes
 ---
+
 <div align="justify">
 	
 <table><tbody><tr><td colspan="2"><img src="/images/ALP/alp1.png"></td></tr>
