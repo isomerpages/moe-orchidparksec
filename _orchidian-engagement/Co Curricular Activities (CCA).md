@@ -26,8 +26,8 @@ Click [here](/cca/bb) for our CCAs.
 <p><strong>Clubs and Societies</strong>: To allow our students to explore and extend their interests in wide ranging and specialised areas which may be knowledge-based or skills-based.</p>
 <h4>CCA Training Schedule 2023</h4>
 <a href="/files/CCA%20main%20page%20info/Schedule%20for%20CCAs.pdf" target="_blank">Link to PDF</a>
-<h4>LEAPS 2.0 information</h4>
-<a href="/files/CCA%20main%20page%20info/LEAPS%2020.pdf" target="_blank">Link to PDF</a>
+<h4>Information for Parents</h4>
+<a href="/files/CCA%20main%20page%20info/LEAPS%2020.pdf" target="_blank">LEAPS 2.0 information</a>
 <p><strong>Short clips for our CCA<br /></strong>-&nbsp;<a href="https://sites.google.com/moe.edu.sg/opsscca2023/home" target="_blank" rel="noopener">CCA videos</a><br />-&nbsp;<a href="https://sites.google.com/view/opss-syf-performances-2021/home" target="_blank" rel="noopener">SYF 2021 Performing Arts</a></p>
 <p><strong>FAQ for CCA</strong>
 <br><strong><a href="/files/CCA%20main%20page%20info/CCA%20FAQs.pdf" target="_blank" >Click here for FAQs</a></strong></p>
