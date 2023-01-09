@@ -124,22 +124,23 @@ description: ""
 <td style="width: 20%;"><img src="/images/s8.png"></td>
 <td style="width: 30%;"><div><strong>Mr Teo Ee Jun</strong></div>
 <div>SH History</div></td>
+<td style="width: 20%;"><img src="/images/SC/Ahmad%20Ashraf%20Bin%20Jasman.jpg"></td>
+<td style="width: 30%;"><div><strong>Mr Ahmad Ashraf Bin Jasman</strong></div>
+<div>Asst. Year Head (Covering)<br>Lower Sec (Sec 1)</div></td>
+</tr>
+<tr>
+
+<td style="width: 20%;"><img src="/images/SC/Wong%20Yiu%20Hang.jpg"></td>
+<td style="width: 30%;"><div><strong>Mr Wong Yiu Hang</strong></div>
+<div>Asst. Year Head (Covering)<br>Lower Sec (Sec 1)</div></td>
+<td style="width: 20%;"><img src="/images/SC/MICHELLE%20KWOK.png"></td>
+<td style="width: 30%;"><div><strong>Ms Kwok Shi You Michelle</strong></div>
+<div>Asst Year Head - Lower Sec (Sec 3)</div></td>
 </tr>
 <tr>
 <td style="width: 20%;"><img src="/images/SC/Suhairi%20Bin%20Samsudin.png"></td>
 <td style="width: 30%;"><div><strong>Mr Suhairi</strong></div>
 <div>Asst Year Head - Upper Sec (Sec 4/5)</div></td>
-<td style="width: 20%;"><img src="/images/SC/Wong%20Yiu%20Hang.jpg"></td>
-<td style="width: 30%;"><div><strong>Mr Wong Yiu Hang</strong></div>
-<div>Asst. Year Head (Covering)<br>Lower Sec (Sec 1)</div></td>
-</tr>
-<tr>
-<td style="width: 20%;"><img src="/images/SC/Ahmad%20Ashraf%20Bin%20Jasman.jpg"></td>
-<td style="width: 30%;"><div><strong>Mr Ahmad Ashraf Bin Jasman</strong></div>
-<div>Asst. Year Head (Covering)<br>Lower Sec (Sec 1)</div></td>
-<td style="width: 20%;"><img src="/images/SC/MICHELLE%20KWOK.png"></td>
-<td style="width: 30%;"><div><strong>Ms Kwok Shi You Michelle</strong></div>
-<div>Asst Year Head - Lower Sec (Sec 3)</div></td>
 </tr>
 </tbody>
 </table>
