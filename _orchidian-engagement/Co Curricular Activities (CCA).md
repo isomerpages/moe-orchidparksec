@@ -30,6 +30,6 @@ Click [here](/cca/bb) for our CCAs.
 <a href="/files/CCA%20main%20page%20info/Schedule%20for%20CCAs">Link to PDF</a>
 <p><strong>Short clips for our CCA<br /></strong>-&nbsp;<a href="https://sites.google.com/moe.edu.sg/opsscca2023/home" target="_blank" rel="noopener">CCA videos</a><br />-&nbsp;<a href="https://sites.google.com/view/opss-syf-performances-2021/home" target="_blank" rel="noopener">SYF 2021 Performing Arts</a></p>
 <p><strong>FAQ for CCA</strong></p>
-<p><strong><a href="/files/CCA%20main%20page%20info/CCA%20FAQs.pdf" target="_blank" rel="noopener noreferrer" data-icon="" data-fallback="Find out more">Click here for FAQs</a></strong></p>
+<p><strong><a href="/files/CCA%20main%20page%20info/CCA%20FAQs.pdf" target="_blank" >Click here for FAQs</a></strong></p>
 	
 </div>
