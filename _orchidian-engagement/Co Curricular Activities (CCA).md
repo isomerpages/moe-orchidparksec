@@ -3,9 +3,8 @@ title: Co Curricular Activities (CCA)
 permalink: /learning-at-opss/ccas/
 description: ""
 ---
-<div align="justify">
-
 Click [here](/cca/bb) for our CCAs.
+<div align="justify">
 <h4>Department Mission</h4>
 <p>To provide authentic learning platforms for students to learn and develop 21CC skills, core values, NE and SE Competencies.</p>
 <h4>About the Department</h4>
