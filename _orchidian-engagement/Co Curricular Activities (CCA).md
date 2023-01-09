@@ -24,10 +24,12 @@ Click [here](/cca/bb) for our CCAs.
 <p><strong>Uniformed Groups</strong>: To make good citizens of our students by inculcating in them self-reliance, resilience, discipline and a spirit of service to others.</p>
 <p><strong>Clubs and Societies</strong>: To allow our students to explore and extend their interests in wide ranging and specialised areas which may be knowledge-based or skills-based.</p>
 <h4>CCA Training Schedule 2023</h4>
+
+[](/files/CCA%20main%20page%20info/CCA%20FAQs.pdf)
 <a href="/files/CCA%20Training%20Schedule.pdf">Link to PDF</a>
 <h4>Information for Parents</h4>
-<a href="/files/LEAPS%2020.pdf">Link to PDF</a>
+<a href="/files/CCA%20main%20page%20info/Schedule%20for%20CCAs">Link to PDF</a>
 <p><strong>Short clips for our CCA<br /></strong>-&nbsp;<a href="https://sites.google.com/moe.edu.sg/opsscca2023/home" target="_blank" rel="noopener">CCA videos</a><br />-&nbsp;<a href="https://sites.google.com/view/opss-syf-performances-2021/home" target="_blank" rel="noopener">SYF 2021 Performing Arts</a></p>
 <p><strong>FAQ for CCA</strong></p>
-<p><strong><a href="/files/CCA%20FAQ%202022.pdf" target="_blank" rel="noopener noreferrer" data-icon="" data-fallback="Find out more">Click here for FAQs</a></strong></p>
+<p><strong><a href="/files/CCA%20main%20page%20info/CCA%20FAQs.pdf" target="_blank" rel="noopener noreferrer" data-icon="" data-fallback="Find out more">Click here for FAQs</a></strong></p>
 <p>Updated on 15th Jan '22'</p>
