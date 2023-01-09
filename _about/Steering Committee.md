@@ -96,13 +96,7 @@ description: ""
 <tr>
 <td style="text-align: center;" colspan="4"><strong>Subject and Level Heads</strong></td>
 </tr>
-<td style="width: 20%;"><img src="/images/SC/MICHELLE%20KWOK.png"></td>
-<td style="width: 30%;"><div><strong>Ms Kwok Shi You Michelle</strong></div>
-<div>Asst Year Head - Lower Sec (Sec 3)</div></td>
-<td style="width: 20%;"><img src="/images/SC/Suhairi%20Bin%20Samsudin.png"></td>
-<td style="width: 30%;"><div><strong>Mr Suhairi</strong></div>
-<div>Asst Year Head - Upper Sec (Sec 4/5)</div></td>
-<tr>
+<tr>	
 <td style="width: 20%;"><img src="/images/s1.png"></td>
 <td style="width: 30%;"><div><strong>Mr Benedict Tan</strong></div>
 <div>LH Education Technology</div></td>
@@ -138,6 +132,14 @@ description: ""
 <td style="width: 20%;"><img src="/images/s8.png"></td>
 <td style="width: 30%;"><div><strong>Mr Teo Ee Jun</strong></div>
 <div>SH History</div></td>
+<td style="width: 20%;"><img src="/images/SC/MICHELLE%20KWOK.png"></td>
+<td style="width: 30%;"><div><strong>Ms Kwok Shi You Michelle</strong></div>
+<div>Asst Year Head - Lower Sec (Sec 3)</div></td>
+</tr>
+<tr>
+<td style="width: 20%;"><img src="/images/SC/Suhairi%20Bin%20Samsudin.png"></td>
+<td style="width: 30%;"><div><strong>Mr Suhairi</strong></div>
+<div>Asst Year Head - Upper Sec (Sec 4/5)</div></td>
 </tr>
 </tbody>
 </table>
