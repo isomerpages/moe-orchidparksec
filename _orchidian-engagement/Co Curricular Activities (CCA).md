@@ -30,7 +30,7 @@ Click [here](/cca/bb) for our CCAs.
 <a href="/files/CCA%20main%20page%20info/LEAPS%2020.pdf" target="_blank">LEAPS 2.0 information</a>
 
 <h4>Straits Times Article</h4>
-<a href=".pdf" target="_blank">Take Flight With CCA</a>
+<a href="/files/CCA%20main%20page%20info/CCA%20article%201%20n%202.pdf" target="_blank">Take Flight With CCA</a>
 	
 <p><strong>Short clips for our CCA<br /></strong>-&nbsp;<a href="https://sites.google.com/moe.edu.sg/opsscca2023/home" target="_blank" rel="noopener">CCA videos</a><br />-&nbsp;<a href="https://sites.google.com/view/opss-syf-performances-2021/home" target="_blank" rel="noopener">SYF 2021 Performing Arts</a></p>
 <p><strong>FAQ for CCA</strong>
