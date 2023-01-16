@@ -2,7 +2,6 @@ collections:
   announcements:
     output: true
     order:
-      - Announcements/2022 O–level Result Release.md
       - Announcements/Sec 1 Parent–Teacher Meeting (Slides) 14 Jan 2023.md
       - Announcements/Sec 3 Parents Engagement (slides) 26 May 2022.md
       - Announcements/2022 GCE N(T), N(A), O–Level Registration Information for
