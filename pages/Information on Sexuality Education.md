@@ -44,15 +44,16 @@ b.    Character and Citizenship Education (CCE)</p>
 <p>6.       The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture and the internet. Adolescence is a complex stage in life as the adolescent attempts to find his/her own identity and often struggles with new social relationships. The period of middle adolescence (generally from 15 – 17 years old) can be a turbulent period for adolescents. The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities (including sexual activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. The need for peer acceptance can be overwhelmingly strong, and hinder one’s ability to act responsibly.  Given the pressures faced by the middle adolescent from within themselves and from peers, it is important to build a strong sense of self-worth, personal conviction and an understanding of the possible consequences of sexual behaviour.</p>
 
 <p>7.       Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.<br>
-Click here for the lessons taught in 2023.</p>
+Click <a href="/files/SEd/2023%20OPSS%20SEd%20SOW.pdf" target="_blank">here</a> for the lessons taught in 2023.</p>
 
 <h4><em>eTeens</em> Programme:</h4>
 
 <p>8.       <em>eTeens</em> is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. <em>eTeens</em> is conducted in two segments – a mass talk segment and a classroom-based programme.</p>
 
 <p>9.       Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the <em>eTeens</em> programme is that students are empowered to make wise, informed and sensible decisions.<br>
-Click here for <em>eTeens</em> programme implementation in 2023.	
+Click <a href="/files/SEd/2023%20OPSS%20SEd%20eTeens%20SOW.pdf" target="_blank">here</a> for <em>eTeens</em> programme implementation in 2023.
 </p>
+
 <h4>Information for Parents</h4>
 
 <p>10.      Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.</p>
