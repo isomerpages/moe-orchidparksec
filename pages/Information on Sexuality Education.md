@@ -63,5 +63,3 @@ Click <a href="/files/SEd/2023%20OPSS%20SEd%20eTeens%20SOW.pdf" target="_blank">
 <p>12.      Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents in Term 2. A hardcopy of the form, duly completed and signed, is to be submitted to the school.</p>
 
 <p>13.      Parents can contact the school at 67598547 Attn: Mrs Fu Wei Hui (SEd Coordinator) or Attn: Mr Wong Yiu Hang (SEd Coordinator) for discussion or to seek clarification about the school’s sexuality education programme.</p>
-	
-</div>
