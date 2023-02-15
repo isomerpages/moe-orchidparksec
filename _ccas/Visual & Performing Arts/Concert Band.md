@@ -30,7 +30,7 @@ third_nav_title: Visual & Performing Arts
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Time</strong>:</td>
-<td style="text-align: center;">2.30 PM - 5.30 PM</td>
+<td style="text-align: center;">1.30 PM - 4.30 PM</td>
 </tr>
 </tbody>
 </table>
