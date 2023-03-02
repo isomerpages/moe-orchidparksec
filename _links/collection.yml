@@ -2,6 +2,7 @@ collections:
   links:
     output: true
     order:
+      - Students/Subject Combination.md
       - Students/.keep
       - Students/Timetable.md
       - Students/Student Calendar.md
