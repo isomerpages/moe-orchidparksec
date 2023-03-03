@@ -12,6 +12,6 @@ third_nav_title: Students
 
 <p>Click <a href="/files/Sec%202%20PTM/Subject%20Combination/2NA%20Subject%20Combinations%20Talk%20(2023)_FINAL%20small.pdf" target="_blank">here</a> for Sec 2 N(A) and <a href="/files/Sec%202%20PTM/Subject%20Combination/2023_ECG_2%20NA.pdf" target="_blank">here</a> for ECG guide</p>
 	
-<p>Click <a href="/files/Sec%202%20PTM/Subject%20Combination/2NT%20Subject%20Combinations%20Talk%20(2023)_FINAL%20small.pdf" target=_blank">here</a> for Sec 2 N(T) and <a href="/files/Sec%202%20PTM/Subject%20Combination/2023_ECG_2NT.pdf" target="_blank">here</a> for ECG guide</p>
+<p>Click <a href="/files/Sec%202%20PTM/Subject%20Combination/2NT%20Subject%20Combinations%20Talk%20(2023)_FINAL%20small.pdf" target="_blank">here</a> for Sec 2 N(T) and <a href="/files/Sec%202%20PTM/Subject%20Combination/2023_ECG_2NT.pdf" target="_blank">here</a> for ECG guide</p>
 	
 </div>
