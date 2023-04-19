@@ -82,7 +82,8 @@ third_nav_title: Prospective Students
 </table>
 <p style="text-align: center;">*Please click on the above links for more info</p>
 
-<p><a href="mailto:tan_tong_leng@schools.gov.sg">The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at </a><a href="https://www.moe.gov.sg/dsa-sec">https://www.moe.gov.sg/dsa-sec</a></p>
+<p>The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at <a href="https://www.moe.gov.sg/dsa-sec">https://www.moe.gov.sg/dsa-sec</a></p>
+
 <h4>Contact Person</h4>
 <p>Mr Paul Tan<br>HOD PE &amp; CCA<br>Email:&nbsp;<a href="mailto:tan_paul_loong@schools.gov.sg">tan_paul_loong@schools.gov.sg</a></p>
 <p>Mr Tan Tong Leng<br>LH PE &amp; CCA<br>Email:&nbsp;<a href="mailto:tan_tong_leng@schools.gov.sg">tan_tong_leng@schools.gov.sg</a></p>
