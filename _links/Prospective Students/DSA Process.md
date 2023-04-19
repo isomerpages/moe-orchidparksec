@@ -13,7 +13,7 @@ third_nav_title: Prospective Students
 
 <p>2) Only shortlisted applicants will be required to go through a trial/audition and interview.</p>
 
-<p>3) Successful DSA applicants are <b>NOT</b> allowed to participate in the annual S1 Posting Exercise to opt for secondary schools and are **expected to honour their commitment** (after exercising the Confirmed Offer or Waiting List offer) to the school, and participate in the activities related to the talent/interest they are selected for from year 1 to 4.</p>
+<p>3) Successful DSA applicants are <b>NOT</b> allowed to participate in the annual S1 Posting Exercise to opt for secondary schools and are <b>expected to honour their commitment</b> (after exercising the Confirmed Offer or Waiting List offer) to the school, and participate in the activities related to the talent/interest they are selected for from year 1 to 4.</p>
 
 <p>4)&nbsp; Successful DSA applicants are <b>NOT</b> allowed to transfer to another school after the release of the PSLE results.</p>
 
