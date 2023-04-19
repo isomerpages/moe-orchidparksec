@@ -101,8 +101,26 @@ third_nav_title: Prospective Students
 <p>Miss Chin Kean Kean<br>SH Community Youth Leadership<br>Email: <a href="mailto:chin_kean_kean@schools.gov.sg">chin_kean_kean@schools.gov.sg</a></p></div>
 
 <div>
+<h4>DSA Leadership</h4>
+<p>In Orchid Park Secondary School, our mission is to nurture and develop every student to become an engaged *leader so that they can lead and serve with compassion.</p>
 
-	
+<p>We believe that every student can be nurtured to be a leader to lead themselves and/or others and we desire our Orchidians to achieve the following outcomes:</p>
+<ul>
+<li>An Orchidian with a ‘can do’ attitude who has initiative and volunteers</li>
+<li>An Orchidian with a positive outlook who is able to rally others to work towards set goals</li>
+<li>An Orchidian who is resourceful and perceptive</li>
+<li>An Orchidian who fosters collaboration and values diverse views</li>
+<li>An Orchidian who is compassionate towards their fellow men</li>
+</ul>
+
+<p><a href="/our-engaged-learners/student-leadership/o-p-student-council" target="_blank" rel="noopener">Student Council</a><br>*Please click on the link above for more info</p>
+
+<p>DSA Leadership is not a CCA. All students enrolled through DSA leadership are&nbsp;expected to take up a CCA. They are expected to serve in the school’s student councilthroughout their secondary education with Orchid Park Secondary School.</p>
+
+<p>The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at <a href="https://www.moe.gov.sg/dsa-sec">https://www.moe.gov.sg/dsa-sec</a></p>
+
+<h4>Contact person</h4>
+<p>Ms Shaikha<br>Student Council teacher-in-charge<br>Email: <a href="mailto:shaikha_nur_hajibah@schools.gov.sg">shaikha_nur_hajibah@schools.gov.sg</a></p>
 </div>
 	
 <p><a href="mailto:tan_tong_leng@schools.gov.sg"><strong><u>Applicants not studying in MOE Schools:<br></u></strong>For applicants not studying in MOE mainstream primary schools, please refer to the MOE website at:<br></a><a href="https://go.gov.sg/nmsdsa-sec-application" target="_blank" rel="noopener">https://go.gov.sg/nmsdsa-sec-application</a><br>for more information.</p>
