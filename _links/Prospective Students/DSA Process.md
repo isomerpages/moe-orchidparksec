@@ -13,13 +13,13 @@ third_nav_title: Prospective Students
 
 2) Only shortlisted applicants will be required to go through a trial/audition and interview.
 
-3) Successful DSA applicants are **NOT** allowed to participate in the annual S1 Posting Exercise to opt for secondary schools and are **expected to honour their commitment** (after exercising the Confirmed Offer or Waiting List offer) to the school, and participate in the activities related to the talent/interest they are selected for from year 1 to 4.
+3) Successful DSA applicants are <b>NOT</b> allowed to participate in the annual S1 Posting Exercise to opt for secondary schools and are **expected to honour their commitment** (after exercising the Confirmed Offer or Waiting List offer) to the school, and participate in the activities related to the talent/interest they are selected for from year 1 to 4.
 
-4)&nbsp; Successful DSA applicants are **NOT** allowed to transfer to another school after the release of the PSLE results.
+4)&nbsp; Successful DSA applicants are <b>NOT</b> allowed to transfer to another school after the release of the PSLE results.
 
 5)&nbsp; In addition, successful DSA applicants while guaranteed a place in the CCA, will not be guaranteed a place in the school team. Selection into the school team will still be based on merit, subjected to good conduct in school.&nbsp;
 
-6) Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from **4 May 2023, 11am to 31 May 2023, 3pm**. For more details, please refer to MOE website 
+6) Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from <b>4 May 2023, 11am to 31 May 2023, 3pm</b>. For more details, please refer to MOE website 
 <a href="www.moe.gov.sg/dsa-sec">http://www.moe.gov.sg/dsa-sec</a>
 
 <h4>DSA Physical Sports and Games</h4>
