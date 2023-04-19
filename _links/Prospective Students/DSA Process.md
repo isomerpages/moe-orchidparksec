@@ -4,42 +4,25 @@ permalink: /links/prospective/process/
 description: ""
 third_nav_title: Prospective Students
 ---
+<h4>Application Process</h4>
+<p><b>Thank you for your interest in Orchid Park Secondary School</b></p>
+<p>Important notes before applying:</p>
 
-<p>Thank you for your interest in Orchid Park Secondary School</p>
-<p><strong><u>Important notes before applying:&nbsp;</u></strong></p>
-<table>
-<tbody>
-<tr>
-<td>1)</td>
-<td style="text-align: left;">Parents and students are encouraged to choose schools wisely based on the student&rsquo;s aptitudes and strengths, bearing in mind the schools&rsquo; academic and non-academic requirements, and the programmes available to develop the area of talent/interest.&nbsp;<br /><br /></td>
-</tr>
-<tr>
-<td>2)</td>
-<td style="text-align: left;">Only shortlisted applicants will be required to go through a trial/audition and interview.<br /><br /></td>
-</tr>
-<tr>
-<td>3)</td>
-<td style="text-align: left;">Successful DSA applicants are&nbsp;NOT&nbsp;allowed to participate in the annual S1 Posting Exercise to opt for secondary schools, and are&nbsp;expected to honour their commitment&nbsp;(after exercising the Confirmed Offer or Waiting List offer) to the school, and participate in the activities related to the talent/interest they are selected for from year 1 to 4/5.<br /><br /></td>
-</tr>
-<tr>
-<td>4)</td>
-<td style="text-align: left;">Successful DSA applicants are&nbsp;<strong>NOT</strong>&nbsp;allowed to transfer to another school after the release of the PSLE results.<br /><br /></td>
-</tr>
-<tr>
-<td>5)</td>
-<td style="text-align: left;">In addition, successful DSA applicants while guaranteed a place in the CCA, will not be guaranteed a place in the school team. Selection into the school team will still be based on merit, subjected to good conduct in school.<br /><br /></td>
-</tr>
-<tr>
-<td>6)</td>
-<td style="text-align: left;">
-<div>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from&nbsp;<strong>5 May 2022, 11am to 1 Jun 2022, 3pm.</strong>&nbsp;</div>
-<div>For more details, please refer to MOE website &ndash;</div>
-<div><a href="https://www.moe.gov.sg/secondary/dsa" target="_blank" rel="noopener">www.moe.gov.sg/dsa-sec</a></div>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong><u>Applicants not studying in MOE Schools:<br /></u></strong>For applicants not studying in MOE mainstream primary schools, please refer to the MOE website at:<br /><a href="https://go.gov.sg/nmsdsa-sec-application" target="_blank" rel="noopener">https://go.gov.sg/nmsdsa-sec-application</a><br />for more information.</p>
+1) Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent/interest.
+
+2) Only shortlisted applicants will be required to go through a trial/audition and interview.
+
+3) Successful DSA applicants are NOT allowed to participate in the annual S1 Posting Exercise to opt for secondary schools and are expected to honour their commitment (after exercising the Confirmed Offer or Waiting List offer) to the school, and participate in the activities related to the talent/interest they are selected for from year 1 to 4.
+
+4)&nbsp; Successful DSA applicants are NOT allowed to transfer to another school after the release of the PSLE results.
+
+5)&nbsp; In addition, successful DSA applicants while guaranteed a place in the CCA, will not be guaranteed a place in the school team. Selection into the school team will still be based on merit, subjected to good conduct in school.&nbsp;
+
+6) Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May 2023, 11am to 31 May 2023, 3pm. For more details, please refer to MOE website
+[www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec)
+
+
+<p><strong><u>Applicants not studying in MOE Schools:<br></u></strong>For applicants not studying in MOE mainstream primary schools, please refer to the MOE website at:<br><a href="https://go.gov.sg/nmsdsa-sec-application" target="_blank" rel="noopener">https://go.gov.sg/nmsdsa-sec-application</a><br>for more information.</p>
 
 
 
@@ -47,6 +30,6 @@ third_nav_title: Prospective Students
 | -------- | -------- | -------- |
 | 1     | Leadership     | [Apply](/dsa/dsa-leadership)     |
 |2|Community Youth Leaders|[Apply](/dsa/dsa-cyl)|
-|3|Sports & Games|[Apply](/dsa/dsa-sports-and-games)|
+|3|Sports &amp; Games|[Apply](/dsa/dsa-sports-and-games)|
 |4|Visual Arts|[Apply](/dsa/dsa-visual-arts)|
 |5|Performing Arts|[Apply](/dsa/dsa-performing-arts)|
