@@ -99,7 +99,7 @@ third_nav_title: Prospective Students
 <h4>Contact Person</h4>
 <p>Mr Daniel Chua<br>HOD Student Development<br>Email: <a href="mailto:chua_c_t_daniel@schools.gov.sg">chua_c_t_daniel@schools.gov.sg</a></p>
 <p>Miss Chin Kean Kean<br>SH Community Youth Leadership<br>Email: <a href="mailto:chin_kean_kean@schools.gov.sg">chin_kean_kean@schools.gov.sg</a></p>
-
+<br>
 <h4>DSA Leadership</h4>
 <p>In Orchid Park Secondary School, our mission is to nurture and develop every student to become an engaged *leader so that they can lead and serve with compassion.</p>
 
