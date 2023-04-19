@@ -89,7 +89,7 @@ third_nav_title: Prospective Students
 <p>Mr Tan Tong Leng<br>LH PE &amp; CCA<br>Email:&nbsp;<a href="mailto:tan_tong_leng@schools.gov.sg">tan_tong_leng@schools.gov.sg</a></p>
 
 <h4>DSA Community Youth Leaders (CYL)</h4>
-<p>The Community OutReach Education (CORE) programme develops our *Community Youth Leaders (CYL) to be advocates for causes which they are passionate about. Driven by the school mission to develop students to be resourceful and confident individuals who are compassionate to their fellowmen, CORE works towards building student leadership, particularly through community engagement.</p>
+<p>The Community OutReach Education (CORE) programme develops our Community Youth Leaders (CYL) to be advocates for causes which they are passionate about. Driven by the school mission to develop students to be resourceful and confident individuals who are compassionate to their fellowmen, CORE works towards building student leadership, particularly through community engagement.</p>
 <p>DSA CYL is not a CCA. All students enrolled through DSA CYL are expected to take up a CCA. They are expected to remain in the programme for DSA CYL throughout their secondary education with OPSS.</p>
 <p>All students enrolled through DSA will lead their peers in cohort level service learning projects.&nbsp;</p>
 <p>All successful DSA applicants are expected to <b>initiate</b> and champion at least one service-learning project that impacts the community, during their secondary education with OPSS.</p>
@@ -101,7 +101,7 @@ third_nav_title: Prospective Students
 <p>Miss Chin Kean Kean<br>SH Community Youth Leadership<br>Email: <a href="mailto:chin_kean_kean@schools.gov.sg">chin_kean_kean@schools.gov.sg</a></p>
 
 <h4>DSA Leadership</h4>
-<p>In Orchid Park Secondary School, our mission is to nurture and develop every student to become an engaged *leader so that they can lead and serve with compassion.</p>
+<p>In Orchid Park Secondary School, our mission is to nurture and develop every student to become an engaged leader so that they can lead and serve with compassion.</p>
 
 <p>We believe that every student can be nurtured to be a leader to lead themselves and/or others and we desire our Orchidians to achieve the following outcomes:</p>
 <ul>
@@ -123,8 +123,8 @@ third_nav_title: Prospective Students
 
 <h4>DSA Visual Art</h4>
 <p>The Visual Art programme in Orchid Park Secondary School aims to develop an artist in every child. Through reaching out to the community and engaging in various community projects such as producing art pieces as corporate gifts, fund-raising and beautifying the school environment, the club hopes to foster a strong sense of belonging as well as develop positive values in all members.&nbsp;</p>
-<p>All students enrolled through DSA Visual Arts will be members of the *CCA, Art Club. They are expected to remain in the Art Club throughout their secondary education with OPSS.</p>
-<p>All DSA students will be required to take Art as an elective subject at national examinations in secondary 4/5. There will be interim review on their progress and their Art results will be closely monitored throughout their 4/5 years in the school.&nbsp;</p>
+<p>All students enrolled through DSA Visual Arts will be members of the CCA, Art Club. They are expected to remain in the Art Club throughout their secondary education with OPSS.</p>
+<p>All DSA students will be required to take Art as an elective subject at national examinations in secondary 4. There will be interim review on their progress and their Art results will be closely monitored throughout their 4 years in the school.&nbsp;</p>
 <p>All DSA students will participate in special projects and service learning under Art Department’s social outreach programme. Being an Enhance Art Proggramme school, all DSA students (at secondary 3) will participate in special projects organised by the Arts Education Branch, Student Development Curriculum Division, MOE. Under EAP, they will be given extra opportunities to participate in the annual Incubation Lab project (ILEAP) that is organized every November.&nbsp;</p>
 <p><a href="/cca/art/" target="_blank" rel="noopener">Art Club</a><br>*Please click on the above links for more info</p>
 
