@@ -54,10 +54,10 @@ third_nav_title: Prospective Students
 <p>The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at <a href="https://www.moe.gov.sg/dsa-sec">https://www.moe.gov.sg/dsa-sec</a></p>
 <h4>Contact Person</h4>
 <p>Mr Paul Tan<br>HOD PE &amp; CCA<br>Email: <a href="mailto:tan_paul_loong@schools.gov.sg">tan_paul_loong@schools.gov.sg</a></p>
-<p>Mr Tan Tong Leng<br>LH PE &amp; CCA<br>Email: tan_tong_leng@schools.gov.sg</p></div>
+<p>Mr Tan Tong Leng<br>LH PE &amp; CCA<br>Email: <a href="mailto:tan_tong_leng@schools.gov.sg">tan_tong_leng@schools.gov.sg</a></p></div><a href="mailto:tan_tong_leng@schools.gov.sg">
 
 
-<p><strong><u>Applicants not studying in MOE Schools:<br></u></strong>For applicants not studying in MOE mainstream primary schools, please refer to the MOE website at:<br><a href="https://go.gov.sg/nmsdsa-sec-application" target="_blank" rel="noopener">https://go.gov.sg/nmsdsa-sec-application</a><br>for more information.</p>
+</a><p><a href="mailto:tan_tong_leng@schools.gov.sg"><strong><u>Applicants not studying in MOE Schools:<br></u></strong>For applicants not studying in MOE mainstream primary schools, please refer to the MOE website at:<br></a><a href="https://go.gov.sg/nmsdsa-sec-application" target="_blank" rel="noopener">https://go.gov.sg/nmsdsa-sec-application</a><br>for more information.</p>
 
 
 
