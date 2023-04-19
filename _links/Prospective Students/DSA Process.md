@@ -112,7 +112,7 @@ third_nav_title: Prospective Students
 <li>An Orchidian who is compassionate towards their fellow men</li>
 </ul>
 
-<p><a href="/our-engaged-learners/student-leadership/#sc" target="_blank" rel="noopener">Student Council</a><br>*Please click on the link above for more info</p>
+<p><a href="/our-engaged-learners/student-leadership#sc" target="_blank" rel="noopener">Student Council</a><br>*Please click on the link above for more info</p>
 
 <p>DSA Leadership is not a CCA. All students enrolled through DSA leadership are&nbsp;expected to take up a CCA. They are expected to serve in the school’s student councilthroughout their secondary education with Orchid Park Secondary School.</p>
 
