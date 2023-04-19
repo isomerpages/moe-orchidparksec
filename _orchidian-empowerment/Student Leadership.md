@@ -230,7 +230,7 @@ description: ""
 <p>Play Inclusive brings together students with special needs and students from mainstream schools to promote greater inclusivity through sport. Our secondary 2 sports leaders take on roles such as unified partners or coaches and work together with student athletes from Rainbow Centre Yishun Park School (RCYPS) to train and compete in a competitive event.&nbsp;</p>
 <p>We believe that a good leader must first know how to serve, empathise with and appreciate others around him/her. These values are what we work towards in weekly sessions when students come together to learn a new sport, forge new friendships and nurture a greater understanding and appreciation for each other. Student leaders will also get to put their communication skills, patience, and empathy to test while learning values of teamwork, perseverance, and resilience.&nbsp;</p>
 <img src="/images/sl14.png">
-<p><strong><u>STUDENT COUNCIL<br></u></strong><a rel="noopener" target="_blank" href="/our-engaged-learners/student-leadership/o-p-student-council">[click here for more info on our student council]</a></p>
+<p id="sc"><strong><u>STUDENT COUNCIL<br></u></strong><a rel="noopener" target="_blank" href="/our-engaged-learners/student-leadership/o-p-student-council">[click here for more info on our student council]</a></p>
 <img align="left" src="/images/sl15.jpg" style="width: 50%;">
 <p>Aspiring student councillors should embody the school ORCHID values and be a role model to the rest of the student population.&nbsp;</p><br><br><br><br><br>
 <img align="right" src="/images/sl16.jpg" style="width: 50%;">
