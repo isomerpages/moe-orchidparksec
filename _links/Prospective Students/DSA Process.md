@@ -35,7 +35,7 @@ third_nav_title: Prospective Students
 <td style="text-align: center;">1.&nbsp;<a href="/cca/basketball/" target="_blank" rel="noopener">Basketball</a>&nbsp;(Girls and Boys)</td> 
 </tr>
 <tr>
-<td style="text-align: center;">2.&nbsp;<a href="/learning-at-opss/ccas/physical-sports-and-games/floorball-boys-n-girls" target="_blank" rel="noopener">Floorball</a>&nbsp;(Girls and Boys)</td>
+<td style="text-align: center;">2.&nbsp;<a href="/cca/floorball/" target="_blank" rel="noopener">Floorball</a>&nbsp;(Girls and Boys)</td>
 </tr>
 <tr>
 <td style="text-align: center;">3.&nbsp;<a href="/learning-at-opss/ccas/physical-sports-and-games/football" target="_blank" rel="noopener">Football</a>&nbsp;(Boys Only)</td>
