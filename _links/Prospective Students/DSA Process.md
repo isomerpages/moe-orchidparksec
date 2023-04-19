@@ -4,6 +4,7 @@ permalink: /links/prospective/process/
 description: ""
 third_nav_title: Prospective Students
 ---
+<div>
 <h4>Application Process</h4>
 <p><b>Thank you for your interest in Orchid Park Secondary School</b></p>
 <p>Important notes before applying:</p>
@@ -21,7 +22,6 @@ third_nav_title: Prospective Students
 6) Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May 2023, 11am to 31 May 2023, 3pm. For more details, please refer to MOE website
 [www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec)
 
-<div>
 <h4>DSA Physical Sports and Games</h4>
 <p>The CCA programme in Orchid Park Secondary School provides students with a platform to discover their interests and talents. Each CCA is guided by a CCA Student Development Plan which is designed towards progressive development and attainment of CCA learning outcomes.</p>
 <p>Physical Sports develop resilience, robustness, fair play and team spirit in students.&nbsp;</p>
@@ -52,7 +52,7 @@ third_nav_title: Prospective Students
 <p>The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at <a href="https://www.moe.gov.sg/dsa-sec">https://www.moe.gov.sg/dsa-sec</a></p>
 <h4>Contact Person</h4>
 <p>Mr Paul Tan<br>HOD PE &amp; CCA<br>Email: <a href="mailto:tan_paul_loong@schools.gov.sg">tan_paul_loong@schools.gov.sg</a></p>
-<p>Mr Tan Tong Leng<br>LH PE &amp; CCA<br>Email: <a href="mailto:tan_tong_leng@schools.gov.sg">tan_tong_leng@schools.gov.sg</a></p></div>
+<p>Mr Tan Tong Leng<br>LH PE &amp; CCA<br>Email: <a href="mailto:tan_tong_leng@schools.gov.sg">tan_tong_leng@schools.gov.sg</a></p>
 
 <h4>DSA Performing Arts</h4>
 <p>The CCA programme in Orchid Park Secondary School provides students with a platform to discover their interests and talents. Each CCA is guided by a CCA Student Development Plan which is designed towards progressive development and attainment of CCA learning outcomes.</p>
@@ -88,7 +88,6 @@ third_nav_title: Prospective Students
 <p>Mr Paul Tan<br>HOD PE &amp; CCA<br>Email:&nbsp;<a href="mailto:tan_paul_loong@schools.gov.sg">tan_paul_loong@schools.gov.sg</a></p>
 <p>Mr Tan Tong Leng<br>LH PE &amp; CCA<br>Email:&nbsp;<a href="mailto:tan_tong_leng@schools.gov.sg">tan_tong_leng@schools.gov.sg</a></p>
 
-<div>
 <h4>DSA Community Youth Leaders (CYL)</h4>
 <p>The Community OutReach Education (CORE) programme develops our *Community Youth Leaders (CYL) to be advocates for causes which they are passionate about. Driven by the school mission to develop students to be resourceful and confident individuals who are compassionate to their fellowmen, CORE works towards building student leadership, particularly through community engagement.</p>
 <p>DSA CYL is not a CCA. All students enrolled through DSA CYL are expected to take up a CCA. They are expected to remain in the programme for DSA CYL throughout their secondary education with OPSS.</p>
@@ -99,9 +98,8 @@ third_nav_title: Prospective Students
 <p>The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at <a href="https://www.moe.gov.sg/dsa-sec">https://www.moe.gov.sg/dsa-sec</a></p>
 <h4>Contact Person</h4>
 <p>Mr Daniel Chua<br>HOD Student Development<br>Email: <a href="mailto:chua_c_t_daniel@schools.gov.sg">chua_c_t_daniel@schools.gov.sg</a></p>
-<p>Miss Chin Kean Kean<br>SH Community Youth Leadership<br>Email: <a href="mailto:chin_kean_kean@schools.gov.sg">chin_kean_kean@schools.gov.sg</a></p></div>
+<p>Miss Chin Kean Kean<br>SH Community Youth Leadership<br>Email: <a href="mailto:chin_kean_kean@schools.gov.sg">chin_kean_kean@schools.gov.sg</a></p>
 
-<div>
 <h4>DSA Leadership</h4>
 <p>In Orchid Park Secondary School, our mission is to nurture and develop every student to become an engaged *leader so that they can lead and serve with compassion.</p>
 
@@ -122,9 +120,7 @@ third_nav_title: Prospective Students
 
 <h4>Contact person</h4>
 <p>Ms Shaikha<br>Student Council teacher-in-charge<br>Email: <a href="mailto:shaikha_nur_hajibah@schools.gov.sg">shaikha_nur_hajibah@schools.gov.sg</a></p>
-</div>
 
-<div>
 <h4>DSA Visual Art</h4>
 <p>The Visual Art programme in Orchid Park Secondary School aims to develop an artist in every child. Through reaching out to the community and engaging in various community projects such as producing art pieces as corporate gifts, fund-raising and beautifying the school environment, the club hopes to foster a strong sense of belonging as well as develop positive values in all members.&nbsp;</p>
 <p>All students enrolled through DSA Visual Arts will be members of the *CCA, Art Club. They are expected to remain in the Art Club throughout their secondary education with OPSS.</p>
@@ -136,7 +132,6 @@ third_nav_title: Prospective Students
 
 <h4>Contact Person</h4>
 <p>Mdm Sharon Teo<br>Senior Teacher for Art<br>Email: teo_li_keng_sharon@schools.gov.sg</p>
-</div>
 	
 <p><a href="mailto:tan_tong_leng@schools.gov.sg"><strong><u>Applicants not studying in MOE Schools:<br></u></strong>For applicants not studying in MOE mainstream primary schools, please refer to the MOE website at:<br></a><a href="https://go.gov.sg/nmsdsa-sec-application" target="_blank" rel="noopener">https://go.gov.sg/nmsdsa-sec-application</a><br>for more information.</p>
 
@@ -148,4 +143,4 @@ third_nav_title: Prospective Students
 |2|Community Youth Leaders|[Apply](/dsa/dsa-cyl)|
 |3|Sports &amp; Games|[Apply](/dsa/dsa-sports-and-games)|
 |4|Visual Arts|[Apply](/dsa/dsa-visual-arts)|
-|5|Performing Arts|[Apply](/dsa/dsa-performing-arts)|
+|5|Performing Arts|[Apply](/dsa/dsa-performing-arts)|</div>
