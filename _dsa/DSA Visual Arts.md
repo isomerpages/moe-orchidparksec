@@ -12,4 +12,4 @@ description: ""
 <p>The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at <a href="https://www.moe.gov.sg/dsa-sec">https://www.moe.gov.sg/dsa-sec</a></p>
 
 <h4>Contact Person</h4>
-<p>Mdm Sharon Teo<br>ST Art<br>Email: teo_li_keng_sharon@schools.gov.sg</p>
+<p>Mdm Sharon Teo<br>Senior Teacher for Art<br>Email: teo_li_keng_sharon@schools.gov.sg</p>
