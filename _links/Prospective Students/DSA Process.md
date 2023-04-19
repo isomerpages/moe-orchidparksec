@@ -87,6 +87,22 @@ third_nav_title: Prospective Students
 <p>Mr Paul Tan<br>HOD PE &amp; CCA<br>Email:&nbsp;<a href="mailto:tan_paul_loong@schools.gov.sg">tan_paul_loong@schools.gov.sg</a></p>
 <p>Mr Tan Tong Leng<br>LH PE &amp; CCA<br>Email:&nbsp;<a href="mailto:tan_tong_leng@schools.gov.sg">tan_tong_leng@schools.gov.sg</a></p>
 
+<div>
+<h4>DSA Community Youth Leaders (CYL)</h4>
+<p>The Community OutReach Education (CORE) programme develops our *Community Youth Leaders (CYL) to be advocates for causes which they are passionate about. Driven by the school mission to develop students to be resourceful and confident individuals who are compassionate to their fellowmen, CORE works towards building student leadership, particularly through community engagement.</p>
+<p>DSA CYL is not a CCA. All students enrolled through DSA CYL are expected to take up a CCA. They are expected to remain in the programme for DSA CYL throughout their secondary education with OPSS.</p>
+<p>All students enrolled through DSA will lead their peers in cohort level service learning projects.&nbsp;</p>
+<p>All successful DSA applicants are expected to <b>initiate</b> and champion at least one service-learning project that impacts the community, during their secondary education with OPSS.</p>
+<p><a href="/learning-at-opss/opss-distinctive-special-programmes/llp-cyl-core-leaders-programme" target="_blank" rel="noopener">CYL CORE Leaders program</a><br>*Please click on the link above for more info&nbsp;</p>
+
+<p>The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at <a href="https://www.moe.gov.sg/dsa-sec">https://www.moe.gov.sg/dsa-sec</a></p>
+<h4>Contact Person</h4>
+<p>Mr Daniel Chua<br>HOD Student Development<br>Email: <a href="mailto:chua_c_t_daniel@schools.gov.sg">chua_c_t_daniel@schools.gov.sg</a></p>
+<p>Miss Chin Kean Kean<br>SH Community Youth Leadership<br>Email: <a href="mailto:chin_kean_kean@schools.gov.sg">chin_kean_kean@schools.gov.sg</a></p></div>
+
+
+
+
 <p><a href="mailto:tan_tong_leng@schools.gov.sg"><strong><u>Applicants not studying in MOE Schools:<br></u></strong>For applicants not studying in MOE mainstream primary schools, please refer to the MOE website at:<br></a><a href="https://go.gov.sg/nmsdsa-sec-application" target="_blank" rel="noopener">https://go.gov.sg/nmsdsa-sec-application</a><br>for more information.</p>
 
 
