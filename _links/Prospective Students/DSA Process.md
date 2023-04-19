@@ -40,7 +40,6 @@ third_nav_title: Prospective Students
 <tr>
 <td style="text-align: center;">3.&nbsp;<a href="/learning-at-opss/ccas/physical-sports-and-games/football" target="_blank" rel="noopener">Football</a>&nbsp;(Boys Only)</td>
 </tr>
-
 <tr>
 <td style="text-align: center;">4.&nbsp;<a href="/learning-at-opss/ccas/physical-sports-and-games/netball-girls" target="_blank" rel="noopener">Netball</a>&nbsp;(Girls Only)</td>
 </tr>
@@ -54,10 +53,8 @@ third_nav_title: Prospective Students
 <p>The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at <a href="https://www.moe.gov.sg/dsa-sec">https://www.moe.gov.sg/dsa-sec</a></p>
 <h4>Contact Person</h4>
 <p>Mr Paul Tan<br>HOD PE &amp; CCA<br>Email: <a href="mailto:tan_paul_loong@schools.gov.sg">tan_paul_loong@schools.gov.sg</a></p>
-<p>Mr Tan Tong Leng<br>LH PE &amp; CCA<br>Email: <a href="mailto:tan_tong_leng@schools.gov.sg">tan_tong_leng@schools.gov.sg</a></p></div><a href="mailto:tan_tong_leng@schools.gov.sg">
-</a></div><a href="mailto:tan_tong_leng@schools.gov.sg">
+<p>Mr Tan Tong Leng<br>LH PE &amp; CCA<br>Email: <a href="mailto:tan_tong_leng@schools.gov.sg">tan_tong_leng@schools.gov.sg</a></p></div>
 
-</a><div><a href="mailto:tan_tong_leng@schools.gov.sg">
 <h4>DSA Performing Arts</h4>
 <p>The CCA programme in Orchid Park Secondary School provides students with a platform to discover their interests and talents. Each CCA is guided by a CCA Student Development Plan which is designed towards progressive development and attainment of CCA learning outcomes.</p>
 <p>Performing Arts instil in students a sense of graciousness and an appreciation for the rich culture and heritage of the different Arts genre in our multi-racial society.&nbsp;</p>
@@ -86,7 +83,7 @@ third_nav_title: Prospective Students
 </table>
 <p style="text-align: center;">*Please click on the above links for more info</p>
 
-</a><p><a href="mailto:tan_tong_leng@schools.gov.sg">The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at </a><a href="https://www.moe.gov.sg/dsa-sec">https://www.moe.gov.sg/dsa-sec</a></p>
+<p><a href="mailto:tan_tong_leng@schools.gov.sg">The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at </a><a href="https://www.moe.gov.sg/dsa-sec">https://www.moe.gov.sg/dsa-sec</a></p>
 <h4>Contact Person</h4>
 <p>Mr Paul Tan<br>HOD PE &amp; CCA<br>Email:&nbsp;<a href="mailto:tan_paul_loong@schools.gov.sg">tan_paul_loong@schools.gov.sg</a></p>
 <p>Mr Tan Tong Leng<br>LH PE &amp; CCA<br>Email:&nbsp;<a href="mailto:tan_tong_leng@schools.gov.sg">tan_tong_leng@schools.gov.sg</a></p></div>
