@@ -195,7 +195,7 @@ description: ""
 </tbody>
 </table>
 <h4>Our Key Programmes</h4>
-<p><strong><u>CORE LEADERS PROGRAMME<br></u></strong><a rel="noopener" target="_blank" href="/orchidian-empowerment/special-programs/llp/">[click here for more info on our CORE Leaders Prog]</a></p>
+<p id="cyl"><strong><u>CORE LEADERS PROGRAMME<br></u></strong><a rel="noopener" target="_blank" href="/orchidian-empowerment/special-programs/llp/">[click here for more info on our CORE Leaders Prog]</a></p>
 <img align="right" src="/images/sl1.jpg" style="width: 50%;">
 <p>CORE (Community OutReach Education) leaders are the key drivers of the school’s vision to equip our students with the necessary competencies to become community leaders of influence, who are actively engaged and effecting positive changes in the community.</p>
 <p>In this 4-year, multi-tiered programme, students are equipped with the necessary project management and leadership skills through workshops, learning journeys and experiential learning projects in collaboration with our community partners.</p>
