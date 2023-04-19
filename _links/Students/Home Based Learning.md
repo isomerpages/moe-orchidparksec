@@ -6,4 +6,4 @@ third_nav_title: Students
 ---
 ### Home Based Learning
 
-Please access HBL schedule [here](https://sites.google.com/moe.edu.sg/ophbl/home).
+Please access HBL schedule [here](https://sites.google.com/moe.edu.sg/opss-hbl-2023-for-students?usp=sharing).
