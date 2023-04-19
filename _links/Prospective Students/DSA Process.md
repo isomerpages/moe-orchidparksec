@@ -20,7 +20,7 @@ third_nav_title: Prospective Students
 <p>5)&nbsp; In addition, successful DSA applicants while guaranteed a place in the CCA, will not be guaranteed a place in the school team. Selection into the school team will still be based on merit, subjected to good conduct in school.&nbsp;</p>
 
 <p>6) Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from <b>4 May 2023, 11am to 31 May 2023, 3pm</b>. For more details, please refer to MOE website 
-<a href="www.moe.gov.sg/dsa-sec">http://www.moe.gov.sg/dsa-sec</a></p>
+<a href="http://www.moe.gov.sg/dsa-sec">http://www.moe.gov.sg/dsa-sec</a></p>
 
 <h4>DSA Physical Sports and Games</h4>
 <p>The CCA programme in Orchid Park Secondary School provides students with a platform to discover their interests and talents. Each CCA is guided by a CCA Student Development Plan which is designed towards progressive development and attainment of CCA learning outcomes.</p>
