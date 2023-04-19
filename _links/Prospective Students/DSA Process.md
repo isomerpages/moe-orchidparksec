@@ -64,19 +64,19 @@ third_nav_title: Prospective Students
 <th style="text-align: center;">Performing Arts</th>
 </tr>
 <tr>
-<td style="text-align: center;">1.&nbsp;<a href="/learning-at-opss/ccas/visual-and-performing-arts/concert-band" target="_blank" rel="noopener">Concert Band</a>&nbsp;(Girls and Boys)</td>
+<td style="text-align: center;">1.&nbsp;<a href="/cca/band/" target="_blank" rel="noopener">Concert Band</a>&nbsp;(Girls and Boys)</td>
 </tr>
 <tr>
-<td style="text-align: center;">2.&nbsp;<a href="/learning-at-opss/ccas/visual-and-performing-arts/choir" target="_blank" rel="noopener">Choir</a>&nbsp;(Girls and Boys)</td>
+<td style="text-align: center;">2.&nbsp;<a href="/ccas/visual-and-performing-arts/choir/" target="_blank" rel="noopener">Choir</a>&nbsp;(Girls and Boys)</td>
 </tr>
 <tr>
-<td style="text-align: center;">3.&nbsp;<a href="/learning-at-opss/ccas/visual-and-performing-arts/modern-dance" target="_blank" rel="noopener">Modern Dance</a>&nbsp;(Contemporary/Modern) (Girls and Boys)</td>
+<td style="text-align: center;">3.&nbsp;<a href="/cca/dance/" target="_blank" rel="noopener">Modern Dance</a>&nbsp;(Contemporary/Modern) (Girls and Boys)</td>
 </tr>
 <tr>
-<td style="text-align: center;">4.&nbsp;<a href="/learning-at-opss/ccas/visual-and-performing-arts/english-drama" target="_blank" rel="noopener">English Drama</a>&nbsp;(English) (Girls and Boys)</td>
+<td style="text-align: center;">4.&nbsp;<a href="/cca/drama/" target="_blank" rel="noopener">English Drama</a>&nbsp;(English) (Girls and Boys)</td>
 </tr>
 <tr>
-<td style="text-align: center;">5.&nbsp;<a href="/learning-at-opss/ccas/visual-and-performing-arts/guitar-ensemble" target="_blank" rel="noopener">Guitar-Ensemble</a>&nbsp;(Girls and Boys)&nbsp;</td>
+<td style="text-align: center;">5.&nbsp;<a href="/cca/guitar/" target="_blank" rel="noopener">Guitar-Ensemble</a>&nbsp;(Girls and Boys)&nbsp;</td>
 </tr>
 </tbody>
 </table>
