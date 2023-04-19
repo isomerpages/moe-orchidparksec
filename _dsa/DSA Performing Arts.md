@@ -1,6 +1,6 @@
 ---
 title: DSA Performing Arts
-permalink: /dsa/dsa-performing-arts
+permalink: /dsa/dsa-performing-arts/
 description: ""
 ---
 <p>The CCA programme in Orchid Park Secondary School provides students with a platform to discover their interests and talents. Each CCA is guided by a CCA Student Development Plan which is designed towards progressive development and attainment of CCA learning outcomes.</p>
@@ -29,11 +29,8 @@ description: ""
 </tbody>
 </table>
 <p style="text-align: center;">*Please click on the above links for more info</p>
-<h4>CRITERIA FOR PERFORMING ARTS</h4>
-<p>P6 students who meet the following criteria may apply:</p>
-<p>1) A member of their primary school&rsquo;s CCA in the applied talent area or equivalent<br />Or<br />Have participated/represented in school/public performances (including school concert, community events, cultural exchanges or equivalent) in the Performing Arts<br />Or&nbsp;<br />Have the following attributes:<br />- Display a strong interest and aptitude for the Performing Arts&nbsp;<br />- Ability to work in teams<br />- Relevant qualification(s) in the Performing Arts (if any)</p>
-<p>2) Others<br />- Conduct grade of at least &lsquo;Very Good&rsquo; in his/her Primary 5 and Primary 6 school report</p>
-<p>*Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</p>
+
+<p>The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at <a href="https://www.moe.gov.sg/dsa-sec">https://www.moe.gov.sg/dsa-sec</a></p>
 <h4>Contact Person</h4>
-<p>Mr Paul Tan<br />HOD PE &amp; CCA<br />Email:&nbsp;<a href="mailto:tan_paul_loong@schools.gov.sg">tan_paul_loong@schools.gov.sg</a></p>
-<p>Mr Tan Tong Leng<br />LH PE &amp; CCA<br />Email:&nbsp;<a href="mailto:tan_tong_leng@schools.gov.sg">tan_tong_leng@schools.gov.sg</a></p>
+<p>Mr Paul Tan<br>HOD PE &amp; CCA<br>Email:&nbsp;<a href="mailto:tan_paul_loong@schools.gov.sg">tan_paul_loong@schools.gov.sg</a></p>
+<p>Mr Tan Tong Leng<br>LH PE &amp; CCA<br>Email:&nbsp;<a href="mailto:tan_tong_leng@schools.gov.sg">tan_tong_leng@schools.gov.sg</a></p>
