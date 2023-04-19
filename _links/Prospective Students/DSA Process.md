@@ -38,10 +38,10 @@ third_nav_title: Prospective Students
 <td style="text-align: center;">2.&nbsp;<a href="/cca/floorball/" target="_blank" rel="noopener">Floorball</a>&nbsp;(Girls and Boys)</td>
 </tr>
 <tr>
-<td style="text-align: center;">3.&nbsp;<a href="/learning-at-opss/ccas/physical-sports-and-games/football" target="_blank" rel="noopener">Football</a>&nbsp;(Boys Only)</td>
+<td style="text-align: center;">3.&nbsp;<a href="/cca/football/" target="_blank" rel="noopener">Football</a>&nbsp;(Boys Only)</td>
 </tr>
 <tr>
-<td style="text-align: center;">4.&nbsp;<a href="/learning-at-opss/ccas/physical-sports-and-games/netball-girls" target="_blank" rel="noopener">Netball</a>&nbsp;(Girls Only)</td>
+<td style="text-align: center;">4.&nbsp;<a href="/cca/netball/" target="_blank" rel="noopener">Netball</a>&nbsp;(Girls Only)</td>
 </tr>
 <tr>
 <td style="text-align: center;">5.&nbsp;<a href="/learning-at-opss/ccas/physical-sports-and-games/wushu-mixed" target="_blank" rel="noopener">Wushu</a>&nbsp;(Girls and Boys)</td>
