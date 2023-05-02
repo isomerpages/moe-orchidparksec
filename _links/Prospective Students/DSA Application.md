@@ -56,33 +56,20 @@ third_nav_title: Prospective Students
 
 
 <h4>Criteria for Physical Sports and GAMES</h4>
-
-<p>P6 students who meet the following criteria may apply:</p>
-
+<p><b>P6 students who meet the following criteria may apply:</b></p>
 <p>1) &nbsp;A member of their primary school’s CCA in the applied talent area or equivalent</p>
-
 <p>Or</p>
-
 <p>Have represented their primary school in inter-school competitions and/or taken part in external competitions relevant to the applied Sports and Games</p>
-
 <p>Or</p>
-
 <p>Have the following attributes:</p>
-
-<p>\- Display a passion for the sports applied and possess a positive learning attitude</p>
-
-<p>\- Physically inclined with strong relevant psychomotor skills (techniques, agility, speed, etc)</p>
-
-<p>\- Show tactical awareness in the applied Sports and Games</p>
-
+<p>- Display a passion for the sports applied and possess a positive learning attitude</p>
+<p>- Physically inclined with strong relevant psychomotor skills (techniques, agility, speed, etc)</p>
+<p>- Show tactical awareness in the applied Sports and Games</p>
 <p>2)&nbsp; Others:</p>
+<p>- Conduct grade of at least ‘Very Good’ in his/her Primary 5 and Primary 6 school report</p>
+<p><b>* Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</b></p>
 
-<p>\- Conduct grade of at least ‘Very Good’ in his/her Primary 5 and Primary 6 school report</p>
-
-<p>\* Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</p>
-
-
-	<h4>Contact Person</h4>
+<h4>Contact Person</h4>
 <p>Mr Paul Tan<br>HOD PE &amp; CCA<br>Email: <a href="mailto:tan_paul_loong@schools.gov.sg">tan_paul_loong@schools.gov.sg</a></p>
 <p>Mr Tan Tong Leng<br>LH PE &amp; CCA<br>Email: <a href="mailto:tan_tong_leng@schools.gov.sg">tan_tong_leng@schools.gov.sg</a></p>
 
