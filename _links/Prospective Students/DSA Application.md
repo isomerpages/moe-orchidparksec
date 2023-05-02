@@ -181,7 +181,25 @@ third_nav_title: Prospective Students
 <p>All DSA students will participate in special projects and service learning under Art Department’s social outreach programme. Being an Enhance Art Proggramme school, all DSA students (at secondary 3) will participate in special projects organised by the Arts Education Branch, Student Development Curriculum Division, MOE. Under EAP, they will be given extra opportunities to participate in the annual Incubation Lab project (ILEAP) that is organized every November.&nbsp;</p>
 <p><a href="/cca/art/" target="_blank" rel="noopener">Art Club</a><br>*Please click on the above links for more info</p>
 
-<p>The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at <a href="https://www.moe.gov.sg/dsa-sec">https://www.moe.gov.sg/dsa-sec</a></p>
+<h4>Criteria for Visual Art</h4>
+<p><b>P6 students who meet the following criteria may apply:</b></p>
+<p>1) A member of their primary school’s CCA in Visual Art or equivalent</p>
+<p>Or</p>
+<p>Have participated/represented in school/self in a Visual Art competition</p>
+<p>And</p>
+<p>Have the following attributes:</p>
+<p>- Display a strong interest and aptitude for the Visual Arts </p>
+<p>- Ability to collaborate and work in teams</p>
+<p>- Participated in relevant activities in Visual Arts (if any)</p>
+<p>2) Others:</p>
+<p>- Conduct grade of at least ‘Very Good’ in his/her Primary 5 and Primary 6 school report</p>
+<p><b>* Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</b></p>
+<p><b>Additional information:</b></p>
+<p>1) Shortlisted applicants will be required to take a Visual Art task assessment for DSA admission consideration and go through an interview. During the interview, other evidences of visual art talent, such as portfolios of the applicant’s original artwork, should be showcased to the interview panel. Please bring the originals only.</p>
+<p><b>Supporting documents to bring for the interview:</b></p>
+<p>1. Achievements in Art (exhibitions, competitions and/or art-related awards)</p>
+<p>2. Original portfolio </p>
+<p>3. Referral / recommendation letter by school (if any)</p>
 
 <h4>Contact Person</h4>
 <p>Mdm Sharon Teo<br>Senior Teacher for Art<br>Email: <a href="teo_li_keng_sharon@schools.gov.s">teo_li_keng_sharon@schools.gov.sg</a></p>
