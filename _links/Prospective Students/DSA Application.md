@@ -64,8 +64,8 @@ third_nav_title: Prospective Students
 <br>Have the following attributes:
 <br>- Display a passion for the sports applied and possess a positive learning attitude
 <br>- Physically inclined with strong relevant psychomotor skills (techniques, agility, speed, etc)
-<br>- Show tactical awareness in the applied Sports and Games</p>
-<p>2) Others:
+<br>- Show tactical awareness in the applied Sports and Games
+<br>2) Others:
 <br>- Conduct grade of at least ‘Very Good’ in his/her Primary 5 and Primary 6 school report
 <br><b>* Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</b></p>
 
@@ -105,7 +105,7 @@ third_nav_title: Prospective Students
 <p><b>P6 students who meet the following criteria may apply:</b></p>
 <p>1) A member of their primary school’s CCA in the applied talent area or equivalent
 <br>Or
-<br>Have participated/represented in school/public performances (including school concert, community events, cultural exchanges or equivalent) in the Performing Arts</p>
+<br>Have participated/represented in school/public performances (including school concert, community events, cultural exchanges or equivalent) in the Performing Arts
 <br>Or
 <br>Have the following attributes:
 <br>- Display a strong interest and aptitude for the Performing Arts
@@ -113,7 +113,7 @@ third_nav_title: Prospective Students
 <br>- Relevant qualification(s) in the Performing Arts (if any)
 <br>2) Others:
 <br>- Conduct grade of at least ‘Very Good’ in his/her Primary 5 and Primary 6 school report
-<br><b>* Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</b><p></p>
+<br><b>* Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</b></p>
 
 
 <h4>Contact Person</h4>
@@ -164,12 +164,12 @@ third_nav_title: Prospective Students
 
 <h4>CRITERIA FOR LEADERSHIP</h4>
 <p><b>P6 students who meet the following criteria may apply:</b></p>
-<p>1) Students who have experience in leadership:</p>
+<p>1) Students who have experience in leadership:
 <br>	- Held leadership position(s) in their primary school e.g. Prefects, CCA Leaders/Captains, Class Monitors, NE Ambassadors etc.
 <br>	- Led or co-organised in school, cohort or class activities
 <br>2) Others:
 <br>- Conduct grade of at least ‘Very Good’ in his/her Primary 5 and Primary 6 school report
-<br><b>* Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</b><p></p>
+<br><b>* Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</b></p>
 
 <h4>Contact person</h4>
 <p>Ms Shaikha<br>Student Council teacher-in-charge<br>Email: <a href="mailto:shaikha_nur_hajibah@schools.gov.sg">shaikha_nur_hajibah@schools.gov.sg</a></p>
