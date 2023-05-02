@@ -57,17 +57,17 @@ third_nav_title: Prospective Students
 
 <h4>Criteria for Physical Sports and GAMES</h4>
 <p><b>P6 students who meet the following criteria may apply:</b></p>
-<p>1) &nbsp;A member of their primary school’s CCA in the applied talent area or equivalent</p>
-<p>Or</p>
-<p>Have represented their primary school in inter-school competitions and/or taken part in external competitions relevant to the applied Sports and Games</p>
-<p>Or</p>
-<p>Have the following attributes:</p>
-<p>- Display a passion for the sports applied and possess a positive learning attitude</p>
-<p>- Physically inclined with strong relevant psychomotor skills (techniques, agility, speed, etc)</p>
-<p>- Show tactical awareness in the applied Sports and Games</p>
-<p>2) Others:</p>
-<p>- Conduct grade of at least ‘Very Good’ in his/her Primary 5 and Primary 6 school report</p>
-<p><b>* Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</b></p>
+<p>1) &nbsp;A member of their primary school’s CCA in the applied talent area or equivalent
+<br>Or
+<br>Have represented their primary school in inter-school competitions and/or taken part in external competitions relevant to the applied Sports and Games
+<br>Or
+<br>Have the following attributes:
+<br>- Display a passion for the sports applied and possess a positive learning attitude
+<br>- Physically inclined with strong relevant psychomotor skills (techniques, agility, speed, etc)
+<br>- Show tactical awareness in the applied Sports and Games</p>
+<p>2) Others:
+<br>- Conduct grade of at least ‘Very Good’ in his/her Primary 5 and Primary 6 school report
+<br><b>* Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</b></p>
 
 <h4>Contact Person</h4>
 <p>Mr Paul Tan<br>HOD PE &amp; CCA<br>Email: <a href="mailto:tan_paul_loong@schools.gov.sg">tan_paul_loong@schools.gov.sg</a></p>
@@ -103,17 +103,17 @@ third_nav_title: Prospective Students
 
 <h4>CRITERIA FOR PERFORMING ARTS</h4>
 <p><b>P6 students who meet the following criteria may apply:</b></p>
-<p>1) A member of their primary school’s CCA in the applied talent area or equivalent</p>
-<p>Or</p>
-<p>Have participated/represented in school/public performances (including school concert, community events, cultural exchanges or equivalent) in the Performing Arts</p>
-<p>Or</p>
-<p>Have the following attributes:</p>
-<p>- Display a strong interest and aptitude for the Performing Arts</p>
-<p>- Ability to work in teams</p>
-<p>- Relevant qualification(s) in the Performing Arts (if any)</p>
-<p>2) Others:</p>
-<p>- Conduct grade of at least ‘Very Good’ in his/her Primary 5 and Primary 6 school report</p>
-<p><b>* Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</b></p>
+<p>1) A member of their primary school’s CCA in the applied talent area or equivalent
+<br>Or
+<br>Have participated/represented in school/public performances (including school concert, community events, cultural exchanges or equivalent) in the Performing Arts</p>
+<br>Or
+<br>Have the following attributes:
+<br>- Display a strong interest and aptitude for the Performing Arts
+<br>- Ability to work in teams
+<br>- Relevant qualification(s) in the Performing Arts (if any)
+<br>2) Others:
+<br>- Conduct grade of at least ‘Very Good’ in his/her Primary 5 and Primary 6 school report
+<br><b>* Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</b><p></p>
 
 
 <h4>Contact Person</h4>
@@ -129,18 +129,18 @@ third_nav_title: Prospective Students
 
 <h4>CRITERIA FOR COMMUNITY YOUTH LEADERSHIP (CYL)</h4>
 <p><b>P6 students who meet the following criteria may apply:</b></p>
-<p>1) Students who have experience or would like to embrace opportunities in the following areas may apply:</p>
-<p>	- Local and/or overseas service learning</p>
-<p>	- Community outreach</p> 
-<p>Or</p>
-<p>Have participated/represented in school/public performances (including school concert, community events, cultural exchanges or equivalent) in the Performing Arts</p>
-<p>Or</p>
-<p>Students who:</p>
-<p>- have a keen interest and passion in leading their peers in service learning and community engagement</p>
-<p>- exhibit positive attitude and commitment towards learning and community service</p>
-<p>2) Others:</p>
-<p>- Conduct grade of at least ‘Very Good’ in his/her Primary 5 and Primary 6 school report</p>
-<p><b>* Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</b></p>
+<p>1) Students who have experience or would like to embrace opportunities in the following areas may apply:
+<br>	- Local and/or overseas service learning
+<br>	- Community outreach
+<br>Or
+<br>Have participated/represented in school/public performances (including school concert, community events, cultural exchanges or equivalent) in the Performing Arts
+<br>Or
+<br>Students who:
+<br>- have a keen interest and passion in leading their peers in service learning and community engagement
+<br>- exhibit positive attitude and commitment towards learning and community service
+<br>2) Others:
+<br>- Conduct grade of at least ‘Very Good’ in his/her Primary 5 and Primary 6 school report
+<br><b>* Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</b></p>
 
 <h4>Contact Person</h4>
 <p>Mr Daniel Chua<br>HOD Student Development<br>Email: <a href="mailto:chua_c_t_daniel@schools.gov.sg">chua_c_t_daniel@schools.gov.sg</a></p>
@@ -165,11 +165,11 @@ third_nav_title: Prospective Students
 <h4>CRITERIA FOR LEADERSHIP</h4>
 <p><b>P6 students who meet the following criteria may apply:</b></p>
 <p>1) Students who have experience in leadership:</p>
-<p>	- Held leadership position(s) in their primary school e.g. Prefects, CCA Leaders/Captains, Class Monitors, NE Ambassadors etc.</p>
-<p>	- Led or co-organised in school, cohort or class activities</p> 
-<p>2) Others:</p>
-<p>- Conduct grade of at least ‘Very Good’ in his/her Primary 5 and Primary 6 school report</p>
-<p><b>* Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</b></p>
+<br>	- Held leadership position(s) in their primary school e.g. Prefects, CCA Leaders/Captains, Class Monitors, NE Ambassadors etc.
+<br>	- Led or co-organised in school, cohort or class activities
+<br>2) Others:
+<br>- Conduct grade of at least ‘Very Good’ in his/her Primary 5 and Primary 6 school report
+<br><b>* Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</b><p></p>
 
 <h4>Contact person</h4>
 <p>Ms Shaikha<br>Student Council teacher-in-charge<br>Email: <a href="mailto:shaikha_nur_hajibah@schools.gov.sg">shaikha_nur_hajibah@schools.gov.sg</a></p>
@@ -183,23 +183,23 @@ third_nav_title: Prospective Students
 
 <h4>Criteria for Visual Art</h4>
 <p><b>P6 students who meet the following criteria may apply:</b></p>
-<p>1) A member of their primary school’s CCA in Visual Art or equivalent</p>
-<p>Or</p>
-<p>Have participated/represented in school/self in a Visual Art competition</p>
-<p>And</p>
-<p>Have the following attributes:</p>
-<p>- Display a strong interest and aptitude for the Visual Arts </p>
-<p>- Ability to collaborate and work in teams</p>
-<p>- Participated in relevant activities in Visual Arts (if any)</p>
-<p>2) Others:</p>
-<p>- Conduct grade of at least ‘Very Good’ in his/her Primary 5 and Primary 6 school report</p>
-<p><b>* Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</b></p>
+<p>1) A member of their primary school’s CCA in Visual Art or equivalent
+<br>Or
+<br>Have participated/represented in school/self in a Visual Art competition
+<br>And
+<br>Have the following attributes:
+<br>- Display a strong interest and aptitude for the Visual Arts
+<br>- Ability to collaborate and work in teams
+<br>- Participated in relevant activities in Visual Arts (if any)
+<br>2) Others:
+<br>- Conduct grade of at least ‘Very Good’ in his/her Primary 5 and Primary 6 school report
+<br><b>* Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</b></p>
 <p><b>Additional information:</b></p>
 <p>1) Shortlisted applicants will be required to take a Visual Art task assessment for DSA admission consideration and go through an interview. During the interview, other evidences of visual art talent, such as portfolios of the applicant’s original artwork, should be showcased to the interview panel. Please bring the originals only.</p>
 <p><b>Supporting documents to bring for the interview:</b></p>
-<p>1. Achievements in Art (exhibitions, competitions and/or art-related awards)</p>
-<p>2. Original portfolio </p>
-<p>3. Referral / recommendation letter by school (if any)</p>
+<p>1. Achievements in Art (exhibitions, competitions and/or art-related awards)
+<br>2. Original portfolio
+<br>3. Referral / recommendation letter by school (if any)</p>
 
 <h4>Contact Person</h4>
 <p>Mdm Sharon Teo<br>Senior Teacher for Art<br>Email: <a href="teo_li_keng_sharon@schools.gov.s">teo_li_keng_sharon@schools.gov.sg</a></p>
