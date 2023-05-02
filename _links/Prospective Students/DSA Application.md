@@ -65,7 +65,7 @@ third_nav_title: Prospective Students
 <p>- Display a passion for the sports applied and possess a positive learning attitude</p>
 <p>- Physically inclined with strong relevant psychomotor skills (techniques, agility, speed, etc)</p>
 <p>- Show tactical awareness in the applied Sports and Games</p>
-<p>2)&nbsp; Others:</p>
+<p>2) Others:</p>
 <p>- Conduct grade of at least ‘Very Good’ in his/her Primary 5 and Primary 6 school report</p>
 <p><b>* Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</b></p>
 
@@ -103,7 +103,7 @@ third_nav_title: Prospective Students
 
 <h4>CRITERIA FOR PERFORMING ARTS</h4>
 <p><b>P6 students who meet the following criteria may apply:</b></p>
-<p>1) 1)A member of their primary school’s CCA in the applied talent area or equivalent</p>
+<p>1) A member of their primary school’s CCA in the applied talent area or equivalent</p>
 <p>Or</p>
 <p>Have participated/represented in school/public performances (including school concert, community events, cultural exchanges or equivalent) in the Performing Arts</p>
 <p>Or</p>
@@ -111,7 +111,7 @@ third_nav_title: Prospective Students
 <p>- Display a strong interest and aptitude for the Performing Arts</p>
 <p>- Ability to work in teams</p>
 <p>- Relevant qualification(s) in the Performing Arts (if any)</p>
-<p>2)&nbsp; Others:</p>
+<p>2) Others:</p>
 <p>- Conduct grade of at least ‘Very Good’ in his/her Primary 5 and Primary 6 school report</p>
 <p><b>* Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</b></p>
 
