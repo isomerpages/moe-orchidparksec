@@ -162,7 +162,14 @@ third_nav_title: Prospective Students
 
 <p>DSA Leadership is not a CCA. All students enrolled through DSA leadership are&nbsp;expected to take up a CCA. They are expected to serve in the school’s student councilthroughout their secondary education with Orchid Park Secondary School.</p>
 
-<p>The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at <a href="https://www.moe.gov.sg/dsa-sec">https://www.moe.gov.sg/dsa-sec</a></p>
+<h4>CRITERIA FOR LEADERSHIP</h4>
+<p><b>P6 students who meet the following criteria may apply:</b></p>
+<p>1) Students who have experience in leadership:</p>
+<p>	- Held leadership position(s) in their primary school e.g. Prefects, CCA Leaders/Captains, Class Monitors, NE Ambassadors etc.</p>
+<p>	- Led or co-organised in school, cohort or class activities</p> 
+<p>2) Others:</p>
+<p>- Conduct grade of at least ‘Very Good’ in his/her Primary 5 and Primary 6 school report</p>
+<p><b>* Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</b></p>
 
 <h4>Contact person</h4>
 <p>Ms Shaikha<br>Student Council teacher-in-charge<br>Email: <a href="mailto:shaikha_nur_hajibah@schools.gov.sg">shaikha_nur_hajibah@schools.gov.sg</a></p>
