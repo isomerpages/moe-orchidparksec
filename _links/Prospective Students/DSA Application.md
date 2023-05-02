@@ -127,7 +127,21 @@ third_nav_title: Prospective Students
 <p>All successful DSA applicants are expected to <b>initiate</b> and champion at least one service-learning project that impacts the community, during their secondary education with OPSS.</p>
 <p><a href="/our-engaged-learners/student-leadership#cyl" target="_blank" rel="noopener">CYL CORE Leaders program</a><br>*Please click on the link above for more info&nbsp;</p>
 
-<p>The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at <a href="https://www.moe.gov.sg/dsa-sec">https://www.moe.gov.sg/dsa-sec</a></p>
+<h4>CRITERIA FOR COMMUNITY YOUTH LEADERSHIP (CYL)</h4>
+<p><b>P6 students who meet the following criteria may apply:</b></p>
+<p>1) Students who have experience or would like to embrace opportunities in the following areas may apply:</p>
+<p>	- Local and/or overseas service learning</p>
+<p>	- Community outreach</p> 
+<p>Or</p>
+<p>Have participated/represented in school/public performances (including school concert, community events, cultural exchanges or equivalent) in the Performing Arts</p>
+<p>Or</p>
+<p>Students who:</p>
+<p>- have a keen interest and passion in leading their peers in service learning and community engagement</p>
+<p>- exhibit positive attitude and commitment towards learning and community service</p>
+<p>2) Others:</p>
+<p>- Conduct grade of at least ‘Very Good’ in his/her Primary 5 and Primary 6 school report</p>
+<p><b>* Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</b></p>
+
 <h4>Contact Person</h4>
 <p>Mr Daniel Chua<br>HOD Student Development<br>Email: <a href="mailto:chua_c_t_daniel@schools.gov.sg">chua_c_t_daniel@schools.gov.sg</a></p>
 <p>Miss Chin Kean Kean<br>SH Community Youth Leadership<br>Email: <a href="mailto:chin_kean_kean@schools.gov.sg">chin_kean_kean@schools.gov.sg</a></p>
