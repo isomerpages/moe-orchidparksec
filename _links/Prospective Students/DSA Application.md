@@ -55,7 +55,7 @@ third_nav_title: Prospective Students
 <p style="text-align: center;">*Please click on the above links for more info</p>
 
 
-<h4>Criteria for Physical Sports and GAMES</h4>
+<h4>CRITERIA FOR PHYSICAL SPORTS AND GAMES</h4>
 <p><b>P6 students who meet the following criteria may apply:</b></p>
 <p>1) &nbsp;A member of their primary school’s CCA in the applied talent area or equivalent
 <br>Or
