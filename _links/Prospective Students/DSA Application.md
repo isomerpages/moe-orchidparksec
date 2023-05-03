@@ -181,7 +181,7 @@ third_nav_title: Prospective Students
 <p>All DSA students will participate in special projects and service learning under Art Department’s social outreach programme. Being an Enhance Art Proggramme school, all DSA students (at secondary 3) will participate in special projects organised by the Arts Education Branch, Student Development Curriculum Division, MOE. Under EAP, they will be given extra opportunities to participate in the annual Incubation Lab project (ILEAP) that is organized every November.&nbsp;</p>
 <p><a href="/cca/art/" target="_blank" rel="noopener">Art Club</a><br>*Please click on the above links for more info</p>
 
-<h4>Criteria for Visual Art</h4>
+<h4>CRITERIA FOR VISUAL ART</h4>
 <p><b>P6 students who meet the following criteria may apply:</b></p>
 <p>1) A member of their primary school’s CCA in Visual Art or equivalent
 <br>Or
