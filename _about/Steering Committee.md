@@ -137,11 +137,7 @@ description: ""
 <td style="width: 30%;"><div><strong>Ms Kwok Shi You Michelle</strong></div>
 <div>Asst Year Head - Lower Sec (Sec 3)</div></td>
 </tr>
-<tr>
-<td style="width: 20%;"><img src="/images/SC/Suhairi%20Bin%20Samsudin.png"></td>
-<td style="width: 30%;"><div><strong>Mr Suhairi</strong></div>
-<div>Asst Year Head - Upper Sec (Sec 4/5)</div></td>
-</tr>
+
 </tbody>
 </table>
 <table style="border-collapse: collapse; width: 100%;" border="1">
