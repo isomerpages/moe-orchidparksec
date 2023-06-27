@@ -8,7 +8,7 @@ description: ""
 
 | S/N | Description | Date |
 | -------- | -------- | -------- |
-|1|**Term 3 letter**<br>Please click [here](/files%2FTerm%20Letter/editMediaSettings/term3s1.pdf) for Sec 1.<br>Please click [here](/links/Student/tt/) for Sec 2.<br>Please click [here](/links/Student/tt/) for Sec 3.<br>Please click [here](/links/Student/tt/) for Sec 4 and 5.|27 Jun 2023|
+|1|**Term 3 letter**<br>Please click [here](/files%2FTerm%20Letter/editMediaSettings/term3s1.pdf) for Sec 1.<br>Please click [here](/files%2FTerm%20Letter/editMediaSettings/term3s2.pdf) for Sec 2.<br>Please click [here](/files%2FTerm%20Letter/editMediaSettings/term3s3.pdf) for Sec 3.<br>Please click [here](/links/Student/tt/) for Sec 4 and 5.|27 Jun 2023|
 |2|**Term 3 Timetable**<br>Please click [here](/links/Student/tt/) for the timetable.|23 Jun 2023|
 |3|**Upper Sec Extended Curriculum**<br>Please click [here](/links/Student/tt/) for the timetable.|25 May 2023|
 |4|**Sec 3 Subject Combination Talk**<br>Please click [here](/links/Students/sub-com/) for more information.|3 Mar 2023|
