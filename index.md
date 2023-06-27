@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: Term 3 Letter
           description: ""
-          url: /links/announcements/
+          url: /announcements/
         - title: Term 3 Timetable
           description: ""
           url: /links/Student/tt/
