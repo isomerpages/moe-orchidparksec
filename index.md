@@ -8,14 +8,14 @@ notification: ""
 sections:
   - hero:
       key_highlights:
+        - title: Term 3 Letter
+          description: ""
+          url: /announcements/
         - title: Term 3 Timetable
           description: ""
           url: /links/Student/tt/
         - title: Upper Sec extended curriculum
           description: ""
           url: /links/Student/tt/
-        - title: Sec 3 Subject combination talk
-          description: ""
-          url: /links/Students/sub-com/
       background: /images/Homepage/home20221230.bmp
 ---
