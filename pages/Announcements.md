@@ -8,7 +8,7 @@ description: ""
 
 | S/N | Description | Date |
 | -------- | -------- | -------- |
-|1|**4NT/4NA prelim timetable**<br>Please click [here](/files/Term%20Letter/term3s1.pdf) for Sec 4NT.<br>Please click [here](/files/Term%20Letter/term3s2.pdf) for Sec 4NA.|30 Jun 2023|
+|1|**4NT/4NA prelim timetable**<br>Please click [here](/files/Timetable/4ntprelim.pdf) for Sec 4NT.<br>Please click [here](/files/Timetable/4naprelim.pdf) for Sec 4NA.|30 Jun 2023|
 |2|**Term 3 letter**<br>Please click [here](/files/Term%20Letter/term3s1.pdf) for Sec 1.<br>Please click [here](/files/Term%20Letter/term3s2.pdf) for Sec 2.<br>Please click [here](/files/Term%20Letter/term3s3.pdf) for Sec 3.<br>Please click [here](/files/Term%20Letter/term3s4n5.pdf) for Sec 4 and 5.|27 Jun 2023|
 |3|**Term 3 Timetable**<br>Please click [here](/links/Student/tt/) for the timetable.|23 Jun 2023|
 |4|**Upper Sec Extended Curriculum**<br>Please click [here](/links/Student/tt/) for the timetable.|25 May 2023|
