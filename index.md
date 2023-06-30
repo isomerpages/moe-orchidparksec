@@ -8,13 +8,13 @@ notification: ""
 sections:
   - hero:
       key_highlights:
+        - title: 4NT/4NA Prelim Timetable
+          description: ""
+          url: /announcements/
         - title: Term 3 Letter
           description: ""
           url: /announcements/
         - title: Term 3 Timetable
-          description: ""
-          url: /links/Student/tt/
-        - title: Upper Sec extended curriculum
           description: ""
           url: /links/Student/tt/
       background: /images/Homepage/home20221230.bmp
