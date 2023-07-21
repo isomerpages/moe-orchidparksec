@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: 4NT/4NA Prelim Timetable
+        - title: Updated 4NT/4NA Prelim Timetable
           description: ""
           url: /announcements/
         - title: Term 3 Letter
