@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: O LEVEL PRELIM TIMETABLE
           description: ""
-          url: /links/Student/tt/
+          url: /announcements/
         - title: Updated 4NT/4NA Prelim Timetable
           description: ""
           url: /announcements/
