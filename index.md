@@ -8,14 +8,14 @@ notification: ""
 sections:
   - hero:
       key_highlights:
+        - title: O LEVEL PRELIM TIMETABLE
+          description: ""
+          url: /announcements/
         - title: Updated 4NT/4NA Prelim Timetable
           description: ""
           url: /announcements/
         - title: Term 3 Letter
           description: ""
           url: /announcements/
-        - title: Term 3 Timetable
-          description: ""
-          url: /links/Student/tt/
       background: /images/Homepage/home20221230.bmp
 ---
