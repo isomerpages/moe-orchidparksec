@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: O LEVEL PRELIM TIMETABLE
+        - title: Updated O LEVEL PRELIM TIMETABLE
           description: ""
           url: /announcements/
         - title: Updated 4NT/4NA Prelim Timetable
