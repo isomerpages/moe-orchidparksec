@@ -8,7 +8,7 @@ description: ""
 
 | S/N | Description | Date |
 | -------- | -------- | -------- |
-|1|**Sec 1-3 Extended Curriculum**<br>Instructions click [here](/files/Timetable/instructions.pdf).<br>Please click [here](/files/Timetable/extended%20curriculum%20sept.pdf).|28 Aug 2023|
+|1|**Sec 1-3 Extended Curriculum**<br>Please click [here](/files/Timetable/extended%20curriculum%20sept.pdf).|29 Aug 2023|
 |2|**O level prelim timetable**<br>Please click [here](/files/Timetable/olvlprelim.pdf).|14 Aug 2023|
 |3|**4NT/4NA prelim timetable**<br>Please click [here](/files/Timetable/4ntprelim.pdf) for Sec 4NT.<br>Please click [here](/files/Timetable/4naprelim.pdf) for Sec 4NA.|30 Jun 2023|
 |4|**Term 3 letter**<br>Please click [here](/files/Term%20Letter/term3s1.pdf) for Sec 1.<br>Please click [here](/files/Term%20Letter/term3s2.pdf) for Sec 2.<br>Please click [here](/files/Term%20Letter/term3s3.pdf) for Sec 3.<br>Please click [here](/files/Term%20Letter/term3s4n5.pdf) for Sec 4 and 5.|27 Jun 2023|
