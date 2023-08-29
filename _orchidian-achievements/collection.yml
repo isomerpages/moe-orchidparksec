@@ -1,4 +1,5 @@
 collections:
   orchidian-achievements:
     output: true
-    order: []
+    order:
+      - Alumni/.keep
