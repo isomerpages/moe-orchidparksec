@@ -2,4 +2,5 @@ collections:
   orchidian-achievements:
     output: true
     order:
+      - Alumni/Foo Yu Xun.md
       - Alumni/.keep
