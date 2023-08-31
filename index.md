@@ -8,14 +8,14 @@ notification: ""
 sections:
   - hero:
       key_highlights:
+        - title: Sec 1-3 Extended Curriculum & EOY timetable
+          description: ""
+          url: /announcements/
         - title: congratulations to our students
           description: ""
           url: /orchidian-achievements/future-ready-orchidians/farmathon-2023/
         - title: Congratulations to our alumni
           description: ""
           url: /orchidian-achievements/alumni/fooyuxun/
-        - title: Sec 1-3 Extended Curriculum
-          description: ""
-          url: /announcements/
       background: /images/Homepage/home20221230.bmp
 ---
