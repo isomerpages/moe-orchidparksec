@@ -116,32 +116,26 @@ description: ""
 <td style="width: 20%;"><img src="/images/s4.png"></td>
 <td style="width: 30%;"><div><strong>Mr Frederick Chan</strong></div>
 <div>SH Physics</div></td>
-<td style="width: 20%;"><img src="/images/s6.png"></td>
-<td style="width: 30%;"><div><strong>Mrs Selvan</strong></div>
-<div>SH Student Well-being</div></td>
-</tr>
-<tr>
 <td style="width: 20%;"><img src="/images/SC/LIM%20HAN%20CHUAN.jpg"></td>
 <td style="width: 30%;"><div><strong>Mr Lim Han Chuan</strong></div>
 <div>SH Chinese Language</div></td>
+</tr>
+<tr>
 <td style="width: 20%;"><img src="/images/s8.png"></td>
 <td style="width: 30%;"><div><strong>Mr Teo Ee Jun</strong></div>
 <div>SH History</div></td>
-</tr>
-<tr>
 <td style="width: 20%;"><img src="/images/SC/Ahmad%20Ashraf%20Bin%20Jasman.jpg"></td>
 <td style="width: 30%;"><div><strong>Mr Ahmad Ashraf Bin Jasman</strong></div>
 <div>Asst. Year Head (Covering)<br>Lower Sec (Sec 1)</div></td>
+</tr>
+<tr>
 <td style="width: 20%;"><img src="/images/SC/Wong%20Yiu%20Hang.jpg"></td>
 <td style="width: 30%;"><div><strong>Mr Wong Yiu Hang</strong></div>
 <div>Asst. Year Head (Covering)<br>Lower Sec (Sec 1)</div></td>
-</tr>
-<tr>
 <td style="width: 20%;"><img src="/images/SC/MICHELLE%20KWOK.png"></td>
 <td style="width: 30%;"><div><strong>Ms Kwok Shi You Michelle</strong></div>
 <div>Asst Year Head - Lower Sec (Sec 3)</div></td>
 </tr>
-
 </tbody>
 </table>
 <table style="border-collapse: collapse; width: 100%;" border="1">
