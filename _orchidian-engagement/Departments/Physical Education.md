@@ -6,7 +6,7 @@ third_nav_title: Departments
 ---
 <div align="justify">
 <h4>Physical Education Department</h4>
-<img src="/images/Departments/PE/pe1.jpg">
+<img src="/images/Dept%20Photos%202023/phyedu.jpg">
 <h4>About the Department:</h4>
 <p>The department aims to expose Orchidians to a variety of physical activities and equip them with relevant skills and knowledge to pursue an active and healthy lifestyle. The PE curriculum in Orchid Park Secondary School aims to develop motor skills and core values for students to learn from, participate in and enjoy a wide variety of physical activities and sports. With a broad range of physical competencies, every student is able to continue to participate and pursue physical activities and sports of their interest and ability. Be it for recreation, personal well-being, personal challenges or national honour, it is believed that continuous participation in physical activities and sports is a means to a better and more balanced adulthood.</p>
 <p>The curriculum is divided into the following categories:</p>
@@ -40,8 +40,8 @@ b) NAPFA test<br>
 </p>
 	
 <h4>Sports Carnival</h4>
-<table><tr><td><img src="/images/Departments/PE/pe2.jpg"></td>
-<td><img src="/images/Departments/PE/pe3.jpg"></td></tr></table>
+<table><tbody><tr><td><img src="/images/Departments/PE/pe2.jpg"></td>
+<td><img src="/images/Departments/PE/pe3.jpg"></td></tr></tbody></table>
 	
 <p>This is a platform for students to demonstrate their skills and values honed during PE lessons, in a competitive format. These team competitions are held at an intra-school level where they participate with their classmates. Rules and competition formats are modified to ensure age-appropriateness of the activities. Students from various levels compete in different ball games (Sec 1 – Handball, Sec 2 – Basketball, Sec 3 – Floorball, Sec 4/5 – Volleyball) which they have learnt from their PE lessons respectively. For students who are not ready to compete in team sports, they have the option to participate in Tug of War, Mass Skipping and Darts-throwing. This student-led event also saw many of our students applying the knowledge of the games by serving as referees, where they build their confidence under intense pressure from their peer spectators.</p>
 	
