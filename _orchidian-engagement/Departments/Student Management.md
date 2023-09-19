@@ -6,7 +6,7 @@ third_nav_title: Departments
 ---
 <div align="justify">
 <h4>Student Management</h4>
-<img src="/images/Departments/SM/sm1.jpg">
+<img src="/images/Dept%20Photos%202023/studmanagement.jpg">
 <h4>About the Department</h4>
 <p>The mission of the Student Management Department is “Discipline with Care”, and our motto comprises the following 5 Rs:</p>
 
