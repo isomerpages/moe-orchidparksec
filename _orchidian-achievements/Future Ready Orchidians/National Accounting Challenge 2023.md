@@ -9,7 +9,7 @@ third_nav_title: Future Ready Orchidians
 <p>National Accounting Challenge is held every year for Secondary Three POA students to apply their learning, to ascertain their mastery in the subject, and to propose solutions to real-life business scenarios.</p>
 	
 <h4>Details</h4>
-<p>The students went through a rapid fire challenge that consists of 100 MCQ POA questions to get into the finals. In the finals, the team created a toy prototype, calculated the costs and set appropriate selling prices and also, did an elevator pitch to sell their products. They then prepared a projected financial statement for the business.</p>
+<p>The students went through a rapid fire challenge that consists of 100 MCQ POA questions to get into the finals. In the finals, the team created a toy prototype, calculated the costs and set appropriate selling prices and also, did an elevator pitch to sell their products. They then prepared a projected financial statement for the business. The team emerged as champions.</p>
 	
 <h5>"This competition made me realise how working under pressure feels like, and the importance of skills such as creativity and innovation. It was a great learning experience!"</h5><p align="right">- Nicole Yap, V6</p>
 	
