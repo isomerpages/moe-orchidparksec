@@ -6,7 +6,7 @@ third_nav_title: Departments
 ---
 <div align="justify">
 <h4>Computer Application and Elements of Business Skills</h4>
-<img src="/images/Departments/CPAEBS/cpaebs1.jpg">
+<img src="/images/Dept%20Photos%202023/cpanebs.jpg">
 <h4>About the Department<br>
 Computer Applications Unit</h4>
 <p>We strongly believe in self-directed learning and provide platforms for Orchidians to take responsibility for their own learning.Better students are given the autonomy to move around the class as peer coaches to help those in need, identify mistakes and share what they know. At the same time, they are made aware of any blind spots in their knowledge of the lesson.<br>

@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Departments
 ---
 <div align="justify">
-<img src="/images/Departments/Humanities/hum1.jpg">
+<img src="/images/Dept%20Photos%202023/humanities.jpg">
 <h4>About the Department</h4>
 <p>The Humanities Department in Orchid Park Secondary School is made up of 3 units;</p>
 <p>History, Geography and Social Studies.</p>
@@ -16,10 +16,10 @@ third_nav_title: Departments
 	
 <h4>Department Pedagogy</h4>
 <img src="/images/Departments/Humanities/hum2.png">
-<p>The department adopts an Inquiry-based learning approach in the teaching and learning of Humanities. This is in line with the recommendation made by the Ministry of Education Curriculum Planning & Development Division (Humanities Branch). The Humanities Inquiry Approach, is underpinned by four elements of inquiry, where learning should be Question-Driven and Evidence-Based, and involves Reflection and Knowledge Construction. These elements are further exemplified through students’ learning as they undergo the four stages of the inquiry process, which are Sparking Curiosity, Gathering Data, Exercising Reasoning and Reflective Thinking.</p>
+<p>The department adopts an Inquiry-based learning approach in the teaching and learning of Humanities. This is in line with the recommendation made by the Ministry of Education Curriculum Planning &amp; Development Division (Humanities Branch). The Humanities Inquiry Approach, is underpinned by four elements of inquiry, where learning should be Question-Driven and Evidence-Based, and involves Reflection and Knowledge Construction. These elements are further exemplified through students’ learning as they undergo the four stages of the inquiry process, which are Sparking Curiosity, Gathering Data, Exercising Reasoning and Reflective Thinking.</p>
 	
 <h4>Learning Experiences @ OPSS</h4>
-	<table><tr><td><img src="/images/Departments/Humanities/hum3.png"></td><td><img src="/images/Departments/Humanities/hum4.png"></td></tr></table><img src="/images/Departments/Humanities/hum5.png"><img src="/images/Departments/Humanities/hum6.jpg">
+	<table><tbody><tr><td><img src="/images/Departments/Humanities/hum3.png"></td><td><img src="/images/Departments/Humanities/hum4.png"></td></tr></tbody></table><img src="/images/Departments/Humanities/hum5.png"><img src="/images/Departments/Humanities/hum6.jpg">
 <p>We strive to provide a range of learning experiences to inculcate in students an interest in Humanities and an appreciation for the subjects. These include learning journeys, performance tasks, geographical investigations, historical investigations, Social Studies issue investigations as well as talks and workshops for our students.</p>
 	
 <h4>Department Composition</h4>

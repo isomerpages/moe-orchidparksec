@@ -6,19 +6,19 @@ third_nav_title: Departments
 ---
 <div align="justify">
 
-<img src="/images/Departments/EAS/eas1.jpg">
+<img src="/images/Dept%20Photos%202023/schadmin.jpg">
 
 <h4>About the Department</h4>
-<p>The Executive & Administrative Staff (EAS) department provides administrative and operational support towards the achievement of school goals, and harnesses technology to improve productivity as well as support the teachers in their teaching and learning practices.</p>
+<p>The Executive &amp; Administrative Staff (EAS) department provides administrative and operational support towards the achievement of school goals, and harnesses technology to improve productivity as well as support the teachers in their teaching and learning practices.</p>
 	
-<h4>EAS Sharing & Brainstorming Session</h4>
+<h4>EAS Sharing &amp; Brainstorming Session</h4>
 <img src="/images/Departments/EAS/eas2.jpg">
 <p>-Simplify and streamline complex work processes
 <br>-Leverage technology to reduce man hours and increase productivity
 <br>-Improve daily operations and work-life harmony</p>
 	
 <h4>N1 EAS Day</h4>
-<table><tr><td style="vertical-align: middle"><img src="/images/Departments/EAS/eas3.jpg"></td><td><img src="/images/Departments/EAS/eas4.jpg"></td></tr></table>
+<table><tbody><tr><td style="vertical-align: middle"><img src="/images/Departments/EAS/eas3.jpg"></td><td><img src="/images/Departments/EAS/eas4.jpg"></td></tr></tbody></table>
 <p>-Networking and Bonding session with N1 Cluster School to share best practices and build strong collegial relationships</p>
 	
 <h4>Department Composition</h4>
