@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: congratulations to our students
           description: ""
-          url: /orchidian-achievements/future-ready-orchidians/accounting2023/
+          url: /orchidian-achievements/future-ready-orchidians/pesa2023/
         - title: Term 4 Letters
           description: ""
           url: /announcements/
