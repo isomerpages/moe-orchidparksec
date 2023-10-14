@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - The Orchidian Identity.md
       - Transfer.md
       - Appeals.md
       - DSA Process.md
