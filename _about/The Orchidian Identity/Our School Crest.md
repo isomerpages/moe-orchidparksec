@@ -15,5 +15,3 @@ The orchid that is encased within a globe at the top of the crest depicts the th
 The five lines on both sides of the globe represent the five school values of Integrity, Compassion, Resilience, Respect and Responsibility that undergird the school’s educational philosophy of enabling all Orchidians to be the best versions of themselves.</p>
 	
 </div>
-
-![](/images/Icons/OPSS_Logo_Colour.jpg)
