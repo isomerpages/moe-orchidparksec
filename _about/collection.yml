@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - The Orchidian Identity/The Orchidian Identity.md
       - The Orchidian Identity/.keep
       - Principal's Message.md
       - The Orchidian Story.md
