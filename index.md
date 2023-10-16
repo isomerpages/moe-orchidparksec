@@ -8,13 +8,13 @@ notification: ""
 sections:
   - hero:
       key_highlights:
+        - title: Sec 1-3 Post Exam EOY timetable
+          description: ""
+          url: /links/Student/tt/
         - title: congratulations to our students
           description: ""
           url: /orchidian-achievements/future-ready-orchidians/pesa2023/
         - title: Term 4 Letters
-          description: ""
-          url: /announcements/
-        - title: Sec 1-3 Extended Curriculum & EOY timetable
           description: ""
           url: /announcements/
       background: /images/Homepage/home20221230.bmp
