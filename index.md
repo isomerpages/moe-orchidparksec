@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: Sec 1-3 Post Exam EOY timetable
           description: ""
-          url: https://www.orchidparksec.moe.edu.sg/links/Student/tt/
+          url: /links/Student/tt/
         - title: congratulations to our students
           description: ""
           url: /orchidian-achievements/future-ready-orchidians/pesa2023/
