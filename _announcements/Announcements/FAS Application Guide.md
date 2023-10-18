@@ -9,7 +9,7 @@ third_nav_title: Announcements
 <p><strong><a href="[Fas_pamphet]/files/FAS/fas%20pamphet%202024.pdf" target="_blank" rel="noopener noreferrer" data-icon="" data-fallback="Find out more">Pamphlet</a></strong></p>
 <p>Applicant who meets the eligibility criteria may obtain the application form at the school’s general office. You may also download it in softcopy here or submit a e-application form via FormSG through this link “<a href="https://go.gov.sg/moe-efas" target="_blank" rel="noopener">https://go.gov.sg/moe-efas</a>”.&nbsp;</p>
 
-<img height="80" width="80" alt="fasqr" src="/images/FAS/fasqr2024.jpg">
+<img style="height:250px; width:auto" alt="fasqr" src="/images/FAS/fasqr2024.jpg">
 
 <p><strong><a href="/files/FAS/document1_2024%20moe%20fas%20application%20form.pdf" target="_blank" rel="noopener noreferrer" data-icon="" data-fallback="Find out more">FAS Application Form</a></strong></p>
 
