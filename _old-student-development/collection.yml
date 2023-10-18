@@ -2,5 +2,6 @@ collections:
   old-student-development:
     output: true
     order:
+      - Wushu (Mixed).md
       - Choir.md
       - Student Development.md
