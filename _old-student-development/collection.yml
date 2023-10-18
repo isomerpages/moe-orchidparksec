@@ -2,4 +2,5 @@ collections:
   old-student-development:
     output: true
     order:
+      - Choir.md
       - Student Development.md
