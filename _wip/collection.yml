@@ -1,8 +1,0 @@
-collections:
-  wip:
-    output: true
-    order:
-      - empowerment specialprogrammes competitions.md
-      - empowerment specialprogrammes glow.md
-      - empowerment studenttalent&allrounders.md
-      - about ourpartners framework.md
