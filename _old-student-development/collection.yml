@@ -1,0 +1,8 @@
+collections:
+  old-student-development:
+    output: true
+    order:
+      - Example Title.md
+      - Wushu (Mixed).md
+      - Choir.md
+      - Student Development.md

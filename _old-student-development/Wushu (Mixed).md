@@ -2,12 +2,11 @@
 title: Wushu (Mixed)
 permalink: /cca/wushu/
 description: ""
-third_nav_title: Sports & Games
 ---
 <div align="justify">
 
 <p><strong><em>"坚韧不拔"</em></strong></p>
-<img style="width: 33%;" src="/images/wushu.png" />
+<img style="width: 33%;" src="/images/wushu.png">
 <h4>About the CCA</h4>
 <p>Ever since it started in 1999, OPSS <strong>Wushu&nbsp;</strong>has been a popular choice among students. The objective of this CCA is to foster discipline and sportsmanship in the students.</p>
 <p>The OPSS Wushu team has been trained by Miss Tan Sock Ching, an experienced coach and former National Team member. Miss Tan has been practicing Wushu for the past 20 years. She has represented Singapore and won many of the events in the SEA games and Asia games from 1990 to 1998.</p>
@@ -50,11 +49,11 @@ third_nav_title: Sports & Games
 	
 <h4>Photos</h4>
 <table>
-<tr>
+<tbody><tr>
 <td><img src="/images/CCA/Wushu/Wushu%20Comp%201.jpg"></td>
 </tr>
 <tr>
 <td><img src="/images/CCA/Wushu/Wushu%20Comp%202.jpg"></td>
 </tr>
-</table>
+</tbody></table>
 </div>
