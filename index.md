@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: Sec 3 Extended Curriculum
           description: ""
-          url: /links/announcements
+          url: /announcements/
         - title: congratulations to our students
           description: ""
           url: /orchidian-achievements/future-ready-orchidians/pesa2023/
