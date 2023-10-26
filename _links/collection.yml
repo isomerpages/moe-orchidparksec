@@ -2,7 +2,6 @@ collections:
   links:
     output: true
     order:
-      - Students/Financial Assistance Scheme.md
       - Students/.keep
       - Students/Timetable.md
       - Students/Student Calendar.md
@@ -11,6 +10,7 @@ collections:
       - Students/Book List.md
       - Students/Uniform.md
       - Students/Insurance.md
+      - Students/Financial Assistance Scheme.md
       - Prospective Students (DSA)/.keep
       - Prospective Students (DSA)/Application Process.md
       - Prospective Students (DSA)/Key Dates.md
