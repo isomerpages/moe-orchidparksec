@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: Open House 2023
           description: ""
-          url: /announcements/
+          url: /images/Open%20House/opss%20open%20house%202023%20v4%20-%20b%20-%20no%20animation.jpg
         - title: Sec 3 Extended Curriculum
           description: ""
           url: /announcements/
