@@ -4,8 +4,7 @@ title: Orchid Park Secondary School
 description: Brief site description here
 image: /images/Icons/OPSS_Logo_Colour.jpg
 permalink: /
-notification: "Orchid Park Secondary School's open house is 25 Nov (Sat). Come
-  join us! Register here: https://go.gov.sg/opssopenhouse2023-preregistration"
+notification: ""
 sections:
   - hero:
       key_highlights:
