@@ -17,5 +17,5 @@ sections:
         - title: congratulations to our students
           description: ""
           url: /orchidian-achievements/future-ready-orchidians/pesa2023/
-      background: /images/Open House/open house 2023 v2.png
+      background: /images/Homepage/home20221230.bmp
 ---
