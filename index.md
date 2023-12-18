@@ -4,9 +4,7 @@ title: Orchid Park Secondary School
 description: Brief site description here
 image: /images/Icons/OPSS_Logo_Colour.jpg
 permalink: /
-notification: The results of the 2023 Singapore-Cambridge GCE N(A)- and
-  N(T)-Level Examinations will be released on Monday, 18 December 2023. Check in
-  with your Class Mentors for more details.
+notification: ""
 sections:
   - hero:
       key_highlights:
