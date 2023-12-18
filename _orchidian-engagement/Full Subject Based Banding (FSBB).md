@@ -2,57 +2,167 @@
 title: Full Subject Based Banding (FSBB)
 permalink: /orchidian-engagement/fsbb/
 description: ""
+variant: markdown
 ---
+**Information on Full Subject-Based Banding (FSBB)**
 
+Full Subject-Based Banding (Full SBB) is part of MOE's ongoing efforts to nurture the joy of learning and develop multiple pathways to cater to the different strengths and interests of our students.
 
-<h4>WHAT IS SUBJECT-BASED BANDING (SECONDARY)?</h4>
-<p>Subject-Based Banding (Secondary) [SBB (Sec)] is one of many pathways for students to nurture their aptitudes and enhance their access to opportunities throughout their educational journey. SBB (Sec) allows students to take specific subjects at more demanding level starting from Secondary 1 if they are found suitable to do so.&nbsp;</p>
-<p>Students in the N(A) or N(T) course may be able to take some subjects at Express and/or N(A) levels to allow them to stretch themselves cognitively and acquire deeper competencies in their area(s) of strengths.</p>
-<h4>OFFERING SUBJECTS AT A MORE DEMANDING LEVEL</h4>
-<p>Currently, all secondary school students can offer English Language, Mathematics, Science and Mother Tongue Language at a more demanding level through SBB(Sec) from Secondary 1, if they meet subject-specific criteria. The criteria for taking these subjects at a more demanding level from the start of Secondary 1 is based on students&rsquo; PSLE AL Score for each subject.</p>
-<p>Students posted to the N(A) and N(T) course are eligible to take some subjects (English Language, Mathematics, Science and Mother Tongue Languages) at a more demanding level starting from Secondary 1, if they have performed well in these subjects at the Primary School Leaving Examination (PSLE):</p>
-<ul>
-<li>Students posted to the N(A) or N(T) course who scored AL 5 or better for a PSLE Standard subject can take the subject at the Express level; and</li>
-<li>Students posted to the N(T) course who scored at least AL 6 for a PSLE Standard subject or A in a PSLE Foundation subject can take it at N(A) level.</li>
-</ul>
-<p>Students posted to the N(A) or N(T) course who do well in school-based examinations may also be considered to offer Humanities subjects (Geography, History, Literature in English) in addition to the above mentioned subjects at more demanding level from Secondary 2, if found suitable to do so by their schools.&nbsp;</p>
-<p>Beyond the start of Secondary 1, other N(A) and N(T) students who do well in school-based examinations may be considered to take more demanding level subjects in the next level of study if they are found suitable to do so by the school.</p>
-<ul>
-<li>The subject levels, G1, G2 and G3, will be mapped from today&rsquo;s N(T), N(A) and Express standards respectively.</li>
-</ul>
-<p><strong>*Do note that in 2022, OPSS will be FSBB Phase 1 schools<br /></strong><a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html" target="_blank" rel="noopener">https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html</a></p>
-<h4>How does FSBB work?</h4>
-<p>With Full SBB in secondary schools, students will have greater flexibility to offer more subjects at different levels that suit their interests, aptitude and learning needs. There will no longer be separate Express, N(A), and N(T) courses. Students will be in mixed form classes where they have the opportunities to interact with peers of different strengths and interests.&nbsp;</p>
-<p>Full SBB allows every child access to opportunities, throughout his/her education journey, to develop his/her unique talents and fulfil his/her potential in life.</p>
-<p>From 2024, the Express, N(A) and N(T) courses will be removed. Students will take subjects at three subject levels: G1, G2, G3 (G stands for General), based on their aptitude for and interest in the subjects.</p>
-<p>Students will continue to be posted into secondary schools through three scoring bands, as students&rsquo; PSLE Scores remain a good initial gauge of their overall academic ability and their appropriate subject levels at the beginning of Secondary 1.</p>
-<img style="width: 65%;" src="/images/fsbb.jpg">
-<p>Under FSBB, all the subjects students offer are categorized into two groups &ndash; those in the Common Curriculum, and those offered as SBB subjects at different levels.</p>
-<p>In their mixed form classes, students will take a set of subjects at a common level, amounting to about one-third of curriculum time. This allow students in mixed form classes to spend curriculum time together in these subjects.</p>
-<p>The Common Curriculum comprises the following subjects which are taught to the entire form class:</p>
-<ul>
-<li>Arts;</li>
-<li>Character and Citizenship Education (CCE);</li>
-<li>Design &amp; Technology (D&amp;T);</li>
-<li>Food and Consumer Education (FCE);</li>
-<li>Music; and</li>
-<li>Physical Education (PE</li>
-</ul>
-<p>For SBB subjects, students will be grouped in different teaching groups/classes based on the levels at which they take each subject.&nbsp;</p>
-<p>This provides students with a more customised learning experience according to their subject-specific strengths and interests, and empowers students to take greater ownership of their learning.</p>
-<ul>
-<li>English Language;</li>
-<li>Mother Tongue Languages;</li>
-<li>Mathematics;</li>
-<li>Science;</li>
-<li>Geography;</li>
-<li>History;</li>
-<li>Literature</li>
-</ul>
-<p>During SBB lessons, students are offered subjects in ability-banded classes &mdash; Express, N(A), and N(T) classes. For FSBB (Sec 1 2022 cohort), they will be in Teaching Groups (G1, G2, G3).</p>
-<h4>FAQ</h4>
-<p>Click on the links below to find out more</p>
-<ul>
-<li><a href="/files/SBB%20FAQs.pdf" target="_blank" rel="noopener">SBB</a></li>
-<li><a href="/files/FSBB%20FAQs.pdf" target="_blank" rel="noopener">FSBB</a></li>
-</ul>
+With Full SBB, we are moving towards a secondary school education where students learn each subject at the level that best caters to their overall strengths, interests and learning needs. Under Full SBB, there will no longer be separate Express, N(A), and N(T) streams, and students will be in mixed form classes where they can interact with peers of different strengths and interests.
+
+Under Full SBB, MOE will expand Subject-Based Banding (SBB) beyond the four PSLE subjects, to allow eligible students to offer Humanities subjects at a more demanding level from Secondary 2. Other subjects such as Art, Design and Technology, Food and Consumer Education, Music will be offered as accompanying set of Common Curriculum subjects at lower secondary.
+
+Starting from the 2024 Secondary One cohort, Full SBB will be implemented in our secondary education system. Secondary One student in 120 secondary schools will benefit from the Full SBB experience, which provides greater customisation and flexibility for each student’s learning.
+
+  
+
+![A diagram of a school
+Description automatically generated](https://lh7-us.googleusercontent.com/a__fZF0tWmXYmYvyQ-TX5yjBYHwbNwGJ4zsfnVnX_C8yVwpmPMBTrnsYNYL8wNiA4gZ3NeH16JxUaxXpt1N3YdPLpaIyXrQCBpOJFGT2TOA28JnuDkUY62WcJyeao_ENiGnTjl4zfxJnxrzqqi4evQ)
+
+  
+  
+
+Removal of Express, Normal(Academic)\[N(A)\] &amp; Normal(Technical)\[N(T)\] streams
+
+  
+
+MOE will post students to secondary school through three Posting Groups – Posting Groups 1, 2, and 3. The PSLE score ranges for the three Posting Groups will be mapped from the existing N(T), N(A) and Express streams respectively. Posting Groups will only be used for the purposes of admitting students into secondary school and to guide the initial subject levels students can offer at the start of Secondary One.
+
+Throughout their secondary school education, students can take subjects at three subject levels, known as G1, G2, G3 (G stands for General), mapped from today's N(T), N(A) and Express standards respectively. Students will have the flexibility to adjust their subject levels at appropriate junctures, based on their strengths, interests and learning needs.&nbsp;
+
+![A table with text and numbers
+Description automatically generated](https://lh7-us.googleusercontent.com/5eXOAUNktZh1IIxMpzFDMyXkU_8iIkfCcI2XF6eLeyb5C90a4XTeTusyK8cQ844QdwAWoXouOAlx0P2z7y85PCW_QiZJQPLsqh7PdP4f_DYWk1-yQ_L3LyMFqcElmZbo_NpzR9IvOTGjGqwsZRqlbg)
+
+Students will subsequently access programmes and post-secondary pathways based on their various subjects and subject level combinations.
+
+  
+  
+  
+
+MIXED FORM CLASSES
+
+Once students enter secondary school, they will be grouped into mixed form classes comprising students from different Posting Groups and will have opportunities to interact and learn with peers of different backgrounds, strengths, and interests.
+
+  
+  
+
+OFFERING SUBJECTS AT A MORE DEMANDING LEVEL
+
+Students may be able to take some subjects at More Demanding levels (MDL) to stretch themselves cognitively and acquire deeper competencies in their areas of strengths.
+
+Eligible students can offer&nbsp;English Language, Mother Tongue Languages, Mathematics and Science&nbsp;at a more demanding level based on their PSLE Achievement Level (AL) for each of these subjects.
+
+![A table of text with white text
+Description automatically generated with medium confidence](https://lh7-us.googleusercontent.com/lAPvpFr2Pi5F7HANkDTyKQyEcLbw32OJKmRQZz_5wM1pFy6s2y8wUjYZ1Dc_k6cCY-UecvH3Ns9QmStJp1phBhUpAqLW27BaHPR-HuARz6qc496oO3kl8s0J9K7esYy3B5kOGt6Qpbp5946abqo3AQ)
+
+  
+  
+  
+  
+
+Beyond the start of Secondary One
+
+From Secondary 2 (S2), students will also be able to offer&nbsp;Humanities subjects&nbsp;(Geography, History, and Literature in English) at a more demanding level. The criteria for taking Humanities at a more demanding level will be based on students' aptitude for and interest in these subjects at S1.
+
+![A screenshot of a computer screen
+Description automatically generated](https://lh7-us.googleusercontent.com/mm4nGFjROtNeTtUL6P4lAnsDZ3dFQS3LHUj80g93lKitZ4gNDRWKi0MYitFp2HGzTLoKisN48pZ5o7VRAeXjbTrqQSB4RMet7Bgee-ZQp9Tw1YMA46mkzXtgjtxVtgFNuR5hkguInHv4MCoa7pQqdw)
+
+  
+
+![A group of people sitting at a desk
+Description automatically generated](https://lh7-us.googleusercontent.com/DHDlzrui-72Gmi9Fi_FH6cL0qYv2kgb1Bi3lPmvwPc1RRM1fpw9OaugVSe--DiprunN6ztlSWbvlXV6dCQcGCLJPxDm0relqUGMC3aR_SZ3EtXwvl5NMkc2yBzsuePu8M8cL8pT0udD51s--y-Cuhg)
+
+OFFERING SUBJECTS AT A LESS DEMANDING LEVEL
+
+#### At the start of Secondary One
+
+For students who offered English, Mathematics and/or Science at Foundation level at PSLE but are otherwise eligible to take most of their subjects at G3 when entering secondary school, they may choose to take these subjects at a less demanding level (i.e., G2), in consultation with their secondary schools.
+
+  
+
+Students who face exceptional difficulties coping with their Mother Tongue Languages (MTL) will have the option to offer G1 or G2 MTL. At the start of Secondary One, students can offer MTL at a less demanding level based on the following criteria:
+
+<table style="border:none;border-collapse:collapse;"><colgroup><col width="181"><col width="130"><col width="202"><col width="108"></colgroup><tbody><tr style="height:0pt"><td style="border-left:solid #282e45 1.5pt;border-right:solid #282e45 1.5pt;border-bottom:solid #282e45 1.5pt;border-top:solid #282e45 1.5pt;vertical-align:middle;background-color:#53576a;padding:7.5pt 7.5pt 7.5pt 7.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.3800000000000001;text-align: center;margin-top:0pt;margin-bottom:15pt;" dir="ltr"><span style="font-size:11pt;font-family:Lato,sans-serif;color:#f5f6f6;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Indicative Level of Most Subjects at Start of S1</span></p></td><td style="border-left:solid #282e45 1.5pt;border-right:solid #282e45 1.5pt;border-bottom:solid #282e45 1.5pt;border-top:solid #282e45 1.5pt;vertical-align:middle;background-color:#53576a;padding:7.5pt 7.5pt 7.5pt 7.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.3800000000000001;text-align: center;margin-top:0pt;margin-bottom:15pt;" dir="ltr"><span style="font-size:11pt;font-family:Lato,sans-serif;color:#f5f6f6;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">PSLE Grade (Standard MTL)</span></p></td><td style="border-left:solid #282e45 1.5pt;border-right:solid #282e45 1.5pt;border-bottom:solid #282e45 1.5pt;border-top:solid #282e45 1.5pt;vertical-align:middle;background-color:#53576a;padding:7.5pt 7.5pt 7.5pt 7.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.3800000000000001;text-align: center;margin-top:0pt;margin-bottom:15pt;" dir="ltr"><span style="font-size:11pt;font-family:Lato,sans-serif;color:#f5f6f6;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">PSLE Grade (Foundation Mother Tongue Language)</span></p></td><td style="border-left:solid #282e45 1.5pt;border-right:solid #282e45 1.5pt;border-bottom:solid #282e45 1.5pt;border-top:solid #282e45 1.5pt;vertical-align:middle;background-color:#53576a;padding:7.5pt 7.5pt 7.5pt 7.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.3800000000000001;text-align: center;margin-top:0pt;margin-bottom:15pt;" dir="ltr"><span style="font-size:11pt;font-family:Lato,sans-serif;color:#f5f6f6;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Option to offer MTL at</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #282e45 1.5pt;border-right:solid #282e45 1.5pt;border-bottom:solid #282e45 1.5pt;border-top:solid #282e45 1.5pt;vertical-align:middle;background-color:#ffffff;padding:7.5pt 7.5pt 7.5pt 7.5pt;overflow:hidden;overflow-wrap:break-word;" rowspan="2"><p style="line-height:1.3800000000000001;text-align: center;margin-top:0pt;margin-bottom:15pt;" dir="ltr"><span style="font-size:11pt;font-family:Lato,sans-serif;color:#53576a;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">G3</span></p></td><td style="border-left:solid #282e45 1.5pt;border-right:solid #282e45 1.5pt;border-bottom:solid #282e45 1.5pt;border-top:solid #282e45 1.5pt;vertical-align:middle;background-color:#ffffff;padding:7.5pt 7.5pt 7.5pt 7.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.3800000000000001;text-align: center;margin-top:0pt;margin-bottom:15pt;" dir="ltr"><span style="font-size:11pt;font-family:Lato,sans-serif;color:#53576a;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">AL 6</span></p></td><td style="border-left:solid #282e45 1.5pt;border-right:solid #282e45 1.5pt;border-bottom:solid #282e45 1.5pt;border-top:solid #282e45 1.5pt;vertical-align:middle;background-color:#ffffff;padding:7.5pt 7.5pt 7.5pt 7.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.3800000000000001;text-align: center;margin-top:0pt;margin-bottom:15pt;" dir="ltr"><span style="font-size:11pt;font-family:Lato,sans-serif;color:#53576a;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">AL A</span></p></td><td style="border-left:solid #282e45 1.5pt;border-right:solid #282e45 1.5pt;border-bottom:solid #282e45 1.5pt;border-top:solid #282e45 1.5pt;vertical-align:middle;background-color:#ffffff;padding:7.5pt 7.5pt 7.5pt 7.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.3800000000000001;text-align: center;margin-top:0pt;margin-bottom:15pt;" dir="ltr"><span style="font-size:11pt;font-family:Lato,sans-serif;color:#53576a;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">G2</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #282e45 1.5pt;border-right:solid #282e45 1.5pt;border-bottom:solid #282e45 1.5pt;border-top:solid #282e45 1.5pt;vertical-align:middle;background-color:#ffffff;padding:7.5pt 7.5pt 7.5pt 7.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.3800000000000001;text-align: center;margin-top:0pt;margin-bottom:15pt;" dir="ltr"><span style="font-size:11pt;font-family:Lato,sans-serif;color:#53576a;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">AL 7-8</span></p></td><td style="border-left:solid #282e45 1.5pt;border-right:solid #282e45 1.5pt;border-bottom:solid #282e45 1.5pt;border-top:solid #282e45 1.5pt;vertical-align:middle;background-color:#ffffff;padding:7.5pt 7.5pt 7.5pt 7.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.3800000000000001;text-align: center;margin-top:0pt;margin-bottom:15pt;" dir="ltr"><span style="font-size:11pt;font-family:Lato,sans-serif;color:#53576a;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">AL B-C</span></p></td><td style="border-left:solid #282e45 1.5pt;border-right:solid #282e45 1.5pt;border-bottom:solid #282e45 1.5pt;border-top:solid #282e45 1.5pt;vertical-align:middle;background-color:#ffffff;padding:7.5pt 7.5pt 7.5pt 7.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.3800000000000001;text-align: center;margin-top:0pt;margin-bottom:15pt;" dir="ltr"><span style="font-size:11pt;font-family:Lato,sans-serif;color:#53576a;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">G1 or G2</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #282e45 1.5pt;border-right:solid #282e45 1.5pt;border-bottom:solid #282e45 1.5pt;border-top:solid #282e45 1.5pt;vertical-align:middle;background-color:#ffffff;padding:7.5pt 7.5pt 7.5pt 7.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.3800000000000001;text-align: center;margin-top:0pt;margin-bottom:15pt;" dir="ltr"><span style="font-size:11pt;font-family:Lato,sans-serif;color:#53576a;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">G2</span></p></td><td style="border-left:solid #282e45 1.5pt;border-right:solid #282e45 1.5pt;border-bottom:solid #282e45 1.5pt;border-top:solid #282e45 1.5pt;vertical-align:middle;background-color:#ffffff;padding:7.5pt 7.5pt 7.5pt 7.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.3800000000000001;text-align: center;margin-top:0pt;margin-bottom:15pt;" dir="ltr"><span style="font-size:11pt;font-family:Lato,sans-serif;color:#53576a;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">AL 7-8</span></p></td><td style="border-left:solid #282e45 1.5pt;border-right:solid #282e45 1.5pt;border-bottom:solid #282e45 1.5pt;border-top:solid #282e45 1.5pt;vertical-align:middle;background-color:#ffffff;padding:7.5pt 7.5pt 7.5pt 7.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.3800000000000001;text-align: center;margin-top:0pt;margin-bottom:15pt;" dir="ltr"><span style="font-size:11pt;font-family:Lato,sans-serif;color:#53576a;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">AL B-C</span></p></td><td style="border-left:solid #282e45 1.5pt;border-right:solid #282e45 1.5pt;border-bottom:solid #282e45 1.5pt;border-top:solid #282e45 1.5pt;vertical-align:middle;background-color:#ffffff;padding:7.5pt 7.5pt 7.5pt 7.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.3800000000000001;text-align: center;margin-top:0pt;margin-bottom:15pt;" dir="ltr"><span style="font-size:11pt;font-family:Lato,sans-serif;color:#53576a;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">G1</span></p></td></tr></tbody></table>
+
+####   
+
+#### Beyond the start of Secondary One
+
+Students may offer subjects at a less demanding level, based on their performance and schools’ holistic assessment, to calibrate their academic load.
+
+  
+
+Schools will also have the discretion to allow students with difficulties coping with MTL to offer MTL at a less demanding level, based on holistic considerations.
+
+  
+
+Students who offer subjects at a less demanding level may subsequently offer the subjects at a more demanding level as they gain greater competence and confidence in the subjects.
+
+  
+
+The increased flexibility empowers students to take greater ownership of their learning according to their subject-specific strengths and interests.
+
+  
+  
+  
+
+SUBJECTS AT LOWER SECONDARY
+
+Under FSBB, all the subjects students offer are categorized into two groups – those in the Common Curriculum, and those offered as SBB subjects at different levels.
+
+  
+
+Common Curriculum subjects
+
+  
+
+In their mixed form classes, students will spend around one-third of their curriculum time taking a set of six common curriculum subjects:
+
+![A close-up of a sign
+Description automatically generated](https://lh7-us.googleusercontent.com/TbACl9g8xixdi9JFTjEtLamm7npvAO0cKSavnqVH60yDmqrtUcWvJeZrOlGida5JEBn19OYu6SlggMkfOhPKMm-I2crqcoc2b6rLmVNtM8wcQLlgql5bsoIQOixYpAujBCC1vIgSQkbc-pKrxaFiSA)
+
+These subjects give students more opportunities to interact and learn with classmates of different strengths and interests.
+
+  
+
+Teachers will adopt a range of teaching approaches to meet the different learning needs and pace of their students in the same form class.
+
+  
+  
+
+Subjects offered at G1, G2 and G3
+
+English Language, Mother Tongue Languages, Mathematics, Science, and Humanities subjects (Geography, History and Literature) will be offered at G1, G2 and G3.&nbsp;
+
+Students will be grouped in different classes based on their subject level for each subject. This provides students with a more customised learning experience according to their subject-specific strengths and interests and empowers students to take greater ownership of their learning.
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+The following curriculum policy changes will also be implemented from the 2024 Secondary One cohort:
+
+![A screenshot of a computer
+Description automatically generated](https://lh7-us.googleusercontent.com/c5lcaS3J9lGwvRwEAAlFBJ68knfLUx8S9K5X9vPCJitJbHfU0vcnf03H1yF16BmgwFsV2euzOeG0DkUDuybgQ35WJl35qMcFfx_dssdV344msOfRG5smFHrB5C0xgf6Tx_SeV5kHX9JmDcJZXpWkwA)
+
+  
+
+You may refer to the following website for more details on Subjects at Upper Secondary, National Examinations and Post-secondary admissions.
+
+[https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html](https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html)
+
+  
+
+FAQs on FSBB
+
+*   [https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/faq.html](https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/faq.html)
