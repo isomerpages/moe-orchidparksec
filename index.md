@@ -8,14 +8,14 @@ notification: ""
 sections:
   - hero:
       key_highlights:
+        - title: 2024 Sec 1 Registration
+          description: ""
+          url: /links/Prospective-Students/sec1-reg/
         - title: Open House 2023
           description: ""
           url: /images/Open%20House/open%20house%202023%20v2%20big.jpg
         - title: Sec 3 Extended Curriculum
           description: ""
           url: /announcements/
-        - title: congratulations to our students
-          description: ""
-          url: /orchidian-achievements/future-ready-orchidians/pesa2023/
       background: /images/Homepage/home20221230.bmp
 ---
