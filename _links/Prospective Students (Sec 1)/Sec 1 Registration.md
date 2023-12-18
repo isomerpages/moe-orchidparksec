@@ -9,6 +9,6 @@ variant: markdown
 	
 <h4>2024 Sec 1 Registration</h4>
 	
-More information will be available soon.
+Please click <a href="https://sites.google.com/moe.edu.sg/sec1opss2024/">here</a> for more information.
 	
 </div>
