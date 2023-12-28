@@ -2,6 +2,7 @@
 title: Steering Committee
 permalink: /about-us/steering-committee/
 description: ""
+variant: markdown
 ---
 <table style="width: 400px; margin-left: auto; margin-right: auto;">
 <tbody>
@@ -74,12 +75,12 @@ description: ""
 <div>HOD PE &amp; CCA</div></td>
 <td style="width: 20%;"><img src="/images/sc14.png"></td>
 <td style="width: 30%;"><div><strong>Mr Chia Cheng Siong</strong></div>
-<div>Year Head - Lower Sec (Sec 2)</div></td>
+<div>Year Head - Upper Sec (Sec 4/5)</div></td>
 </tr>
 <tr>
 <td style="width: 20%;"><img src="/images/sc15.png"></td>
 <td style="width: 30%;"><div><strong>Mrs Fu Wei Hui</strong></div>
-<div>Year Head - Upper Sec (Sec 4/5)</div></td>
+<div>Year Head - Lower Sec (Sec 1)</div></td>
 </tr>
 </tbody>
 </table>
