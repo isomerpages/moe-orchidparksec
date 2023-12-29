@@ -85,7 +85,7 @@ variant: markdown
 <div>Year Head - Lower Sec (Sec 1)</div></td>
 <td style="width: 20%;"><img src="/images/SC/Wong%20Yiu%20Hang.jpg"></td>
 <td style="width: 30%;"><div><strong>Mr Wong Yiu Hang</strong></div>
-<div>Asst. Year Head (Covering)<br>Lower Sec (Sec 1)</div></td>
+<div>Asst. Year Head <br>Lower Sec (Sec 2)</div></td>
 </tr>
 <tr>
 <td style="width: 20%;"><img src="/images/sc14.png"></td>
@@ -120,14 +120,11 @@ variant: markdown
 <td style="width: 20%;"><img src="/images/SC/CHAN%20HO%20LUN.jpg"></td>
 <td style="width: 30%;"><div><strong>Mr Chan Ho Lun</strong></div>
 <div>SH Mathematics</div></td>
-<td style="width: 20%;"><img src="/images/SC/Chin%20Kean%20Kean.png"></td>
-<td style="width: 30%;"><div><strong>Ms Chin Kean Kean</strong></div>
-<div>SH Community Youth Leadership</div></td>
-</tr>
-<tr>
 <td style="width: 20%;"><img src="/images/s4.png"></td>
 <td style="width: 30%;"><div><strong>Mr Frederick Chan</strong></div>
-<div>SH Physics</div></td>
+<div>SH Physics<br>SH Data Management (covering)</div></td>
+</tr>
+<tr>
 <td style="width: 20%;"><img src="/images/SC/LIM%20HAN%20CHUAN.jpg"></td>
 <td style="width: 30%;"><div><strong>Mr Lim Han Chuan</strong></div>
 <div>SH Chinese Language</div></td>
