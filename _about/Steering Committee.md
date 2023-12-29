@@ -65,22 +65,33 @@ variant: markdown
 <td style="width: 20%;"><img src="/images/sc10.png"></td>
 <td style="width: 30%;"><div><strong>Mrs Ng Weng Han</strong></div>
 <div>HOD Humanities</div></td>
+<td style="width: 20%;"><img src="/images/SC/MICHELLE%20KWOK.png"></td>
+<td style="width: 30%;"><div><strong>Ms Kwok Shi You Michelle</strong></div>
+<div>HOD Humanities (Covering)</div></td>
+
+</tr>
+<tr>
 <td style="width: 20%;"><img src="/images/sc11.png"></td>
 <td style="width: 30%;"><div><strong>Ms Soo Chiew Ming</strong></div>
 <div>HOD Student Management</div></td>
-</tr>
-<tr>
 <td style="width: 20%;"><img src="/images/sc12.png"></td>
 <td style="width: 30%;"><div><strong>Mr Tan Paul</strong></div>
 <div>HOD PE &amp; CCA</div></td>
-<td style="width: 20%;"><img src="/images/sc14.png"></td>
-<td style="width: 30%;"><div><strong>Mr Chia Cheng Siong</strong></div>
-<div>Year Head - Upper Sec (Sec 4/5)</div></td>
+
 </tr>
 <tr>
 <td style="width: 20%;"><img src="/images/sc15.png"></td>
 <td style="width: 30%;"><div><strong>Mrs Fu Wei Hui</strong></div>
 <div>Year Head - Lower Sec (Sec 1)</div></td>
+<td style="width: 20%;"><img src="/images/SC/Wong%20Yiu%20Hang.jpg"></td>
+<td style="width: 30%;"><div><strong>Mr Wong Yiu Hang</strong></div>
+<div>Asst. Year Head (Covering)<br>Lower Sec (Sec 1)</div></td>
+</tr>
+<tr>
+<td style="width: 20%;"><img src="/images/sc14.png"></td>
+<td style="width: 30%;"><div><strong>Mr Chia Cheng Siong</strong></div>
+<div>Year Head - Upper Sec (Sec 4/5)</div></td>
+
 </tr>
 </tbody>
 </table>
@@ -129,14 +140,7 @@ variant: markdown
 <td style="width: 30%;"><div><strong>Mr Ahmad Ashraf Bin Jasman</strong></div>
 <div>Asst. Year Head (Covering)<br>Lower Sec (Sec 1)</div></td>
 </tr>
-<tr>
-<td style="width: 20%;"><img src="/images/SC/Wong%20Yiu%20Hang.jpg"></td>
-<td style="width: 30%;"><div><strong>Mr Wong Yiu Hang</strong></div>
-<div>Asst. Year Head (Covering)<br>Lower Sec (Sec 1)</div></td>
-<td style="width: 20%;"><img src="/images/SC/MICHELLE%20KWOK.png"></td>
-<td style="width: 30%;"><div><strong>Ms Kwok Shi You Michelle</strong></div>
-<div>Asst Year Head - Lower Sec (Sec 3)</div></td>
-</tr>
+
 </tbody>
 </table>
 <table style="border-collapse: collapse; width: 100%;" border="1">
