@@ -1,0 +1,37 @@
+collections:
+  orchidian-engagement:
+    output: true
+    order:
+      - Departments/.keep
+      - Departments/Computer Applications & Elements of Business Skills.md
+      - Departments/Craft & Technology.md
+      - Departments/Education Technology.md
+      - Departments/English Language & Literature.md
+      - Departments/Executive & Administration.md
+      - Departments/Humanities.md
+      - Departments/Mathematics & Principles of Accounts.md
+      - Departments/Mother Tongue Languages.md
+      - Departments/Physical Education.md
+      - Departments/Science.md
+      - Departments/Student Development.md
+      - Departments/Student Management.md
+      - Assessment/Information on Common Curriculum (with Coursework).md
+      - Assessment/.keep
+      - Co Curricular Activities (CCA).md
+      - Full Subject Based Banding (FSBB).md
+      - Our Good Stories/.keep
+      - Our Good Stories/To Lend a Helping Hand.md
+      - Our Good Stories/Animal or Not.md
+      - Our Good Stories/Helping a Chromebook Find its Owner.md
+      - Our Good Stories/Done Out of Instinct.md
+      - Our Good Stories/Stepping Up.md
+      - Our Good Stories/A Helping Hand.md
+      - Our Good Stories/Our Artists.md
+      - Our Good Stories/Orchid's Park Youngest Author.md
+      - Our Good Stories/A New Beginning.md
+      - Our Good Stories/Many Hands Make Good Work!.md
+      - Our Good Stories/Deliveroo? Deliverbooks?.md
+      - Our Good Stories/Feeling of Satisfaction.md
+      - Our Good Stories/The Right Thing to Do.md
+      - Our Good Stories/All Ready to Help.md
+      - Our Good Stories/A Strong Advocator for Reading.md
