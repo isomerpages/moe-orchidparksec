@@ -2,13 +2,14 @@
 title: Co Curricular Activities (CCA)
 permalink: /learning-at-opss/ccas/
 description: ""
+variant: markdown
 ---
 Click [here](/cca/bb) for our CCAs.
 <div align="justify">
 <h4>Department Mission</h4>
 <p>To provide authentic learning platforms for students to learn and develop 21CC skills, core values, NE and SE Competencies.</p>
 <h4>About the Department</h4>
-<p>Orchid Park Secondary CCA's strive to create a safe environment for the young where they are challenged and empowered to explore their passions, exercise initiative, take risks, allowed to make mistakes and more importantly grow and learn from them. Various platforms and opportunities are provided for students to cultivate their &ldquo;entrepreneurial dare&rdquo; &ndash; for them to dream of possibilities and work to make their dreams come true. Students learn to be adaptable to uncertainties and changes, be innovative in deriving possible prototypes and solutions, and be resilient through trial and error and learning from every unsuccessful attempt, notwithstanding enjoying the learning process.<br />The learning outcomes of a CCA are as follows:</p>
+<p>Orchid Park Secondary CCA's strive to create a safe environment for the young where they are challenged and empowered to explore their passions, exercise initiative, take risks, allowed to make mistakes and more importantly grow and learn from them. Various platforms and opportunities are provided for students to cultivate their “entrepreneurial dare” – for them to dream of possibilities and work to make their dreams come true. Students learn to be adaptable to uncertainties and changes, be innovative in deriving possible prototypes and solutions, and be resilient through trial and error and learning from every unsuccessful attempt, notwithstanding enjoying the learning process.<br>The learning outcomes of a CCA are as follows:</p>
 <p>Students will develop and demonstrate</p>
 <ul>
 <li>Passion</li>
@@ -32,8 +33,8 @@ Click [here](/cca/bb) for our CCAs.
 <h4>Straits Times Article</h4>
 <a href="/files/CCA%20main%20page%20info/CCA%20article%201%20n%202.pdf" target="_blank">Take Flight With CCA</a>
 	
-<p><strong>Short clips for our CCA<br /></strong>-&nbsp;<a href="https://sites.google.com/moe.edu.sg/opsscca2023/home" target="_blank" rel="noopener">CCA videos</a><br />-&nbsp;<a href="https://sites.google.com/view/opss-syf-performances-2021/home" target="_blank" rel="noopener">SYF 2021 Performing Arts</a></p>
+<p><strong>Short clips for our CCA<br></strong>-&nbsp;<a href="https://sites.google.com/moe.edu.sg/opsscca2023/home" target="_blank" rel="noopener">CCA videos</a><br>-&nbsp;<a href="https://sites.google.com/moe.edu.sg/opss-syf-2023/home" target="_blank" rel="noopener">SYF 2023 Performing Arts</a></p>
 <p><strong>FAQ for CCA</strong>
-<br><strong><a href="/files/CCA%20main%20page%20info/CCA%20FAQs.pdf" target="_blank" >Click here for FAQs</a></strong></p>
+<br><strong><a href="/files/CCA%20main%20page%20info/CCA%20FAQs.pdf" target="_blank">Click here for FAQs</a></strong></p>
 	
 </div>
