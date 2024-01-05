@@ -36,12 +36,12 @@ The 2023 O-Level results will be released soon. Regardless of the outcome, it is
 Do take this opportunity to have open conversations with your teen about his/her interests and choices and build his/her pathways together.</p>
 
 <p><b>Resources for Parents</b><br>
-For more resources on providing social and emotional support, affirming your teen, and supporting your teen’s transition through post O-Level education, please refer <a href="https://go.gov.sg/selresforparents">here</a>. You can access ECG resources via  the <a href="https://go.gov.sg/whats-next-olevel">What’s Next pamphlet</a> and the <a href="https://go.gov.sg/MySFSec">MySkillsFuture Student Portal</a>.</p>
+For more resources on providing social and emotional support, affirming your teen, and supporting your teen’s transition through post O-Level education, please refer <a target="_blank" href="https://go.gov.sg/selresforparents">here</a>. You can access ECG resources via  the <a target="_blank" href="https://go.gov.sg/whats-next-olevel">What’s Next pamphlet</a> and the <a target="_blank" href="https://go.gov.sg/MySFSec">MySkillsFuture Student Portal</a>.</p>
 
 <p><b>ECG Counselling Services</b><br>
 For ECG counselling services, students may contact the ECG Counsellor in their schools or make an ECG counselling appointment with the ECG Centre @ MOE (Grange Road) between 4 and 18 January 2024 via<br>
 •	Email: moe_ecg@moe.gov.sg<br>
-•	Appointment booking <a href="https://go.gov.sg/moe-ecg-centre">form</a><br>
-Please refer <a href="/files/O%20Level%20Result%20Release/2023_O_Level_Info_Sheet_for_Parents.pdf">here</a> for more tips and resources on supporting your teen.</p>
+•	Appointment booking <a target="_blank" href="https://go.gov.sg/moe-ecg-centre">form</a><br>
+Please refer <a target="_blank" href="/files/O%20Level%20Result%20Release/2023_O_Level_Info_Sheet_for_Parents.pdf">here</a> for more tips and resources on supporting your teen.</p>
 
 </div>
