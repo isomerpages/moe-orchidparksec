@@ -11,7 +11,7 @@ description: ""
 <p>The results of the 2023 Singapore-Cambridge General Certificate of Education Ordinary Level (GCE O-Level) examination will be released on <strong>Thursday, 11 January 2024, 2.00pm</strong>.</p>
 
 <p><b>Collection of GCE O-Level Results</b><br>
-OPSS students receiving their ‘N’ level results may report to the school hall from 1.30 pm onwards and be seated by 1.45 pm for the release of the results.</p>
+OPSS students receiving their ‘O’ level results may report to the school hall from 1.30 pm onwards and be seated by 1.45 pm for the release of the results.</p>
 
 <p>Please take note of the following:</p>
 
