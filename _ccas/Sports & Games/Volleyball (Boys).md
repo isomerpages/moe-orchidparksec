@@ -3,6 +3,7 @@ title: Volleyball (Boys)
 permalink: /ccas/sports-and-games/volleyball/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 <div align="justify">
 
@@ -17,11 +18,11 @@ third_nav_title: Sports & Games
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Location</strong>:</td>
-<td style="text-align: center;">Orchid Park ISH</td>
+<td style="text-align: center;">ISH / External venue</td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Time</strong>:</td>
-<td style="text-align: center;">4 PM - 6 PM</td>
+<td style="text-align: center;">3 PM - 6.30 PM</td>
 </tr>
 </tbody>
 </table>
@@ -32,11 +33,11 @@ third_nav_title: Sports & Games
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Location</strong>:</td>
-<td style="text-align: center;">Outside School</td>
+<td style="text-align: center;">ISH / External Venue</td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Time</strong>:</td>
-<td style="text-align: center;">4 PM - 6 PM</td>
+<td style="text-align: center;">3 PM - 6.30 PM</td>
 </tr>
 </tbody>
 </table>
