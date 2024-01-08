@@ -22,7 +22,7 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Venue</strong>:</td>
-<td style="text-align: center;">OPSS ISH (Indoor Sports Hall)</td>
+<td style="text-align: center;">ISH</td>
 </tr>
 	
 <tr>
@@ -34,18 +34,18 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Venue</strong>:</td>
-<td style="text-align: center;">OPSS ISH (Indoor Sports Hall)</td>
+<td style="text-align: center;">ISH</td>
 </tr>
 <tr>
 <th style="text-align: center;" colspan="2">Friday</th>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Time:</strong></td>
-<td style="text-align: center;">1.30 PM – 3.30 PM (Girls)<br>3.30 PM – 5.30 PM (Boys)</td>
+<td style="text-align: center;">1.30 PM – 5.30 PM (Boys)</td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Venue:</strong></td>
-<td style="text-align: center;">OPSS ISH (Indoor Sports Hall)</td>
+<td style="text-align: center;">ISH</td>
 </tr>
 </tbody>
 </table>
@@ -57,9 +57,14 @@ variant: markdown
 </tbody></table>
 
 <h4>Photos</h4>
-<img style="width: 75%;" src="/images/floor1.jpg">
+<p style="text-align: center;">Boys and Grils 2023)</p>
+<img style="width: 75%;" src="/images/CCA/Floorball/2023_Floorball__Boys_and_Girls__Formal.jpg">
 <p style="text-align: center;">Boys’ Team (B Division, 2019)</p>
-<img style="width: 75%;" src="/images/floor2.jpg">
+<img style="width: 75%;" src="/images/floor1.jpg">
 <p style="text-align: center;">Girls’ Team (B Division, 2019)</p>
+<img style="width: 75%;" src="/images/floor2.jpg">
+<p style="text-align: center;">Some random photos</p>
 <img src="/images/floor3.png">
-<p>Updated on 23rd Aug '22'</p>
+<img style="width: 75%;" src="/images/CCA/Floorball/group%20up.jpg">
+<img style="width: 75%;" src="/images/CCA/Floorball/girlgrp.JPG">
+<img style="width: 75%;" src="/images/CCA/Floorball/group%20up.jpg">

@@ -29,7 +29,7 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center;">Venue:</td>
-<td style="text-align: center;">LG</td>
+<td style="text-align: center;">LG / ITR3</td>
 </tr>
 <tr>
 <th style="text-align: center;" colspan="2">Friday</th>
@@ -40,7 +40,7 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;Venue:</td>
-<td style="text-align: center;">LG</td>
+<td style="text-align: center;">LG / ITR3</td>
 </tr>
 </tbody>
 </table>
