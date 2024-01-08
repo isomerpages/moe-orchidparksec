@@ -15,33 +15,38 @@ variant: markdown
 <tbody>
 <tr>
 <th style="text-align: center;">&nbsp;Date</th>
-<th style="text-align: center;">Wednesday (Boys)</th>
 <th style="text-align: center;">Monday (Girls)</th>
 </tr>
 <tr>
 <td style="text-align: center;">Time</td>
-<td style="text-align: center;">3.15 pm - 5.30 pm</td>
-<td style="text-align: center;">3 pm - 5.30 pm&nbsp;</td>
+<td style="text-align: center;">3.15 pm - 5.45 pm</td>
 </tr>
 <tr>
 <td style="text-align: center;">Venue</td>
-<td style="text-align: center;">ISH Level 1 (Odd Week)<br>Outdoor Court (Even Week)</td>
-<td style="text-align: center;">ISH Level 2</td>
+<td style="text-align: center;">ISH / Basketball Court</td>
+</tr>
+<tr>
+<th style="text-align: center;">&nbsp;Date</th>
+<th style="text-align: center;">Wednesday (Girls &amp; Boys)</th>
+</tr>
+<tr>
+<td style="text-align: center;">Time</td>
+<td style="text-align: center;">3.15 pm - 6 pm</td>
+</tr><tr>
+<td style="text-align: center;">Venue</td>
+<td style="text-align: center;">ISH / Basketball Court</td>
 </tr>
 <tr>
 <th style="text-align: center;">Date</th>
 <th style="text-align: center;">Friday (Boys)</th>
-<th style="text-align: center;">&nbsp;Wednesday (Girls)</th>
 </tr>
 <tr>
 <td style="text-align: center;">Time</td>
-<td style="text-align: center;">2.15 pm - 4.30 pm&nbsp;</td>
-<td style="text-align: center;">3 pm - 5.30 pm</td>
+<td style="text-align: center;">2.30 pm - 5 pm&nbsp;</td>
 </tr>
 <tr>
 <td style="text-align: center;">Venue</td>
-<td style="text-align: center;">ISH Level 1</td>
-<td style="text-align: center;">ISH Level 1 (Even Week)<br>Outdoor Court (Odd Week)</td>
+<td style="text-align: center;">ISH / Basketball Court</td>
 </tr>
 </tbody>
 </table>
