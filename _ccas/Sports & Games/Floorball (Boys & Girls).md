@@ -22,7 +22,7 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Venue</strong>:</td>
-<td style="text-align: center;">OPSS ISH (Indoor Sports Hall)</td>
+<td style="text-align: center;">ISH</td>
 </tr>
 	
 <tr>
@@ -34,18 +34,18 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Venue</strong>:</td>
-<td style="text-align: center;">OPSS ISH (Indoor Sports Hall)</td>
+<td style="text-align: center;">ISH</td>
 </tr>
 <tr>
 <th style="text-align: center;" colspan="2">Friday</th>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Time:</strong></td>
-<td style="text-align: center;">1.30 PM – 3.30 PM (Girls)<br>3.30 PM – 5.30 PM (Boys)</td>
+<td style="text-align: center;">1.30 PM – 5.30 PM (Boys)</td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Venue:</strong></td>
-<td style="text-align: center;">OPSS ISH (Indoor Sports Hall)</td>
+<td style="text-align: center;">ISH</td>
 </tr>
 </tbody>
 </table>
