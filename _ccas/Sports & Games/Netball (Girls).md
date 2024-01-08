@@ -3,6 +3,7 @@ title: Netball (Girls)
 permalink: /cca/netball/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 <div align="justify">
 
@@ -12,15 +13,26 @@ third_nav_title: Sports & Games
 <table>
 <tbody>
 <tr>
-<th style="text-align: center;" colspan="2">Thursday</th>
+<th style="text-align: center;" colspan="2">Wednesday</th>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Time</strong>:</td>
-<td style="text-align: center;">3 PM - 6 PM</td>
+<td style="text-align: center;">3.15 PM - 6 PM</td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Venue</strong>:</td>
-<td style="text-align: center;">ISH Level 2</td>
+<td style="text-align: center;">External Venue</td>
+</tr>
+<tr>
+<th style="text-align: center;" colspan="2">Friday</th>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>Time</strong>:</td>
+<td style="text-align: center;">1.30 PM - 4.30 PM</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>Venue</strong>:</td>
+<td style="text-align: center;">External Venue</td>
 </tr>
 </tbody>
 </table>
@@ -31,12 +43,12 @@ third_nav_title: Sports & Games
 	
 <h4>Photos</h4>
 <table>
-<tr>
+<tbody><tr>
 <td colspan="2"><img src="/images/CCA/Netball/Netball_B%20Div%20Competition_2022.jpeg"></td>
 </tr>
 <tr>
 <td style="width:50%"><img src="/images/CCA/Netball/Netball_%20Training%20ISH_2022.jpeg"></td><td style="width:50%"><img src="/images/CCA/Netball/Netball_VIA_2019.jpg"></td>
 </tr>
-</table>
+</tbody></table>
 	
 </div>
