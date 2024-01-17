@@ -2,23 +2,23 @@ collections:
   ccas:
     output: true
     order:
-      - Uniformed Groups/Boys' Brigade.md
-      - Uniformed Groups/NPCC.md
-      - Uniformed Groups/NCDCC.md
-      - Uniformed Groups/NCC (Sea).md
-      - Uniformed Groups/Girls' Brigade.md
       - Uniformed Groups/.keep
-      - Sports & Games/Volleyball (Boys).md
-      - Sports & Games/Netball (Girls).md
-      - Sports & Games/Football.md
-      - Sports & Games/Floorball (Boys & Girls).md
-      - Sports & Games/Basketball (Boys & Girls).md
+      - Uniformed Groups/Boys' Brigade.md
+      - Uniformed Groups/Girls' Brigade.md
+      - Uniformed Groups/NCC (Sea).md
+      - Uniformed Groups/NCDCC.md
+      - Uniformed Groups/NPCC.md
       - Sports & Games/.keep
-      - Visual & Performing Arts/Visual Art.md
-      - Visual & Performing Arts/Concert Band.md
-      - Visual & Performing Arts/Guitar Ensemble.md
-      - Visual & Performing Arts/English Drama.md
-      - Visual & Performing Arts/Modern Dance.md
+      - Sports & Games/Basketball (Boys & Girls).md
+      - Sports & Games/Floorball (Boys & Girls).md
+      - Sports & Games/Football.md
+      - Sports & Games/Netball (Girls).md
+      - Sports & Games/Volleyball (Boys).md
       - Visual & Performing Arts/.keep
+      - Visual & Performing Arts/Concert Band.md
+      - Visual & Performing Arts/English Drama.md
+      - Visual & Performing Arts/Guitar Ensemble.md
+      - Visual & Performing Arts/Modern Dance.md
+      - Visual & Performing Arts/Visual Art.md
       - Clubs & Societies/Infocomm Technology.md
       - Clubs & Societies/.keep

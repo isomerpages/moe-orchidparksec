@@ -13,7 +13,7 @@ variant: markdown
 <table>
 <tbody>
 <tr>
-<th style="text-align: center;" colspan="2">Monday</th>
+<th style="text-align: center;" colspan="2">Wednesday</th>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Time</strong>:</td>
