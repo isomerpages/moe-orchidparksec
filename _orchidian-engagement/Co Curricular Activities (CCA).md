@@ -32,8 +32,8 @@ Click [here](/cca/bb) for our CCAs.
 <h4>Straits Times Article</h4>
 <a href="/files/CCA%20main%20page%20info/CCA%20article%201%20n%202.pdf" target="_blank">Take Flight With CCA</a>
 
-<h4>Straits Times Article</h4>
--&nbsp;<a href="https://sites.google.com/moe.edu.sg/opsscca2023/home" target="_blank" rel="noopener">CCA videos</a><br>-&nbsp;<a href="https://sites.google.com/moe.edu.sg/opss-syf-2023/home" target="_blank" rel="noopener">SYF 2023 Performing Arts</a>
+<h4>Videos</h4>
+<a href="https://sites.google.com/moe.edu.sg/opsscca2023/home" target="_blank" rel="noopener">CCA videos</a><br><a href="https://sites.google.com/moe.edu.sg/opss-syf-2023/home" target="_blank" rel="noopener">SYF 2023 Performing Arts</a>
 
 	
 </div>
