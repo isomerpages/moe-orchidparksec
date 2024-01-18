@@ -27,7 +27,7 @@ Click [here](/cca/bb) for our CCAs.
 <p><strong>Clubs and Societies</strong>: To allow our students to explore and extend their interests in wide ranging and specialised areas which may be knowledge-based or skills-based.</p>
 
 <h4>Information for Parents</h4>
-<a href="/files/CCA%20main%20page%20info/LEAPS%2020.pdf" target="_blank">LEAPS 2.0 information</a><br>
+<a href="/files/CCA%20main%20page%20info/LEAPS_2_0___Info_for_Parents.pdf" target="_blank">LEAPS 2.0 information</a><br>
 <a href="/files/CCA%20main%20page%20info/Training_Schedule_for_CCAs__2024_.pdf" target="_blank">CCA Schedule for 2024</a><br>
 <a href="/files/CCA%20main%20page%20info/CCA_FAQs.pdf" target="_blank">CCA FAQs</a><br>
 <a href="/files/CCA%20main%20page%20info/2024_Sec_1_CCA_exposure_schedule.pdf" target="_blank">Sec 1 CCA Exposure Schedule</a>
