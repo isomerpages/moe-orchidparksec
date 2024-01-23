@@ -3,6 +3,7 @@ title: Student Development
 permalink: /learning-at-opss/departments/student-development/
 description: ""
 third_nav_title: Departments
+variant: markdown
 ---
 <div align="justify">
 <h4>Student Developement</h4>
@@ -15,7 +16,7 @@ third_nav_title: Departments
 <p>In Orchid Park Secondary School, character development is delivered via a whole school approach. It is inherent in all aspects of school life; Instructional programmes, Character and Citizenship Education (CCE), Student Support programmes, Assembly Programmes, CCAs, Cohort camps, Learning Journeys, Overseas Learning trips and Community OutReach Education (CORE) programmes, etc. The multiple platforms help students internalize values, social-emotional competencies, 21st-century competencies and citizenship depositions, empowering Orchidians to be their best so as to become compassionate leaders.</p>
 	
 <p>Related links<br>
-<a href="/sex-ed-info">Sexuality Education</a><br>
+<a href="/sed-info">Sexuality Education</a><br>
 <a href="/orchidian-empowerment/special-programs/llp/">Learning for Life Programme – Community Youth Leadership (LLP-CYL)</a></p>
 	<p><a href="https://sites.google.com/moe.edu.sg/opss-ecg/home">Education &amp; Career Guidance</a></p>
 	
