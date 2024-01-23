@@ -1,6 +1,6 @@
 ---
 title: Information on Sexuality Education
-permalink: /sex-ed-info/
+permalink: /sed-info/
 description: ""
 variant: markdown
 ---
