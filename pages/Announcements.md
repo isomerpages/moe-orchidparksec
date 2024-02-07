@@ -23,20 +23,6 @@ variant: tiptap
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>'O' Level Results Release (2023)</strong> 
-<br>The results of the 2023 Singapore-Cambridge General Certificate of Education
-Ordinary Level (GCE O-Level) examination will be released on Thursday,
-11 January 2024, 2.00pm.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 Jan 2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>Sec 4&amp;5 Virtual Parents Engagement session</strong>
 </p>
 <ol data-tight="true" class="tight">
@@ -52,6 +38,20 @@ Ordinary Level (GCE O-Level) examination will be released on Thursday,
 </td>
 <td rowspan="1" colspan="1">
 <p>7 Feb 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>'O' Level Results Release (2023)</strong> 
+<br>The results of the 2023 Singapore-Cambridge General Certificate of Education
+Ordinary Level (GCE O-Level) examination will be released on Thursday,
+11 January 2024, 2.00pm.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Jan 2024</p>
 </td>
 </tr>
 </tbody>
