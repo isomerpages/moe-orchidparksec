@@ -34,7 +34,7 @@ Ordinary Level (GCE O-Level) examination will be released on Thursday,
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1</p>
+<p>2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Sec 4&amp;5 Virtual Parents Engagement session</strong>
