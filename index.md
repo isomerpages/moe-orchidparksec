@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: Sec 4&5 Virtual Parents Engagement session 2024
           description: ""
-          url: /announcements/announcements/ecgymh/
+          url: /announcements/
         - title: 2023 GCE O Level Info
           description: ""
           url: /files/O%20Level%20Result%20Release/2023_O_Level_Briefing_Slides_for_Students_OPSS.pdf
