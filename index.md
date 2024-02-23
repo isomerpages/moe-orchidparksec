@@ -8,14 +8,14 @@ notification: ""
 sections:
   - hero:
       key_highlights:
+        - title: 2024 Sec 3 OBS
+          description: ""
+          url: /orchidian-empowerment/obs/
         - title: Sec 4&5 Virtual Parents Engagement session 2024
           description: ""
           url: /announcements/
         - title: 2023 GCE O Level Info
           description: ""
           url: /files/O%20Level%20Result%20Release/2023_O_Level_Briefing_Slides_for_Students_OPSS.pdf
-        - title: 2023 GCE O LEVEL RESULTS
-          description: ""
-          url: /o2023results/
       background: /images/Homepage/home20221230.bmp
 ---
