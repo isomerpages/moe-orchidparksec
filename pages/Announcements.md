@@ -27,11 +27,11 @@ variant: markdown
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/Sec 4 n 5 PTM/ecg_journey.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
+<p><a href="/files/Timetable/sec_3_march_holiday_extended.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Sec 4 n 5 PTM/youth_and_mental_health.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 - 5</a>
+<p><a href="/files/Timetable/sec_4_march_holiday_extended.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4</a>
 </p>
 </li>
 </ol>
