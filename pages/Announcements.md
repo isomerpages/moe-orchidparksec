@@ -23,6 +23,28 @@ variant: markdown
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Sec 3 - 5 Extended Curriculum from 11 - 13 March 2024</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/Timetable/sec_3_march_holiday_extended.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Timetable/sec_4_march_holiday_extended.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4</a>
+</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>7 March 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Sec 4&amp;5 Virtual Parents Engagement session</strong>
 </p>
 <ol data-tight="true" class="tight">
@@ -42,7 +64,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2</p>
+<p>3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>'O' Level Results Release (2023)</strong> 
