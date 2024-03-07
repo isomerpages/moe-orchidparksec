@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: Extended curriculum 11 to 13 March 2024
           description: ""
-          url: ""
+          url: /announcements/
         - title: 2024 Sec 3 OBS
           description: ""
           url: /orchidian-empowerment/obs/
