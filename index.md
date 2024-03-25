@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Term 2 Timertable 2024
+        - title: Term 2 Timetable 2024
           description: ""
           url: /links/Student/tt/
         - title: Extended curriculum 11 to 13 March 2024
