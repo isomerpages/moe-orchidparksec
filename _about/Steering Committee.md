@@ -54,6 +54,14 @@ variant: markdown
 <div>HOD Mother Tongue Languages</div></td>
 </tr>
 <tr>
+<td style="width: 20%;"><img src="/images/sc8.png"></td>
+<td style="width: 30%;"><div><strong>Mdm Kogilavani Raj</strong></div>
+<div>HOD English Language</div></td>
+<td style="width: 20%;"><img src="/images/sc7.png"></td>
+<td style="width: 30%;"><div><strong>Ms Haryati</strong></div>
+<div>HOD Craft &amp; Technology</div></td>
+</tr>
+<tr>
 <td style="width: 20%;"><img src="/images/sc7.png"></td>
 <td style="width: 30%;"><div><strong>Ms Haryati</strong></div>
 <div>HOD Craft &amp; Technology</div></td>
