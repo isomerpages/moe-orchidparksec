@@ -144,17 +144,17 @@ variant: markdown
 <td style="width: 20%;"><img src="/images/tl1.png"></td>
 <td style="width: 30%;"><div><strong>Mr Tan Yong Koon</strong></div>
 <div>LT Craft &amp; Technology</div></td>
+<td style="width: 20%;"><img src="/images/sc10.png"></td>
+<td style="width: 30%;"><div><strong>Mrs Ng Weng Han</strong></div>
+<div>LT Social Studies</div></td>
+</tr>
+<tr>
 <td style="width: 20%;"><img src="/images/tl2.png"></td>
 <td style="width: 30%;"><div><strong>Mdm Maslin Bte Sani</strong></div>
 <div>ST Malay Language</div></td>
-</tr>
-<tr>
 <td style="width: 20%;"><img src="/images/tl3.png"></td>
 <td style="width: 30%;"><div><strong>Mr Mok Wei Woon</strong></div>
 <div>ST Chinese Language</div></td>
-<td style="width: 20%;"><img src="/images/sc10.png"></td>
-<td style="width: 30%;"><div><strong>Mrs Ng Weng Han</strong></div>
-<div>ST Humanities</div></td>
 </tr>
 <tr><td style="width: 20%;"><img src="/images/tl5.png"></td>
 <td style="width: 30%;"><div><strong>Ms P. Sarasvathi</strong></div>
