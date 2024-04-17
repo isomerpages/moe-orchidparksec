@@ -16,6 +16,4 @@ variant: markdown
 - The Module Prize is awarded to students with outstanding academic performance in a specific module.</p>
 
 
-<img src="/images/Achievements/Alumni/fooyuxun.png">
-<p>Class of 2020, E5</p>
 </div>
