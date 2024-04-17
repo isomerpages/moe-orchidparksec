@@ -5,7 +5,10 @@ variant: tiptap
 description: Foo Yu Xun
 third_nav_title: Distinguished Alumni
 ---
+<p>Congratulations to:</p>
 <p></p>
-<p>&lt;img src="/images/Achievements/Alumni/fooyuxun.png"&gt;</p>
-<p>&lt;p&gt;Class of 2020, E5&lt;/p&gt;</p>
-<p>&lt;/div&gt;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Alumni/fooyuxun.png">
+</div>
+<p>Class of 2020, E5</p>
+<p></p>
