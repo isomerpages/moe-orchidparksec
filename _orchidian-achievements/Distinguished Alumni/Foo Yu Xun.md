@@ -5,7 +5,7 @@ variant: tiptap
 description: Foo Yu Xun
 third_nav_title: Distinguished Alumni
 ---
-<p>Congratulations to:</p>
+<h4>Congratulations to:</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Alumni/fooyuxun.png">
