@@ -3,6 +3,7 @@ title: Physical Sports & Games
 permalink: /links/prospective-students-dsa/sports/
 description: ""
 third_nav_title: Prospective Students (DSA)
+variant: markdown
 ---
 <div align="justify">
 <h4><strong>DSA Physical Sports and Games</strong></h4>
@@ -25,9 +26,6 @@ third_nav_title: Prospective Students (DSA)
 </tr>
 <tr>
 <td style="text-align: center;">4.&nbsp;<a href="/cca/netball/" target="_blank" rel="noopener">Netball</a>&nbsp;(Girls Only)</td>
-</tr>
-<tr>
-<td style="text-align: center;">5.&nbsp;<a href="/cca/wushu/" target="_blank" rel="noopener">Wushu</a>&nbsp;(Girls and Boys)</td>
 </tr>
 </tbody>
 </table>
