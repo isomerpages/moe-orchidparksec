@@ -2,6 +2,7 @@
 title: DSA Performing Arts
 permalink: /dsa/dsa-performing-arts/
 description: ""
+variant: markdown
 ---
 <p>The CCA programme in Orchid Park Secondary School provides students with a platform to discover their interests and talents. Each CCA is guided by a CCA Student Development Plan which is designed towards progressive development and attainment of CCA learning outcomes.</p>
 <p>Performing Arts instil in students a sense of graciousness and an appreciation for the rich culture and heritage of the different Arts genre in our multi-racial society.&nbsp;</p>
@@ -15,16 +16,13 @@ description: ""
 <td style="text-align: center;">1.&nbsp;<a href="/learning-at-opss/ccas/visual-and-performing-arts/concert-band" target="_blank" rel="noopener">Concert Band</a>&nbsp;(Girls and Boys)</td>
 </tr>
 <tr>
-<td style="text-align: center;">2.&nbsp;<a href="/learning-at-opss/ccas/visual-and-performing-arts/choir" target="_blank" rel="noopener">Choir</a>&nbsp;(Girls and Boys)</td>
+<td style="text-align: center;">2.&nbsp;<a href="/learning-at-opss/ccas/visual-and-performing-arts/modern-dance" target="_blank" rel="noopener">Modern Dance</a>&nbsp;(Contemporary/Modern) (Girls and Boys)</td>
 </tr>
 <tr>
-<td style="text-align: center;">3.&nbsp;<a href="/learning-at-opss/ccas/visual-and-performing-arts/modern-dance" target="_blank" rel="noopener">Modern Dance</a>&nbsp;(Contemporary/Modern) (Girls and Boys)</td>
+<td style="text-align: center;">3.&nbsp;<a href="/learning-at-opss/ccas/visual-and-performing-arts/english-drama" target="_blank" rel="noopener">English Drama</a>&nbsp;(English) (Girls and Boys)</td>
 </tr>
 <tr>
-<td style="text-align: center;">4.&nbsp;<a href="/learning-at-opss/ccas/visual-and-performing-arts/english-drama" target="_blank" rel="noopener">English Drama</a>&nbsp;(English) (Girls and Boys)</td>
-</tr>
-<tr>
-<td style="text-align: center;">5.&nbsp;<a href="/learning-at-opss/ccas/visual-and-performing-arts/guitar-ensemble" target="_blank" rel="noopener">Guitar-Ensemble</a>&nbsp;(Girls and Boys)&nbsp;</td>
+<td style="text-align: center;">4.&nbsp;<a href="/learning-at-opss/ccas/visual-and-performing-arts/guitar-ensemble" target="_blank" rel="noopener">Guitar-Ensemble</a>&nbsp;(Girls and Boys)&nbsp;</td>
 </tr>
 </tbody>
 </table>
