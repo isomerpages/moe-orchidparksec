@@ -2,7 +2,6 @@
 title: Community Youth Leaders
 permalink: /links/prospective-students-dsa/cyl/
 description: ""
-third_nav_title: Prospective Students (DSA)
 ---
 <div align="justify">
 <h4><strong>DSA Community Youth Leaders (CYL)</strong></h4>

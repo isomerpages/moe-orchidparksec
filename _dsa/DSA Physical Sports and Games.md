@@ -2,6 +2,7 @@
 title: DSA Physical Sports and Games
 permalink: /dsa/dsa-sports-and-games/
 description: ""
+variant: markdown
 ---
 <p>The CCA programme in Orchid Park Secondary School provides students with a platform to discover their interests and talents. Each CCA is guided by a CCA Student Development Plan which is designed towards progressive development and attainment of CCA learning outcomes.</p>
 <p>Physical Sports develop resilience, robustness, fair play and team spirit in students.&nbsp;</p>
@@ -23,9 +24,6 @@ description: ""
 
 <tr>
 <td style="text-align: center;">4.&nbsp;<a href="/learning-at-opss/ccas/physical-sports-and-games/netball-girls" target="_blank" rel="noopener">Netball</a>&nbsp;(Girls Only)</td>
-</tr>
-<tr>
-<td style="text-align: center;">5.&nbsp;<a href="/learning-at-opss/ccas/physical-sports-and-games/wushu-mixed" target="_blank" rel="noopener">Wushu</a>&nbsp;(Girls and Boys)</td>
 </tr>
 </tbody>
 </table>
