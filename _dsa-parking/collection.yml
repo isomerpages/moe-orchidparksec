@@ -1,5 +1,4 @@
 collections:
   dsa-parking:
     output: true
-    order:
-      - Visual Art.md
+    order: []
