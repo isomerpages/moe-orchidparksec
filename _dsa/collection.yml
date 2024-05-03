@@ -2,7 +2,6 @@ collections:
   dsa:
     output: true
     order:
-      - Key Dates for 2022.md
       - DSA Leadership.md
       - DSA Performing Arts.md
       - DSA Physical Sports and Games.md
