@@ -15,6 +15,11 @@ third_nav_title: Prospective Students (DSA)
 
 <p>Orchid Park Secondary School invites all current Primary Six Students (or equivalent) to apply for admission to our school through DSA in the following categories:</p>
 
+<table align="centre"><tbody><tr><td>Basketball (Girls and Boys)</td>
+</tr><tr><td>Floorball (Girls and Boys)</td>
+
+</tr></tbody></table>
+	
 <ol><li>Basketball (Girls and Boys)
 </li><li>Floorball (Girls and Boys)
 </li><li>Football (Boys Only)
