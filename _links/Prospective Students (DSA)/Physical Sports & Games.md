@@ -15,15 +15,25 @@ third_nav_title: Prospective Students (DSA)
 
 <p>Orchid Park Secondary School invites all current Primary Six Students (or equivalent) to apply for admission to our school through DSA in the following categories:</p>
 
-<table align="centre"><tbody><tr><td>Basketball (Girls and Boys)</td>
-</tr><tr><td>Floorball (Girls and Boys)</td>
-
-</tr></tbody></table>
-	
-<ol><li>Basketball (Girls and Boys)
-</li><li>Floorball (Girls and Boys)
-</li><li>Football (Boys Only)
-</li><li>Netball (Girls Only)</li></ol>
+<table style="margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<th style="text-align: center;">Physical Sports and Games</th>
+</tr>
+<tr>
+<td style="text-align: center;">1.&nbsp;<a href="/cca/basketball/" target="_blank" rel="noopener">Basketball (Girls and Boys)</a>&nbsp;(Girls and Boys)</td>
+</tr>
+<tr>
+<td style="text-align: center;">2.&nbsp;<a href="/cca/floorball/" target="_blank" rel="noopener">Floorball (Girls and Boys)</a>&nbsp;(Girls and Boys)</td>
+</tr>
+<tr>
+<td style="text-align: center;">3.&nbsp;<a href="/cca/football/" target="_blank" rel="noopener">Football (Boys)</a>&nbsp;(Girls and Boys)</td>
+</tr>
+<tr>
+<td style="text-align: center;">4.&nbsp;<a href="/cca/netball/" target="_blank" rel="noopener">Netball (Girls)</a>&nbsp;(Girls and Boys)&nbsp;</td>
+</tr>
+</tbody>
+</table>
 
 <p><strong>Please click on the link for more info (Link to CCA website)</strong></p>
 
@@ -38,6 +48,6 @@ third_nav_title: Prospective Students (DSA)
 </li><li>Others:
 	<ul><li>Conduct grade of at least ‘Very Good’ in his/her Primary 5 and Primary 6 school report</li></ul></li></ol>
 
-<p><strong><em>Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.<br>Due to different profiles of applicants, selection/shortlisting trends may differ year on year. Shortlisted applicants will be required to undergo performance tasks and interviews.</em></strong></p>
+<p><strong>Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer. Due to different profiles of applicants, selection/shortlisting trends may differ year on year. Shortlisted applicants will be required to undergo performance tasks and interviews.</strong></p>
 	
 </div>
