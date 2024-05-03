@@ -29,7 +29,7 @@ third_nav_title: Prospective Students (DSA)
 </tr>
 </tbody>
 </table>
-<p style="text-align: center;">*Please click on the above links for more info</p>
+<p style="text-align: center;"><strong>Please click on the above links for more info</strong></p>
 
 <h4>CRITERIA FOR PERFORMING ARTS</h4>
 <p><b>P6 students who meet the following criteria may apply:</b></p>
