@@ -2,6 +2,7 @@ collections:
   dsa-parking:
     output: true
     order:
+      - Performing Arts.md
       - Physical Sports & Games.md
       - Key Dates.md
       - Application Process.md
