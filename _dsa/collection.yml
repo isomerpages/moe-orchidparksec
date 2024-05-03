@@ -2,6 +2,5 @@ collections:
   dsa:
     output: true
     order:
-      - DSA Performing Arts.md
       - DSA Physical Sports and Games.md
       - DSA Visual Arts.md
