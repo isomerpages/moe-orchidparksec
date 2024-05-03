@@ -35,7 +35,7 @@ third_nav_title: Prospective Students (DSA)
 </tbody>
 </table>
 
-<p><strong>Please click on the link for more info</strong></p>
+<p style="text-align: center;"><strong>Please click on the link for more info</strong></p>
 
 <strong>Criteria for Physical Sports and GAMES
 
