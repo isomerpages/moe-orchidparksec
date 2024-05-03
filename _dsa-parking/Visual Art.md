@@ -2,7 +2,6 @@
 title: Visual Art
 permalink: /links/prospective-students-dsa/visual-art/
 description: ""
-third_nav_title: Prospective Students (DSA)
 ---
 <div align="justify">
 <h4><strong>DSA Visual Art</strong></h4>

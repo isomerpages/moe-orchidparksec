@@ -2,7 +2,6 @@
 title: Leadership
 permalink: /links/prospective-students-dsa/leadership/
 description: ""
-third_nav_title: Prospective Students (DSA)
 ---
 <div align="justify">
 <h4><strong>DSA Leadership</strong></h4>

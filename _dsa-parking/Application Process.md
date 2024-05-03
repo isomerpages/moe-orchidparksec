@@ -2,7 +2,6 @@
 title: Application Process
 permalink: /links/prospective/application-process/
 description: ""
-third_nav_title: Prospective Students (DSA)
 ---
 <div align="justify">
 <h4>Application Process</h4>

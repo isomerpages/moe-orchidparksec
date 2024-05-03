@@ -1,0 +1,10 @@
+collections:
+  dsa-parking:
+    output: true
+    order:
+      - Visual Art.md
+      - Leadership.md
+      - Performing Arts.md
+      - Physical Sports & Games.md
+      - Key Dates.md
+      - Application Process.md
