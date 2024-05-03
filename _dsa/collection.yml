@@ -1,5 +1,4 @@
 collections:
   dsa:
     output: true
-    order:
-      - DSA Visual Arts.md
+    order: []
