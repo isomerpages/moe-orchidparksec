@@ -2,14 +2,14 @@
 title: Visual Art
 permalink: /links/prospective-students-dsa/visual-art/
 description: ""
+variant: markdown
+third_nav_title: Prospective Students (DSA)
 ---
 <div align="justify">
 <h4><strong>DSA Visual Art</strong></h4>
 <p>The Visual Art programme in Orchid Park Secondary School aims to develop an artist in every child. Through reaching out to the community and engaging in various community projects such as producing art pieces as corporate gifts, fund-raising and beautifying the school environment, the club hopes to foster a strong sense of belonging as well as develop positive values in all members.&nbsp;</p>
 <p>All students enrolled through DSA Visual Arts will be members of the CCA, Art Club. They are expected to remain in the Art Club throughout their secondary education with OPSS.</p>
-<p>All DSA students will be required to take Art as an elective subject at national examinations in secondary 4. There will be interim review on their progress and their Art results will be closely monitored throughout their 4 years in the school.&nbsp;</p>
-<p>All DSA students will participate in special projects and service learning under Art Department’s social outreach programme. Being an Enhance Art Programme school, all DSA students (at secondary 3) will participate in special projects organised by the Arts Education Branch, Student Development Curriculum Division, MOE. Under EAP, they will be given extra opportunities to participate in the annual Incubation Lab project (ILEAP) that is organized every November.&nbsp;</p>
-<p><a href="/cca/art/" target="_blank" rel="noopener">Art Club</a><br>*Please click on the above links for more info</p>
+<p>Being an Enhance Art Programme school, selected DSA students (students offered Art at Upper Sec as an elective) will participate in special projects organised by the Arts Education Branch, Student Development Curriculum Division, MOE. These students will be given extra opportunities to participate in the annual Incubation Lab project (ILEAP) that is organized every November. </p>
 
 <h4>CRITERIA FOR VISUAL ART</h4>
 <p><b>P6 students who meet the following criteria may apply:</b></p>
@@ -23,7 +23,7 @@ description: ""
 <br>- Participated in relevant activities in Visual Arts (if any)
 <br>2) Others:
 <br>- Conduct grade of at least ‘Very Good’ in his/her Primary 5 and Primary 6 school report
-<br><b>* Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</b></p>
+<br><b> Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer. Due to different profiles of applicants, selection/shortlisting trends may differ year on year. Shortlisted applicants will be required to undergo performance tasks and interviews.</b></p>
 <p><b>Additional information:</b></p>
 <p>1) Shortlisted applicants will be required to take a Visual Art task assessment for DSA admission consideration and go through an interview. During the interview, other evidences of visual art talent, such as portfolios of the applicant’s original artwork, should be showcased to the interview panel. Please bring the originals only.</p>
 <p><b>Supporting documents to bring for the interview:</b></p>

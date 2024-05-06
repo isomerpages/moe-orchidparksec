@@ -2,6 +2,8 @@
 title: Leadership
 permalink: /links/prospective-students-dsa/leadership/
 description: ""
+variant: markdown
+third_nav_title: Prospective Students (DSA)
 ---
 <div align="justify">
 <h4><strong>DSA Leadership</strong></h4>
@@ -16,9 +18,7 @@ description: ""
 <li>An Orchidian who is compassionate towards their fellow men</li>
 </ul>
 
-<p><a href="/our-engaged-learners/student-leadership#sc" target="_blank" rel="noopener">Student Council</a><br>*Please click on the link above for more info</p>
-
-<p>DSA Leadership is not a CCA. All students enrolled through DSA leadership are&nbsp;expected to take up a CCA. They are expected to serve in the school’s student councilthroughout their secondary education with Orchid Park Secondary School.</p>
+<p>DSA Leadership is not a CCA. All students enrolled through DSA leadership are&nbsp;expected to take up a CCA. They are expected to serve in the school’s student council throughout their secondary education with Orchid Park Secondary School.</p>
 
 <h4>CRITERIA FOR LEADERSHIP</h4>
 <p><b>P6 students who meet the following criteria may apply:</b></p>
@@ -27,9 +27,9 @@ description: ""
 <br>	- Led or co-organised in school, cohort or class activities
 <br>2) Others:
 <br>- Conduct grade of at least ‘Very Good’ in his/her Primary 5 and Primary 6 school report
-<br><b>* Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</b></p>
+<br><b>Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer. Due to different profiles of applicants, selection/shortlisting trends may differ year on year. Shortlisted applicants will be required to undergo performance tasks and interviews.</b></p>
 
 <h4>Contact person</h4>
-<p>Ms Shaikha<br>Student Council teacher-in-charge<br>Email: <a href="mailto:shaikha_nur_hajibah@schools.gov.sg">shaikha_nur_hajibah@schools.gov.sg</a></p>
+<p>Mdm Annizell Cruz Chan <br>Subject Head for Student Leadership<br>Email: <a href="mailto:annizell_cruz_chanh@schools.gov.sg">annizell_cruz_chan@schools.gov.sg</a></p>
 	
 </div>
