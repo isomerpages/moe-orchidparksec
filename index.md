@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: Term 2 Week 10 Timetable
           description: ""
-          url: /Announcements
+          url: /announcements/
         - title: Congratulations to Our Alumni
           description: ""
           url: /orchidian-achievements/alumni/rp2024/
