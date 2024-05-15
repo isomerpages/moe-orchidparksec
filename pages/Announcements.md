@@ -27,7 +27,7 @@ variant: markdown
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/Timetable/2024_T2W10_Class_TT.pdf" rel="noopener noreferrer nofollow" target="_blank">Week 10 Timetable</a>
+<p><a href="/files/Timetable/2024_T2W10_Class_TT.pdf" target="_blank">Week 10 Timetable</a>
 </p>
 </li>
 
