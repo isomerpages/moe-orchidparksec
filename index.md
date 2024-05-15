@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: Term 2 Week 10 Timetable
           description: ""
-          url: /Timetable/2024_T2W10_Class_TT
+          url: /files/Timetable/2024_T2W10_Class_TT.pdf
         - title: Congratulations to Our Alumni
           description: ""
           url: /orchidian-achievements/alumni/rp2024/
