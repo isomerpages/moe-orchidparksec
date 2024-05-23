@@ -21,7 +21,7 @@ variant: markdown
 
 <tr>
 <td rowspan="1" colspan="1">
-<p>2</p>
+<p>1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Sec 3 - 5 Extended Curriculum from 28 - 30 May 2024</strong>
