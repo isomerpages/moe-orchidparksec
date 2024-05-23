@@ -32,7 +32,7 @@ variant: markdown
 </p>
 </li>
 <li>
-<p><a href="/files/Timetable/Sec45_midecc.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 &amp; 5</a>
+<p><a href="/files/Timetable/sec45_midecc.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 &amp; 5</a>
 </p>
 </li>
 </ol>
