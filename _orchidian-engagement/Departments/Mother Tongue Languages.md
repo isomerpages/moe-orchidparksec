@@ -3,6 +3,7 @@ title: Mother Tongue Languages
 permalink: /dept/mtl/
 description: ""
 third_nav_title: Departments
+variant: markdown
 ---
 <div align="justify">
 <img src="/images/Dept%20Photos%202023/mothertongue.jpg">
@@ -26,11 +27,8 @@ third_nav_title: Departments
 <h4>E-Reading Programme</h4>
 <p>In 2022, our department embarked on a new initiative for our MTL reading programme. Students are encouraged to read their online student newspapers on their personal learning devices, and take part in learning activities.</p>
 <p>The Reading Programme aims to promote and inculcate a love of reading among students whilst enabling them to hone their analysis, reflection, and inquiry skills. The usage of their Personal Learning Device (PLD) is required for this programme thus encouraging students to be self-directed learners. Students log into their respective MTL portals to access the reading materials. After reading the intended text for the week, students are expected to answer some questions based on the articles.</p>
-<p>Students can click on the following links to download the e-newspaper for the week:
-<br><a href="https://sites.google.com/moe.edu.sg/opss-mtl-dept/reading-programme/chinese-language](https://sites.google.com/moe.edu.sg/opss-mtl-dept/reading-programme/chinese-language">Chinese Language Reading Program Microsite</a>
-<br><a href="https://sites.google.com/moe.edu.sg/opss-mtl-dept/reading-programme/malay-language">Malay Language Reading Program Microsite</a>
 
-</p><h4>Cultural Celebrations</h4>
+<p></p><h4>Cultural Celebrations</h4>
 <table><tbody><tr><td><img style="width: 80%" src="/images/Departments/MTL/mtl7.jpg"></td><td style="vertical-align: middle"><img src="/images/Departments/MTL/mtl8.jpg"></td></tr><tr><td><img style="width: 75%" src="/images/Departments/MTL/mtl9.jpg"></td><td style="vertical-align: middle"><img src="/images/Departments/MTL/mtl10.jpg"></td></tr></tbody></table>
 <p>In 2022, we celebrated Chinese New Year with an online concert. Our talented performers from Wushu and Dance Club gave dazzling performances. Last but not least, who could forget our in-house Chinese drum performer, Brian Koh (Vanda-2), who brought down the whole celebration with his drum performance together with our three Malay students. This was indeed a cultural exchange performance too!</p>
 <p><strong>Hari Raya celebration</strong></p>
