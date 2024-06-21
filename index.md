@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: Term 3 Timetable
           description: ""
-          url: links/Student/tt/
+          url: /links/Student/tt/
         - title: Congratulations to Our Alumni
           description: ""
           url: /orchidian-achievements/alumni/rp2024/
