@@ -8,14 +8,14 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: June Holiday Extended Curriculum 2024
+        - title: Term 3 Timetable
           description: ""
-          url: /announcements/
-        - title: Term 2 Week 10 Timetable
-          description: ""
-          url: /announcements/
+          url: /links/Student/tt/
         - title: Congratulations to Our Alumni
           description: ""
           url: /orchidian-achievements/alumni/rp2024/
+        - title: June Holiday Extended Curriculum 2024
+          description: ""
+          url: /announcements/
       background: /images/Homepage/home20221230.bmp
 ---
