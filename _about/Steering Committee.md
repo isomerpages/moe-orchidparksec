@@ -49,25 +49,25 @@ variant: markdown
 <td style="width: 20%;"><img src="/images/sc5.png"></td>
 <td style="width: 30%;"><div><strong>Mr Daniel Chua</strong></div>
 <div>HOD CCE</div></td>
+<td style="width: 20%;"><img src="/images/sc7.png"></td>
+<td style="width: 30%;"><div><strong>Ms Haryati</strong></div>
+<div>HOD Craft &amp; Technology</div></td>
+</tr>
+<tr>
+<td style="width: 20%;"><img src="/images/sc8.png"></td>
+<td style="width: 30%;"><div><strong>Mr Khairil</strong></div>
+<div>HOD Science</div></td>
 <td style="width: 20%;"><img src="/images/SC/Vani.jpg"></td>
 <td style="width: 30%;"><div><strong>Mdm Kogilavani Raj</strong></div>
 <div>HOD English Language</div></td>
 </tr>
 <tr>
-<td style="width: 20%;"><img src="/images/sc7.png"></td>
-<td style="width: 30%;"><div><strong>Ms Haryati</strong></div>
-<div>HOD Craft &amp; Technology</div></td>
-<td style="width: 20%;"><img src="/images/sc8.png"></td>
-<td style="width: 30%;"><div><strong>Mr Khairil</strong></div>
-<div>HOD Science</div></td>
-</tr>
-<tr>
-<td style="width: 20%;"><img src="/images/sc9.png"></td>
-<td style="width: 30%;"><div><strong>Mr Mohd Salim</strong></div>
-<div>HOD Mathematics</div></td>
 <td style="width: 20%;"><img src="/images/SC/MICHELLE%20KWOK.png"></td>
 <td style="width: 30%;"><div><strong>Ms Kwok Shi You Michelle</strong></div>
 <div>HOD Humanities (Covering)</div></td>
+<td style="width: 20%;"><img src="/images/sc9.png"></td>
+<td style="width: 30%;"><div><strong>Mr Mohd Salim</strong></div>
+<div>HOD Mathematics</div></td>
 </tr>
 <tr>
 <td style="width: 20%;"><img src="/images/sc11.png"></td>
