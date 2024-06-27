@@ -28,11 +28,11 @@ variant: markdown
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/Timetable/sec3_midecc.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
+<p><a href="/files/Timetable/prelim4na.pdf" rel="noopener noreferrer nofollow" target="_blank">4 NA</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Timetable/sec45_midecc.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 &amp; 5</a>
+<p><a href="/files/Timetable/prelim4nt.pdf" rel="noopener noreferrer nofollow" target="_blank">4 NT</a>
 </p>
 </li>
 </ol>
