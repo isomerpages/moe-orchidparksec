@@ -54,20 +54,21 @@ variant: markdown
 <div>HOD Craft &amp; Technology</div></td>
 </tr>
 <tr>
-<td style="width: 20%;"><img src="/images/SC/LIM%20HAN%20CHUAN.jpg"></td>
-<td style="width: 30%;"><div><strong>Mr Lim Han Chuan</strong></div>
-<div>HOD Mother Tongue Language (Covering)</div></td>
+
 <td style="width: 20%;"><img src="/images/sc8.png"></td>
 <td style="width: 30%;"><div><strong>Mr Khairil</strong></div>
 <div>HOD Science</div></td>
-</tr>
-<tr>
 <td style="width: 20%;"><img src="/images/SC/Vani.jpg"></td>
 <td style="width: 30%;"><div><strong>Mdm Kogilavani Raj</strong></div>
 <div>HOD English Language</div></td>
+</tr>
+<tr>
 <td style="width: 20%;"><img src="/images/SC/MICHELLE%20KWOK.png"></td>
 <td style="width: 30%;"><div><strong>Ms Kwok Shi You Michelle</strong></div>
 <div>HOD Humanities (Covering)</div></td>
+<td style="width: 20%;"><img src="/images/SC/LIM%20HAN%20CHUAN.jpg"></td>
+<td style="width: 30%;"><div><strong>Mr Lim Han Chuan</strong></div>
+<div>HOD Mother Tongue Language (Covering)</div></td>
 </tr>
 <tr>
 <td style="width: 20%;"><img src="/images/sc9.png"></td>
