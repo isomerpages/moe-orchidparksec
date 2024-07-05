@@ -54,6 +54,7 @@ variant: markdown
 <div>HOD Craft &amp; Technology</div></td>
 </tr>
 <tr>
+
 <td style="width: 20%;"><img src="/images/sc8.png"></td>
 <td style="width: 30%;"><div><strong>Mr Khairil</strong></div>
 <div>HOD Science</div></td>
@@ -65,27 +66,30 @@ variant: markdown
 <td style="width: 20%;"><img src="/images/SC/MICHELLE%20KWOK.png"></td>
 <td style="width: 30%;"><div><strong>Ms Kwok Shi You Michelle</strong></div>
 <div>HOD Humanities (Covering)</div></td>
+<td style="width: 20%;"><img src="/images/SC/LIM%20HAN%20CHUAN.jpg"></td>
+<td style="width: 30%;"><div><strong>Mr Lim Han Chuan</strong></div>
+<div>HOD Mother Tongue Language (Covering)</div></td>
+</tr>
+<tr>
 <td style="width: 20%;"><img src="/images/sc9.png"></td>
 <td style="width: 30%;"><div><strong>Mr Mohd Salim</strong></div>
 <div>HOD Mathematics</div></td>
-</tr>
-<tr>
 <td style="width: 20%;"><img src="/images/sc11.png"></td>
 <td style="width: 30%;"><div><strong>Ms Soo Chiew Ming</strong></div>
 <div>HOD Student Management</div></td>
+</tr><tr>
 <td style="width: 20%;"><img src="/images/sc12.png"></td>
 <td style="width: 30%;"><div><strong>Mr Tan Paul</strong></div>
 <div>HOD PE &amp; CCA</div></td>
-</tr>
-<tr>
 <td style="width: 20%;"><img src="/images/sc15.png"></td>
 <td style="width: 30%;"><div><strong>Mrs Fu Wei Hui</strong></div>
 <div>Year Head - Lower Sec (Sec 1)</div></td>
+</tr>
+
+<tr>
 <td style="width: 20%;"><img src="/images/SC/Wong%20Yiu%20Hang.jpg"></td>
 <td style="width: 30%;"><div><strong>Mr Wong Yiu Hang</strong></div>
 <div>Asst. Year Head <br>Lower Sec (Sec 2)</div></td>
-</tr>
-<tr>
 <td style="width: 20%;"><img src="/images/sc14.png"></td>
 <td style="width: 30%;"><div><strong>Mr Chia Cheng Siong</strong></div>
 <div>Year Head - Upper Sec (Sec 4/5)</div></td>
@@ -117,14 +121,11 @@ variant: markdown
 <td style="width: 20%;"><img src="/images/s4.png"></td>
 <td style="width: 30%;"><div><strong>Mr Frederick Chan</strong></div>
 <div>SH Physics<br>SH Data Management (covering)</div></td>
-<td style="width: 20%;"><img src="/images/SC/LIM%20HAN%20CHUAN.jpg"></td>
-<td style="width: 30%;"><div><strong>Mr Lim Han Chuan</strong></div>
-<div>SH Chinese Language</div></td>
-</tr>
-<tr>
 <td style="width: 20%;"><img src="/images/s8.png"></td>
 <td style="width: 30%;"><div><strong>Mr Teo Ee Jun</strong></div>
 <div>SH History</div></td>
+</tr>
+<tr>
 <td style="width: 20%;"><img src="/images/s9.png"></td>
 <td style="width: 30%;"><div><strong>Mr Wang Xiang Jun Kenny</strong></div>
 <div>SH Student Well-Being (covering)</div></td>
