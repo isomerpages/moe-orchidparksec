@@ -1,7 +1,7 @@
 ---
 title: Foo Yu Xun
 permalink: /foo-yu-xun/
-variant: tiptap
+variant: markdown
 description: Foo Yu Xun
 third_nav_title: Distinguished Alumni
 ---
