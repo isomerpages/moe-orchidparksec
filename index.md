@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: Congratulations to Our Alumni
           description: ""
-          url: /orchidian-achievements/alumni/
+          url: /congratulations-on-outstanding-a-level-results/
         - title: 4NT & 4NA Prelim Timetable 2024
           description: ""
           url: /announcements/
