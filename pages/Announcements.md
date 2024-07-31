@@ -36,7 +36,7 @@ variant: markdown
 </p>
 </li>
 	<li>
-<p><a href="/files/Timetable/prelim4nt.pdf" rel="noopener noreferrer nofollow" target="_blank">4 Exp</a>
+<p><a href="/files/Timetable/2024_O_Level_Prelim.pdf" rel="noopener noreferrer nofollow" target="_blank">4 Exp</a>
 </p>
 </li>
 </ol>
