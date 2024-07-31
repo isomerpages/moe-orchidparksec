@@ -8,12 +8,12 @@ notification: ""
 sections:
   - hero:
       key_highlights:
+        - title: "'N' and 'O' Level Prelim Timetable 2024"
+          description: ""
+          url: /announcements/
         - title: Congratulations to Our Alumni
           description: ""
           url: /congratulations-on-outstanding-a-level-results/
-        - title: 4NT & 4NA Prelim Timetable 2024
-          description: ""
-          url: /announcements/
         - title: Term 3 Timetable
           description: ""
           url: /links/Student/tt/
