@@ -24,7 +24,7 @@ variant: markdown
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>N level Prelim timetable 2024</strong>
+<p><strong>N &amp; O level Prelim timetable 2024</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -33,6 +33,10 @@ variant: markdown
 </li>
 <li>
 <p><a href="/files/Timetable/prelim4nt.pdf" rel="noopener noreferrer nofollow" target="_blank">4 NT</a>
+</p>
+</li>
+	<li>
+<p><a href="/files/Timetable/prelim4nt.pdf" rel="noopener noreferrer nofollow" target="_blank">4 Exp</a>
 </p>
 </li>
 </ol>
