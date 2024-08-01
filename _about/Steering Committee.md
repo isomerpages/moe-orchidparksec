@@ -105,7 +105,7 @@ variant: markdown
 <td style="width: 20%;"><img src="/images/SC/CHAN%20HO%20LUN.jpg"></td>
 <td style="width: 30%;"><div><strong>Mr Chan Ho Lun</strong></div>
 <div>LH Mathematics</div></td>
-<td style="width: 20%;"></td>
+<td style="width: 20%;"><img src="/images/SC/kumari.jpg"></td>
 <td style="width: 30%;"><div><strong>Ms Kumari Shanker</strong></div>
 <div>LH English Language</div></td>
 </tr>
