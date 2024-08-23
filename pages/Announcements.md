@@ -23,21 +23,18 @@ variant: markdown
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Sec 3 - 5 Extended Curriculum from 28 - 30 May 2024</strong>
+<p><strong>Sec 1 Camp Parent's Engagement Slides 2024</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/Timetable/sec3_midecc.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
+<p><a href="/files/Timetable/sec3_midecc.pdf" rel="noopener noreferrer nofollow" target="_blank">Slides</a>
 </p>
 </li>
-<li>
-<p><a href="/files/Timetable/sec45_midecc.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 &amp; 5</a>
-</p>
-</li>
+
 </ol>
 </td>
 <td rowspan="1" colspan="1">
-<p>23 May 2024</p>
+<p>23 Aug 2024</p>
 </td>
 </tr>
 	
