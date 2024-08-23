@@ -19,9 +19,28 @@ variant: markdown
 </th>
 </tr>
 
+<tr><td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 1 Camp Parent's Engagement Slides 2024</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="https://go.gov.sg/opsec1camp" rel="noopener noreferrer nofollow" target="_blank">Slides</a>
+</p>
+</li>
+
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>23 Aug 2024</p>
+</td>
+</tr>
+	
 <tr>
 <td rowspan="1" colspan="1">
-<p>1</p>
+<p>2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>N &amp; O level Prelim timetable 2024</strong>
@@ -47,7 +66,7 @@ variant: markdown
 </tr>	
 	
 <tr><td rowspan="1" colspan="1">
-<p>2</p>
+<p>3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Sec 3 - 5 Extended Curriculum from 28 - 30 May 2024</strong>
@@ -68,24 +87,7 @@ variant: markdown
 </td>
 </tr>
 	
-<tr>
-<td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Term 2 week 10 Timetable 20 - 23 May 2024</strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="/files/Timetable/2024_T2W10_Class_TT.pdf" target="_blank">Week 10 Timetable</a>
-</p>
-</li>
-</ol>
-</td>
-<td rowspan="1" colspan="1">
-<p>15 May 2024</p>
-</td>
-</tr>
+
 
 <tr>
 <td rowspan="1" colspan="1">
