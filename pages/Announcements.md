@@ -27,7 +27,7 @@ variant: markdown
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="https://www.orchidparksec.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Slides</a>
+<p><a href="https://go.gov.sg/opsec1camp" rel="noopener noreferrer nofollow" target="_blank">Slides</a>
 </p>
 </li>
 
