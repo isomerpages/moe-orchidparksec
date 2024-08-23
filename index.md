@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: Sec 1 Camp Parent's Engagement Slides 2024
           description: ""
-          url: https://www.orchidparksec.moe.edu.sg/
+          url: https://go.gov.sg/opsec1camp
         - title: "'N' and 'O' Level Prelim Timetable 2024"
           description: ""
           url: /announcements/
