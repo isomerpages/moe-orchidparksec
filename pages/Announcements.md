@@ -24,7 +24,7 @@ variant: markdown
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2024 EOY Exam Timetable</strong>
+<p><strong>2024 EOY Exam Timetable Sec 1-3</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
