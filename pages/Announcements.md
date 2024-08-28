@@ -24,6 +24,30 @@ variant: markdown
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>2024 Extended Curriculum for September </strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/Timetable/24sec1eoy.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Timetable/24sec2eoy.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a>
+</p>
+</li>
+
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>28 Aug 2024</p>
+</td>
+</tr>	
+	
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>2024 EOY Exam Timetable Sec 1-3</strong>
 </p>
 <ol data-tight="true" class="tight">
