@@ -45,7 +45,7 @@ variant: markdown
 	
 <tr>
 <td rowspan="1" colspan="1">
-<p>1</p>
+<p>2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2024 EOY Exam Timetable Sec 1-3</strong>
@@ -71,7 +71,7 @@ variant: markdown
 </tr>	
 	
 <tr><td rowspan="1" colspan="1">
-<p>2</p>
+<p>3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Sec 1 Camp Parent's Engagement Slides 2024</strong>
@@ -91,7 +91,7 @@ variant: markdown
 	
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
+<p>4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>N &amp; O level Prelim timetable 2024</strong>
@@ -115,29 +115,6 @@ variant: markdown
 <p>31 July 2024</p>
 </td>
 </tr>	
-	
-<tr><td rowspan="1" colspan="1">
-<p>4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Sec 3 - 5 Extended Curriculum from 28 - 30 May 2024</strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="/files/Timetable/sec3_midecc.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Timetable/sec45_midecc.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 &amp; 5</a>
-</p>
-</li>
-</ol>
-</td>
-<td rowspan="1" colspan="1">
-<p>23 May 2024</p>
-</td>
-</tr>
-	
 
 
 <tr>
