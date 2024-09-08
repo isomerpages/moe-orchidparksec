@@ -24,6 +24,26 @@ variant: markdown
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Extended Curriculum for Secondary 3 students (12-13 Sept) </strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/Timetable/24sec3ext.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
+</p>
+</li>
+
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>9 Sept 2024</p>
+</td>
+</tr>		
+
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>2024 Extended Curriculum for September </strong>
 </p>
 <ol data-tight="true" class="tight">
@@ -45,7 +65,7 @@ variant: markdown
 	
 <tr>
 <td rowspan="1" colspan="1">
-<p>2</p>
+<p>3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2024 EOY Exam Timetable Sec 1-3</strong>
@@ -71,7 +91,7 @@ variant: markdown
 </tr>	
 	
 <tr><td rowspan="1" colspan="1">
-<p>3</p>
+<p>4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Sec 1 Camp Parent's Engagement Slides 2024</strong>
@@ -91,7 +111,7 @@ variant: markdown
 	
 <tr>
 <td rowspan="1" colspan="1">
-<p>4</p>
+<p>5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>N &amp; O level Prelim timetable 2024</strong>
@@ -119,7 +139,7 @@ variant: markdown
 
 <tr>
 <td rowspan="1" colspan="1">
-<p>5</p>
+<p>6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Sec 4&amp;5 Virtual Parents Engagement session</strong>
