@@ -8,14 +8,14 @@ notification: ""
 sections:
   - hero:
       key_highlights:
+        - title: Sec 3 Extended Curriculum 2024
+          description: ""
+          url: /announcements/
         - title: 2024 Extended Curriculum for September
           description: ""
           url: /announcements/
         - title: 2024 EOY Exam Timetable Sec 1-3
           description: ""
           url: /announcements/
-        - title: Sec 1 Camp Parent's Engagement Slides 2024
-          description: ""
-          url: https://go.gov.sg/opsec1camp
       background: /images/Homepage/home20221230.bmp
 ---
