@@ -63,4 +63,26 @@ variant: markdown
 <img src="/images/llp7.jpg">
 <p>Each class contributed food items to create uniquely designed hampers, which were distributed to the elderly in need within the Khatib community during Chinese New Year, spreading festive cheer and care.</p>
 
+<h4>Tier 2: Nee Soon South Gifts for Senior Citizens Event</h4>
+<img src="/images/llp7.jpg">
+<p>Student Councillors distributed festive red packets to eligible seniors aged 65 and above. This is an annual event organized by Nee Soon South Community Development &amp; Welfare Fund Committee.</p>
 
+<h4>Tier 2: CCA Values-in-Action Projects</h4>
+<img src="/images/llp7.jpg">
+<p>The Guitar Ensemble students visited the Rainbow Centre in Singapore, performing two songs and introducing various guitars to special needs students. This collaboration not only showcased the musical talents of the students but also highlighted how music can be a powerful tool for engaging and supporting special needs students.</p>
+<img src="/images/llp7.jpg">
+<p>The Football CCA collaborated once again with the football team from Naval Base Primary School, as our Secondary 2 boys led a football clinic for the younger students. It was a truly enriching experience for all involved.</p>
+<img src="/images/llp7.jpg">
+<img src="/images/llp7.jpg">
+<p>In collaboration with Yishun South NPC, OPSS NPCC cadets took the streets of Khatib, to share with members of the public about the dangers of phishing, common phone scams and how to protect themselves against such nefarious schemes. They mustered up their courage, confidence and language skills to approach people to share with them about cyber crimes.</p>
+
+<h4>Tier 3: Advocacy Projects by Student Councillors</h4>
+<img src="/images/llp7.jpg">
+<img src="/images/llp7.jpg">
+<img src="/images/llp7.jpg">
+<p>Our students collaborated with Willing Hearts to actively participate in food preparation by cutting vegetables, opening cans, packing meals, and washing utensils, contributing to the meaningful work of supporting those in need.</p>
+<img src="/images/llp7.jpg">
+<img src="/images/llp7.jpg">
+<p>Our students partnered with Project Hope to set up a pop-up market for residents from rental unit households, providing them with the opportunity to select essential food items. Volunteers will assist with market setup, registration, queue management, food distribution, and stock replenishment.</p>
+<img src="/images/llp7.jpg">
+<p>Our students partnered with Project Hope to help maintain the cleanliness of homes identified by volunteers, fostering a spirit of care and community service.</p>
