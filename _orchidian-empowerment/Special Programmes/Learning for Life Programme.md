@@ -57,3 +57,10 @@ variant: markdown
 <img src="/images/llp7.jpg">
 <p>One of the most memorable celebrations of our 25th Anniversary was the OP25 Formation. The journey began with the Urban Run, where students enthusiastically folded paper cranes, and the energy only grew in Term 3 as they carefully pasted these cranes onto designated boards. On 7 Aug, the entire school’s efforts culminated in a magnificent 4.6m diameter logo, proudly earning a place in the Singapore Book of Records! This triumph united our school, deepened our pride, and created cherished memories, truly embodying our school song: “A happy and united school, where everyone has a part to play!”</p>
 
+<h4>Tier 1: Chinese New Year Hamper Design Competition</h4>
+<img src="/images/llp7.jpg">
+<img src="/images/llp7.jpg">
+<img src="/images/llp7.jpg">
+<p>Each class contributed food items to create uniquely designed hampers, which were distributed to the elderly in need within the Khatib community during Chinese New Year, spreading festive cheer and care.</p>
+
+
