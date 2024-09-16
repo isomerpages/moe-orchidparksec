@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Special Programmes
 variant: markdown
 ---
+<h4>OPSS LEARNING FOR LIFE PROGRAMME</h4>
 <p><strong>Community OutReach Education (CORE)<br></strong>The CORE programme develops our Community Youth Leaders (CYL) to be advocates for causes which they are passionate about. Driven by the school mission to develop students to be resourceful and confident individuals who are compassionate to their fellowmen, CORE works towards building student leadership, particularly through community engagement.<br>Three key theoretical models underpin the design of the curriculum:&nbsp;</p>
 <img style="width: 65%;" src="/images/llp1.jpg">
 <p>At all levels, CORE is undergirded by the FIDS Design Thinking process to equip students with necessary and relevant skills and dispositions to plan and execute meaningful VIA &amp; service learning projects to engage the community.<br>Tier 2 provides experiential learning of the 5 Exemplary Leadership Practices in The Leadership Challenge by Kouzes and Posner. This is in alignment to the school's student leadership framework.<br>Students are trained in Design Thinking and Service Learning methodology and these provide a frame for them to better understand and appreciate the needs of the community so as to initiate, plan and implement student-initiated and organised community engagement projects.</p>
