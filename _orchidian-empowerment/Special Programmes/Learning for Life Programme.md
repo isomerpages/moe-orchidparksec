@@ -6,14 +6,27 @@ third_nav_title: Special Programmes
 variant: markdown
 ---
 <h4>OPSS LEARNING FOR LIFE PROGRAMME</h4>
-<p><strong>Community OutReach Education (CORE)<br></strong>The CORE programme develops our Community Youth Leaders (CYL) to be advocates for causes which they are passionate about. Driven by the school mission to develop students to be resourceful and confident individuals who are compassionate to their fellowmen, CORE works towards building student leadership, particularly through community engagement.<br>Three key theoretical models underpin the design of the curriculum:&nbsp;</p>
-<img style="width: 65%;" src="/images/llp1.jpg">
-<p>At all levels, CORE is undergirded by the FIDS Design Thinking process to equip students with necessary and relevant skills and dispositions to plan and execute meaningful VIA &amp; service learning projects to engage the community.<br>Tier 2 provides experiential learning of the 5 Exemplary Leadership Practices in The Leadership Challenge by Kouzes and Posner. This is in alignment to the school's student leadership framework.<br>Students are trained in Design Thinking and Service Learning methodology and these provide a frame for them to better understand and appreciate the needs of the community so as to initiate, plan and implement student-initiated and organised community engagement projects.</p>
-<img src="/images/llp2.jpg">
-<img src="/images/llp3.jpg">
-<img src="/images/llp4.jpg">
-<img src="/images/llp5.jpg">
-<p>Through CORE, the school seeks to engage and support the community, moving out from its immediate locality to reach out to the larger community, through sustainable and strategic partnerships and collaborations, including Northwest CDC (NWCDC), Nee Soon South CC, KTPH, Yishun Health, Senior Activity Centres etc.<br>Another of our key Tier 2 learning programme is the Tri-generational Home Care project - a partnership with NWCDC, NUS student volunteers and healthcare professionals from KTPH. After having undergone a leadership workshop, students worked with the volunteers and professionals to design activities to provide holistic care to the elderly. The project has been a very rich learning experience for the students and from their reflection, it has propelled them forward as the community youth leaders that the school hopes to grow and nurture.<br>At Tier 3, our CORE leaders continues to be active in the community and returns to guide and inspire our students as Community Youth Leaders.</p>
+<p><strong>Community OutReach Education (CORE)<br></strong>
+<img src="/images/LLP/CORE.jpg">
+	
+</p><p>
+The OPSS Learning for Life Programme (LLP) on Community OutReach Education (CORE) adopts a 3E (Engage-Empower-Excite) approach and is delivered via 3 levels (adapted from Treffinger’s Levels of Service Model). CORE is one of the key levers to engage and develop students into Empowered Learners, Compassionate Leaders and Future-Ready Orchidians.&nbsp; It is designed to:
+</p>
+*   develop students’ dispositions and leadership skills through community project involvement and service-learning via The Five Practices of Exemplary Leadership Model (Kouzes and Posner) and Design Thinking methodology;
+    
+*   strengthen students’ community involvement and collaboration with external organisations through authentic learning experiences;&nbsp;
+    
+*   raise awareness of community issues and&nbsp;
+    
+*   encourage and inspire them to think critically about community-related issues and, and thereby grow in civic literacy.
+																					 
+<p>At Tier 1, all students are **engaged** in Cohort Service-Learning projects and they learn to work in teams at the class level.  Through the 4/5 years, all students would have been exposed to varied service-learning experiences, thematically beginning with service within the school and extending to service to the community.  Cohort Service-Learning projects are largely school-curated, with Secondary 2 to 5 students progressively given more autonomy to explore service-learning projects they would want to work on collectively as a class. </p>
+																					 
+<p>At Tier 2, student leaders in the different segments (CCAs and Student Council) who demonstrate passion and tenacity for community causes are **empowered** to explore and lead VIA projects in various themes and organisations which they find interest and meaning in.&nbsp; While various community outreach platforms are made available to the student leaders, they learn to self-organise and lead their peers in the VIA projects. Student leaders, at this level, are strongly encouraged to seek out other community outreach platforms platforms, beyond the school-curated ones.</p>
+
+<p>Tier 3 of our programme is designed for students who are passionate in engaging the school community in Advocacy Projects. This tier focuses on Community Youth Leaders (CYL), who are students driven by a cause and eager to make a difference in the community. These leaders are challenged and supported to take the initiative in launching Advocacy Projects. Through this process, they exercise student agency by inspiring themselves and their peers and mobilising the school community to extend compassion to others by actively participating in these projects.</p>
+																					 
+<p>The 3E approach takes students through a journey of discovering and learning that as compassionate leaders, they grow from possessing self-efficacy to demonstrating student agency where they take charge of their learning, driven by their interests, grounded on the cause and purpose and often self-initiated with appropriate guidance from teachers.</p>
 
 <h4>Tier 1:Secondary 2 Cohort Service Learning Project: Supporting and Engaging the Elderly through Activities</h4>
 <img src="/images/llp6.jpg">
