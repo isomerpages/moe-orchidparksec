@@ -7,8 +7,8 @@ variant: markdown
 ---
 <h4>OPSS LEARNING FOR LIFE PROGRAMME</h4>
 <p><strong>Community OutReach Education (CORE)<br></strong>
-<img src="/images/LLP/CORE.jpg">
-	
+<img src="/images/LLP/Final_LLP_Framework.jpg">
+
 </p><p>
 The OPSS Learning for Life Programme (LLP) on Community OutReach Education (CORE) adopts a 3E (Engage-Empower-Excite) approach and is delivered via 3 levels (adapted from Treffinger’s Levels of Service Model). CORE is one of the key levers to engage and develop students into Empowered Learners, Compassionate Leaders and Future-Ready Orchidians.&nbsp; It is designed to:
 </p>
@@ -38,7 +38,7 @@ The OPSS Learning for Life Programme (LLP) on Community OutReach Education (CORE
 <img src="/images/LLP/Tier_1_Sec_3.jpg">
 <img src="/images/LLP/Tier_1_Sec_4.jpg">
 <img src="/images/LLP/Tier_1_Whole_School.jpg">
-<img src="/images/LLP/CNY.jpg">
+<img src="/images/LLP/Ang_bao.jpg">
 <img src="/images/LLP/Football.jpg">
 <img src="/images/LLP/Councillors.jpg">
 <img src="/images/LLP/Keep_Clean.jpg">
