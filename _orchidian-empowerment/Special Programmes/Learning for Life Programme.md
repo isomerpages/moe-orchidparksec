@@ -20,13 +20,13 @@ The OPSS Learning for Life Programme (LLP) on Community OutReach Education (CORE
     
 *   encourage and inspire them to think critically about community-related issues and, and thereby grow in civic literacy.
 																					 
-<p>At Tier 1, all students are **engaged** in Cohort Service-Learning projects and they learn to work in teams at the class level.  Through the 4/5 years, all students would have been exposed to varied service-learning experiences, thematically beginning with service within the school and extending to service to the community.  Cohort Service-Learning projects are largely school-curated, with Secondary 2 to 5 students progressively given more autonomy to explore service-learning projects they would want to work on collectively as a class. </p>
+<p>At Tier 1, all students are <b>engaged</b> in Cohort Service-Learning projects and they learn to work in teams at the class level.  Through the 4/5 years, all students would have been exposed to varied service-learning experiences, thematically beginning with service within the school and extending to service to the community.  Cohort Service-Learning projects are largely school-curated, with Secondary 2 to 5 students progressively given more autonomy to explore service-learning projects they would want to work on collectively as a class. </p>
 																					 
-<p>At Tier 2, student leaders in the different segments (CCAs and Student Council) who demonstrate passion and tenacity for community causes are **empowered** to explore and lead VIA projects in various themes and organisations which they find interest and meaning in.&nbsp; While various community outreach platforms are made available to the student leaders, they learn to self-organise and lead their peers in the VIA projects. Student leaders, at this level, are strongly encouraged to seek out other community outreach platforms platforms, beyond the school-curated ones.</p>
+<p>At Tier 2, student leaders in the different segments (CCAs and Student Council) who demonstrate passion and tenacity for community causes are <b>empowered</b> to explore and lead VIA projects in various themes and organisations which they find interest and meaning in.&nbsp; While various community outreach platforms are made available to the student leaders, they learn to self-organise and lead their peers in the VIA projects. Student leaders, at this level, are strongly encouraged to seek out other community outreach platforms platforms, beyond the school-curated ones.</p>
 
 <p>Tier 3 of our programme is designed for students who are passionate in engaging the school community in Advocacy Projects. This tier focuses on Community Youth Leaders (CYL), who are students driven by a cause and eager to make a difference in the community. These leaders are challenged and supported to take the initiative in launching Advocacy Projects. Through this process, they exercise student agency by inspiring themselves and their peers and mobilising the school community to extend compassion to others by actively participating in these projects.</p>
 																					 
-<p>The 3E approach takes students through a journey of discovering and learning that as **compassionate leaders**, they grow from possessing self-efficacy to demonstrating **student agency** where they take charge of their learning, driven by their interests, grounded on the cause and purpose and often self-initiated with appropriate guidance from teachers.</p>
+<p>The 3E approach takes students through a journey of discovering and learning that as <b>compassionate leaders</b>, they grow from possessing self-efficacy to demonstrating <b>student agency</b> where they take charge of their learning, driven by their interests, grounded on the cause and purpose and often self-initiated with appropriate guidance from teachers.</p>
 
 <p>Tier 3 corresponds to Levels 3 of Treffinger’s Levels of Service Model where some students are provided opportunities to be involved in the LLP at a higher level of engagement and accomplishment.</p>
 
@@ -45,4 +45,3 @@ The OPSS Learning for Life Programme (LLP) on Community OutReach Education (CORE
 <img src="/images/LLP/Keep_Clean.jpg">
 <img src="/images/LLP/Football.jpg">
 <img src="/images/LLP/Councillors.jpg">
-
