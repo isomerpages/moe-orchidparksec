@@ -37,10 +37,10 @@ The OPSS Learning for Life Programme (LLP) on Community OutReach Education (CORE
 <img src="/images/LLP/Tier_1_Sec_2.jpg">
 <img src="/images/LLP/Tier_1_Sec_3.jpg">
 <img src="/images/LLP/Tier_1_Sec_4.jpg">
-<img src="/images/LLP/Tier_1_Whole_School.jpg">
-<img src="/images/LLP/Ang_bao.jpg">
+<img src="/images/LLP/tier_1_whole_school.jpg">
+<img src="/images/LLP/Final_Ang_Bao_Picture.jpg">
 <img src="/images/LLP/Football.jpg">
 <img src="/images/LLP/Councillors.jpg">
-<img src="/images/LLP/Keep_Clean.jpg">
+<img src="/images/LLP/keep_clean.jpg">
 <img src="/images/LLP/NDP.jpg">
 <img src="/images/LLP/OP25_Formation.jpg">
