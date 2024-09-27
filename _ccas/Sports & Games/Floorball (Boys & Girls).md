@@ -57,14 +57,11 @@ variant: markdown
 </tbody></table>
 
 <h4>Photos</h4>
-<p style="text-align: center;">Boys and Grils 2023)</p>
-<img style="width: 75%;" src="/images/CCA/Floorball/2023_Floorball__Boys_and_Girls__Formal.jpg">
-<p style="text-align: center;">Boys’ Team (B Division, 2019)</p>
-<img style="width: 75%;" src="/images/floor1.jpg">
-<p style="text-align: center;">Girls’ Team (B Division, 2019)</p>
-<img style="width: 75%;" src="/images/floor2.jpg">
-<p style="text-align: center;">Some random photos</p>
-<img src="/images/floor3.png">
-<img style="width: 75%;" src="/images/CCA/Floorball/group%20up.jpg">
-<img style="width: 75%;" src="/images/CCA/Floorball/girlgrp.JPG">
-<img style="width: 75%;" src="/images/CCA/Floorball/group%20up.jpg">
+<p style="text-align: center;"><b>Girls Team</b></p>
+<img style="width: 75%;" src="/images/CCA/Floorball/girls1.jpg">
+<img style="width: 75%;" src="/images/CCA/Floorball/girls2.jpg">
+<img style="width: 75%;" src="/images/CCA/Floorball/girls3.jpg">
+<p style="text-align: center;"><b>Boys Team</b></p>
+<img style="width: 75%;" src="/images/CCA/Floorball/FB_trg_.jpg">
+<img style="width: 75%;" src="/images/CCA/Floorball/CDiv_Boy.jpg">
+<img style="width: 75%;" src="/images/CCA/Floorball/B_Div_2nd_round.jpg">
