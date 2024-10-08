@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: 2024 Sem 2 Post Exam Timetable
           description: ""
-          url: /announcements/
+          url: /links/Student/tt/
         - title: Sec 3 Extended Curriculum 2024
           description: ""
           url: /announcements/
