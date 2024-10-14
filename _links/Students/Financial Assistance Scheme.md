@@ -17,6 +17,6 @@ variant: markdown
 
 <p><strong><a href="/files/FAS/MOE_FAS_Application_Form_2025.pdf" target="_blank" rel="noopener noreferrer" data-icon="" data-fallback="Find out more">FAS Application Form</a></strong></p>
 
-<p>Please submit the completed form, along with the supporting documents to the school general office via either hardcopy submission or FormSG, by 26 October 2023. Early submission helps ensure your application can be processed in time for your books/uniform purchase.<br>For further assistance or clarifications, please contact the General Office at Tel: 67598547.</p>
+<p>Please submit the completed form, along with the supporting documents to the school general office via either hardcopy submission or FormSG, by 26 October 2024. Early submission helps ensure your application can be processed in time for your books/uniform purchase.<br>For further assistance or clarifications, please contact the General Office at Tel: 67598547.</p>
 	
 </div>
