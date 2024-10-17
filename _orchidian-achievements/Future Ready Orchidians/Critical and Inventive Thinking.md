@@ -16,5 +16,5 @@ CAIT skills enable students to use sound reasoning and critical thinking to info
 
 Explore the links below to see our students’ demonstration of CAIT in various competitions:
 	
-2024
+<a href="/cait2024/">2024</a>
 </p>	</div>
