@@ -2,6 +2,7 @@ collections:
   orchidian-achievements:
     output: true
     order:
+      - Future Ready Orchidians/CAIT.md
       - Future Ready Orchidians/PESA 2023.md
       - Future Ready Orchidians/National Accounting Challenge 2023.md
       - Future Ready Orchidians/Live on Festival 2023.md
