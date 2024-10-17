@@ -2,7 +2,6 @@ collections:
   orchidian-achievements:
     output: true
     order:
-      - Future Ready Orchidians/2024.md
       - Future Ready Orchidians/Critical and Inventive Thinking.md
       - Future Ready Orchidians/PESA 2023.md
       - Future Ready Orchidians/National Accounting Challenge 2023.md
