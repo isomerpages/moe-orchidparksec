@@ -24,27 +24,7 @@ variant: markdown
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Extended Curriculum for Secondary 3 students (12-13 Sept) </strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="/files/Timetable/24sec3ext.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
-</p>
-</li>
-
-</ol>
-</td>
-<td rowspan="1" colspan="1">
-<p>9 Sept 2024</p>
-</td>
-</tr>		
-
-<tr>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>2024 Extended Curriculum for September </strong>
+<p><strong>2024 Sec 3 EOY Extended Curriculum </strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -63,32 +43,7 @@ variant: markdown
 </td>
 </tr>	
 	
-<tr>
-<td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>2024 EOY Exam Timetable Sec 1-3</strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="/files/Timetable/24sec1eoy.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Timetable/24sec2eoy.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a>
-</p>
-</li>
-	<li>
-<p><a href="/files/Timetable/24sec3eoy.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
-</p>
-</li>
-</ol>
-</td>
-<td rowspan="1" colspan="1">
-<p>27 Aug 2024</p>
-</td>
-</tr>	
+
 	
 <tr><td rowspan="1" colspan="1">
 <p>4</p>
