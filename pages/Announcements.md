@@ -28,7 +28,7 @@ variant: markdown
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/Timetable/sec1ext.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
+<p><a href="/files/Timetable/sec3eoy.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
 </p>
 </li>
 
