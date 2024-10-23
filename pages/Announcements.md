@@ -31,15 +31,12 @@ variant: markdown
 <p><a href="/files/Timetable/sec1ext.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a>
 </p>
 </li>
-<li>
-<p><a href="/files/Timetable/sec2ext.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a>
-</p>
-</li>
+
 
 </ol>
 </td>
 <td rowspan="1" colspan="1">
-<p>28 Aug 2024</p>
+<p>23 Oct 2024</p>
 </td>
 </tr>	
 	
