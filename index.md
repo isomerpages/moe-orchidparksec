@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: 2024 Sec 3 Extended Curriculum
+        - title: 2024 Sec 3 EOY Extended Curriculum
           description: ""
           url: /announcements/
         - title: 2024 Sem 2 Post Exam Timetable
