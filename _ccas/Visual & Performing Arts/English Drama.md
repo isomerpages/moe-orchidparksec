@@ -51,10 +51,10 @@ variant: markdown
 </tbody></table>
 	
 <h4>Photos</h4>
-<table><tbody><tr><td><img src="/images/CCA/Drama/drama3.jpeg"></td>
+<table><tbody><tr><td><img src="/images/CCA/Drama/drama1.jpeg"></td>
 <td><img src="/images/CCA/Drama/drama2.jpeg"></td></tr>
 	<tr><td><img src="/images/CCA/Drama/drama3.jpeg"></td>
-<td><img src="/images/CCA/Drama/drama2.jpeg"></td></tr>
+<td><img src="/images/CCA/Drama/drama4.jpeg"></td></tr>
 	
 </tbody></table>
 </div>
