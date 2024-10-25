@@ -3,10 +3,11 @@ title: Executive & Administration
 permalink: /dept/admin/
 description: ""
 third_nav_title: Departments
+variant: markdown
 ---
 <div align="justify">
 
-<img src="/images/Dept%20Photos%202023/schadmin.jpg">
+<img src="/images/Departments/EAS/school_administration_team_2.jpg">
 
 <h4>About the Department</h4>
 <p>The Executive &amp; Administrative Staff (EAS) department provides administrative and operational support towards the achievement of school goals, and harnesses technology to improve productivity as well as support the teachers in their teaching and learning practices.</p>
