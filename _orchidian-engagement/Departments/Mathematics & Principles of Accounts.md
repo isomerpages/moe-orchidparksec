@@ -3,9 +3,10 @@ title: Mathematics & Principles of Accounts
 permalink: /dept/math/
 description: ""
 third_nav_title: Departments
+variant: markdown
 ---
 <div align="justify">
-<img src="/images/Dept%20Photos%202023/mathnpoa.jpg">
+<img src="/images/Departments/MAPOA/mathematics_and_principles_of_accounts_department_2.jpg">
 	
 <h4>About the Department</h4>
 <p>Our Mathematics and Principle of Accounts programmes seek to equip Orchidians with a good foundation in concepts and the necessary skills to solve problems with confidence and perseverance; as well as to instill in them an appreciation for the subjects.</p>
