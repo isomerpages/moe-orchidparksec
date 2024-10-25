@@ -3,10 +3,11 @@ title: Science
 permalink: /dept/science/
 description: ""
 third_nav_title: Departments
+variant: markdown
 ---
 <div align="justify">
 <h4>Science</h4>
-<img src="/images/Dept%20Photos%202023/science.jpg">
+<img src="/images/Departments/Sci/science_department_2.jpg">
 <h4>About the Department</h4>
 <p>The Science Department’s mission is “Inquisitive Orchidians Empowered to Excel”. The department aims to nurture critical thinkers with a keen interest in real-world applications of Science. We also aim for all Orchidians to become:<br>
 - Inquisitive Orchidians who are self-directed, have a strong sense of curiosity, enjoy learning, and strive for excellence.<br>
