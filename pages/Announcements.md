@@ -24,15 +24,14 @@ variant: markdown
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2024 Sec 3 EOY Extended Curriculum </strong>
+<p><strong>2025 Booklist </strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/Timetable/sec3eoy.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
+<p><a href="/links/Student/books/" rel="noopener noreferrer nofollow" target="_blank">
+	Click here</a>
 </p>
 </li>
-
-
 </ol>
 </td>
 <td rowspan="1" colspan="1">
@@ -40,10 +39,27 @@ variant: markdown
 </td>
 </tr>	
 	
-
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2024 Sec 3 EOY Extended Curriculum </strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/Timetable/sec3eoy.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
+</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>23 Oct 2024</p>
+</td>
+</tr>	
 	
 <tr><td rowspan="1" colspan="1">
-<p>4</p>
+<p>3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Sec 1 Camp Parent's Engagement Slides 2024</strong>
@@ -60,38 +76,10 @@ variant: markdown
 <p>23 Aug 2024</p>
 </td>
 </tr>
-	
-<tr>
-<td rowspan="1" colspan="1">
-<p>5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>N &amp; O level Prelim timetable 2024</strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="/files/Timetable/prelim4na.pdf" rel="noopener noreferrer nofollow" target="_blank">4 NA</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Timetable/prelim4nt.pdf" rel="noopener noreferrer nofollow" target="_blank">4 NT</a>
-</p>
-</li>
-	<li>
-<p><a href="/files/Timetable/2024_o_level_prelim.pdf" rel="noopener noreferrer nofollow" target="_blank">4 Exp</a>
-</p>
-</li>
-</ol>
-</td>
-<td rowspan="1" colspan="1">
-<p>31 July 2024</p>
-</td>
-</tr>	
-
 
 <tr>
 <td rowspan="1" colspan="1">
-<p>6</p>
+<p>4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Sec 4&amp;5 Virtual Parents Engagement session</strong>
