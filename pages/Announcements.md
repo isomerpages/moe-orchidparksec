@@ -24,11 +24,12 @@ variant: markdown
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2024 Sec 3 EOY Extended Curriculum </strong>
+<p><strong>2025 Booklist </strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/Timetable/sec3eoy.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
+<p><a href="/links/Student/books/" rel="noopener noreferrer nofollow" target="_blank">
+	Click here</a>
 </p>
 </li>
 </ol>
@@ -57,8 +58,6 @@ variant: markdown
 </td>
 </tr>	
 	
-
-	
 <tr><td rowspan="1" colspan="1">
 <p>3</p>
 </td>
@@ -77,9 +76,6 @@ variant: markdown
 <p>23 Aug 2024</p>
 </td>
 </tr>
-	
-
-
 
 <tr>
 <td rowspan="1" colspan="1">
