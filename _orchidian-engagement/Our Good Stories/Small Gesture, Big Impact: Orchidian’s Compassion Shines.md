@@ -9,7 +9,7 @@ third_nav_title: Our Good Stories
 
 <p>At Orchid Park Secondary School, we strive to develop Compassionate Leaders who make a positive impact on their community. Recently, one of our students demonstrated this vision in action through a simple yet meaningful gesture.</p>
 
-<p>On 10 October 2024, after completing his examinations, Caleb Lim of class Vanda-5 was waiting at a bus stop with his friends. As his bus arrived, he noticed an elderly lady in her seventies struggling with a trolley. Without hesitation, Caleb sprang into action.</p>
+<p>On 10 October 2024, after completing his examinations, Caleb Peter Lim of class Vanda-5 was waiting at a bus stop with his friends. As his bus arrived, he noticed an elderly lady in her seventies struggling with a trolley. Without hesitation, Caleb sprang into action.</p>
 
 <p>He swiftly helped the woman board the bus, lifting her trolley and assisting her to her seat. When asked about his actions, Caleb humbly replied, "It's no big deal."</p>
 
