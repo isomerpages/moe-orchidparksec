@@ -25,4 +25,6 @@ sections:
       description: "Come Join Us!  Date: 23rd November 2024"
       image: /images/Open House/2024_open_house.bmp
       alt: Image alt text
+      button: More Information
+      url: /orchidian-empowerment/Special-Programs/alp/
 ---
