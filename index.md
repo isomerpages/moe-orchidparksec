@@ -22,7 +22,7 @@ sections:
       title: OPEN HOUSE
       subtitle: Open House 2024
       id: infopic
-      description: "Do Join Us! Date: 23rd November 2024"
+      description: "Do Join Us!  Date: 23rd November 2024"
       image: /images/Open House/2024_open_house.bmp
       alt: Image alt text
 ---
