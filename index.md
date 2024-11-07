@@ -18,4 +18,11 @@ sections:
           description: ""
           url: /links/Student/tt/
       background: /images/Homepage/home20221230.bmp
+  - infopic:
+      title: OPEN HOUSE
+      subtitle: Open House 2024
+      id: infopic
+      description: "Do Join Us! Date: 23rd November 2024"
+      image: /images/Open House/2024_open_house.bmp
+      alt: Image alt text
 ---
