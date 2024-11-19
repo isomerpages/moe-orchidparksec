@@ -16,7 +16,7 @@ third_nav_title: Future Ready Orchidians
 
 <a href="/global-citizens-2023/">2023</a><br>
 
-2024<br>
+<a href="/global-citizens-2024/">2024</a><br>
 
 2025<br>
 	
