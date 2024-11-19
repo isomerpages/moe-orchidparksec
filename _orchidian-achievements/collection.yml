@@ -2,13 +2,13 @@ collections:
   orchidian-achievements:
     output: true
     order:
-      - Future Ready Orchidians/Global Citizens.md
-      - Future Ready Orchidians/Confidence through Communication.md
+      - Future Ready Orchidians/.keep
       - Future Ready Orchidians/Critical, Adaptive and Inventive Thinking.md
+      - Future Ready Orchidians/Confidence through Communication.md
+      - Future Ready Orchidians/Global Citizens.md
       - Future Ready Orchidians/National Accounting Challenge 2023.md
       - Future Ready Orchidians/Live on Festival 2023.md
       - Future Ready Orchidians/Farmathon 2023.md
-      - Future Ready Orchidians/.keep
       - Distinguished Alumni/.keep
       - Distinguished Alumni/Congratulations on Outstanding A Level Results.md
       - Distinguished Alumni/NYP 2024.md
