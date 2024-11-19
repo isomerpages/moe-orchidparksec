@@ -2,6 +2,7 @@ collections:
   orchidian-achievements:
     output: true
     order:
+      - Future Ready Orchidians/Global Citizens.md
       - Future Ready Orchidians/Confidence through Communication.md
       - Future Ready Orchidians/Critical, Adaptive and Inventive Thinking.md
       - Future Ready Orchidians/National Accounting Challenge 2023.md
