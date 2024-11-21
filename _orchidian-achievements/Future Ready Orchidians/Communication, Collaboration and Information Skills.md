@@ -13,7 +13,7 @@ third_nav_title: Future Ready Orchidians
 <p>At Orchid Park, every Orchidian becomes an effective and empathetic communicator.</p>
 <p>Click these pages to see our students excel in CCI:</p>
 
-<a href="/cgc-2023/">2023</a><br>
+<a href="/cci-2023/">2023</a><br>
 
 2024<br>
 
