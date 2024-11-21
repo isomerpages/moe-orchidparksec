@@ -1,5 +1,5 @@
 ---
-title: Critical and Inventive Thinking
+title: Critical, Adaptive and Inventive Thinking
 permalink: /cait/
 variant: markdown
 description: ""
@@ -16,5 +16,6 @@ third_nav_title: Future Ready Orchidians
 
 <p>Explore the links below to see our students’ demonstration of CAIT in various competitions:<br>
 	
+<a href="/cait-2023/">2023</a><br>
 <a href="/cait2024/">2024</a>
-</p>	</div>
+</p></div>
