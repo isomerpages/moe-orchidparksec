@@ -6,6 +6,7 @@ description: ""
 third_nav_title: Future Ready Orchidians
 ---
 <div>
+<h4>Global Citizens</h4>
 <p>Here at Orchid Park, students are provided with numerous opportunities to develop Civic, Global and Cross-Cultural Literacy (CGC).</p>
 
 <p>Through our holistic curriculum, our students learn to interact respectfully and empathetically with others. As responsible citizens of Singapore and the world, they learn to work with diverse groups to achieve shared goals.</p>
