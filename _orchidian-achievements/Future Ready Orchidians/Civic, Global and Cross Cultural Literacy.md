@@ -15,9 +15,9 @@ third_nav_title: Future Ready Orchidians
 
 <p>Explore the links below to see how our students enhance their CGC skills through various competitions:</p>
 
-<a href="/global-citizens-2023/">2023</a><br>
+<a href="/cgc-2023/">2023</a><br>
 
-<a href="/global-citizens-2024/">2024</a><br>
+<a href="/cgc-2024/">2024</a><br>
 
 2025<br>
 	
