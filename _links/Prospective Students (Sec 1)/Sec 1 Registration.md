@@ -7,8 +7,8 @@ variant: markdown
 ---
 <div align="justify">
 	
-<h4>2024 Sec 1 Registration</h4>
+<h4>2025 Sec 1 Registration</h4>
 	
-Please click <a href="https://sites.google.com/moe.edu.sg/sec1opss2024/">here</a> for more information.
+Please click <a href="https://sites.google.com/moe.edu.sg/secondary-1-registration-2025/home">here</a> for more information.
 	
 </div>
