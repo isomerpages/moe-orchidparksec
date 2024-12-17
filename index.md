@@ -8,14 +8,14 @@ notification: ""
 sections:
   - hero:
       key_highlights:
+        - title: 2025 Sec 1 Registration
+          description: ""
+          url: /links/Prospective-Students/sec1-reg/
         - title: 2025 Booklist
           description: ""
           url: /links/Student/books/
         - title: 2024 Sec 3 EOY Extended Curriculum
           description: ""
           url: /announcements/
-        - title: 2024 Sem 2 Post Exam Timetable
-          description: ""
-          url: /links/Student/tt/
       background: /images/Homepage/home20221230.bmp
 ---
