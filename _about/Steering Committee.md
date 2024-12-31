@@ -4,6 +4,7 @@ permalink: /about-us/steering-committee/
 description: ""
 variant: markdown
 ---
+![](/images/SC/No%20Image.png)
 <table style="width: 400px; margin-left: auto; margin-right: auto;">
 <tbody>
 <tr>
@@ -24,9 +25,9 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td style="width: 60px;"><img src="/images/SC/MDM%20CHING%20LEE%20HOE.jpg"></td>
+<td style="width: 60px;"><img src="/images/SC/No%20Image.png"></td>
 <td style="width: 120px;">
-<div><strong>Mdm Ching Lee Hoe</strong></div>
+<div><strong>Mr Ng Kok Wing</strong></div>
 <div>Vice Principal</div>
 </td>
 </tr>
@@ -54,7 +55,6 @@ variant: markdown
 <div>HOD Craft &amp; Technology</div></td>
 </tr>
 <tr>
-
 <td style="width: 20%;"><img src="/images/sc8.png"></td>
 <td style="width: 30%;"><div><strong>Mr Khairil</strong></div>
 <div>HOD Science</div></td>
@@ -65,7 +65,7 @@ variant: markdown
 <tr>
 <td style="width: 20%;"><img src="/images/SC/MICHELLE%20KWOK.png"></td>
 <td style="width: 30%;"><div><strong>Ms Kwok Shi You Michelle</strong></div>
-<div>HOD Humanities (Covering)</div></td>
+<div>HOD Humanities</div></td>
 <td style="width: 20%;"><img src="/images/SC/LIM%20HAN%20CHUAN.jpg"></td>
 <td style="width: 30%;"><div><strong>Mr Lim Han Chuan</strong></div>
 <div>HOD Mother Tongue Language (Covering)</div></td>
@@ -83,17 +83,24 @@ variant: markdown
 <div>HOD PE &amp; CCA</div></td>
 <td style="width: 20%;"><img src="/images/sc15.png"></td>
 <td style="width: 30%;"><div><strong>Mrs Fu Wei Hui</strong></div>
-<div>Year Head - Lower Sec (Sec 1)</div></td>
+<div>Year Head - Lower Sec (Sec 2)</div></td>
+</tr>
+
+<tr>
+<td style="width: 20%;"><img src="/images/sc14.png"></td>
+<td style="width: 30%;"><div><strong>Mr Chia Cheng Siong</strong></div>
+<div>Year Head - Upper Sec (Sec 4/5)</div></td>
+<td style="width: 20%;"><img src="/images/SC/No%20Image.png"></td>
+<td style="width: 30%;"><div><strong>Ms Mardiana Bte Alias</strong></div>
+<div>Asst. Year Head <br>Lower Sec (Sec 1)</div></td>
 </tr>
 
 <tr>
 <td style="width: 20%;"><img src="/images/SC/Wong%20Yiu%20Hang.jpg"></td>
 <td style="width: 30%;"><div><strong>Mr Wong Yiu Hang</strong></div>
-<div>Asst. Year Head <br>Lower Sec (Sec 2)</div></td>
-<td style="width: 20%;"><img src="/images/sc14.png"></td>
-<td style="width: 30%;"><div><strong>Mr Chia Cheng Siong</strong></div>
-<div>Year Head - Upper Sec (Sec 4/5)</div></td>
+<div>Asst. Year Head <br>Upper Sec (Sec 3)</div></td>
 </tr>
+	
 </tbody>
 </table>
 <table style="border-collapse: collapse; width: 100%;" border="1">
@@ -101,6 +108,7 @@ variant: markdown
 <tr>
 <td style="text-align: center;" colspan="4"><strong>Subject and Level Heads</strong></td>
 </tr>
+
 <tr>
 <td style="width: 20%;"><img src="/images/SC/CHAN%20HO%20LUN.jpg"></td>
 <td style="width: 30%;"><div><strong>Mr Chan Ho Lun</strong></div>
@@ -118,19 +126,13 @@ variant: markdown
 <div>SH Student Leadership</div></td>
 </tr>
 <tr>
-<td style="width: 20%;"><img src="/images/s4.png"></td>
-<td style="width: 30%;"><div><strong>Mr Frederick Chan</strong></div>
-<div>SH Physics<br>SH Data Management (covering)</div></td>
-<td style="width: 20%;"><img src="/images/s8.png"></td>
-<td style="width: 30%;"><div><strong>Mr Teo Ee Jun</strong></div>
-<div>SH History</div></td>
+<td style="width: 20%;"><img src="/images/SC/No%20Image.png"></td>
+<td style="width: 30%;"><div><strong>Mr Esmond Loh</strong></div>
+<div>SH Aesthetics</div></td>
+<td style="width: 20%;"><img src="/images/SC/No%20Image.png"></td>
+<td style="width: 30%;"><div><strong>Mdm Nur Afiqah</strong></div>
+<div>SH 21CC &amp; LLP</div></td>
 </tr>
-<tr>
-<td style="width: 20%;"><img src="/images/s9.png"></td>
-<td style="width: 30%;"><div><strong>Mr Wang Xiang Jun Kenny</strong></div>
-<div>SH Student Well-Being (covering)</div></td>
-</tr>
-
 </tbody>
 </table>
 <table style="border-collapse: collapse; width: 100%;" border="1">
@@ -154,12 +156,13 @@ variant: markdown
 <td style="width: 30%;"><div><strong>Mr Mok Wei Woon</strong></div>
 <div>ST Chinese Language</div></td>
 </tr>
-<tr><td style="width: 20%;"><img src="/images/tl5.png"></td>
-<td style="width: 30%;"><div><strong>Ms P. Sarasvathi</strong></div>
-<div>ST Biology</div></td>
+<tr>
 <td style="width: 20%;"><img src="/images/tl6.png"></td>
 <td style="width: 30%;"><div><strong>Mdm Sharon Teo Li Keng</strong></div>
 <div>ST Art</div></td>
+<td style="width: 20%;"><img src="/images/SC/No%20Image.png"></td>
+<td style="width: 30%;"><div><strong>Mr Sivanes</strong></div>
+<div>ST PE</div></td>
 </tr><tr>
 <td style="width: 20%;"><img src="/images/tl7.png"></td>
 <td style="width: 30%;"><div><strong>Mdm Yeo Mon Ping</strong></div>
