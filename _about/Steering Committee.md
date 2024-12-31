@@ -4,8 +4,7 @@ permalink: /about-us/steering-committee/
 description: ""
 variant: markdown
 ---
-![](/images/SC/No%20Image.png)
-<table style="width: 400px; margin-left: auto; margin-right: auto;">
+<h3></h3><table style="width: 400px; margin-left: auto; margin-right: auto;">
 <tbody>
 <tr>
 <th style="text-align: center;" colspan="2">School Leaders</th>
@@ -44,7 +43,7 @@ variant: markdown
 <div>School Staff Developer</div></td>
 <td style="width: 20%;"><img src="/images/s1.png"></td>
 <td style="width: 30%;"><div><strong>Mr Benedict Tan</strong></div>
-<div>HOD Ed Tech and Data Management (covering)</div></td>
+<div>HOD Ed Tech and Data Management (Covering)</div></td>
 </tr>
 <tr>
 <td style="width: 20%;"><img src="/images/sc5.png"></td>
