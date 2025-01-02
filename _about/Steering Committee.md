@@ -24,7 +24,7 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td style="width: 60px;"><img src="/images/SC/No%20Image.png"></td>
+<td style="width: 60px;"><img src="/images/SC/NG_KOK_WING.png"></td>
 <td style="width: 120px;">
 <div><strong>Mr Ng Kok Wing</strong></div>
 <div>Vice Principal</div>
@@ -89,7 +89,7 @@ variant: markdown
 <td style="width: 20%;"><img src="/images/sc14.png"></td>
 <td style="width: 30%;"><div><strong>Mr Chia Cheng Siong</strong></div>
 <div>Year Head - Upper Sec (Sec 4/5)</div></td>
-<td style="width: 20%;"><img src="/images/SC/No%20Image.png"></td>
+<td style="width: 20%;"><img src="/images/SC/Mardiana_Bte_Alias.png"></td>
 <td style="width: 30%;"><div><strong>Ms Mardiana Bte Alias</strong></div>
 <div>Asst. Year Head <br>Lower Sec (Sec 1)</div></td>
 </tr>
@@ -128,7 +128,7 @@ variant: markdown
 <td style="width: 20%;"><img src="/images/SC/No%20Image.png"></td>
 <td style="width: 30%;"><div><strong>Mr Esmond Loh</strong></div>
 <div>SH Aesthetics</div></td>
-<td style="width: 20%;"><img src="/images/SC/No%20Image.png"></td>
+<td style="width: 20%;"><img src="/images/SC/NUR_AFIQAH.png"></td>
 <td style="width: 30%;"><div><strong>Mdm Nur Afiqah</strong></div>
 <div>SH 21CC &amp; LLP</div></td>
 </tr>
