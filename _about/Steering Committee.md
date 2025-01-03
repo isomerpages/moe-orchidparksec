@@ -116,7 +116,7 @@ variant: markdown
 <div>SH Student Leadership</div></td>
 </tr>
 <tr>
-<td style="width: 20%;"><img src="/images/SC/No%20Image.png"></td>
+<td style="width: 20%;"><img src="/images/SC/Loh_Fah_Rong_Esmond.png"></td>
 <td style="width: 30%;"><div><strong>Mr Esmond Loh</strong></div>
 <div>SH Aesthetics</div></td>
 <td style="width: 20%;"><img src="/images/SC/NUR_AFIQAH.png"></td>
