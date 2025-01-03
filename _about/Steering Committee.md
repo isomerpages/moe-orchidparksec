@@ -89,15 +89,6 @@ variant: markdown
 <td style="width: 20%;"><img src="/images/sc14.png"></td>
 <td style="width: 30%;"><div><strong>Mr Chia Cheng Siong</strong></div>
 <div>Year Head - Upper Sec (Sec 4/5)</div></td>
-<td style="width: 20%;"><img src="/images/SC/Mardiana_Bte_Alias.png"></td>
-<td style="width: 30%;"><div><strong>Ms Mardiana Bte Alias</strong></div>
-<div>Asst. Year Head <br>Lower Sec (Sec 1)</div></td>
-</tr>
-
-<tr>
-<td style="width: 20%;"><img src="/images/SC/Wong%20Yiu%20Hang.jpg"></td>
-<td style="width: 30%;"><div><strong>Mr Wong Yiu Hang</strong></div>
-<div>Asst. Year Head <br>Upper Sec (Sec 3)</div></td>
 </tr>
 	
 </tbody>
@@ -132,6 +123,15 @@ variant: markdown
 <td style="width: 30%;"><div><strong>Mdm Nur Afiqah</strong></div>
 <div>SH 21CC &amp; LLP</div></td>
 </tr>
+<tr>
+<td style="width: 20%;"><img src="/images/SC/Mardiana_Bte_Alias.png"></td>
+<td style="width: 30%;"><div><strong>Ms Mardiana Bte Alias</strong></div>
+<div>Asst. Year Head <br>Lower Sec (Sec 1)</div></td>
+<td style="width: 20%;"><img src="/images/SC/Wong%20Yiu%20Hang.jpg"></td>
+<td style="width: 30%;"><div><strong>Mr Wong Yiu Hang</strong></div>
+<div>Asst. Year Head <br>Upper Sec (Sec 3)</div></td>
+</tr>
+
 </tbody>
 </table>
 <table style="border-collapse: collapse; width: 100%;" border="1">
