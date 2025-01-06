@@ -43,7 +43,7 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center;">Time</td>
-<td style="text-align: center;">3.15 pm - 5.45 pm</td>
+<td style="text-align: center;">3 pm - 5.30 pm</td>
 </tr><tr>
 <td style="text-align: center;">Venue</td>
 <td style="text-align: center;">ISH / Basketball Court</td>
@@ -56,7 +56,7 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center;">Time</td>
-<td style="text-align: center;">2.30 pm - 5 pm&nbsp;</td>
+<td style="text-align: center;">2 pm - 4.30 pm</td>
 </tr>
 <tr>
 <td style="text-align: center;">Venue</td>
