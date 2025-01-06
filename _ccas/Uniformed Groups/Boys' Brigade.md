@@ -25,11 +25,6 @@ variant: markdown
 <td style="text-align: center;">8.30 am – 12.30 pm</td>
 <td style="text-align: center;">Parade Square</td>
 </tr>
-<tr>
-<td style="text-align: center;">First Friday of each Month</td>
-<td style="text-align: center;">1.30 pm - 4.00 pm</td>
-<td style="text-align: center;">Parade Square</td>
-</tr>
 </tbody>
 </table>
 <h4>Teachers</h4>

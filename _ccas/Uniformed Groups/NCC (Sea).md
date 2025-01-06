@@ -20,7 +20,11 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Time</strong>:</td>
-<td style="text-align: center;">3.15 PM - 6 PM</td>
+<td style="text-align: center;">3 PM - 5.45 PM (Secondary 4)</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>Time</strong>:</td>
+<td style="text-align: center;">3.15 PM - 5.45 PM (Secondary 1-3)</td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Venue</strong>:</td>
