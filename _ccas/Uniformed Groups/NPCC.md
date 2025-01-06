@@ -24,7 +24,7 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Time</strong>:</td>
-<td style="text-align: center;">3.30 PM - 5.30 PM</td>
+<td style="text-align: center;">1.30 PM - 5.30 PM</td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Venue</strong>:</td>
