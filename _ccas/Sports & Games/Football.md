@@ -20,12 +20,12 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center;">Wednesday</td>
-<td style="text-align: center;">1515 - 1800</td>
+<td style="text-align: center;">1500 - 1730</td>
 <td style="text-align: center;">School Field</td>
 </tr>
 <tr>
 <td style="text-align: center;">Friday</td>
-<td style="text-align: center;">1500 - 1730</td>
+<td style="text-align: center;">1430 - 1700</td>
 <td style="text-align: center;">School Field</td>
 </tr>
 </tbody>
