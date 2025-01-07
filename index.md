@@ -20,7 +20,7 @@ sections:
       background: /images/Homepage/home20221230.bmp
   - infobar:
       title: 2024 O-level results
-      subtitle: 2024 O-level
+      subtitle: O-level result release
       id: infobar
       description: Jan 10 from 2.30pm
       button: News
