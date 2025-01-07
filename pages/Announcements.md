@@ -62,6 +62,27 @@ variant: markdown
 </td>
 </tr>
 
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Attached a guide on&nbsp;Transit-link eVouchers Redemption</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/SOP%20to%20redeem%20Transitlink%20e-Voucher.pdf" rel="noopener noreferrer nofollow" target="_blank">Transit-link eVouchers Redemption</a>
+
+</p>
+</li>
+
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jan 2024</p>
+</td>
+</tr>	
+
 </tbody>
 </table>
 <p></p>
