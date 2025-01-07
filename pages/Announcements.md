@@ -38,48 +38,10 @@ variant: markdown
 <p>23 Oct 2024</p>
 </td>
 </tr>	
-	
+
 <tr>
 <td rowspan="1" colspan="1">
 <p>2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>2024 Sec 3 EOY Extended Curriculum </strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="/files/Timetable/sec3eoy.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
-</p>
-</li>
-</ol>
-</td>
-<td rowspan="1" colspan="1">
-<p>23 Oct 2024</p>
-</td>
-</tr>	
-	
-<tr><td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Sec 1 Camp Parent's Engagement Slides 2024</strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="https://go.gov.sg/opsec1camp" rel="noopener noreferrer nofollow" target="_blank">Slides</a>
-</p>
-</li>
-
-</ol>
-</td>
-<td rowspan="1" colspan="1">
-<p>23 Aug 2024</p>
-</td>
-</tr>
-
-<tr>
-<td rowspan="1" colspan="1">
-<p>4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Sec 4&amp;5 Virtual Parents Engagement session</strong>
