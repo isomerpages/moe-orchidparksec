@@ -18,7 +18,6 @@ variant: markdown
 <p>Date</p>
 </th>
 </tr>
-
 <tr>
 <td rowspan="1" colspan="1">
 <p>1</p>
