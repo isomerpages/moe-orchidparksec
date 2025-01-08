@@ -27,7 +27,7 @@ variant: markdown
 <td style="width: 60px;"><img src="/images/SC/NG_KOK_WING.png"></td>
 <td style="width: 120px;">
 <div><strong>Mr Ng Kok Wing</strong></div>
-<div>Vice Principal</div>
+<div>Vice Principal<br>Administration</div>
 </td>
 </tr>
 </tbody>
