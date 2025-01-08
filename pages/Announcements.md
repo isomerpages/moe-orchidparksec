@@ -71,8 +71,7 @@ variant: markdown
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/SOP%20to%20redeem%20Transitlink%20e-Voucher.pdf" rel="noopener noreferrer nofollow" target="_blank">Transit-link eVouchers Redemption</a>
-
+<p><a href="/files/Ez%20Link/SOP_to_redeem_Transitlink_e_Voucher.pdf" rel="noopener noreferrer nofollow" target="_blank">Transit-link eVouchers Redemption</a>
 </p>
 </li>
 
