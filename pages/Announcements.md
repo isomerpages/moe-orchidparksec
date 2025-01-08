@@ -78,7 +78,7 @@ variant: markdown
 </ol>
 </td>
 <td rowspan="1" colspan="1">
-<p>Jan 2024</p>
+<p></p>
 </td>
 </tr>	
 
