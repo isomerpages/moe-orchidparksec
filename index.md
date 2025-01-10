@@ -23,6 +23,6 @@ sections:
       subtitle: O-level result release
       id: infobar
       description: Jan 10 from 2.30pm
-      button: News
-      url: https://www.straitstimes.com/singapore/2024-o-level-results-to-be-released-on-jan-10-from-2-30pm?_gl=1*1fi6rkt*_gcl_au*NzY4MDQ2OTA0LjE3MzYyOTQwODc.
+      button: Useful Slides
+      url: /files/O%20lvl/2024_O_Level_Briefing_Slides_for_Students_OPSS.pdf
 ---
