@@ -6,4 +6,4 @@ description: ""
 third_nav_title: Announcements
 ---
 <h4>Congratulations on reaching another milestone!</h4>
-Some useful links<table></table>
+Some useful links
