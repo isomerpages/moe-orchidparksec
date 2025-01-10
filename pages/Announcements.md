@@ -18,9 +18,31 @@ variant: markdown
 <p>Date</p>
 </th>
 </tr>
+
 <tr>
 <td rowspan="1" colspan="1">
 <p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2024 O level Result Release </strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+
+<p><a href="/links/Student/books/" rel="noopener noreferrer nofollow" target="_blank">
+	Useful Slides</a>
+</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>10 Jan 2025</p>
+</td>
+</tr>	
+
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2025 Booklist </strong>
@@ -40,7 +62,7 @@ variant: markdown
 
 <tr>
 <td rowspan="1" colspan="1">
-<p>2</p>
+<p>3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Sec 4&amp;5 Virtual Parents Engagement session</strong>
@@ -63,7 +85,7 @@ variant: markdown
 	
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
+<p>4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Attached a guide on&nbsp;Transit-link eVouchers Redemption</strong>
