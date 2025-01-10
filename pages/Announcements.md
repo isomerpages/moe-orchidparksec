@@ -28,8 +28,7 @@ variant: markdown
 </p>
 <ol data-tight="true" class="tight">
 <li>
-
-<p><a href="/links/Student/books/" rel="noopener noreferrer nofollow" target="_blank">
+<p><a href="/files/O%20lvl/2024_O_Level_Briefing_Slides_for_Students_OPSS.pdf" rel="noopener noreferrer nofollow" target="_blank">
 	Useful Slides</a>
 </p>
 </li>
