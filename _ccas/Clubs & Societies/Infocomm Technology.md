@@ -7,7 +7,10 @@ variant: markdown
 ---
 <div align="justify">
 <h4>About the CCA</h4>
-<p>Infocomm Technology Club provides audio and visual support to the school.<br>Regular training sessions are provided to members to equip them with the relevant skills in operating technical equipment. Members are involved in daily morning assembly duties as well as in major school events such as Sec 1 CCA Exposure, Chinese New Year Celebration, Speech Day, National Day Commemoration, Teachers’ Day celebration, Graduation Day, etc. It is the duty of the club members to make sure that daily AVA support for morning flag-raising assemblies, lower or upper secondary weekly assemblies run smoothly.</p>
+<p>The Infocomm Technology Club is at the heart of the school’s audio-visual (AV) operations, blending technical expertise with creativity to support a wide range of events. Members undergo comprehensive training to master the use of AV equipment, ensuring seamless execution of daily assemblies, weekly gatherings, and key school occasions.</p>
+<p>From major celebrations like Chinese New Year, Speech Day, and National Day Commemoration to meaningful moments such as Teachers’ Day and Graduation Day, our members play a pivotal role in creating memorable experiences. Beyond AV operations, members sharpen their photography and videography skills by capturing highlights of school events through dynamic photos and videos.</p>
+<p>Enrichment opportunities such as coding workshops, AI-related sessions, and content creation programmes further enhance their learning and creativity.</p>
+<p>Join the Infocomm Technology Club to develop technical expertise, contribute to school events, and explore the exciting world of media and technology!</p>
 <h4>Training Details</h4>
 <table style="margin-left: auto; margin-right: auto;">
 <tbody>
@@ -16,7 +19,7 @@ variant: markdown
 </tr>
 <tr style="text-align: center;">
 <td>Time :&nbsp;</td>
-<td>3.15pm - 5.45pm</td>
+<td>3 pm - 5 pm</td>
 </tr>
 <tr style="text-align: center;">
 <td>Venue :&nbsp;</td>
