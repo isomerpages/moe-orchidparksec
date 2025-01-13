@@ -19,8 +19,12 @@ variant: markdown
 <th style="text-align: center;" colspan="2">Wednesday</th>
 </tr>
 <tr>
+<td style="text-align: center;"><strong>Venue</strong>:</td>
+<td style="text-align: center;">Music Room/ ITR 1</td>
+</tr>
+<tr>
 <td style="text-align: center;"><strong>Time</strong>:</td>
-<td style="text-align: center;">3.15 PM - 6.00 PM</td>
+<td style="text-align: center;">3 PM - 6 PM</td>
 </tr>
 </tbody>
 </table>
@@ -28,6 +32,10 @@ variant: markdown
 <tbody>
 <tr style="text-align: center;">
 <th style="text-align: center;" colspan="2">Friday</th>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>Venue</strong>:</td>
+<td style="text-align: center;">Music Room/ ITR 1</td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Time</strong>:</td>
