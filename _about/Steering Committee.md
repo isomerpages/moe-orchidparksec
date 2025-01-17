@@ -159,7 +159,7 @@ variant: markdown
 <td style="width: 20%;"><img src="/images/tl6.png"></td>
 <td style="width: 30%;"><div><strong>Mdm Sharon Teo Li Keng</strong></div>
 <div>ST Art</div></td>
-<td style="width: 20%;"><img src="/images/SC/No%20Image.png"></td>
+<td style="width: 20%;"><img src="/images/SC/SIVA.png"></td>
 <td style="width: 30%;"><div><strong>Mr Sivanes</strong></div>
 <div>ST PE</div></td>
 </tr><tr>
