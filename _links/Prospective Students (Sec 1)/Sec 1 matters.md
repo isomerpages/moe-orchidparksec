@@ -1,6 +1,6 @@
 ---
-title: Sec 1 Registration
-permalink: /links/Prospective-Students/sec1-reg/
+title: Sec 1 matters
+permalink: /links/prospective-students/sec1matters/
 description: ""
 third_nav_title: Prospective Students (Sec 1)
 variant: markdown
