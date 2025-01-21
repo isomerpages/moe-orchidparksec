@@ -23,9 +23,14 @@ variant: markdown
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2024 O level Result Release </strong>
+<p><strong>Sec 4&amp;5 Virtual Parents Engagement session </strong>
 </p>
 <ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/O%20lvl/2024_O_Level_Briefing_Slides_for_Students_OPSS.pdf" rel="noopener noreferrer nofollow" target="_blank">
+	Useful Slides</a>
+</p>
+</li>
 <li>
 <p><a href="/files/O%20lvl/2024_O_Level_Briefing_Slides_for_Students_OPSS.pdf" rel="noopener noreferrer nofollow" target="_blank">
 	Useful Slides</a>
@@ -34,7 +39,7 @@ variant: markdown
 </ol>
 </td>
 <td rowspan="1" colspan="1">
-<p>10 Jan 2025</p>
+<p>XX Jan 2025</p>
 </td>
 </tr>	
 	
