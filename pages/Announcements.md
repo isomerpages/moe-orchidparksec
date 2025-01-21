@@ -18,7 +18,27 @@ variant: markdown
 <p>Date</p>
 </th>
 </tr>
-
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2024 O level Result Release </strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/O%20lvl/2024_O_Level_Briefing_Slides_for_Students_OPSS.pdf" rel="noopener noreferrer nofollow" target="_blank">
+	Useful Slides</a>
+</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>10 Jan 2025</p>
+</td>
+</tr>	
+	
+	
 <tr>
 <td rowspan="1" colspan="1">
 <p>1</p>
