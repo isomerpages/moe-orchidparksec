@@ -18,7 +18,32 @@ variant: markdown
 <p>Date</p>
 </th>
 </tr>
-
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 4 &amp; 5 Virtual Parents Engagement session </strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files" rel="noopener noreferrer nofollow" target="_blank">
+	Nil</a>
+</p>
+</li>
+<li>
+<p><a href="/files" rel="noopener noreferrer nofollow" target="_blank">
+	NIL</a>
+</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>XX Jan 2025</p>
+</td>
+</tr>	
+	
+	
 <tr>
 <td rowspan="1" colspan="1">
 <p>1</p>
