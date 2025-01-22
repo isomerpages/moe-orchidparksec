@@ -23,17 +23,17 @@ variant: markdown
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Sec 4&amp;5 Virtual Parents Engagement session </strong>
+<p><strong>Sec 4 &amp; 5 Virtual Parents Engagement session </strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/O%20lvl/2024_O_Level_Briefing_Slides_for_Students_OPSS.pdf" rel="noopener noreferrer nofollow" target="_blank">
-	Useful Slides</a>
+<p><a href="/files" rel="noopener noreferrer nofollow" target="_blank">
+	Nil</a>
 </p>
 </li>
 <li>
-<p><a href="/files/O%20lvl/2024_O_Level_Briefing_Slides_for_Students_OPSS.pdf" rel="noopener noreferrer nofollow" target="_blank">
-	Useful Slides</a>
+<p><a href="/files" rel="noopener noreferrer nofollow" target="_blank">
+	NIL</a>
 </p>
 </li>
 </ol>
