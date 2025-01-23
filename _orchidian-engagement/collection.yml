@@ -2,6 +2,7 @@ collections:
   orchidian-engagement:
     output: true
     order:
+      - Character & Citizenship Ed/.keep
       - Departments/.keep
       - Departments/Computer Applications & Elements of Business Skills.md
       - Departments/Craft & Technology.md
