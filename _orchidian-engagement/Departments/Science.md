@@ -15,9 +15,9 @@ Inquisitive Orchidians Empowered to Excel
 <h5><u>Department Mission</u></h5>
 To nurture critical thinkers with a keen interest in real-world applications of Science
 In OPSS, the Science department aims to nurture all students to become:
-	
-	● Inquisitive Orchidians who are self-directed, have a strong sense of curiosity, enjoy learning, and strive for excellence.
-	● Critical Thinkers who are analytical, innovative, and able to make logical connections between ideas to improve complex real-world situations.
+<br><br>
+ - Inquisitive Orchidians who are self-directed, have a strong sense of curiosity, enjoy learning, and strive for excellence.<br>
+ - Critical Thinkers who are analytical, innovative, and able to make logical connections between ideas to improve complex real-world situations.<br><br>
 The Science programme seeks to impart a solid foundation in scientific knowledge, as well as develop key 21st century competencies and values in our students. Focusing on inculcating the right Knowledge, Skills, Attitudes and Values (KSAV), we strive to prepare our students for the increasing VUCA world, as well as inspire them to become the scientists and innovators of tomorrow.<p></p>
 	
 <p>The Science Department’s mission is “Inquisitive Orchidians Empowered to Excel”. The department aims to nurture critical thinkers with a keen interest in real-world applications of Science. We also aim for all Orchidians to become:<br>
