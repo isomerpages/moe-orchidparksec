@@ -16,8 +16,8 @@ Inquisitive Orchidians Empowered to Excel
 To nurture critical thinkers with a keen interest in real-world applications of Science
 In OPSS, the Science department aims to nurture all students to become:
 	
-	● &nbsp; &nbsp; Inquisitive Orchidians who are self-directed, have a strong sense of curiosity, enjoy learning, and strive for excellence.
-	● &nbsp; &nbsp; Critical Thinkers who are analytical, innovative, and able to make logical connections between ideas to improve complex real-world situations.
+	● Inquisitive Orchidians who are self-directed, have a strong sense of curiosity, enjoy learning, and strive for excellence.
+	● Critical Thinkers who are analytical, innovative, and able to make logical connections between ideas to improve complex real-world situations.
 The Science programme seeks to impart a solid foundation in scientific knowledge, as well as develop key 21st century competencies and values in our students. Focusing on inculcating the right Knowledge, Skills, Attitudes and Values (KSAV), we strive to prepare our students for the increasing VUCA world, as well as inspire them to become the scientists and innovators of tomorrow.<p></p>
 	
 <p>The Science Department’s mission is “Inquisitive Orchidians Empowered to Excel”. The department aims to nurture critical thinkers with a keen interest in real-world applications of Science. We also aim for all Orchidians to become:<br>
@@ -40,7 +40,7 @@ The Science programme tailors instructional strategies to meet the diverse learn
 	
 <h4>Science Talent Development Programme</h4>
 <img src="/images/Departments/Sci/sci3.png">
-<center>Experiential Learning Journey to Sungei Buloh Wetland Reserve</center>
+<center>Science Centre Research &amp; Development Experience Programme</center>
 <p>In OPSS, we believe that all students can excel. The Science Talent Development Programme aims to enhance students’ learning experiences in authentic contexts, extending beyond the classroom. The programme comprises three levels (with different customised activities) to cater to the needs of students depending on their interest and readiness in science.</p>
 	
 <img src="/images/Departments/Sci/sci4.png">
