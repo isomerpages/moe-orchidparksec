@@ -39,9 +39,9 @@ The Science department also places a strong emphasis on the integration of e-Ped
 The Science programme tailors instructional strategies to meet the diverse learning needs of all students, to maximise their progress in learning and allow them to reach their fullest potential. Through differentiating the nature of content, learning process, product of learning, and/or the teaching environments, teachers attempt to address the different learning abilities, preferences, and profiles of students. With differentiated instructions, students are engaged in meaningful tasks pitched at an appropriate level and can learn more effectively.</p>
 	
 <h4>Science Talent Development Programme</h4>
-<img src="/images/Departments/Sci/sci3.png">
+<img src="/images/Departments/Sci/SCI_RND.png">
 <center>Science Centre Research &amp; Development Experience Programme</center>
-<p>In OPSS, we believe that all students can excel. The Science Talent Development Programme aims to enhance students’ learning experiences in authentic contexts, extending beyond the classroom. The programme comprises three levels (with different customised activities) to cater to the needs of students depending on their interest and readiness in science.</p>
+<p>Orchid Park adopts Treffinger’s Levels of Service approach for talent development. Interests, talents, and strengths are progressively developed via a four-level approach. Levels I and II are foundational and exploratory stages for the emergence and development of talent areas for all students. Levels III and IV activities and programmes are catered to smaller groups of students who demonstrate outstanding abilities in specific domains.<br>In curating programmes and activities, we recognise that talents are multifaceted and must be purposefully and intentionally developed. A range of programmes and activities across four domains and at four different levels are specially designed for students to explore different areas, and build competence in their chosen field. This approach provides students with learning experiences that cover both breadth and depth.</p>
 	
 <img src="/images/Departments/Sci/sci4.png">
 <center>Figure 2: OPSS Science Talent Development Model</center>
