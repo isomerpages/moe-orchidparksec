@@ -2,7 +2,6 @@ collections:
   orchidian-engagement:
     output: true
     order:
-      - Character & Citizenship Ed/.keep
       - Departments/.keep
       - Departments/Computer Applications & Elements of Business Skills.md
       - Departments/Craft & Technology.md
@@ -16,13 +15,14 @@ collections:
       - Departments/Science.md
       - Departments/Student Development.md
       - Departments/Student Management.md
-      - Assessment/Information on Common Curriculum (with Coursework).md
       - Assessment/.keep
+      - Assessment/Information on Common Curriculum (with Coursework).md
       - Co Curricular Activities (CCA).md
       - Full Subject Based Banding (FSBB).md
+      - Character & Citizenship Ed/.keep
+      - Our Good Stories/.keep
       - "Our Good Stories/Small Gesture, Big Impact: Orchidian’s Compassion
         Shines.md"
-      - Our Good Stories/.keep
       - Our Good Stories/To Lend a Helping Hand.md
       - Our Good Stories/Animal or Not.md
       - Our Good Stories/Helping a Chromebook Find its Owner.md
