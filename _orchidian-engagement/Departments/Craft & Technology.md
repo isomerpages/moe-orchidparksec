@@ -14,7 +14,10 @@ variant: markdown
 	
 <h4>Art Programmes</h4>
 <table><tbody><tr><td style="vertical-align: middle"><img src="/images/Departments/CNT/cnt2.png"></td><td><img src="/images/Departments/CNT/cnt3.png"></td>
-</tr></tbody></table>
+</tr><tr><td style="vertical-align: middle"><img src="/images/Departments/CNT/cnt2.png"></td>
+</tr>
+
+</tbody></table>
 <p>1. Lower Secondary Art Programmes (Common Curriculum)
 <br>2. Upper Secondary Art Programmes at the Express (O-level), Normal Academic (N-level) and Normal Technical (NT-level) levels. 
 <br>3. Enhance Art Programme (for upper secondary Art students)
