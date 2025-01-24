@@ -14,7 +14,7 @@ variant: markdown
 	
 <h4>Art Programmes</h4>
 <table><tbody><tr><td style="vertical-align: middle"><img src="/images/Departments/CNT/cnt2.png"></td><td><img src="/images/Departments/CNT/cnt3.png"></td>
-</tr><tr><td style="vertical-align: middle"><img src="/images/Departments/CNT/cnt2.png"></td><td><img src="/images/Departments/CNT/cnt3.png"></td>
+</tr><tr><td style="vertical-align: middle"><img src="/images/Departments/CNT/art1.png"></td><td><img src="/images/Departments/CNT/art2.png"></td>
 </tr>
 
 </tbody></table>
@@ -25,7 +25,9 @@ variant: markdown
 <br>5. Visual Art Competitions</p>
 
 <h4>Design &amp; Technology</h4>
-<table><tbody><tr><td><img src="/images/Departments/CNT/cnt4.png"></td><td style="vertical-align: middle"><img src="/images/Departments/CNT/cnt5.png"></td></tr></tbody></table>
+<table><tbody><tr><td><img src="/images/Departments/CNT/cnt4.png"></td><td style="vertical-align: middle"><img src="/images/Departments/CNT/cnt5.png"></td></tr>
+<tr><td><img src="/images/Departments/CNT/dnt1.png"></td><td style="vertical-align: middle"><img src="/images/Departments/CNT/dnt2.png"></td>
+</tr></tbody></table>
 <p>1. Lower Secondary D&amp;T Programmes (Common Curriculum)
 <br>2. Upper Secondary D&amp;T Programmes at the Express (O-level), Normal Academic (N-level) and Normal Technical (NT-level) levels.
 <br>3. Technology-based competitions,activities and learning journeys.</p>
