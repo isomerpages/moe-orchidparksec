@@ -14,7 +14,7 @@ variant: markdown
 	
 <h4>Art Programmes</h4>
 <table><tbody><tr><td style="vertical-align: middle"><img src="/images/Departments/CNT/cnt2.png"></td><td><img src="/images/Departments/CNT/cnt3.png"></td>
-</tr><tr><td style="vertical-align: middle"><img src="/images/Departments/CNT/cnt2.png"></td>
+</tr><tr><td style="vertical-align: middle"><img src="/images/Departments/CNT/cnt2.png"></td><td><img src="/images/Departments/CNT/cnt3.png"></td>
 </tr>
 
 </tbody></table>
