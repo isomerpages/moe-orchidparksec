@@ -33,7 +33,9 @@ variant: markdown
 <br>3. Technology-based competitions,activities and learning journeys.</p>
 
 <h4>Music</h4>
-<table><tbody><tr><td style="vertical-align: middle"><img src="/images/Departments/CNT/cnt6.png"></td><td><img src="/images/Departments/CNT/cnt7.png"></td></tr></tbody></table>
+<table><tbody><tr><td style="vertical-align: middle"><img src="/images/Departments/CNT/cnt6.png"></td><td><img src="/images/Departments/CNT/cnt7.png"></td></tr>
+<tr><td style="vertical-align: middle"><img src="/images/Departments/CNT/music1.png"></td><td><img src="/images/Departments/CNT/music2.png"></td></tr>
+</tbody></table>
 <p>1. Lower Secondary General Music Programme (Common Curriculum)
 <br>2. Upper Secondary Normal Technical Music Programme
 <br>3. Advanced Music Programme (interest-based)</p>
