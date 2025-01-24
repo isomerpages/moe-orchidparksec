@@ -41,7 +41,9 @@ variant: markdown
 <br>3. Advanced Music Programme (interest-based)</p>
 	
 <h4>Nutrition &amp; Food Science</h4>
-<table><tbody><tr><td><img src="/images/Departments/CNT/cnt8.png"></td><td style="vertical-align: middle"><img src="/images/Departments/CNT/cnt9.png"></td></tr></tbody></table>
+<table><tbody><tr><td><img src="/images/Departments/CNT/cnt8.png"></td><td style="vertical-align: middle"><img src="/images/Departments/CNT/cnt9.png"></td></tr>
+<tr><td><img src="/images/Departments/CNT/NFS1.png"></td><td style="vertical-align: middle"><img src="/images/Departments/CNT/NFS2.png"></td></tr>
+</tbody></table>
 <p>1. Lower Secondary FCE Programmes (Common Curriculum)
 <br>2. Upper Secondary FCE Programmes at the Express (O-level), Normal Academic (N-level) and Normal Technical (NT-level) levels.
 <br>3. Food science workshops
