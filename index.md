@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Sec 4 & 5
+        - title: Sec 4 & 5 Parents Engagement session
           description: ""
           url: /announcements/
         - title: 2024 O level Result release
