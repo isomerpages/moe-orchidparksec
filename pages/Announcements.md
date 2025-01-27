@@ -31,7 +31,11 @@ variant: markdown
 	Parent Engagement Slides</a>
 </p>
 </li>
-
+<li>
+<p><a href="https://www.ite.edu.sg/docs/default-source/full-time-courses-doc/ite-course-booklet-2025.pdf?sfvrsn=dc16f5ff\_5](https://www.ite.edu.sg/docs/default-source/full-time-courses-doc/ite-course-booklet-2025.pdf?sfvrsn=dc16f5ff_5)" rel="noopener noreferrer nofollow" target="_blank">
+	PFP and DPP Slides</a>
+</p>
+</li>
 </ol>
 </td>
 <td rowspan="1" colspan="1">
@@ -115,6 +119,12 @@ variant: markdown
 <p><a href="/files/Ez%20Link/SOP_to_redeem_Transitlink_e_Voucher.pdf" rel="noopener noreferrer nofollow" target="_blank">Transit-link eVouchers Redemption</a>
 </p>
 </li>
+<li>
+[PFP &amp; DPP Slides](https://www.ite.edu.sg/docs/default-source/full-time-courses-doc/ite-course-booklet-2025.pdf?sfvrsn=dc16f5ff\_5](https://www.ite.edu.sg/docs/default-source/full-time-courses-doc/ite-course-booklet-2025.pdf?sfvrsn=dc16f5ff_5))
+<p><a href="/files/Ez%20Link/SOP_to_redeem_Transitlink_e_Voucher.pdf" rel="noopener noreferrer nofollow" target="_blank">Transit-link eVouchers Redemption</a>
+</p>
+</li>
+[https://www.ite.edu.sg/docs/default-source/full-time-courses-doc/ite-course-booklet-2025.pdf?sfvrsn=dc16f5ff\_5](https://www.ite.edu.sg/docs/default-source/full-time-courses-doc/ite-course-booklet-2025.pdf?sfvrsn=dc16f5ff_5)
 </ol>
 </td>
 <td rowspan="1" colspan="1">
