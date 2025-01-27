@@ -28,12 +28,11 @@ variant: markdown
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="/files/Sec%204%20n%205%20PTM/Sec_4_5_Parents__Engagement_Slides.pdf" rel="noopener noreferrer nofollow" target="_blank">
-	Parent Engagement Slides</a>
+	Mass Talk by Principal, YH &amp; ECG Counsellor</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.ite.edu.sg/docs/default-source/full-time-courses-doc/ite-course-booklet-2025.pdf?sfvrsn=dc16f5ff\_5](https://www.ite.edu.sg/docs/default-source/full-time-courses-doc/ite-course-booklet-2025.pdf?sfvrsn=dc16f5ff_5)" rel="noopener noreferrer nofollow" target="_blank">
-	PFP and DPP Slides</a>
+<p><a href="https://www.ite.edu.sg/docs/default-source/full-time-courses-doc/ite-course-booklet-2025.pdf?sfvrsn=dc16f5ff\_5](https://www.ite.edu.sg/docs/default-source/full-time-courses-doc/ite-course-booklet-2025.pdf?sfvrsn=dc16f5ff_5)" rel="noopener noreferrer nofollow" target="_blank">Talks on EAE and DPP Matters by ITE</a>
 </p>
 </li>
 </ol>
