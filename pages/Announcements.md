@@ -27,13 +27,12 @@ variant: markdown
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files" rel="noopener noreferrer nofollow" target="_blank">
-	Nil</a>
+<p><a href="/files/Sec%204%20n%205%20PTM/Sec_4_5_Parents__Engagement_Slides.pdf" rel="noopener noreferrer nofollow" target="_blank">
+	Mass Talk by Principal, YH &amp; ECG Counsellor</a>
 </p>
 </li>
 <li>
-<p><a href="/files" rel="noopener noreferrer nofollow" target="_blank">
-	NIL</a>
+<p><a href="https://www.ite.edu.sg/docs/default-source/full-time-courses-doc/ite-course-booklet-2025.pdf?sfvrsn=dc16f5ff\_5](https://www.ite.edu.sg/docs/default-source/full-time-courses-doc/ite-course-booklet-2025.pdf?sfvrsn=dc16f5ff_5)" rel="noopener noreferrer nofollow" target="_blank">Talks on EAE and DPP Matters by ITE</a>
 </p>
 </li>
 </ol>
@@ -46,7 +45,7 @@ variant: markdown
 	
 <tr>
 <td rowspan="1" colspan="1">
-<p>1</p>
+<p>2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2024 O level Result Release </strong>
@@ -66,7 +65,7 @@ variant: markdown
 
 <tr>
 <td rowspan="1" colspan="1">
-<p>2</p>
+<p>3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2025 Booklist </strong>
@@ -86,7 +85,7 @@ variant: markdown
 
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
+<p>4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Sec 4&amp;5 Virtual Parents Engagement session</strong>
@@ -109,7 +108,7 @@ variant: markdown
 	
 <tr>
 <td rowspan="1" colspan="1">
-<p>4</p>
+<p>5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Attached a guide on&nbsp;Transit-link eVouchers Redemption</strong>
@@ -119,6 +118,12 @@ variant: markdown
 <p><a href="/files/Ez%20Link/SOP_to_redeem_Transitlink_e_Voucher.pdf" rel="noopener noreferrer nofollow" target="_blank">Transit-link eVouchers Redemption</a>
 </p>
 </li>
+<li>
+[PFP &amp; DPP Slides](https://www.ite.edu.sg/docs/default-source/full-time-courses-doc/ite-course-booklet-2025.pdf?sfvrsn=dc16f5ff\_5](https://www.ite.edu.sg/docs/default-source/full-time-courses-doc/ite-course-booklet-2025.pdf?sfvrsn=dc16f5ff_5))
+<p><a href="/files/Ez%20Link/SOP_to_redeem_Transitlink_e_Voucher.pdf" rel="noopener noreferrer nofollow" target="_blank">Transit-link eVouchers Redemption</a>
+</p>
+</li>
+[https://www.ite.edu.sg/docs/default-source/full-time-courses-doc/ite-course-booklet-2025.pdf?sfvrsn=dc16f5ff\_5](https://www.ite.edu.sg/docs/default-source/full-time-courses-doc/ite-course-booklet-2025.pdf?sfvrsn=dc16f5ff_5)
 </ol>
 </td>
 <td rowspan="1" colspan="1">
