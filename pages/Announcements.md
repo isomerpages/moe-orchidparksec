@@ -35,6 +35,14 @@ variant: markdown
 <p><a href="https://www.ite.edu.sg/docs/default-source/full-time-courses-doc/ite-course-booklet-2025.pdf?sfvrsn=dc16f5ff\_5](https://www.ite.edu.sg/docs/default-source/full-time-courses-doc/ite-course-booklet-2025.pdf?sfvrsn=dc16f5ff_5)" rel="noopener noreferrer nofollow" target="_blank">Talks on EAE and DPP Matters by ITE</a>
 </p>
 </li>
+<li>
+<p><a href="/files/Sec%204%20n%205%20PTM/EAE_Talk_2025_NYP.pdf" rel="noopener noreferrer nofollow" target="_blank">Talks on EAE matters by NYP</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Sec%204%20n%205%20PTM/NYP_Sec_4_PFP_Slides.pdf" rel="noopener noreferrer nofollow" target="_blank">Talks on PFP matters by NYP</a>
+</p>
+</li>
 </ol>
 </td>
 <td rowspan="1" colspan="1">
