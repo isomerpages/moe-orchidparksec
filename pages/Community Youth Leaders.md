@@ -2,6 +2,7 @@
 title: Community Youth Leaders
 permalink: /links/prospective-students-dsa/cyl/
 description: ""
+variant: markdown
 ---
 <div align="justify">
 <h4><strong>DSA Community Youth Leaders (CYL)</strong></h4>
@@ -28,6 +29,5 @@ description: ""
 
 <h4>Contact Person</h4>
 <p>Mr Daniel Chua<br>HOD Student Development<br>Email: <a href="mailto:chua_c_t_daniel@schools.gov.sg">chua_c_t_daniel@schools.gov.sg</a></p>
-<p>Miss Chin Kean Kean<br>SH Community Youth Leadership<br>Email: <a href="mailto:chin_kean_kean@schools.gov.sg">chin_kean_kean@schools.gov.sg</a></p>
 	
 </div>
