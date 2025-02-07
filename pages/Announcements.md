@@ -91,53 +91,7 @@ variant: markdown
 </td>
 </tr>	
 
-<tr>
-<td rowspan="1" colspan="1">
-<p>4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Sec 4&amp;5 Virtual Parents Engagement session</strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="/files/Sec 4 n 5 PTM/ecg_journey.pdf" rel="noopener noreferrer nofollow" target="_blank">Supporting your child's ECG Journey</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Sec 4 n 5 PTM/youth_and_mental_health.pdf" rel="noopener noreferrer nofollow" target="_blank">Youth and Mental Health</a>
-</p>
-</li>
-</ol>
-</td>
-<td rowspan="1" colspan="1">
-<p>7 Feb 2024</p>
-</td>
-</tr>
-	
-<tr>
-<td rowspan="1" colspan="1">
-<p>5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Attached a guide on&nbsp;Transit-link eVouchers Redemption</strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="/files/Ez%20Link/SOP_to_redeem_Transitlink_e_Voucher.pdf" rel="noopener noreferrer nofollow" target="_blank">Transit-link eVouchers Redemption</a>
-</p>
-</li>
-<li>
-[PFP &amp; DPP Slides](https://www.ite.edu.sg/docs/default-source/full-time-courses-doc/ite-course-booklet-2025.pdf?sfvrsn=dc16f5ff\_5](https://www.ite.edu.sg/docs/default-source/full-time-courses-doc/ite-course-booklet-2025.pdf?sfvrsn=dc16f5ff_5))
-<p><a href="/files/Ez%20Link/SOP_to_redeem_Transitlink_e_Voucher.pdf" rel="noopener noreferrer nofollow" target="_blank">Transit-link eVouchers Redemption</a>
-</p>
-</li>
-[https://www.ite.edu.sg/docs/default-source/full-time-courses-doc/ite-course-booklet-2025.pdf?sfvrsn=dc16f5ff\_5](https://www.ite.edu.sg/docs/default-source/full-time-courses-doc/ite-course-booklet-2025.pdf?sfvrsn=dc16f5ff_5)
-</ol>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>	
+
 	
 	
 
