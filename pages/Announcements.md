@@ -96,29 +96,6 @@ variant: markdown
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Sec 4&amp;5 Virtual Parents Engagement session</strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="/files/Sec 4 n 5 PTM/ecg_journey.pdf" rel="noopener noreferrer nofollow" target="_blank">Supporting your child's ECG Journey</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Sec 4 n 5 PTM/youth_and_mental_health.pdf" rel="noopener noreferrer nofollow" target="_blank">Youth and Mental Health</a>
-</p>
-</li>
-</ol>
-</td>
-<td rowspan="1" colspan="1">
-<p>7 Feb 2024</p>
-</td>
-</tr>
-	
-<tr>
-<td rowspan="1" colspan="1">
-<p>5</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>Attached a guide on&nbsp;Transit-link eVouchers Redemption</strong>
 </p>
 <ol data-tight="true" class="tight">
