@@ -8,21 +8,20 @@ notification: ""
 sections:
   - hero:
       key_highlights:
+        - title: 2025 March Holidays Extended Curriculum
+          description: ""
+          url: /announcements/
         - title: Sec 4 & 5 Parents Engagement session
           description: ""
           url: /announcements/
         - title: 2024 O level Result release
           description: ""
           url: /files/O%20lvl/2024_O_Level_Briefing_Slides_for_Students_OPSS.pdf
-        - title: 2025 Sec 1 Matters
-          description: ""
-          url: /links/prospective-students/sec1matters/
       background: /images/Homepage/home20221230.bmp
   - infobar:
-      title: 2024 O-level results
-      subtitle: O-level result release
+      title: Extended Curriculum
+      subtitle: 2025 March Holidays
       id: infobar
-      description: Jan 10 from 2.30pm
-      button: Useful Slides
-      url: /files/O%20lvl/2024_O_Level_Briefing_Slides_for_Students_OPSS.pdf
+      button: Schedule
+      url: /announcements/
 ---
