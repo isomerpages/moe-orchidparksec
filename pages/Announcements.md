@@ -18,9 +18,33 @@ variant: markdown
 <p>Date</p>
 </th>
 </tr>
+
 <tr>
 <td rowspan="1" colspan="1">
 <p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2025 March Holiday Extended Curriculum </strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/Timetable/Sec_3_March_Holiday_Extended_Curriculum_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">	Secondary 3 Student</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Timetable/Sec_4_March_Holiday_Extended_Curriculum_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"> Secondary 4 Student</a>
+</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>12 Mar 2025</p>
+</td>
+</tr>	
+	
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Sec 4 &amp; 5 Virtual Parents Engagement session </strong>
@@ -53,7 +77,7 @@ variant: markdown
 	
 <tr>
 <td rowspan="1" colspan="1">
-<p>2</p>
+<p>3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2024 O level Result Release </strong>
@@ -73,7 +97,7 @@ variant: markdown
 
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
+<p>4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2025 Booklist </strong>
