@@ -28,11 +28,11 @@ variant: markdown
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/Timetable/Sec_3_March_Holiday_Extended_Curriculum_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">	Secondary 3 Student</a>
+<p><a href="/files/Timetable/Sec_3_March_Holiday_Extended_Curriculum_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">	Secondary 3 Students</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Timetable/Sec_4_March_Holiday_Extended_Curriculum_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"> Secondary 4 Student</a>
+<p><a href="/files/Timetable/Sec_4_March_Holiday_Extended_Curriculum_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"> Secondary 4 Students</a>
 </p>
 </li>
 </ol>
