@@ -19,10 +19,9 @@ sections:
           url: /files/O%20lvl/2024_O_Level_Briefing_Slides_for_Students_OPSS.pdf
       background: /images/Homepage/home20221230.bmp
   - infobar:
-      title: 2024 O-level results
-      subtitle: O-level result release
+      title: Extended Curriculum
+      subtitle: 2025 March Holidays
       id: infobar
-      description: Jan 10 from 2.30pm
-      button: Useful Slides
-      url: /files/O%20lvl/2024_O_Level_Briefing_Slides_for_Students_OPSS.pdf
+      button: Schedule
+      url: /announcements/
 ---
