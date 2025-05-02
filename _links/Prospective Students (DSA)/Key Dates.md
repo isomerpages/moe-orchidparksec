@@ -537,7 +537,7 @@ ul
 <p class="MsoNormal"><b><span lang="EN-SG">&nbsp;</span></b></p>
 
 <p class="MsoNormal"><b><span style="font-size:16.0pt;line-height:
-107%;text-transform:uppercase" lang="EN-SG">Key Dates for 2024</span></b></p>
+107%;text-transform:uppercase" lang="EN-SG">Key Dates for 2025</span></b></p>
 
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid">
@@ -668,21 +668,20 @@ ul
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" width="108">
   <p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:10.0pt;font-family:
-  &quot;Helvetica&quot;,sans-serif;mso-bidi-language:TA" lang="EN-SG">24 Jun </span></p>
+  &quot;Helvetica&quot;,sans-serif;mso-bidi-language:TA" lang="EN-SG">30 Jun </span></p>
   <p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:10.0pt;font-family:
   &quot;Helvetica&quot;,sans-serif;mso-bidi-language:TA" lang="EN-SG">to </span></p>
   <p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:10.0pt;font-family:
-  &quot;Helvetica&quot;,sans-serif;mso-bidi-language:TA" lang="EN-SG">9 Sep</span></p>
+  &quot;Helvetica&quot;,sans-serif;mso-bidi-language:TA" lang="EN-SG">4 Sep</span></p>
   </td>
   <td style="width:226.05pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="301">
   <p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Helvetica&quot;,sans-serif;
-  mso-bidi-language:TA" lang="EN-SG">Shortlisted applicants will be invited for trial/audition/interview
-  in their applied talent area. This will be conducted through <b>in-person at
+  mso-bidi-language:TA" lang="EN-SG">You will receive notification from the school if your child/ward has been shortlisted to undergo DSA selection. Shortlisted applicants will be invited for trial/audition/interview in their applied talent area. This will be conducted through<b>in-person at
   the DSA-Sec school. </b></span></p>
   <p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Helvetica&quot;,sans-serif;
   mso-bidi-language:TA" lang="EN-SG">&nbsp;</span></p>
@@ -705,7 +704,7 @@ ul
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt" width="192">
   <p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Helvetica&quot;,sans-serif;
-  mso-bidi-language:TA" lang="EN-SG">Outcome</span></b></p>
+  mso-bidi-language:TA" lang="EN-SG">Selection Outcome</span></b></p>
   </td>
   <td style="width:81.0pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -713,7 +712,13 @@ ul
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" width="108">
   <p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:10.0pt;font-family:
-  &quot;Helvetica&quot;,sans-serif;mso-bidi-language:TA" lang="EN-SG">By 9 Sep</span></p>
+  &quot;Helvetica&quot;,sans-serif;mso-bidi-language:TA" lang="EN-SG">25 Aug</span></p>
+		<p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:10.0pt;font-family:
+  &quot;Helvetica&quot;,sans-serif;mso-bidi-language:TA" lang="EN-SG">to</span></p>
+		<p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:10.0pt;font-family:
+  &quot;Helvetica&quot;,sans-serif;mso-bidi-language:TA" lang="EN-SG">4 Sep</span></p>
   </td>
   <td style="width:226.05pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
