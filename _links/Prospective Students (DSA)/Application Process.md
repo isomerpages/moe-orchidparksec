@@ -17,7 +17,7 @@ Thank you for your interest in Orchid Park Secondary School
 
 </li><li>Shortlisted applicants will be invited for trial/audition/interview in their applied talent area. This will be conducted through in-person at the DSA-Sec school.
 
-</li><li>Successful DSA applicants are <strong>NOT</strong> allowed to participate in the annual S1 Posting Exercise to opt for secondary schools and are expected to honour their commitment (after exercising the Confirmed Offer or Waiting List offer) to the school and participate in the activities related to the talent they are selected for from year 1 to 4.
+</li><li>Successful DSA applicants are <strong>NOT</strong> allowed to participate in the annual S1 Posting Exercise to opt for secondary schools and are <strong>expected to honour their commitment</strong> (after exercising the Confirmed Offer or Waiting List offer) to the school and participate in the activities related to the talent they are selected for from year 1 to 4.
 
 </li><li>Successful DSA applicants are <strong>NOT</strong> allowed to transfer to another school after the release of the PSLE results.
 
