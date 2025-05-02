@@ -594,10 +594,10 @@ ul
   TA" lang="EN-SG">for more information.</span></p>
   <p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Helvetica&quot;,sans-serif;
   mso-bidi-language:TA" lang="EN-SG">&nbsp;</span></p>
-  <p class="Default">&nbsp;</p>
-  <p style="margin-left:0in;text-indent:0in;mso-list:l1 level2 lfo3" class="Default"><span style="font-size:10.0pt;font-family:&quot;Helvetica&quot;,sans-serif;
-  color:windowtext;mso-ansi-language:EN-SG" lang="EN-SG">Parents/ guardians who are unable
-  to apply online can approach their child’s primary school for assistance.</span><span style="font-size:11.5pt" lang="EN-SG"> </span><span style="font-size:11.5pt"></span></p>
+
+ <p style="margin-bottom:0in;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:10.0pt;
+  font-family:&quot;Helvetica&quot;,sans-serif;mso-bidi-language:TA" lang="EN-SG">Parents/ guardians who are unable to apply online can approach their child’s primary school for assistance.</span></p>
   </td>
  </tr>
  <tr style="mso-yfti-irow:2">
