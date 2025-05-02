@@ -27,10 +27,10 @@ third_nav_title: Prospective Students (DSA)
 <td style="text-align: center;">2.&nbsp;<a href="/cca/floorball/" target="_blank" rel="noopener">Floorball (Girls and Boys)</a>&nbsp;(Girls and Boys)</td>
 </tr>
 <tr>
-<td style="text-align: center;">3.&nbsp;<a href="/cca/football/" target="_blank" rel="noopener">Football (Boys)</a>&nbsp;(Girls and Boys)</td>
+<td style="text-align: center;">3.&nbsp;<a href="/cca/football/" target="_blank" rel="noopener">Football (Boys)</a>Boys Only</td>
 </tr>
 <tr>
-<td style="text-align: center;">4.&nbsp;<a href="/cca/netball/" target="_blank" rel="noopener">Netball (Girls)</a>&nbsp;(Girls and Boys)&nbsp;</td>
+<td style="text-align: center;">4.&nbsp;<a href="/cca/netball/" target="_blank" rel="noopener">Netball (Girls)</a>Girl Only</td>
 </tr>
 </tbody>
 </table>
