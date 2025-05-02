@@ -22,7 +22,7 @@ third_nav_title: Prospective Students (DSA)
 </p>
 
 <h4>CRITERIA FOR LEADERSHIP</h4>
-<p><b>P6 students who meet the following criteria may apply:</b></p>
+<p><b>P6 students who meet the following criteria* may apply:</b></p>
 <p>1) Students who have experience in leadership:
 <br>	- Held leadership position(s) in their primary school e.g. Prefects, CCA Leaders/Captains, Class Monitors, NE Ambassadors etc.
 <br>	- Led or co-organised in school, cohort or class activities
