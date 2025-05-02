@@ -725,8 +725,7 @@ ul
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="301">
   <p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Helvetica&quot;,sans-serif;
-  mso-bidi-language:TA" lang="EN-SG">Applicants will be informed of their application
-  outcomes by the school.</span></p>
+  mso-bidi-language:TA" lang="EN-SG">All applicants will receive their application outcomes from the school via email.</span></p>
   <p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Helvetica&quot;,sans-serif;
   mso-bidi-language:TA" lang="EN-SG">&nbsp;</span></p>
   </td>
@@ -750,13 +749,13 @@ ul
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:165.1pt" width="108">
   <p style="margin-bottom:0in;text-align:center;
   line-height:normal;mso-layout-grid-align:none;text-autospace:none" align="center" class="MsoNormal"><span style="font-size:10.0pt;font-family:Helvetica-Bold;mso-bidi-font-family:
-  Helvetica-Bold;mso-bidi-language:TA" lang="EN-SG">21 Oct, 9am</span></p>
+  Helvetica-Bold;mso-bidi-language:TA" lang="EN-SG">27 Oct, 9am</span></p>
   <p style="margin-bottom:0in;text-align:center;
   line-height:normal;mso-layout-grid-align:none;text-autospace:none" align="center" class="MsoNormal"><span style="font-size:10.0pt;font-family:Helvetica-Bold;mso-bidi-font-family:
   Helvetica-Bold;mso-bidi-language:TA" lang="EN-SG">to</span></p>
   <p style="margin-bottom:0in;text-align:center;
   line-height:normal;mso-layout-grid-align:none;text-autospace:none" align="center" class="MsoNormal"><span style="font-size:10.0pt;font-family:Helvetica-Bold;mso-bidi-font-family:
-  Helvetica-Bold;mso-bidi-language:TA" lang="EN-SG">25 Oct, 3pm<b></b></span></p>
+  Helvetica-Bold;mso-bidi-language:TA" lang="EN-SG">31 Oct, 3pm<b></b></span></p>
   </td>
   <td style="width:226.05pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -764,22 +763,15 @@ ul
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:165.1pt" valign="top" width="301">
   <p style="margin-bottom:0in;line-height:normal;mso-layout-grid-align:
   none;text-autospace:none" class="MsoNormal"><span style="font-size:10.0pt;
-  font-family:&quot;Helvetica&quot;,sans-serif;mso-bidi-language:TA" lang="EN-SG">Applicants who
-  receive at least one DSA-Sec offer (including from SOTA) will receive an email
-  and SMS notification via Postman.gov.sg on the School Preference Submission around
-  mid-October. <b>Both parents are required to login to the DSA-Sec Portal
-  using their <span class="SpellE">SingPass</span> to submit up to 3 school
-  preferences.</b> If parents are unable to submit online, they may approach
-  their child’s primary school for assistance to submit the school preferences
-  on their behalf.</span></p>
+  font-family:&quot;Helvetica&quot;,sans-serif;mso-bidi-language:TA" lang="EN-SG">Applicants who receive at least one DSA-Sec offer (including from SOTA) will receive an email and SMS notification via Postman.gov.sg on the School Preference Submission around mid-October. 
+	<b>Both parents are required to login to the DSA-Sec Portal using their SingPass to submit up to 3 school preferences.</b> 
+If parents are unable to submit online, they may approach their child’s primary school for assistance to submit the school preferences on their behalf.</span></p>
   <p style="margin-bottom:0in;line-height:normal;mso-layout-grid-align:
   none;text-autospace:none" class="MsoNormal"><span style="font-size:10.0pt;
   font-family:&quot;Helvetica&quot;,sans-serif;mso-bidi-language:TA" lang="EN-SG">&nbsp;</span></p>
   <p style="margin-bottom:0in;line-height:normal;mso-layout-grid-align:
   none;text-autospace:none" class="MsoNormal"><span style="font-size:10.0pt;
-  font-family:&quot;Helvetica&quot;,sans-serif;mso-bidi-language:TA" lang="EN-SG">DSA-Sec offers not
-  taken up will be considered as lapsed at the end of the School Preference
-  Submission period.</span></p>
+  font-family:&quot;Helvetica&quot;,sans-serif;mso-bidi-language:TA" lang="EN-SG">DSA-Sec offers not taken up will be considered as lapsed at the end of the School Preference Submission period.</span></p>
   <p style="margin-bottom:0in;line-height:normal;mso-layout-grid-align:
   none;text-autospace:none" class="MsoNormal"><span style="font-size:10.0pt;
   font-family:&quot;Helvetica&quot;,sans-serif;mso-bidi-language:TA" lang="EN-SG">&nbsp;</span></p>
