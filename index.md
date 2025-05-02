@@ -18,10 +18,4 @@ sections:
           description: ""
           url: /announcements/
       background: /images/Homepage/home20221230.bmp
-  - infobar:
-      title: Extended Curriculum
-      subtitle: 2025 March Holidays
-      id: infobar
-      button: Schedule
-      url: /announcements/
 ---
