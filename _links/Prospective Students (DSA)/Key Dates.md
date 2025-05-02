@@ -802,14 +802,14 @@ If parents are unable to submit online, they may approach their child’s primar
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="301">
   <p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Helvetica&quot;,sans-serif;
+  mso-bidi-language:TA" lang="EN-SG">The results of the DSA-Sec Exercise will be released to students, on the same day as the release of the PSLE results.</span></p>
+<p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Helvetica&quot;,sans-serif;
   mso-bidi-language:TA" lang="EN-SG">Successful DSA-Sec applicants are <b>NOT</b> allowed to
   participate in the S1 posting exercise and are not allowed to transfer to
   another school after the release of results.</span></p>
-  <p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Helvetica&quot;,sans-serif;
+	<p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Helvetica&quot;,sans-serif;
   mso-bidi-language:TA" lang="EN-SG">&nbsp;</span></p>
-  <p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Helvetica&quot;,sans-serif;
-  mso-bidi-language:TA" lang="EN-SG">The results of the DSA-Sec Exercise will be released to
-  students, on the same day as the release of PSLE results.</span></p>
+  
   <p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Helvetica&quot;,sans-serif;
   mso-bidi-language:TA" lang="EN-SG">&nbsp;</span></p>
   <p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Helvetica&quot;,sans-serif;
