@@ -18,4 +18,10 @@ sections:
           description: ""
           url: /announcements/
       background: /images/Homepage/home20221230.bmp
+  - infobar:
+      title: Infobar
+      subtitle: Add informational text
+      id: infobar
+      description: Infobar description
+      button: Button Text
 ---
