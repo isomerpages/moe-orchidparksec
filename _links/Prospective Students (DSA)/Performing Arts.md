@@ -8,7 +8,7 @@ third_nav_title: Prospective Students (DSA)
 <div align="justify">
 <h4><strong>DSA Performing Arts</strong></h4>
 <p>The CCA programme in Orchid Park Secondary School provides students with a platform to discover their interests and talents. Each CCA is guided by a CCA Student Development Plan which is designed towards progressive development and attainment of CCA learning outcomes.</p>
-<p>Performing Arts instil in students a sense of graciousness and an appreciation for the rich culture and heritage of the different Arts genre in our multi-racial society.&nbsp;</p>
+<p>Performing Arts instil in students a sense of graciousness and an appreciation for the rich culture and heritage of the different Arts genre in our multi-racial society. </p>
 <p>Orchid Park Secondary School invites all current Primary Six Students (or equivalent) to apply for admission to our school through DSA in the following categories:</p>
 <table style="margin-left: auto; margin-right: auto;">
 <tbody>
@@ -16,16 +16,16 @@ third_nav_title: Prospective Students (DSA)
 <th style="text-align: center;">Performing Arts</th>
 </tr>
 <tr>
-<td style="text-align: center;">1.&nbsp;<a href="/cca/band/" target="_blank" rel="noopener">Concert Band</a>&nbsp;(Girls and Boys)</td>
+<td style="text-align: center;">1.<a href="/cca/band/" target="_blank" rel="noopener">Concert Band</a>(Girls and Boys)</td>
 </tr>
 <tr>
-<td style="text-align: center;">2.&nbsp;<a href="/cca/dance/" target="_blank" rel="noopener">Dance (Contemporary/Modern)</a>&nbsp;(Girls and Boys)</td>
+<td style="text-align: center;">2.<a href="/cca/dance/" target="_blank" rel="noopener">Modern Dance</a>(Girls and Boys)</td>
 </tr>
 <tr>
-<td style="text-align: center;">3.&nbsp;<a href="/cca/drama/" target="_blank" rel="noopener">Drama (English)</a>&nbsp;(Girls and Boys)</td>
+<td style="text-align: center;">3.<a href="/cca/drama/" target="_blank" rel="noopener">English Drama</a>(Girls and Boys)</td>
 </tr>
 <tr>
-<td style="text-align: center;">4.&nbsp;<a href="/cca/guitar/" target="_blank" rel="noopener">Guitar Ensemble</a>&nbsp;(Girls and Boys)&nbsp;</td>
+<td style="text-align: center;">4.<a href="/cca/guitar/" target="_blank" rel="noopener">Guitar Ensemble</a>(Girls and Boys)</td>
 </tr>
 </tbody>
 </table>
