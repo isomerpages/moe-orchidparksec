@@ -39,9 +39,9 @@ third_nav_title: Prospective Students (DSA)
 
 <strong>Criteria for Physical Sports and GAMES
 
-<br>P6 students who meet the following criteria may apply:</strong>
+<br>P6 students who meet the following criteria* may apply:</strong>
 
-<ol><li>A member of their primary school’s CCA in the applied talent area or equivalent<br>Or<br>Have represented their primary school in inter-school competitions and/or taken part in external competitions relevant to the applied Sports and Games<br>Or<br>Have the following attributes:
+<ol><li>A member of their primary school’s CCA in the applied talent area or equivalent<br>Or<br>Have represented their primary school in inter-school competitions and/or taken part in external competitions relevant to the applied Sports and Games<br>Or<br>Participation in Junior Sports Academy<br>Or<br>Have the following attributes:
 <ul><li>Display a passion for the sports applied and possess a positive learning attitude
 </li><li>Physically inclined with strong relevant psychomotor skills (techniques, agility, speed, etc)
 </li><li>Show tactical awareness in the applied Sports and Games</li></ul>
