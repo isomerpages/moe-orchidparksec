@@ -32,7 +32,7 @@ third_nav_title: Prospective Students (DSA)
 <p style="text-align: center;"><strong>Please click on the above links for more info</strong></p>
 
 <h4>CRITERIA FOR PERFORMING ARTS</h4>
-<p><b>P6 students who meet the following criteria may apply:</b></p>
+<p><b>P6 students who meet the following criteria* may apply:</b></p>
 <p>1) A member of their primary school’s CCA in the applied talent area or equivalent
 <br>Or
 <br>Have participated/represented in school/public performances (including school concert, community events, cultural exchanges or equivalent) in the Performing Arts
@@ -43,9 +43,7 @@ third_nav_title: Prospective Students (DSA)
 <br>- Relevant qualification(s) in the Performing Arts (if any)
 <br>2) Others:
 <br>- Conduct grade of at least ‘Very Good’ in his/her Primary 5 and Primary 6 school report
-<br><b>Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer. Due to different profiles of applicants, selection/shortlisting trends may differ year on year. Shortlisted applicants will be required to undergo performance tasks and interviews.</b></p>
+<br><b>Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants. Due to different profiles of applicants, selection/shortlisting trends may differ year on year. Shortlisted applicants will be required to undergo performance tasks and interviews.</b></p>
 
 
-
-	
 </div>
