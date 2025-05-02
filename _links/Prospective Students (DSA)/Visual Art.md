@@ -23,7 +23,7 @@ third_nav_title: Prospective Students (DSA)
 <br>- Participated in relevant activities in Visual Arts (if any)
 <br>2) Others:
 <br>- Conduct grade of at least ‘Very Good’ in his/her Primary 5 and Primary 6 school report
-<br><b> Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants. Due to different profiles of applicants, selection/shortlisting trends may differ year on year. Shortlisted applicants will be required to undergo performance tasks and interviews.</b></p>
+<br><br><b>*Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants. Due to different profiles of applicants, selection/shortlisting trends may differ year on year. Shortlisted applicants will be required to undergo performance tasks and interviews.</b></p>
 <p><b>Additional information:</b></p>
 <p>1.	Shortlisted applicants will be required to take a Visual Art task assessment for DSA admission consideration and go through an interview. During the interview, other evidences of visual art talent, such as portfolios of the applicant’s original artwork, should be showcased to the interview panel. Please bring the originals only.</p>
 	
