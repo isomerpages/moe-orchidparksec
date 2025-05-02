@@ -23,7 +23,7 @@ Thank you for your interest in Orchid Park Secondary School
 
 </li><li>In addition, successful DSA applicants while guaranteed a place in the CCA, will not be guaranteed a place in the school team. Selection into the school team will still be based on merit, subjected to good conduct in school.
 
-</li><li>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 7 May 2025, 11am to 3 Jun 2025, 3pm. For more details, please refer to MOE website – <a href="http://www.moe.gov.sg/dsa-sec">here</a>
+</li><li>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 7 May 2025, 11am to 3 Jun 2025, 3pm. For more details, please refer to MOE website – <a href="https://www.moe.gov.sg/secondary/dsa">here</a>
 	
 </li><li>Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants.
 	
