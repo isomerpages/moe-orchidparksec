@@ -51,6 +51,6 @@ third_nav_title: Prospective Students (DSA)
 <p><strong>*Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants. Due to different profiles of applicants, selection/shortlisting trends may differ year on year. Shortlisted applicants will be required to undergo performance tasks and interviews.</strong></p>
 
 <h4>Contact person</h4>
-<p>Mdm Annizell Cruz Chan <br>Subject Head for Student Leadership<br>Email: <a href="mailto:annizell_cruz_chanh@schools.gov.sg">annizell_cruz_chan@schools.gov.sg</a></p>
+<p>Mr Tan Tong Leng <br>Level Head - PE &amp; CCA<br>Email: <a href="mailto:tan_tong_leng@schools.gov.sg">tan_tong_leng@schools.gov.sg</a></p>
 	
 </div>
