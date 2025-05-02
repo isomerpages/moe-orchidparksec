@@ -33,6 +33,6 @@ third_nav_title: Prospective Students (DSA)
 <br>3. Referral / recommendation letter by school (if any)</p>
 
 <h4>Contact Person</h4>
-<p>Mdm Sharon Teo<br>Senior Teacher for Art<br>Email: <a href="teo_li_keng_sharon@schools.gov.s">teo_li_keng_sharon@schools.gov.sg</a></p>
+<p>Mdm Sharon Teo<br>Snr Teacher - Art<br>Email: <a href="teo_li_keng_sharon@schools.gov.s">teo_li_keng_sharon@schools.gov.sg</a></p>
 	
 </div>
