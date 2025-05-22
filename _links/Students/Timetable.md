@@ -6,7 +6,7 @@ third_nav_title: Students
 variant: markdown
 ---
 <div align="justify">
-<h4>2025 Sem 1 Term 2 Timetable</h4>
+<h4>2025 Sem 1 Term 2 week 10 Timetable</h4>
 Sec 4 Non MT student click --&gt;<a rel="noopener" target="_blank" href="/files/Timetable/Sec4nonMT.pdf">Sec 4 Non MT </a><br>
 Sec 4E and 5N student click --&gt;<a rel="noopener" target="_blank" href="/files/Timetable/Sec4E5N.pdf">Sec 4E and 5N </a>
 <br><br>
