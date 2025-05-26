@@ -17,8 +17,15 @@ third_nav_title: Our Good Stories
 
 <p>You've set an exemplary standard for what youth-led initiatives can achieve. Your passion, responsibility, and innovative spirit are a model not just for your peers, but for the wider community. Orchid Park Secondary School should be immensely proud of students like you, who turn vision into action and inspire others along the way.</p>
 
-<p>We are immensely proud of Khasyah for living out our school's values and vision. His story serves as an inspiration to all students, showing how compassionate leadership can make a real difference in our community.</p><p>
+<p>Thank you for reminding us all of the power of young people to make a difference. <br>Keep shining!
+<br>With admiration,  
+<br>Shah</p>
 
-<img src="/images/Our%20Good%20Stories/Khasyah_Khalif.jpg">
+<p><img src="/images/Our%20Good%20Stories/Khasyah_Khalif.jpg">
+
+</p>
+
 	
-</p></div>
+<p>Such heartfelt feedback from the community reinforces our school's vision of nurturing Compassionate Leaders. Through this Student-led Advocacy Project, our student leaders have demonstrated that when young people step forward to serve, they can create meaningful connections and bring positive change to the community.
+</p>	
+</div>
