@@ -5,35 +5,20 @@ variant: markdown
 description: ""
 third_nav_title: Our Good Stories
 ---
-<p>&lt;div align="justify"&gt;</p>
-<p>&lt;p&gt;In a remarkable display of civic-mindedness and community spirit,
-one of our students, Khasyah Al-Iqram Bin Mohammed Khalif, from Orchis
-2, has been recognised for his brave actions in helping to extinguish a
-fire in his neighbourhood.&lt;/p&gt;</p>
-<p>&lt;p&gt;On the night of 30 November 2024, at approximately 11:15 pm,
-Khasyah and his family noticed a green rubbish bin ablaze in the void deck
-of their block. Without hesitation, Khasyah, led by his father, Mr Khalif,
-sprang into action. They swiftly gathered buckets of water from their flat
-and worked together to douse the flames. Thanks to their prompt response
-and teamwork, Khasyah and his family successfully extinguished the fire
-before the Singapore Civil Defence Force (SCDF) arrived at the scene. Their
-quick action potentially prevented the fire from spreading and causing
-more significant damage, highlighting the crucial role that civic-minded
-individuals play in maintaining community safety.&lt;/p&gt;</p>
-<p>&lt;p&gt;When asked about his motivation to act, Khasyah simply stated,
-"I was worried for my neighbour." Khasyah's actions perfectly embody our
-school's core value of compassion and our vision of developing leaders
-who care deeply for their community. His quick thinking and selfless response
-demonstrate how compassion can translate into decisive action that benefits
-others.&lt;/p&gt;</p>
-<p>&lt;p&gt;In recognition of their bravery and public-spiritedness, Khasyah
-and his siblings were presented with the prestigious Community First Responder
-Award. The ceremony took place on 24 January 2025, with Colonel Lim Beng
-Hui, Commander of 3rd SCDF Division, personally presenting the awards.&lt;/p&gt;</p>
-<p>&lt;p&gt;We are immensely proud of Khasyah for living out our school's
-values and vision. His story serves as an inspiration to all students,
-showing how compassionate leadership can make a real difference in our
-community.&lt;/p&gt;&lt;p&gt;</p>
-<p>&lt;img src="/images/Our%20Good%20Stories/Khasyah_Khalif.jpg"&gt;</p>
-<p></p>
-<p>&lt;/p&gt;&lt;/div&gt;</p>
+<div align="justify">
+
+<p>Orchid Park Secondary School recently received a heartwarming message from a community member who was deeply impressed by our Student Leaders' efforts at the HOPE in Every Heart Mini-Funfair conducted on 17 May 2025. This Student-led Advocacy Project showcases how our student leaders take ownership in serving the community while inspiring their peers. The spontaneous and genuine appreciation expressed in this email reflects the impact our students have made through their dedication to serving others. We are proud to share this testament to our students' commitment to making a difference:</p>
+	
+<p>To the incredible students of Orchid Park Secondary School</p>
+
+<p>I wanted to extend my heartfelt praise for the outstanding Saturday morning carnival you organized for the residents! Your event was a breath of fresh air, and I was particularly impressed by the creative range of games you designed—they were inventive, engaging, and far removed from the typical carnival setups run by vendors. It was evident how much thought and effort went into crafting activities that were both fun and meaningful for the community.</p>
+
+<p>What truly stood out, however, was the genuine warmth and enthusiasm you showed while interacting with the residents. You didn't just host games; you built connections, shared laughter, and created a joyful atmosphere that everyone could feel. The fact that this entire project—from planning to execution—was student-led makes it even more remarkable. Sourcing prizes, coordinating resources, and managing logistics independently showcases your teamwork, leadership, and dedication to serving others.</p>
+
+<p>You've set an exemplary standard for what youth-led initiatives can achieve. Your passion, responsibility, and innovative spirit are a model not just for your peers, but for the wider community. Orchid Park Secondary School should be immensely proud of students like you, who turn vision into action and inspire others along the way.</p>
+
+<p>We are immensely proud of Khasyah for living out our school's values and vision. His story serves as an inspiration to all students, showing how compassionate leadership can make a real difference in our community.</p><p>
+
+<img src="/images/Our%20Good%20Stories/Khasyah_Khalif.jpg">
+	
+</p></div>
