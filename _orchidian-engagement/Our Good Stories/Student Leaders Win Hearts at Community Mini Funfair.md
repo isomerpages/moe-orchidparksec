@@ -21,8 +21,10 @@ third_nav_title: Our Good Stories
 <br>With admiration,  
 <br>Shah</p>
 
-<p><img src="/images/Our%20Good%20Stories/Khasyah_Khalif.jpg">
-
+<p>
+<img src="/images/Our%20Good%20Stories/Pic_1_Good_Story_May_2025.jpg">
+<img src="/images/Our%20Good%20Stories/Pic_2_Good_Story_May_2025.jpg">
+<img src="/images/Our%20Good%20Stories/Pic_3_Good_Story_May_2025.jpg">
 </p>
 
 	
