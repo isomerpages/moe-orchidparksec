@@ -24,15 +24,15 @@ variant: markdown
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2025 March Holiday Extended Curriculum </strong>
+<p><strong>2025 June Holiday Extended Curriculum </strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/Timetable/Sec_3_March_Holiday_Extended_Curriculum_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">	Secondary 3 Students</a>
+<p><a href="/files/Timetable/Mid_Year_Extended_Curriculum__Sec_3__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">	Secondary 3 Students</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Timetable/Sec_4_March_Holiday_Extended_Curriculum_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"> Secondary 4 Students</a>
+<p><a href="/files/Timetable/Mid_Year_Extended_Curriculum__Sec_4___5__2025.pdf" rel="noopener noreferrer nofollow" target="_blank"> Secondary 4 Students</a>
 </p>
 </li>
 </ol>
