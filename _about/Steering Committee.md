@@ -70,22 +70,16 @@ variant: markdown
 <div>HOD Mother Tongue Language (Covering)</div></td>
 </tr>
 <tr>
-<td style="width: 20%;"><img src="/images/sc9.png"></td>
-<td style="width: 30%;"><div><strong>Mr Mohd Salim</strong></div>
-<div>HOD Mathematics</div></td>
 <td style="width: 20%;"><img src="/images/sc11.png"></td>
 <td style="width: 30%;"><div><strong>Ms Soo Chiew Ming</strong></div>
 <div>HOD Student Management</div></td>
-</tr><tr>
 <td style="width: 20%;"><img src="/images/sc12.png"></td>
 <td style="width: 30%;"><div><strong>Mr Tan Paul</strong></div>
 <div>HOD PE &amp; CCA</div></td>
+</tr><tr>
 <td style="width: 20%;"><img src="/images/sc15.png"></td>
 <td style="width: 30%;"><div><strong>Mrs Fu Wei Hui</strong></div>
 <div>Year Head - Lower Sec (Sec 2)</div></td>
-</tr>
-
-<tr>
 <td style="width: 20%;"><img src="/images/sc14.png"></td>
 <td style="width: 30%;"><div><strong>Mr Chia Cheng Siong</strong></div>
 <div>Year Head - Upper Sec (Sec 4/5)</div></td>
