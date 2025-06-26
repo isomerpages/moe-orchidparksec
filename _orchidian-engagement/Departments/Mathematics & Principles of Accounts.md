@@ -34,6 +34,10 @@ variant: markdown
 <tr><td><img src="/images/Departments/MAPOA/TC2.png"></td></tr><tr><td><img src="/images/Departments/MAPOA/TC3.png"></td></tr>
 </tbody></table>
 
+<h4>National FinLit Competition</h4>
+<table><tbody><tr><td><img src="/images/Departments/MAPOA/FinLit1.png"></td></tr>
+<tr><td><img src="/images/Departments/MAPOA/FinLit2.png"></td></tr><tr>
+</tr></tbody></table>
 	
 <h4>Department Composition</h4>
 <table style="border:none;border-collapse:collapse;table-layout:fixed;width:468pt"><colgroup><col><col><col></colgroup><tbody>
