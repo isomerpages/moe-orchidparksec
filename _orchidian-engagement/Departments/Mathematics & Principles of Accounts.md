@@ -22,11 +22,20 @@ variant: markdown
 	<table><tbody><tr><td><img src="/images/Departments/MAPOA/mapoa4.png"></td><td style="vertical-align: middle"><img src="/images/Departments/MAPOA/mapoa5.png"></td></tr></tbody></table>
 	
 <h4>Ngee Ann Polytechnic Mathematics Challenge</h4>
-	<table><tbody><tr><td><img src="/images/Departments/MAPOA/mapoa4.png"></td><td style="vertical-align: middle"><img src="/images/Departments/MAPOA/mapoa5.png"></td></tr></tbody></table>
+<table><tbody><tr><td><img src="/images/Departments/MAPOA/mapoa4.png"></td><td style="vertical-align: middle"><img src="/images/Departments/MAPOA/mapoa5.png"></td></tr></tbody></table>
+	
+<h4>Secondary 1 Mathematics Trail</h4>
+<table><tbody><tr><td><img src="/images/Departments/MAPOA/trail1.png"></td><td style="vertical-align: middle"><img src="/images/Departments/MAPOA/trail_2.png"></td></tr>
+<tr><td><img src="/images/Departments/MAPOA/Trail_3.png"></td><td style="vertical-align: middle"><img src="/images/Departments/MAPOA/trail_4.png"></td></tr>
+</tbody></table>
+
+<h4>Sharing at Teachers’ Conference and Excel Fest</h4>
+<table><tbody><tr><td><img src="/images/Departments/MAPOA/TC1.png"></td></tr>
+<tr><td><img src="/images/Departments/MAPOA/TC2.png"></td></tr><tr><td><img src="/images/Departments/MAPOA/TC3.png"></td></tr>
+</tbody></table>
+
 	
 <h4>Department Composition</h4>
-
-Komathi (Mrs Selvan)
 <table style="border:none;border-collapse:collapse;table-layout:fixed;width:468pt"><colgroup><col><col><col></colgroup><tbody>
 <tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mr Chan Ho Lun</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">LH / Maths</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><a style="text-decoration:none;" href="mailto: Chan_Ho_Lun@schools.gov.sg"><span style="font-size:11pt;font-family:Arial;color:#1155cc;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Email</span></a></p></td></tr>
 	
