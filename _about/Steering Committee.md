@@ -118,6 +118,15 @@ variant: markdown
 <div>SH 21CC &amp; LLP</div></td>
 </tr>
 <tr>
+<td style="width: 20%;"><img src="/images/SC/No%20Image.png"></td>
+
+<td style="width: 30%;"><div><strong>Ms Vishalini Naidu</strong></div>
+<div>SH Student Management</div></td>
+<td style="width: 20%;"><img src="/images/SC/No%20Image.png"></td>
+<td style="width: 30%;"><div><strong>Mr Wilson Heng </strong></div>
+<div>SH History</div></td>
+</tr>
+<tr>
 <td style="width: 20%;"><img src="/images/SC/Mardiana_Bte_Alias.png"></td>
 <td style="width: 30%;"><div><strong>Ms Mardiana Bte Alias</strong></div>
 <div>Asst. Year Head <br>Lower Sec (Sec 1)</div></td>
