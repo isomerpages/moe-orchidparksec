@@ -8,12 +8,12 @@ notification: ""
 sections:
   - hero:
       key_highlights:
+        - title: 2025 Term 3 Timetable
+          description: ""
+          url: /links/Student/tt/
         - title: 2025 June Holidays Extended Curriculum
           description: ""
           url: /announcements/
-        - title: 2025 Term 2 Timetable
-          description: ""
-          url: /links/Student/tt/
         - title: Sec 4 & 5 Parents Engagement session
           description: ""
           url: /announcements/
