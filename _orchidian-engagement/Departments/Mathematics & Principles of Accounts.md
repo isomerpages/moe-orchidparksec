@@ -19,10 +19,10 @@ variant: markdown
 <img src="/images/Departments/MAPOA/mapoa2.jpg">
 	
 <h4>Financial Literacy Workshop with HSBC and Temasek Polytechnic</h4>
-	<table><tbody><tr><td><img src="/images/Departments/MAPOA/Math_Chall_1.png"></td></tr><tr><td><img src="/images/Departments/MAPOA/Math_Chall_2.png"></td></tr></tbody></table>
+<table><tbody><tr><td><img src="/images/Departments/MAPOA/mapoa4.png"></td><td style="vertical-align: middle"><img src="/images/Departments/MAPOA/mapoa5.png"></td></tr></tbody></table>
 	
 <h4>Ngee Ann Polytechnic Mathematics Challenge</h4>
-<table><tbody><tr><td><img src="/images/Departments/MAPOA/mapoa4.png"></td><td style="vertical-align: middle"><img src="/images/Departments/MAPOA/mapoa5.png"></td></tr></tbody></table>
+<table><tbody><tr><td><img src="/images/Departments/MAPOA/Math_Chall_1.png"></td></tr><tr><td><img src="/images/Departments/MAPOA/Math_Chall_2.png"></td></tr></tbody></table>
 	
 <h4>Secondary 1 Mathematics Trail</h4>
 <table><tbody><tr><td><img src="/images/Departments/MAPOA/trail1.png"></td><td style="vertical-align: middle"><img src="/images/Departments/MAPOA/trail_2.png"></td></tr>
