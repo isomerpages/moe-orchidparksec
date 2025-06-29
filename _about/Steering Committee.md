@@ -105,23 +105,22 @@ variant: markdown
 <td style="width: 20%;"><img src="/images/s7.png"></td>
 <td style="width: 30%;"><div><strong>Mr Tan Tong Leng</strong></div>
 <div>LH PE &amp; CCA</div></td>
+<td style="width: 20%;"><img src="/images/SC/No%20Image.png"></td>
+<td style="width: 30%;"><div><strong>Ms Vishalini Naidu</strong></div>
+<div>LH Student Management</div></td>
+</tr>
+<tr>
 <td style="width: 20%;"><img src="/images/SC/annizell.jpg"></td>
 <td style="width: 30%;"><div><strong>Mdm Annizell Cruz Chan</strong></div>
 <div>SH Student Leadership</div></td>
-</tr>
-<tr>
 <td style="width: 20%;"><img src="/images/SC/Loh_Fah_Rong_Esmond.png"></td>
 <td style="width: 30%;"><div><strong>Mr Esmond Loh</strong></div>
 <div>SH Aesthetics</div></td>
+</tr>
+<tr>
 <td style="width: 20%;"><img src="/images/SC/NUR_AFIQAH.png"></td>
 <td style="width: 30%;"><div><strong>Mdm Nur Afiqah</strong></div>
 <div>SH 21CC &amp; LLP</div></td>
-</tr>
-<tr>
-<td style="width: 20%;"><img src="/images/SC/No%20Image.png"></td>
-
-<td style="width: 30%;"><div><strong>Ms Vishalini Naidu</strong></div>
-<div>SH Student Management</div></td>
 <td style="width: 20%;"><img src="/images/SC/No%20Image.png"></td>
 <td style="width: 30%;"><div><strong>Mr Wilson Heng </strong></div>
 <div>SH History</div></td>
