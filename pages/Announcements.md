@@ -28,12 +28,12 @@ variant: markdown
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/O%20lvl/2024_O_Level_Briefing_Slides_for_Students_OPSS.pdf" rel="noopener noreferrer nofollow" target="_blank">
+<p><a href="/files/Timetable/2025_4NA_Prelim_Time_Table.pdf" rel="noopener noreferrer nofollow" target="_blank">
 	4NA Prelim Timtable</a>
 </p>
 </li>
 <li>
-<p><a href="/files/O%20lvl/2024_O_Level_Briefing_Slides_for_Students_OPSS.pdf" rel="noopener noreferrer nofollow" target="_blank">
+<p><a href="/files/Timetable/2025_4NT_Prelim_Time_Table.pdf" rel="noopener noreferrer nofollow" target="_blank">
 	4NT Prelim Timetable</a>
 </p>
 </li>
