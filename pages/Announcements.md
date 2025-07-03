@@ -24,6 +24,31 @@ variant: markdown
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>2025 Prelim timetable for NT/NA </strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/O%20lvl/2024_O_Level_Briefing_Slides_for_Students_OPSS.pdf" rel="noopener noreferrer nofollow" target="_blank">
+	4NA Prelim Timtable</a>
+</p>
+</li>
+<li>
+<p><a href="/files/O%20lvl/2024_O_Level_Briefing_Slides_for_Students_OPSS.pdf" rel="noopener noreferrer nofollow" target="_blank">
+	4NT Prelim Timetable</a>
+</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>10 Jan 2025</p>
+</td>
+</tr>	
+	
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>2025 June Holiday Extended Curriculum </strong>
 </p>
 <ol data-tight="true" class="tight">
@@ -44,7 +69,7 @@ variant: markdown
 	
 <tr>
 <td rowspan="1" colspan="1">
-<p>2</p>
+<p>3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Sec 4 &amp; 5 Virtual Parents Engagement session </strong>
@@ -75,25 +100,7 @@ variant: markdown
 </tr>	
 	
 	
-<tr>
-<td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>2024 O level Result Release </strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="/files/O%20lvl/2024_O_Level_Briefing_Slides_for_Students_OPSS.pdf" rel="noopener noreferrer nofollow" target="_blank">
-	Useful Slides</a>
-</p>
-</li>
-</ol>
-</td>
-<td rowspan="1" colspan="1">
-<p>10 Jan 2025</p>
-</td>
-</tr>	
+
 
 <tr>
 <td rowspan="1" colspan="1">
