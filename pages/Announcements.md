@@ -4,7 +4,7 @@ permalink: /announcements/
 description: ""
 variant: markdown
 ---
-<h1>Announcements</h1>
+3<h1>Announcements</h1>
 <table>
 <tbody>
 <tr>
@@ -40,7 +40,7 @@ variant: markdown
 </ol>
 </td>
 <td rowspan="1" colspan="1">
-<p>10 Jan 2025</p>
+<p>3 July 2025</p>
 </td>
 </tr>	
 	
