@@ -4,7 +4,7 @@ permalink: /announcements/
 description: ""
 variant: markdown
 ---
-3<h1>Announcements</h1>
+<h1>Announcements</h1>
 <table>
 <tbody>
 <tr>
