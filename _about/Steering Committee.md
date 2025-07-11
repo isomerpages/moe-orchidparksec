@@ -105,7 +105,7 @@ variant: markdown
 <td style="width: 20%;"><img src="/images/s7.png"></td>
 <td style="width: 30%;"><div><strong>Mr Tan Tong Leng</strong></div>
 <div>LH PE &amp; CCA</div></td>
-<td style="width: 20%;"><img src="/images/SC/No%20Image.png"></td>
+<td style="width: 20%;"><img src="/images/SC/Vishalini_R2.png"></td>
 <td style="width: 30%;"><div><strong>Ms Vishalini Naidu</strong></div>
 <div>LH Student Management</div></td>
 </tr>
