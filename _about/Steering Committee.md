@@ -121,7 +121,7 @@ variant: markdown
 <td style="width: 20%;"><img src="/images/SC/NUR_AFIQAH.png"></td>
 <td style="width: 30%;"><div><strong>Mdm Nur Afiqah</strong></div>
 <div>SH 21CC &amp; LLP</div></td>
-<td style="width: 20%;"><img src="/images/SC/No%20Image.png"></td>
+<td style="width: 20%;"><img src="/images/SC/Wilson_Heng_R.jpg"></td>
 <td style="width: 30%;"><div><strong>Mr Wilson Heng </strong></div>
 <div>SH History</div></td>
 </tr>
