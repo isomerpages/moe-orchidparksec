@@ -42,7 +42,7 @@ variant: markdown
 	
 <tr>
 <td rowspan="1" colspan="1">
-<p>1</p>
+<p>2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2025 Prelim timetable for 4NT/NA </strong>
@@ -67,7 +67,7 @@ variant: markdown
 	
 <tr>
 <td rowspan="1" colspan="1">
-<p>2</p>
+<p>3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2025 June Holiday Extended Curriculum </strong>
@@ -90,7 +90,7 @@ variant: markdown
 	
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
+<p>4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Sec 4 &amp; 5 Virtual Parents Engagement session </strong>
@@ -125,7 +125,7 @@ variant: markdown
 
 <tr>
 <td rowspan="1" colspan="1">
-<p>4</p>
+<p>5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2025 Booklist </strong>
