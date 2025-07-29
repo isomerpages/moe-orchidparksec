@@ -24,6 +24,27 @@ variant: markdown
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>2025 O Level Prelim Timetable </strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/Timetable/2025_4NA_Prelim_Time_Table.pdf" rel="noopener noreferrer nofollow" target="_blank">
+	4NA Prelim Timtable</a>
+</p>
+</li>
+
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>29 July 2025</p>
+</td>
+</tr>
+	
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>2025 Prelim timetable for 4NT/NA </strong>
 </p>
 <ol data-tight="true" class="tight">
