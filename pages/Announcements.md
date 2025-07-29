@@ -29,7 +29,7 @@ variant: markdown
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="/files/Timetable/2025_4NA_Prelim_Time_Table.pdf" rel="noopener noreferrer nofollow" target="_blank">
-	4NA Prelim Timtable</a>
+	O Level Prelim Timtable</a>
 </p>
 </li>
 
