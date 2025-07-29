@@ -28,7 +28,7 @@ variant: markdown
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/Timetable/2025_4NA_Prelim_Time_Table.pdf" rel="noopener noreferrer nofollow" target="_blank">
+<p><a href="/files/Timetable/2025_O_Level_Prelim_TimeTable_28_Jul.pdf" rel="noopener noreferrer nofollow" target="_blank">
 	O Level Prelim Timtable</a>
 </p>
 </li>
