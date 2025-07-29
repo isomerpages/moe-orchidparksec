@@ -8,14 +8,14 @@ notification: ""
 sections:
   - hero:
       key_highlights:
+        - title: 2025 O level Prelim Timetable
+          description: ""
+          url: /announcements/
         - title: 2025 Prelim Timetable for 4NT/NA
           description: ""
           url: /announcements/
         - title: 2025 Term 3 Timetable
           description: ""
           url: /links/Student/tt/
-        - title: Sec 4 & 5 Parents Engagement session
-          description: ""
-          url: /announcements/
       background: /images/Homepage/home20221230.bmp
 ---
