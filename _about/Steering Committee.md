@@ -41,45 +41,43 @@ variant: markdown
 <td style="width: 20%;"><img src="/images/SC/LEOW%20TENG%20HONG.jpg"></td>
 <td style="width: 30%;"><div><strong>Mr Leow Teng Hong </strong></div>
 <div>School Staff Developer</div></td>
-<td style="width: 20%;"><img src="/images/s1.png"></td>
-<td style="width: 30%;"><div><strong>Mr Benedict Tan</strong></div>
-<div>HOD Ed Tech and Data Management (Covering)</div></td>
-</tr>
-<tr>
 <td style="width: 20%;"><img src="/images/sc5.png"></td>
 <td style="width: 30%;"><div><strong>Mr Daniel Chua</strong></div>
 <div>HOD CCE</div></td>
+</tr>
+<tr>
 <td style="width: 20%;"><img src="/images/sc7.png"></td>
 <td style="width: 30%;"><div><strong>Ms Haryati</strong></div>
 <div>HOD Craft &amp; Technology</div></td>
-</tr>
-<tr>
 <td style="width: 20%;"><img src="/images/sc8.png"></td>
 <td style="width: 30%;"><div><strong>Mr Khairil</strong></div>
 <div>HOD Science</div></td>
+</tr>
+<tr>
 <td style="width: 20%;"><img src="/images/SC/Vani.jpg"></td>
 <td style="width: 30%;"><div><strong>Mdm Kogilavani Raj</strong></div>
 <div>HOD English Language</div></td>
-</tr>
-<tr>
 <td style="width: 20%;"><img src="/images/SC/MICHELLE%20KWOK.png"></td>
 <td style="width: 30%;"><div><strong>Ms Kwok Shi You Michelle</strong></div>
 <div>HOD Humanities</div></td>
+</tr>
+<tr>
+
 <td style="width: 20%;"><img src="/images/SC/LIM%20HAN%20CHUAN.jpg"></td>
 <td style="width: 30%;"><div><strong>Mr Lim Han Chuan</strong></div>
 <div>HOD Mother Tongue Language (Covering)</div></td>
-</tr>
-<tr>
 <td style="width: 20%;"><img src="/images/sc11.png"></td>
 <td style="width: 30%;"><div><strong>Ms Soo Chiew Ming</strong></div>
 <div>HOD Student Management</div></td>
+</tr>
+<tr>
 <td style="width: 20%;"><img src="/images/sc12.png"></td>
 <td style="width: 30%;"><div><strong>Mr Tan Paul</strong></div>
 <div>HOD PE &amp; CCA</div></td>
-</tr><tr>
 <td style="width: 20%;"><img src="/images/sc15.png"></td>
 <td style="width: 30%;"><div><strong>Mrs Fu Wei Hui</strong></div>
 <div>Year Head - Lower Sec (Sec 2)</div></td>
+</tr><tr>
 <td style="width: 20%;"><img src="/images/sc14.png"></td>
 <td style="width: 30%;"><div><strong>Mr Chia Cheng Siong</strong></div>
 <div>Year Head - Upper Sec (Sec 4/5)</div></td>
