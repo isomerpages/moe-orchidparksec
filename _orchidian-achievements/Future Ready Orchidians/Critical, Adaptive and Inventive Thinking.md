@@ -15,7 +15,6 @@ third_nav_title: Future Ready Orchidians
 <p>CAIT skills enable students to use sound reasoning and critical thinking to inform decision-making, generate novel and useful ideas to address challenges, and manage complexities and ambiguities to adapt to changing situations.</p>
 
 <p>Explore the links below to see our students’ demonstration of CAIT in various competitions:<br>
-	
 <a href="/cait-2023/">2023</a><br>
 <a href="/cait2024/">2024</a><br>
 <a href="/cait2025/">2025</a>
