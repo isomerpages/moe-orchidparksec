@@ -28,18 +28,18 @@ variant: markdown
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/Timetable/2025_O_Level_Prelim_TimeTable_28_Jul.pdf" rel="noopener noreferrer nofollow" target="_blank">
+<p><a href="/files/Timetable/2025_Sec_1_September_Holidays_Extended_Curriculum__8_to_9_Sep_.pdf" rel="noopener noreferrer nofollow" target="_blank">
 	Sec 1 Extended Curriculum</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Timetable/2025_O_Level_Prelim_TimeTable_28_Jul.pdf" rel="noopener noreferrer nofollow" target="_blank">
+<p><a href="/files/Timetable/2025_Sec_2_September_Holidays_Extended_Curriculum__8_to_9_Sep_.pdf" rel="noopener noreferrer nofollow" target="_blank">
 	Sec 2 Extended Curriculum</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Timetable/2025_O_Level_Prelim_TimeTable_28_Jul.pdf" rel="noopener noreferrer nofollow" target="_blank">
-	Sec 2 Extended Curriculum</a>
+<p><a href="/files/Timetable/2025_Sec_3_September_Holidays_Extended_Curriculum__8_to_10_Sep_.pdf" rel="noopener noreferrer nofollow" target="_blank">
+	Sec 3 Extended Curriculum</a>
 </p>
 </li>
 	
