@@ -8,6 +8,9 @@ notification: ""
 sections:
   - hero:
       key_highlights:
+        - title: 2025 End Of Year Exam Timetable
+          description: ""
+          url: /announcements/
         - title: 2025 September Extended Curriculum
           description: ""
           url: /announcements/

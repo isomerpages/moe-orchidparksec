@@ -24,6 +24,38 @@ variant: markdown
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>2025 End Of Year Exam Timetable </strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/Timetable/2025_Sec_1_EOY_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">
+	Sec 1 EOY TT</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Timetable/2025_Sec_2_EOY_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">
+	Sec 2 EOY TT</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Timetable/2025_Sec_3_EOY_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">
+	Sec 3 EOY TT</a>
+</p>
+</li>
+	
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Sept 2025</p>
+</td>
+</tr>
+	
+	
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>2025 September Holidays Extended Curriculum </strong>
 </p>
 <ol data-tight="true" class="tight">
@@ -52,7 +84,7 @@ variant: markdown
 	
 <tr>
 <td rowspan="1" colspan="1">
-<p>1</p>
+<p>3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2025 O Level Prelim Timetable </strong>
@@ -73,7 +105,7 @@ variant: markdown
 	
 <tr>
 <td rowspan="1" colspan="1">
-<p>2</p>
+<p>4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2025 Prelim timetable for 4NT/NA </strong>
@@ -98,7 +130,7 @@ variant: markdown
 	
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
+<p>5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2025 June Holiday Extended Curriculum </strong>
@@ -121,7 +153,7 @@ variant: markdown
 	
 <tr>
 <td rowspan="1" colspan="1">
-<p>4</p>
+<p>6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Sec 4 &amp; 5 Virtual Parents Engagement session </strong>
@@ -150,33 +182,6 @@ variant: markdown
 <p>25 Jan 2025</p>
 </td>
 </tr>	
-	
-	
-
-
-<tr>
-<td rowspan="1" colspan="1">
-<p>5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>2025 Booklist </strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="/links/Student/books/" rel="noopener noreferrer nofollow" target="_blank">
-	Click here</a>
-</p>
-</li>
-</ol>
-</td>
-<td rowspan="1" colspan="1">
-<p>23 Oct 2024</p>
-</td>
-</tr>	
-
-
-	
-	
 
 
 </tbody>
