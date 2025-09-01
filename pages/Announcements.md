@@ -24,6 +24,37 @@ variant: markdown
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>2025 September Holidays Extended Curriculum </strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/Timetable/2025_O_Level_Prelim_TimeTable_28_Jul.pdf" rel="noopener noreferrer nofollow" target="_blank">
+	Sec 1 Extended Curriculum</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Timetable/2025_O_Level_Prelim_TimeTable_28_Jul.pdf" rel="noopener noreferrer nofollow" target="_blank">
+	Sec 2 Extended Curriculum</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Timetable/2025_O_Level_Prelim_TimeTable_28_Jul.pdf" rel="noopener noreferrer nofollow" target="_blank">
+	Sec 2 Extended Curriculum</a>
+</p>
+</li>
+	
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Sept 2025</p>
+</td>
+</tr>
+	
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>2025 O Level Prelim Timetable </strong>
 </p>
 <ol data-tight="true" class="tight">
