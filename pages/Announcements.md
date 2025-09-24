@@ -82,78 +82,11 @@ variant: markdown
 </td>
 </tr>
 	
+
+	
 <tr>
 <td rowspan="1" colspan="1">
 <p>3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>2025 O Level Prelim Timetable </strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="/files/Timetable/2025_O_Level_Prelim_TimeTable_28_Jul.pdf" rel="noopener noreferrer nofollow" target="_blank">
-	O Level Prelim Timtable</a>
-</p>
-</li>
-
-</ol>
-</td>
-<td rowspan="1" colspan="1">
-<p>29 July 2025</p>
-</td>
-</tr>
-	
-<tr>
-<td rowspan="1" colspan="1">
-<p>4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>2025 Prelim timetable for 4NT/NA </strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="/files/Timetable/2025_4NA_Prelim_Time_Table.pdf" rel="noopener noreferrer nofollow" target="_blank">
-	4NA Prelim Timtable</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Timetable/2025_4NT_Prelim_Time_Table.pdf" rel="noopener noreferrer nofollow" target="_blank">
-	4NT Prelim Timetable</a>
-</p>
-</li>
-</ol>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 July 2025</p>
-</td>
-</tr>	
-	
-<tr>
-<td rowspan="1" colspan="1">
-<p>5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>2025 June Holiday Extended Curriculum </strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="/files/Timetable/Mid_Year_Extended_Curriculum__Sec_3__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">	Secondary 3 Students</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Timetable/Mid_Year_Extended_Curriculum__Sec_4___5__2025.pdf" rel="noopener noreferrer nofollow" target="_blank"> Secondary 4 Students</a>
-</p>
-</li>
-</ol>
-</td>
-<td rowspan="1" colspan="1">
-<p>28 May 2025</p>
-</td>
-</tr>	
-	
-<tr>
-<td rowspan="1" colspan="1">
-<p>6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Sec 4 &amp; 5 Virtual Parents Engagement session </strong>
