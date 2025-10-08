@@ -8,10 +8,10 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: 2025 End Of Year Exam Timetable
+        - title: 2025 October Post Exam Timetable
           description: ""
-          url: /announcements/
-        - title: 2025 September Extended Curriculum
+          url: /links/Student/tt/
+        - title: 2025 End Of Year Exam Timetable
           description: ""
           url: /announcements/
         - title: 2025 Sec 3 OBS
