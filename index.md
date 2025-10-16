@@ -18,4 +18,11 @@ sections:
           description: ""
           url: /orchidian-empowerment/obs/
       background: /images/Homepage/home20221230.bmp
+  - infopic:
+      title: Open House 2025
+      subtitle: Open House 2025
+      id: infopic
+      description: "Date : 15th November 2025"
+      image: /images/Homepage/MOTD_OPSS_Open_House_2025.png
+      alt: Image alt text
 ---
