@@ -18,10 +18,33 @@ variant: markdown
 <p>Date</p>
 </th>
 </tr>
-
 <tr>
 <td rowspan="1" colspan="1">
 <p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2025 EOY Sec3 Extended Curriculum </strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/Timetable/EOY_Extended_Curriculum__Sec_3__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">
+	Sec 3 Extended Curriculum</a>
+</p>
+</li>
+
+	
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>21 Oct 2025</p>
+</td>
+</tr>
+	
+
+	
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2025 End Of Year Exam Timetable </strong>
@@ -51,39 +74,7 @@ variant: markdown
 </tr>
 	
 	
-<tr>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>2025 September Holidays Extended Curriculum </strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="/files/Timetable/2025_Sec_1_September_Holidays_Extended_Curriculum__8_to_9_Sep_.pdf" rel="noopener noreferrer nofollow" target="_blank">
-	Sec 1 Extended Curriculum</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Timetable/2025_Sec_2_September_Holidays_Extended_Curriculum__8_to_9_Sep_.pdf" rel="noopener noreferrer nofollow" target="_blank">
-	Sec 2 Extended Curriculum</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Timetable/2025_Sec_3_September_Holidays_Extended_Curriculum__8_to_10_Sep_.pdf" rel="noopener noreferrer nofollow" target="_blank">
-	Sec 3 Extended Curriculum</a>
-</p>
-</li>
-	
-</ol>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 Sept 2025</p>
-</td>
-</tr>
-	
 
-	
 <tr>
 <td rowspan="1" colspan="1">
 <p>3</p>
