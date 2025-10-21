@@ -23,7 +23,7 @@ variant: markdown
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2025 EOT Sec3 Extended Curriculum </strong>
+<p><strong>2025 EOY Sec3 Extended Curriculum </strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
