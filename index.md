@@ -8,15 +8,15 @@ notification: ""
 sections:
   - hero:
       key_highlights:
+        - title: 2026 MOE FAS application
+          description: ""
+          url: /news-at-events/announcements/fas-application-guide/
         - title: 2025 EOY Sec 3 Extended Curriculum
           description: ""
           url: /announcements/
         - title: 2025 October Post Exam Timetable
           description: ""
           url: /links/Student/tt/
-        - title: 2025 Sec 3 OBS
-          description: ""
-          url: /orchidian-empowerment/obs/
       background: /images/Homepage/home20221230.bmp
   - infopic:
       title: Open House 15th November 2025
