@@ -9,7 +9,7 @@ sections:
   - hero:
       key_highlights:
         - title: 2026 Booklist
-          description: 2026 Booklist
+          description: Sec 2 - Sec 5
           url: /links/Student/books/
         - title: 2026 MOE FAS application
           description: ""
