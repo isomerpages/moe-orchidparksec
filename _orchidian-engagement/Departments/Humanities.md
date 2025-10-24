@@ -6,7 +6,7 @@ third_nav_title: Departments
 variant: markdown
 ---
 <div align="justify">
-<img src="/images/Departments/Humanities/humanities_department_2.jpg">
+<img src="/images/Dept%20Photos/humanities_department_2.jpg">
 <h4>About the Department</h4>
 <p>The Humanities Department in Orchid Park Secondary School is made up of 3 units;</p>
 <p>History, Geography and Social Studies.</p>
