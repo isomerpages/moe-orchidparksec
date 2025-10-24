@@ -7,7 +7,7 @@ variant: markdown
 ---
 <div align="justify">
 <h4>Student Developement</h4>
-<img src="/images/Departments/SD/student_development_team_2.jpg">
+<img src="/images/Dept%20Photos/student_development_team_2.jpg">
 <h4>Orchid Park Secondary School Student Development Framework</h4>
 <img src="/images/Departments/SD/sd2.png">
 <p>A caring and enabling school environment helps students feel safe, accepted, empowered and competent. It is marked by healthy relationships, care and support among all members of the school. Recognition of student needs and psychosocial factors such as a sense of belonging and autonomy contribute to a caring and enabling school community.</p>
