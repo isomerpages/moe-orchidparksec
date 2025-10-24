@@ -7,7 +7,7 @@ variant: markdown
 ---
 <div align="justify">
 <h4>Science</h4>
-<img src="/images/Departments/Sci/science_department_2.jpg">
+<img src="/images/Dept%20Photos/science_department_2.jpg">
 <h3>About the Department</h3>
 <h4>Department Vision and Mission</h4>
 <h5><u>Department Vision</u></h5>
