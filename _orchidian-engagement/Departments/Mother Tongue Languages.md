@@ -6,7 +6,7 @@ third_nav_title: Departments
 variant: markdown
 ---
 <div align="justify">
-<img src="/images/Departments/MTL/mother_tongue_languages_department_2.jpg">
+<img src="/images/Dept%20Photos/mother_tongue_language_department_2.jpg">
 	
 <h4>About the Department</h4>
 <p>The Mother Tongue Languages department seeks to nurture active learners and proficient Mother Tongue users who possess a global outlook. The department strives to cultivate in Orchidians a love for their Mother Tongue languages and cultures by immersing them in authentic learning environments and developing their language competencies through quality instructional programmes.</p>
