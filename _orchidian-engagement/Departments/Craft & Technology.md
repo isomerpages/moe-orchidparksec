@@ -6,7 +6,7 @@ third_nav_title: Departments
 variant: markdown
 ---
 <div align="justify">
-<img src="/images/Departments/CNT/craft_and_technology_department_2.jpg">
+<img src="/images/Dept%20Photos/craft_and_technology_department_2.jpg">
 <h4>About the Department</h4>
 <p>The Craft &amp; Technology (ACT) Department aims to provide Orchidians with a meaningful learning experience that encourages the spirit of innovation and creativity through self-directed learning.</p>
 <p>The department consists of four subject units - Art, Design &amp; Technology, Music and Nutrition &amp; Food Science.&nbsp; At the lower secondary level, students will go through a 2-year journey learning interesting concepts, knowledge and skills for each subject at a common level, known as Common Curriculum, to allow them to learn together in their mixed form classes.&nbsp; At the Upper Secondary level, students can choose to pursue one of these subjects as an elective subject at a higher level.&nbsp;</p>
