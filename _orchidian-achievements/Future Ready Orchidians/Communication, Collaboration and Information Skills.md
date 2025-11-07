@@ -11,7 +11,7 @@ third_nav_title: Future Ready Orchidians
 <p>A key enabler of confidence-building at Orchid Park is our students’ ability to apply Communication, Collaboration and Information (CCI) skills effectively in dynamic contexts.</p>
 <p>CCI skills are interpersonal abilities that help our students communicate information, ideas and feelings clearly. These skills also enable our students to collaborate effectively with others, while managing, creating, and sharing information responsibly and ethically.</p>
 <p>At Orchid Park, every Orchidian becomes an effective and empathetic communicator.</p>
-<p>Click these pages to see our students excel in CCI:</p>
+
 
 <table style="border:none;border-collapse:collapse;table-layout:fixed;width:465pt"><colgroup><col></colgroup><tbody><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
 <h4>Congratulations to our students</h4>
