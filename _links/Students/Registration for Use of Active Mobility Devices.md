@@ -7,8 +7,8 @@ third_nav_title: Students
 ---
 <div align="justify">
 <p>Dear Parents/ Students<br>Please use the following QR code or link to register your Active mobility device. </p>
-
-
+	
+![](/images/Homepage/QR_for_AMD_registration.png)
 	
 
 	
