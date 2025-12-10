@@ -6,42 +6,119 @@ description: ""
 ---
 <div align="justify">
 	
-<p>Dear Parents/Guardians/Sec 4E5N (2023) Students,</p>
-
-<p>The results of the 2023 Singapore-Cambridge General Certificate of Education Ordinary Level (GCE O-Level) examination will be released on <strong>Thursday, 11 January 2024, 2.00pm</strong>.</p>
-
-<p><b>Collection of GCE O-Level Results</b><br>
-OPSS students receiving their ‘O’ level results may report to the school hall from 1.30 pm onwards and be seated by 1.45 pm for the release of the results.</p>
-
-<p>Please take note of the following:</p>
-
-<p>1.	Students who are unwell should seek medical attention and not return to school to collect their results.  They may appoint a proxy to collect the physical copy of their results from the school.<br>
-2.	Students who are recovering from respiratory-related illnesses and are in school to collect their results should exercise social responsibility and wear a mask.<br>
-3.	Students should be properly attired in either his/her school uniform or half-uniform for the collection of results.<br>
-4.	Students with inappropriate appearance/attire will not be allowed to enter the school hall to receive their results.</p>
 
 
-<p>Kindly also note that the provision for school candidates to view results online via the Candidate Portal will be ceased from 2023. Hence, your child/ward should return to school to collect his/her hardcopy results slip and/or certificates. Do contact the school if you need further clarification.</p>
 
-<p>Thank you and I look forward to seeing all of you on 11 Jan 2024! =)</p>
+  
+  
+  <title>OPSS Chatbot</title>
+  <style>
+    /* --- Branding & Chat-widget styles --- */
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
 
-<p>Best regards,<br>
-Mrs Fu Wei Hui<br>
-Year Head</p>
-	
-<hr>
-	
-<p><b>2023 GCE O-Level Results Release: Supporting Your Teen</b><br>
-The 2023 O-Level results will be released soon. Regardless of the outcome, it is important for our teens to know that they are loved for the person that they have grown up to be, and that their grades do not define who they are in our eyes. The social and emotional support you provide will be especially necessary and valuable in helping our teens manage their emotions and be positive when deciding their next steps.<br>
-Do take this opportunity to have open conversations with your teen about his/her interests and choices and build his/her pathways together.</p>
+    body {
+      font-family: 'Poppins', sans-serif;
+    }
 
-<p><b>Resources for Parents</b><br>
-For more resources on providing social and emotional support, affirming your teen, and supporting your teen’s transition through post O-Level education, please refer <a target="_blank" href="https://go.gov.sg/selresforparents">here</a>. You can access ECG resources via  the <a target="_blank" href="https://go.gov.sg/whats-next-olevel">What’s Next pamphlet</a> and the <a target="_blank" href="https://go.gov.sg/MySFSec">MySkillsFuture Student Portal</a>.</p>
+    /* Floating chat widget container */
+    #opss-chat-widget {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      width: 320px;
+      max-height: 420px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+      border-radius: 12px;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      z-index: 1000;
+      font-size: 14px;
+    }
 
-<p><b>ECG Counselling Services</b><br>
-For ECG counselling services, students may contact the ECG Counsellor in their schools or make an ECG counselling appointment with the ECG Centre @ MOE (Grange Road) between 4 and 18 January 2024 via<br>
-•	Email: moe_ecg@moe.gov.sg<br>
-•	Appointment booking <a target="_blank" href="https://go.gov.sg/moe-ecg-centre">form</a><br>
-Please refer <a target="_blank" href="/files/O%20Level%20Result%20Release/2023_O_Level_Info_Sheet_for_Parents.pdf">here</a> for more tips and resources on supporting your teen.</p>
+    /* Header / toggle bar */
+    #chat-header {
+      background-color: #2F8D46; /* OPSS green */
+      color: white;
+      padding: 10px;
+      cursor: pointer;
+      user-select: none;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    #chat-header span {
+      font-weight: 500;
+    }
+    #chat-header .toggle-icon {
+      font-size: 18px;
+      line-height: 1;
+    }
+
+    /* Hidden / collapsed widget */
+    #opss-chat-widget.collapsed {
+      height: 40px;
+      max-height: 40px;
+    }
+
+    /* Chat messages area */
+    #chat-messages {
+      flex: 1;
+      background: #fafafa;
+      padding: 10px;
+      overflow-y: auto;
+    }
+
+    .msg { margin-bottom: 12px; }
+
+    .msg .sender { font-weight: 600; }
+    .msg.user .sender { color: #0056b3; }
+    .msg.bot .sender { color: #2F8D46; }
+
+    /* Input area */
+    #chat-input-area {
+      display: flex;
+      border-top: 1px solid #ddd;
+      background: white;
+    }
+    #user-input {
+      flex: 1;
+      padding: 8px 10px;
+      border: none;
+      border-radius: 0;
+      font-size: 14px;
+      outline: none;
+    }
+    #send-btn {
+      background-color: #F7C846; /* OPSS yellow-ish */
+      border: none;
+      padding: 0 16px;
+      color: #2F8D46;
+      font-weight: 500;
+      cursor: pointer;
+    }
+    #send-btn:hover {
+      background-color: #e6b63f;
+    }
+  </style>
+
+
+
+<div class="collapsed" id="opss-chat-widget">
+  <div id="chat-header">
+    <span>Ask OPSS</span>
+    <span class="toggle-icon">✖</span>
+  </div>
+  <div id="chat-messages"></div>
+  <div id="chat-input-area">
+    <input placeholder="Ask about OPSS…" id="user-input" type="text">
+    <button id="send-btn">Send</button>
+  </div>
+</div>
+
+
+
+
+
 
 </div>
