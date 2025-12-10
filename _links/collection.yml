@@ -2,6 +2,7 @@ collections:
   links:
     output: true
     order:
+      - Students/Registration for Use of Active Mobility Devices.md
       - Students/.keep
       - Students/Timetable.md
       - Students/Student Calendar.md
