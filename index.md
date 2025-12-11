@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: N level result release 18 December 2025
           description: ""
-          url: https://www.channelnewsasia.com/singapore/moe-gce-n-level-results-be-released-dec-18-5575521
+          url: /n-lvl-result-release-on-18-december-2025/
         - title: 2026 Booklist
           description: Sec 2 - Sec 5
           url: /links/Student/books/
