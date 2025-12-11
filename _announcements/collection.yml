@@ -2,7 +2,7 @@ collections:
   announcements:
     output: true
     order:
-      - Announcements/N lvl result release on 18 December 2025.md
+      - Announcements/N level result release on 18 December 2025.md
       - Announcements/Leave of Absence Application.md
       - Announcements/FAS Application Guide.md
       - Announcements/Information for Parents Gateway.md
