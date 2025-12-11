@@ -8,6 +8,9 @@ notification: ""
 sections:
   - hero:
       key_highlights:
+        - title: N level result release 18 December 2025
+          description: ""
+          url: /n-lvl-result-release-on-18-december-2025/
         - title: 2026 Booklist
           description: Sec 2 - Sec 5
           url: /links/Student/books/
@@ -17,9 +20,6 @@ sections:
         - title: 2025 EOY Sec 3 Extended Curriculum
           description: ""
           url: /announcements/
-        - title: 2025 October Post Exam Timetable
-          description: ""
-          url: /links/Student/tt/
       background: /images/Homepage/home20221230.bmp
   - infopic:
       title: 2026 Secondary 1 matters
