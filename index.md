@@ -24,7 +24,7 @@ sections:
   - infopic:
       title: 2026 Secondary 1 matters
       id: infopic
-      image: /images/Homepage/MOTD_OPSS_Open_House_2025.png
+      image: /images/Homepage/Sec_1_matters.png
       alt: Image alt text
       button: More information
       url: https://sites.google.com/moe.edu.sg/secondary-1-registration-2026/home
