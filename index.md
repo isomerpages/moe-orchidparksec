@@ -12,7 +12,7 @@ sections:
           description: ""
           url: /n-lvl-result-release-on-18-december-2025/
         - title: 2026 Booklist
-          description: Sec 2 - Sec 5
+          description: Sec 1 - Sec 5
           url: /links/Student/books/
         - title: 2026 MOE FAS application
           description: ""
