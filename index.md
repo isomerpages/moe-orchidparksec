@@ -27,6 +27,5 @@ sections:
       image: /images/Homepage/Sec_1_matters.png
       alt: Image alt text
       button: More information
-      url: https://www.orchidparksec.moe.edu.sg/
-      subtitle: Available on a later date
+      url: https://sites.google.com/moe.edu.sg/secondary-1-registration-2026/home
 ---
