@@ -8,9 +8,9 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: N level result release 18 December 2025
+        - title: N level result release 2025 and info
           description: ""
-          url: /n-lvl-result-release-on-18-december-2025/
+          url: /n-lvl-result-release-2025-and-info/
         - title: 2026 Booklist
           description: Sec 1 - Sec 5
           url: /links/Student/books/
