@@ -30,7 +30,7 @@ variant: markdown
 </ol>
 </td>
 <td rowspan="1" colspan="1">
-<p>11 Dec 2025</p>
+<p>18th Dec 2025</p>
 </td>
 </tr>
 	
