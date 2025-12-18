@@ -23,8 +23,8 @@ variant: markdown
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>N Level Result Release on 18 December 2025 </strong>
-</p>
+<p><a href="https://go.gov.sg/opss-loa" target="_blank" rel="noopener">N Level Result Release on 18 December 2025 </a></p>
+<p></p>
 <ol data-tight="true" class="tight">
 	
 </ol>
