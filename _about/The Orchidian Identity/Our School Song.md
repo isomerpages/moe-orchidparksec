@@ -3,6 +3,7 @@ title: Our School Song
 permalink: /about/the-orchidian-identity/schsong/
 description: ""
 third_nav_title: The Orchidian Identity
+variant: markdown
 ---
 <div align="justify">
 	
@@ -11,7 +12,7 @@ third_nav_title: The Orchidian Identity
 <p>Onward, onward we go<br>
 No mountain too high to scale<br>
 Onward, onward we row<br>
-No ocean too hard to sail<br>
+No ocean too wide to sail<br>
 Persevere, persevere<br>
 No obstacle shall stand in our way<br>
 Destination we shall reach one day<br></p><p>
