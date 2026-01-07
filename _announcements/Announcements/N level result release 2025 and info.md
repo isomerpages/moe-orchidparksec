@@ -5,12 +5,17 @@ variant: markdown
 description: ""
 third_nav_title: Announcements
 ---
-<p>Dear 4N students,</p>
-<p><b>Congratulations on completing your N-levels! <br>Well done on reaching this milestone.</b></p>
-<p>E1–4 students, please refer to the attached slides for information on the release of the N-Level results. Kindly pay close attention to the deadlines for submitting your choices for ITE or Sec 5NA.</p>
+<p>Dear 4E5N students,
 
-<p>Click to find out more -&gt; <a href="/files/N%20Level%20Results/2025_N_Level_Briefing_Slides_Student_OPSS.pdf" target="_blank" rel="noopener">Presentation slides and info </a> </p>
+The results of the 2025 Singapore-Cambridge GCE O-Level Examination will be released on Wednesday, 14 January 2026.
 
-<p>Cheers</p>
-<p>Year Head</p>
-<p>Mr Chia</p>
+Please report to the **school hall from 1.30pm onwards** and be seated **by 1.45pm** for the release of results.
+
+You are reminded to be properly attired in either your school uniform or half-uniform. Students with highlighted or dyed hair will not be allowed to enter the school hall to receive their results.
+
+</p><p>I look forward to seeing you on 14 January. </p>
+
+
+
+<p>Cheers<br>
+Year Head<br>Mr Chia</p>
