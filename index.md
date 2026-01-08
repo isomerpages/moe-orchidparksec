@@ -8,18 +8,15 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: N level result release 2025 and info
+        - title: O level Result release 2026
           description: ""
-          url: /n-lvl-result-release-2025-and-info/
+          url: /o-lvl-result-release-2026/
         - title: 2026 Booklist
           description: Sec 1 - Sec 5
           url: /links/Student/books/
         - title: 2026 MOE FAS application
           description: ""
           url: /news-at-events/announcements/fas-application-guide/
-        - title: 2025 EOY Sec 3 Extended Curriculum
-          description: ""
-          url: /announcements/
       background: /images/Homepage/home20221230.bmp
   - infopic:
       title: 2026 Secondary 1 matters
