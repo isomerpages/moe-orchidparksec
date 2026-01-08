@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: O level Result release 2026
+        - title: Release of O-Level Results 2025
           description: ""
           url: /o-lvl-result-release-2026/
         - title: 2026 Booklist

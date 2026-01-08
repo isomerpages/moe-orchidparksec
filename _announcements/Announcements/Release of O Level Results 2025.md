@@ -1,5 +1,5 @@
 ---
-title: O level result release 2026
+title: Release of O Level Results 2025
 permalink: /o-lvl-result-release-2026/
 variant: markdown
 description: ""
