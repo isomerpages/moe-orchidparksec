@@ -28,9 +28,9 @@ Click [here](/cca/bb) for our CCAs.
 
 <h4>Information for Parents</h4>
 <a href="/files/CCA%20main%20page%20info/LEAPS_2_0___Info_for_Parents.pdf" target="_blank">LEAPS 2.0 information</a><br>
-<a href="/files/CCA%20main%20page%20info/Training_Schedule_for_CCAs__2025_.pdf" target="_blank">CCA Schedule for 2025</a><br>
-<a href="/files/CCA%20main%20page%20info/CCA_FAQs_2025.pdf" target="_blank">CCA FAQs</a><br>
-<a href="/files/CCA%20main%20page%20info/2025_Sec_1_CCA_exposure_schedule.pdf" target="_blank">Sec 1 CCA Exposure Schedule</a>
+<a href="/files/CCA%20main%20page%20info/2026_CCA_Training_Schedule.pdf" target="_blank">CCA Schedule for 2026</a><br>
+<a href="/files/CCA%20main%20page%20info/CCA_FAQs_2026.pdf" target="_blank">CCA FAQs</a><br>
+<a href="/files/CCA%20main%20page%20info/2026_Sec_1_CCA_exposure_schedule.pdf" target="_blank">Sec 1 CCA Exposure Schedule</a>
 
 <h4>Straits Times Article</h4>
 <a href="/files/CCA%20main%20page%20info/CCA%20article%201%20n%202.pdf" target="_blank">Take Flight With CCA</a>
