@@ -96,8 +96,8 @@ b.&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)</p>
 
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.</p>
 
-<p>11.&nbsp;&nbsp;&nbsp;&nbsp;Parents who wish to opt their children out of the <b>Sexuality Education lessons</b> need to complete an online opt-out form. This form will be shared with parents in Term 2 through Parents' Gateway. </p>
+<p>11.&nbsp;&nbsp;&nbsp;&nbsp;Parents who wish to opt their children out of the <b>Sexuality Education lessons</b> need to complete an online opt-out form. This form will be shared with parents through Parents’ Gateway in Term 1 </p>
 
-<p>12.&nbsp;&nbsp;&nbsp;&nbsp;Parents who wish to opt their children out of the <b>eTeens programme</b> need to complete an opt-out form. This form will be distributed to parents in Term 3. A hardcopy of the form, duly completed and signed, is to be submitted to the school.</p>
+<p>12.&nbsp;&nbsp;&nbsp;&nbsp;Parents who wish to opt their children out of the <b>eTeens programme</b> need to complete an opt-out form. This form will be shared with parents through Parents’ Gateway in Term 1</p>
 
-<p>13.&nbsp;&nbsp;&nbsp;Parents can contact the school at 67598547 Attn: Mr Wong Yiu Hang (SEd Coordinator) or Attn: Mr Wong Yiu Hang (SEd Coordinator) for discussion or to seek clarification about the school’s sexuality education programme.</p></div>
+<p>13.&nbsp;&nbsp;&nbsp;Parents can contact the school at 67598547 Attn: Mr Wong Yiu Hang (SEd Coordinator) for discussion or to seek clarification about the school’s sexuality education programme.</p></div>
