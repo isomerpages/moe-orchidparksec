@@ -15,7 +15,7 @@ Onward, onward we row<br>
 No ocean too wide to sail<br>
 Persevere, persevere<br>
 No obstacle shall stand in our way<br>
-Destination we shall reach one day<br></p><p>
+Our Destination we shall reach one day<br></p><p>
 
 </p><p>A happy and united school<br>
 Where everyone has a part to play<br>
