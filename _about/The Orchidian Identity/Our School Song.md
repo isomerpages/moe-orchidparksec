@@ -24,6 +24,6 @@ Respectful<br>
 Caring<br>
 Healthy are our ways<br>
 Innovative and diligent we shall always be<br>
-Destination we shall reach one day<br>
+Our Destination we shall reach one day<br>
 	
 </p></div>
