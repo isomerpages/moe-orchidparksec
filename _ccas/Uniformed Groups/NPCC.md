@@ -20,11 +20,11 @@ variant: markdown
 <table>
 <tbody>
 <tr>
-<th style="text-align: center;" colspan="2">Friday</th>
+<th style="text-align: center;" colspan="2">Wednesday</th>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Time</strong>:</td>
-<td style="text-align: center;">1.30 PM - 5.30 PM</td>
+<td style="text-align: center;">3 PM - 5 PM</td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Venue</strong>:</td>
