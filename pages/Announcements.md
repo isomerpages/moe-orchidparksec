@@ -23,6 +23,23 @@ variant: markdown
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="/o-lvl-result-release-2026/" target="_blank" rel="noopener">O Level Result Release 2025 and info </a><br>
+<a href="/o-lvl-result-release-2026/" target="_blank" rel="noopener">O Level Result Release 2025 and info </a></p>
+<p></p>
+<ol data-tight="true" class="tight">
+	
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>11th Mar 2026</p>
+</td>
+</tr>
+	
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="/o-lvl-result-release-2026/" target="_blank" rel="noopener">O Level Result Release 2025 and info </a></p>
 <p></p>
 <ol data-tight="true" class="tight">
@@ -33,8 +50,6 @@ variant: markdown
 <p>21st Jan 2025</p>
 </td>
 </tr>
-	
-
 	
 	
 	
