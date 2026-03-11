@@ -8,6 +8,9 @@ notification: ""
 sections:
   - hero:
       key_highlights:
+        - title: 2026 Extended Curruculum
+          description: March Holidays
+          url: /announcements/
         - title: Release of O-Level Results 2025
           description: ""
           url: /o-lvl-result-release-2026/
