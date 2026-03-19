@@ -1,6 +1,6 @@
 ---
 title: Timetable
-permalink: /links/Student/tt/
+permalink: /links/student/tt/
 description: ""
 third_nav_title: Students
 variant: markdown

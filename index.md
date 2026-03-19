@@ -8,6 +8,9 @@ notification: ""
 sections:
   - hero:
       key_highlights:
+        - title: 2026 Term 2 Timetable
+          description: Timetable for Term 2
+          url: /links/student/tt/
         - title: 2026 Extended Curriculum
           description: March Holidays
           url: /announcements/
@@ -17,9 +20,6 @@ sections:
         - title: 2026 Booklist
           description: Sec 1 - Sec 5
           url: /links/Student/books/
-        - title: 2026 MOE FAS application
-          description: ""
-          url: /news-at-events/announcements/fas-application-guide/
       background: /images/Homepage/home20221230.bmp
   - infopic:
       title: 2026 Secondary 1 matters
