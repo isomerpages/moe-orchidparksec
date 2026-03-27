@@ -1,6 +1,6 @@
 ---
 title: School Advisory Committee
-permalink: /schooladvisorycommittee/
+permalink: /sac/
 variant: markdown
 description: ""
 ---
