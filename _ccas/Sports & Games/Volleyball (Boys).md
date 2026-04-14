@@ -10,12 +10,12 @@ variant: markdown
 <h4>About the CCA</h4>
 <p>The Volleyball CCA promotes the partnership between Orchid Park Secondary School and Anglo-Chinese School (Independent) where both schools are represented in the National School Games as one combined team, This centre-base partnership is an effort to expand CCA choices and to develop friendship and camaraderie among students from different backgrounds, through the sport of Volleyball.</p>
 
-<p><b>“The collaboration between Orchid Park Secondary School and Anglo-Chinese School (Independent) concluded at the end of Term 1 2026.
+<p><b>“The collaboration between Orchid Park Secondary School and Anglo-Chinese School (Independent) concluded at the end of Term 1 2026.</b></p>
 
-We would like to express our appreciation for the meaningful collaboration. Through this partnership, our students gained valuable experiences in discipline, comradeship, and training across different venues, while also learning from the strengths of both teams. 
-The collaboration also provided opportunities for students from different backgrounds to build friendships and camaraderie through the sport of volleyball.
+<p><b>We would like to express our appreciation for the meaningful collaboration. Through this partnership, our students gained valuable experiences in discipline, comradeship, and training across different venues, while also learning from the strengths of both teams. 
+The collaboration also provided opportunities for students from different backgrounds to build friendships and camaraderie through the sport of volleyball.</b></p>
 
-Moving forward, Orchid Park Secondary School will compete independently in the North Zone for the Zonal and National School Games.”</b></p>
+<p><b>Moving forward, Orchid Park Secondary School will compete independently in the North Zone for the Zonal and National School Games.”</b></p>
 
 <h4>Training Details</h4>
 <table>
