@@ -30,7 +30,10 @@ third_nav_title: Prospective Students (DSA)
 <td style="text-align: center;">3.&nbsp;<a href="/cca/football/" target="_blank" rel="noopener">Football (Boys)</a>Boys Only</td>
 </tr>
 <tr>
-<td style="text-align: center;">4.&nbsp;<a href="/cca/netball/" target="_blank" rel="noopener">Netball (Girls)</a>Girl Only</td>
+<td style="text-align: center;">4.&nbsp;<a href="/cca/netball/" target="_blank" rel="noopener">Netball (Girls)</a>Girls Only</td>
+</tr>
+<tr>
+<td style="text-align: center;">5.&nbsp;<a href="/cca/volleyball/" target="_blank" rel="noopener">Volleyball (Boys)</a>Boys Only</td>
 </tr>
 </tbody>
 </table>
