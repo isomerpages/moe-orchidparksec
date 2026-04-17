@@ -742,16 +742,16 @@ ul
   <td style="width:81.0pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:165.1pt" width="108">
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" width="108">
   <p style="margin-bottom:0in;text-align:center;
-  line-height:normal;mso-layout-grid-align:none;text-autospace:none" align="center" class="MsoNormal"><span style="font-size:10.0pt;font-family:Helvetica-Bold;mso-bidi-font-family:
-  Helvetica-Bold;mso-bidi-language:TA" lang="EN-SG">27 Oct, 9am</span></p>
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:10.0pt;font-family:
+  &quot;Helvetica&quot;,sans-serif;mso-bidi-language:TA" lang="EN-SG">19 Oct, 9 am</span></p>
   <p style="margin-bottom:0in;text-align:center;
-  line-height:normal;mso-layout-grid-align:none;text-autospace:none" align="center" class="MsoNormal"><span style="font-size:10.0pt;font-family:Helvetica-Bold;mso-bidi-font-family:
-  Helvetica-Bold;mso-bidi-language:TA" lang="EN-SG">to</span></p>
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:10.0pt;font-family:
+  &quot;Helvetica&quot;,sans-serif;mso-bidi-language:TA" lang="EN-SG">to</span></p>
   <p style="margin-bottom:0in;text-align:center;
-  line-height:normal;mso-layout-grid-align:none;text-autospace:none" align="center" class="MsoNormal"><span style="font-size:10.0pt;font-family:Helvetica-Bold;mso-bidi-font-family:
-  Helvetica-Bold;mso-bidi-language:TA" lang="EN-SG">31 Oct, 3pm<b></b></span></p>
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:10.0pt;font-family:
+  &quot;Helvetica&quot;,sans-serif;mso-bidi-language:TA" lang="EN-SG">23 Oct, 4.30 pm</span></p>
   </td>
   <td style="width:226.05pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -759,9 +759,11 @@ ul
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:165.1pt" valign="top" width="301">
   <p style="margin-bottom:0in;line-height:normal;mso-layout-grid-align:
   none;text-autospace:none" class="MsoNormal"><span style="font-size:10.0pt;
-  font-family:&quot;Helvetica&quot;,sans-serif;mso-bidi-language:TA" lang="EN-SG">Applicants who receive at least one DSA-Sec offer (including from SOTA) will receive an email and SMS notification via Postman.gov.sg on the School Preference Submission around mid-October. 
-	<b>Both parents are required to login to the DSA-Sec Portal using their SingPass to submit up to 3 school preferences.</b> 
-If parents are unable to submit online, they may approach their child’s primary school for assistance to submit the school preferences on their behalf.</span></p>
+  font-family:&quot;Helvetica&quot;,sans-serif;mso-bidi-language:TA" lang="EN-SG">Applicants who receive at least one DSA-Sec offer (including from SOTA) will receive SMS and email from Postman.gov.sg.</span></p><br>
+<p style="margin-bottom:0in;line-height:normal;mso-layout-grid-align:
+  none;text-autospace:none" class="MsoNormal"><span style="font-size:10.0pt;
+  font-family:&quot;Helvetica&quot;,sans-serif;mso-bidi-language:TA" lang="EN-SG"><b>Only one parent is required to log in to the DSA-Sec Portal to submit school preferences.</b> 
+If parents are unable to submit online, they can approach their child’s primary school for assistance.</span></p>
   <p style="margin-bottom:0in;line-height:normal;mso-layout-grid-align:
   none;text-autospace:none" class="MsoNormal"><span style="font-size:10.0pt;
   font-family:&quot;Helvetica&quot;,sans-serif;mso-bidi-language:TA" lang="EN-SG">&nbsp;</span></p>
