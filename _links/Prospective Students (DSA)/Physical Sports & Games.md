@@ -56,6 +56,6 @@ third_nav_title: Prospective Students (DSA)
 <p><strong>**Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer. Due to different profiles of applicants, selection/shortlisting trends may differ year on year. Shortlisted applicants will receive notification from the school and will be required to undergo performance tasks and interviews.</strong></p>
 
 <h4>Contact person</h4>
-<p>Mr Tan Paul Loong <br>HOD - PE / CCA<br>Email: <a href="mailto:tan_paul_loong@schools.gov.sg">tan_paul_loong@schools.gov.sg</a></p>
+<p>Mr Tan Paul Loong <br>HOD - PE / CCA<br>Email: <a href="mailto: tan_paul_loong@schools.gov.sg">tan_paul_loong@schools.gov.sg</a></p>
 	
 </div>
