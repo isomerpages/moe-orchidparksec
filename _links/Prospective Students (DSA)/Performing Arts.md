@@ -44,11 +44,14 @@ third_nav_title: Prospective Students (DSA)
 <br>2) Others:
 <br>- Conduct grade of at least ‘Very Good’ in his/her Primary 5 and Primary 6 school report
 <br>
-<br>
-<b>*Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants. Due to different profiles of applicants, selection/shortlisting trends may differ year on year. Shortlisted applicants will be required to undergo performance tasks and interviews.</b></p>
+</p>
+<p><b>Additional information:</b></p>
+
+<p><b>Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants. </b></p>
+<p><b>*Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants. Due to different profiles of applicants, selection/shortlisting trends may differ year on year. Shortlisted applicants will be required to undergo performance tasks and interviews.</b></p>
 
 <h4>Contact person</h4>
-<p>Mr Tan Paul Loong<br>HOD - PE &amp; CCA<br>Email: <a href="mailto:tan_paul_loong@schools.gov.sg">tan_paul_loong@schools.gov.sg</a></p>
+<p>Mr Tan Paul Loong<br>HOD - PE / CCA<br>Email: <a href="mailto:tan_paul_loong@schools.gov.sg">tan_paul_loong@schools.gov.sg</a></p>
 
 
 </div>
