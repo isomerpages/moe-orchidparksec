@@ -12,7 +12,7 @@ variant: markdown
 <h5><b><u>Department Vision</u><b></b></b></h5><b><b>
 <br>Inquisitive Orchidians Empowered to Excel
 <h5><b><u>Department Mission</u></b></h5>
-<br>To nurture critical thinkers with a strong curiosity and passion for applying Science and Technology in real-world contexts.
+<p>To nurture critical thinkers with a strong curiosity and passion for applying Science and Technology in real-world contexts. </p>
 <p>At OPSS, the Science Department is committed to developing every student into:<br>
 	- <b>Inquisitive Orchidians</b> - self-directed, curious learners who actively pursue excellence.<br>
 	- <b>Critical Thinkers</b> - analytical and innovative individuals who apply scientific understanding to solve real-world problems.</p>
