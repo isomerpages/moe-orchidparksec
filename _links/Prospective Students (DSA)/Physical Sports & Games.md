@@ -30,7 +30,10 @@ third_nav_title: Prospective Students (DSA)
 <td style="text-align: center;">3.&nbsp;<a href="/cca/football/" target="_blank" rel="noopener">Football (Boys)</a>Boys Only</td>
 </tr>
 <tr>
-<td style="text-align: center;">4.&nbsp;<a href="/cca/netball/" target="_blank" rel="noopener">Netball (Girls)</a>Girl Only</td>
+<td style="text-align: center;">4.&nbsp;<a href="/cca/netball/" target="_blank" rel="noopener">Netball (Girls)</a>Girls Only</td>
+</tr>
+<tr>
+<td style="text-align: center;">5.&nbsp;<a href="/cca/volleyball/" target="_blank" rel="noopener">Volleyball (Boys)</a>Boys Only</td>
 </tr>
 </tbody>
 </table>
@@ -47,10 +50,12 @@ third_nav_title: Prospective Students (DSA)
 </li><li>Show tactical awareness in the applied Sports and Games</li></ul>
 </li><li>Others:
 	<ul><li>Conduct grade of at least ‘Very Good’ in his/her Primary 5 and Primary 6 school report</li></ul></li></ol>
+<p><strong>Additional information:</strong></p>
+<p><strong>Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants.</strong></p>
 
-<p><strong>*Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants. Due to different profiles of applicants, selection/shortlisting trends may differ year on year. Shortlisted applicants will be required to undergo performance tasks and interviews.</strong></p>
+<p><strong>**Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer. Due to different profiles of applicants, selection/shortlisting trends may differ year on year. Shortlisted applicants will receive notification from the school and will be required to undergo performance tasks and interviews.</strong></p>
 
 <h4>Contact person</h4>
-<p>Mr Tan Tong Leng <br>Level Head - PE &amp; CCA<br>Email: <a href="mailto:tan_tong_leng@schools.gov.sg">tan_tong_leng@schools.gov.sg</a></p>
+<p>Mr Tan Paul Loong <br>HOD - PE / CCA<br>Email: <a href="mailto: tan_paul_loong@schools.gov.sg">tan_paul_loong@schools.gov.sg</a></p>
 	
 </div>
