@@ -34,7 +34,7 @@ We leverage Educational Technology (EdTech) to create engaging, interactive, and
 We recognise that every Orchidian is unique. Through differentiated instruction, teachers tailor content, processes, and tasks to meet diverse learning needs. This ensures that all students are appropriately challenged and supported, enabling them to make meaningful progress and achieve their fullest potential.</p>
 	
 <h4>Science Talent Development Programme</h4>
-<img src="/images/Departments/Sci/SCI_RND.png">
+<img src="/images/Departments/Sci/Sci_center_1.png">
 <center>Science Centre Research &amp; Development Experience Programme</center>
 <p>At Orchid Park Secondary School, we adopt Treffinger’s Levels of Service approach to nurture and develop students’ talents in Science. Students’ interests, strengths, and abilities are progressively cultivated through a four-level developmental framework.
 <br>• Levels I &amp; II focus on broad-based exposure and exploration, providing all students with opportunities to discover and develop their interests.<br>
@@ -44,10 +44,10 @@ We recognise that every Orchidian is unique. Through differentiated instruction,
 
 
 <h4>Achievements</h4>
-<img src="/images/Departments/Sci/flyingmachine.png">
+<img src="/images/Departments/Sci/Sci_busker_2.png">
 <center>Singapore Science Buskers Competition</center>
 
-<img src="/images/Departments/Sci/flyingmachine.png">
+<img src="/images/Departments/Sci/Sci_facilitated_3.png">
 <center>Our teachers facilitated a Teacher-Led Workshop, sharing effective pedagogical practices.</center>
 
 <p><strong>Year 2025</strong><br>
