@@ -59,10 +59,10 @@ variant: markdown
 
 <h4>Photos</h4>
 <p style="text-align: center;"><b>Girls Team</b></p>
-<img style="width: 75%;" src="/images/CCA/Floorball/girls1.jpg">
+<img style="width: 75%;" src="/images/CCA/Floorball/Floorball_2.png">
 <img style="width: 75%;" src="/images/CCA/Floorball/girls2.jpg">
 <img style="width: 75%;" src="/images/CCA/Floorball/girls3.jpg">
 <p style="text-align: center;"><b>Boys Team</b></p>
-<img style="width: 75%;" src="/images/CCA/Floorball/FB_trg_.jpg">
-<img style="width: 75%;" src="/images/CCA/Floorball/CDiv_Boy.jpg">
+<img style="width: 75%;" src="/images/CCA/Floorball/Floorball_1.png">
+<img style="width: 75%;" src="/images/CCA/Floorball/Floorball_3.png">
 <img style="width: 75%;" src="/images/CCA/Floorball/B_Div_2nd_round.jpg">
