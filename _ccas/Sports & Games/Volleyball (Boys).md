@@ -15,7 +15,7 @@ variant: markdown
 <p>We would like to express our appreciation for the meaningful collaboration. Through this partnership, our students gained valuable experiences in discipline, comradeship, and training across different venues, while also learning from the strengths of both teams. 
 The collaboration also provided opportunities for students from different backgrounds to build friendships and camaraderie through the sport of volleyball.</p>
 
-<p>Moving forward, Orchid Park Secondary School will compete independently in the North Zone for the Zonal and National School Games.”</p>
+<p>Moving forward, Orchid Park Secondary School will compete independently in the North Zone for the Zonal and National School Games.</p>
 
 <h4>Training Details</h4>
 <table>
