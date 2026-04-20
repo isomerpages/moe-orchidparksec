@@ -9,7 +9,7 @@ third_nav_title: Prospective Students (DSA)
 
 <h4>Application Process</h4>
 
-Thank you for your interest in Orchid Park Secondary School
+Thank you for your interest in Orchid Park Secondary School<br>
 
 <strong>Important notes before applying:</strong>
 
