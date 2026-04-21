@@ -50,6 +50,7 @@ third_nav_title: Prospective Students (DSA)
 </li><li>Show tactical awareness in the applied Sports and Games</li></ul>
 </li><li>Others:
 	<ul><li>Conduct grade of at least ‘Very Good’ in his/her Primary 5 and Primary 6 school report</li></ul></li></ol>
+<p>*Please indicate non-school-based activities and achievements when accessing the DSA-Sec Portal.</p>
 <p><strong>Additional information:</strong></p>
 <p><strong>Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants.</strong></p>
 
