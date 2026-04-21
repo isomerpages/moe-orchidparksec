@@ -45,6 +45,7 @@ third_nav_title: Prospective Students (DSA)
 <br>- Conduct grade of at least ‘Very Good’ in his/her Primary 5 and Primary 6 school report
 <br>
 </p>
+<p>*Please indicate non-school-based activities and achievements when accessing the DSA-Sec Portal.</p>
 <p><b>Additional information:</b></p>
 
 <p><b>Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants. </b></p>
