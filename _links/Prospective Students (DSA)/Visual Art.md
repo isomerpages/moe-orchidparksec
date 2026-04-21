@@ -23,8 +23,8 @@ third_nav_title: Prospective Students (DSA)
 <br>- Participated in relevant activities in Visual Arts (if any)
 <br>2) Others:
 <br>- Conduct grade of at least ‘Very Good’ in his/her Primary 5 and Primary 6 school report
-<br>*Please indicate non-school-based activities and achievements when accessing the DSA-Sec Portal.<br></p>
-
+</p>
+<p>*Please indicate non-school-based activities and achievements when accessing the DSA-Sec Portal.</p>
 <p><b>Additional information:</b></p>
 <p>Shortlisted applicants will be required to take a Visual Art task assessment for DSA admission consideration and go through an interview. During the interview, other evidences of visual art talent, such as portfolios of the applicant’s original artwork, should be showcased to the interview panel. Please bring the originals only.</p>
 	
