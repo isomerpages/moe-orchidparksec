@@ -12,8 +12,8 @@ third_nav_title: Prospective Students (DSA)
 <p>DSA Visual Arts students may have the opportunity to participate in the Enhanced Art Programme if they choose to take Art (G3 level only) as an elective at the upper secondary level.</p>
 
 <h4>CRITERIA FOR VISUAL ART</h4>
-<p><b>P6 students who meet the following criteria* may apply:</b></p>
-<p>1) A member of their primary school’s CCA in Visual Art or equivalent
+<p><b>P6 students who meet the following criteria** may apply:</b></p>
+<p>1) A member of their primary school’s CCA in Visual Art or equivalent*
 <br>Or
 <br>Have participated/represented in school/self in a Visual Art competition
 <br>And
