@@ -33,7 +33,7 @@ third_nav_title: Prospective Students (DSA)
 
 <h4>CRITERIA FOR PERFORMING ARTS</h4>
 <p><b>P6 students who meet the following criteria** may apply:</b></p>
-<p>1) A member of their primary school’s CCA in the applied talent area or equivalent
+<p>1) A member of their primary school’s CCA in the applied talent area or equivalent*
 <br>Or
 <br>Have participated/represented in school/public performances (including school concert, community events, cultural exchanges or equivalent) in the Performing Arts
 <br>Or
