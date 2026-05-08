@@ -14,24 +14,16 @@ Under Full SBB, MOE will expand Subject-Based Banding (SBB) beyond the four PSLE
 
 Starting from the 2024 Secondary One cohort, Full SBB will be implemented in our secondary education system. Secondary One student in 120 secondary schools will benefit from the Full SBB experience, which provides greater customisation and flexibility for each student’s learning.
 
-  
-
-![A diagram of a school
-Description automatically generated](https://lh7-us.googleusercontent.com/a__fZF0tWmXYmYvyQ-TX5yjBYHwbNwGJ4zsfnVnX_C8yVwpmPMBTrnsYNYL8wNiA4gZ3NeH16JxUaxXpt1N3YdPLpaIyXrQCBpOJFGT2TOA28JnuDkUY62WcJyeao_ENiGnTjl4zfxJnxrzqqi4evQ)
-
-  
-  
+![](/images/FSBB/FSBB1.png)
 
 Removal of Express, Normal(Academic)\[N(A)\] &amp; Normal(Technical)\[N(T)\] streams
 
-  
 
 MOE will post students to secondary school through three Posting Groups – Posting Groups 1, 2, and 3. The PSLE score ranges for the three Posting Groups will be mapped from the existing N(T), N(A) and Express streams respectively. Posting Groups will only be used for the purposes of admitting students into secondary school and to guide the initial subject levels students can offer at the start of Secondary One.
 
 Throughout their secondary school education, students can take subjects at three subject levels, known as G1, G2, G3 (G stands for General), mapped from today's N(T), N(A) and Express standards respectively. Students will have the flexibility to adjust their subject levels at appropriate junctures, based on their strengths, interests and learning needs.&nbsp;
 
-![A table with text and numbers
-Description automatically generated](https://lh7-us.googleusercontent.com/5eXOAUNktZh1IIxMpzFDMyXkU_8iIkfCcI2XF6eLeyb5C90a4XTeTusyK8cQ844QdwAWoXouOAlx0P2z7y85PCW_QiZJQPLsqh7PdP4f_DYWk1-yQ_L3LyMFqcElmZbo_NpzR9IvOTGjGqwsZRqlbg)
+![](/images/FSBB/FSBB2.png)
 
 Students will subsequently access programmes and post-secondary pathways based on their various subjects and subject level combinations.
 
@@ -52,25 +44,14 @@ Students may be able to take some subjects at More Demanding levels (MDL) to str
 
 Eligible students can offer&nbsp;English Language, Mother Tongue Languages, Mathematics and Science&nbsp;at a more demanding level based on their PSLE Achievement Level (AL) for each of these subjects.
 
-![A table of text with white text
-Description automatically generated with medium confidence](https://lh7-us.googleusercontent.com/lAPvpFr2Pi5F7HANkDTyKQyEcLbw32OJKmRQZz_5wM1pFy6s2y8wUjYZ1Dc_k6cCY-UecvH3Ns9QmStJp1phBhUpAqLW27BaHPR-HuARz6qc496oO3kl8s0J9K7esYy3B5kOGt6Qpbp5946abqo3AQ)
-
-  
-  
-  
-  
+![](/images/FSBB/FSBB3.png)  
 
 Beyond the start of Secondary One
 
 From Secondary 2 (S2), students will also be able to offer&nbsp;Humanities subjects&nbsp;(Geography, History, and Literature in English) at a more demanding level. The criteria for taking Humanities at a more demanding level will be based on students' aptitude for and interest in these subjects at S1.
 
-![A screenshot of a computer screen
-Description automatically generated](https://lh7-us.googleusercontent.com/mm4nGFjROtNeTtUL6P4lAnsDZ3dFQS3LHUj80g93lKitZ4gNDRWKi0MYitFp2HGzTLoKisN48pZ5o7VRAeXjbTrqQSB4RMet7Bgee-ZQp9Tw1YMA46mkzXtgjtxVtgFNuR5hkguInHv4MCoa7pQqdw)
-
-  
-
-![A group of people sitting at a desk
-Description automatically generated](https://lh7-us.googleusercontent.com/DHDlzrui-72Gmi9Fi_FH6cL0qYv2kgb1Bi3lPmvwPc1RRM1fpw9OaugVSe--DiprunN6ztlSWbvlXV6dCQcGCLJPxDm0relqUGMC3aR_SZ3EtXwvl5NMkc2yBzsuePu8M8cL8pT0udD51s--y-Cuhg)
+![](/images/FSBB/FSBB4.png)
+![](/images/FSBB/FSBB5.png)
 
 OFFERING SUBJECTS AT A LESS DEMANDING LEVEL
 
@@ -116,8 +97,7 @@ Common Curriculum subjects
 
 In their mixed form classes, students will spend around one-third of their curriculum time taking a set of six common curriculum subjects:
 
-![A close-up of a sign
-Description automatically generated](https://lh7-us.googleusercontent.com/TbACl9g8xixdi9JFTjEtLamm7npvAO0cKSavnqVH60yDmqrtUcWvJeZrOlGida5JEBn19OYu6SlggMkfOhPKMm-I2crqcoc2b6rLmVNtM8wcQLlgql5bsoIQOixYpAujBCC1vIgSQkbc-pKrxaFiSA)
+![](/images/FSBB/FSBB6.png)
 
 These subjects give students more opportunities to interact and learn with classmates of different strengths and interests.
 
@@ -150,8 +130,7 @@ Students will be grouped in different classes based on their subject level for e
 
 The following curriculum policy changes will also be implemented from the 2024 Secondary One cohort:
 
-![A screenshot of a computer
-Description automatically generated](https://lh7-us.googleusercontent.com/c5lcaS3J9lGwvRwEAAlFBJ68knfLUx8S9K5X9vPCJitJbHfU0vcnf03H1yF16BmgwFsV2euzOeG0DkUDuybgQ35WJl35qMcFfx_dssdV344msOfRG5smFHrB5C0xgf6Tx_SeV5kHX9JmDcJZXpWkwA)
+![](/images/FSBB/FSBB7.png)
 
   
 
