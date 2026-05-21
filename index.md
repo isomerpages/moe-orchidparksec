@@ -8,8 +8,8 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: 2026 Term 2 Timetable
-          description: Timetable for Term 2
+        - title: 2026 Term 2 week 10 Timetable
+          description: Timetable for Term 2 week 10
           url: /links/student/tt/
         - title: 2026 Extended Curriculum
           description: March Holidays
