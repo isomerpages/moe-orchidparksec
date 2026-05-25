@@ -23,33 +23,19 @@ variant: markdown
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/ExtCurr/2026_March_Holiday_Extended_Curriculum_Sec_3.pdf" target="_blank" rel="noopener">Extended Curriculum Sec 3 </a><br>
-<a href="/files/ExtCurr/2026_March_Holiday_Extended_Curriculum_Sec_4.pdf" target="_blank" rel="noopener">Extended Curriculum Sec 4 </a></p>
+<p><a href="/files/Timetable/2026_Mid_Year_Extended_Curriculum__Sec_3_.pdf" target="_blank" rel="noopener">Extended Curriculum Sec 3 </a><br>
+<a href="/files/Timetable/2026_Mid_Year_Extended_Curriculum__Sec_4___5_.pdf" target="_blank" rel="noopener">Extended Curriculum Sec 4 &amp; 5 </a></p>
 <p></p>
 <ol data-tight="true" class="tight">
 	
 </ol>
 </td>
 <td rowspan="1" colspan="1">
-<p>11th Mar 2026</p>
+<p>25th May 2026</p>
 </td>
 </tr>
 	
-<tr>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/o-lvl-result-release-2026/" target="_blank" rel="noopener">O Level Result Release 2025 and info </a></p>
-<p></p>
-<ol data-tight="true" class="tight">
-	
-</ol>
-</td>
-<td rowspan="1" colspan="1">
-<p>21st Jan 2025</p>
-</td>
-</tr>
+
 	
 	
 	
