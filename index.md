@@ -8,11 +8,8 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: 2026 June Extended Curriculum
-          description: June Holidays
-          url: /2026-june-extended-curriculum-timetable/
-        - title: 2026 Term 2 week 10 Timetable
-          description: Timetable for Term 2 week 10
+        - title: 2026 Term 3 Timetable
+          description: Timetable for Term 3
           url: /links/student/tt/
         - title: Release of O-Level Results 2025
           description: ""
