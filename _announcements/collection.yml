@@ -2,7 +2,7 @@ collections:
   announcements:
     output: true
     order:
-      - Announcements/2026 June Extended Curriculum Timetable.md
+      - Announcements/2026 Prelim Timetable for Secondary 4.md
       - Announcements/Release of O Level Results 2025.md
       - Announcements/Leave of Absence Application.md
       - Announcements/FAS Application Guide.md
