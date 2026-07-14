@@ -8,15 +8,15 @@ notification: ""
 sections:
   - hero:
       key_highlights:
+        - title: 2026 Preliminary Examination Timetables
+          description: Sec 4 Prelim Timetable
+          url: /2026-prelim/
         - title: 2026 Term 3 Timetable
           description: Timetable for Term 3
           url: /links/student/tt/
         - title: Release of O-Level Results 2025
           description: ""
           url: /o-lvl-result-release-2026/
-        - title: 2026 Booklist
-          description: Sec 1 - Sec 5
-          url: /links/Student/books/
       background: /images/Homepage/home20221230.bmp
   - infopic:
       title: 2026 Secondary 1 matters
