@@ -3,13 +3,11 @@ title: Applied Learning Programme
 permalink: /orchidian-empowerment/Special-Programs/alp/
 description: ""
 third_nav_title: Special Programmes
+variant: markdown
 ---
-
 <div align="justify">
 	
 <table><tbody><tr><td colspan="2"><img src="/images/ALP/alp1.png"></td></tr>
-<tr><td colspan="2"><img src="/images/ALP/ALP3.png"></td></tr>
-<tr><td><img src="/images/ALP/ALP2.png"></td><td><img src="/images/ALP/ALP4.png"></td></tr>
 </tbody></table>
 	
 <p>ARTopIA, the Applied Learning Programme (ALP) in OPSS, is an aesthetics programme that exposes students to various genres of Art, Music, Dance and Drama. The programme hones the students’ skills and deepen their understanding in the areas of the Arts. This programme also engages the students to build their passion in the Arts by empowering them to showcase their skills and talents through workshops, performances, exhibitions, competitions. Notable ARTopIA events includes art workshops and mass dance lessons.</p>
@@ -25,5 +23,11 @@ third_nav_title: Special Programmes
 <br>d) Collaborative learning experiences with other EAP students through combined school events and workshops.</p>
 
 <p>In the past few years, students from the EAP have gone on to pursue higher education related to the Arts, including design courses at Nanyang Polytechnic, Fine Arts in the Nanyang Academy of Fine Arts (NAFA), and Lasalle College of the Arts.</p>
+
+<table><tbody>
+<tr><td colspan="2"><img src="/images/ALP/Theatre.jpg"></td></tr>
+<tr><td colspan="2"><img src="/images/ALP/Orchis_3.jpg"></td></tr>
+<tr><td colspan="2"><img src="/images/ALP/La_Gallery.jpg"></td></tr>
+</tbody></table>
 
 </div>
